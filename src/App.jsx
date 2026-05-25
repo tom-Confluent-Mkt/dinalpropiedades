@@ -178,8 +178,9 @@ const Navbar = () => {
   const isSucursalesPage = location.pathname === '/sucursales';
   const isDetailPage = location.pathname.startsWith('/propiedad');
   const isNosotrosPage = location.pathname === '/nosotros';
+  const isObrasDeMarPage = location.pathname.startsWith('/obras-de-mar');
 
-  const isDarkNav = scrolled || isContactPage || isEmprendimientosPage || isAlquilerPage || isVentaPage || isSucursalesPage || isDetailPage || isNosotrosPage;
+  const isDarkNav = scrolled || isContactPage || isEmprendimientosPage || isAlquilerPage || isVentaPage || isSucursalesPage || isDetailPage || isNosotrosPage || isObrasDeMarPage;
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 50);
@@ -209,7 +210,7 @@ const Navbar = () => {
         <Link to="/emprendimientos" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Emprendimientos</Link>
         <Link to="/sucursales" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Sucursales</Link>
         <Link to="/nosotros" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Nosotros</Link>
-        <Link to="/#" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Obras de Mar</Link>
+        <Link to="/obras-de-mar" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Obras de Mar</Link>
       </div>
 
       <div className="hidden md:block">
@@ -233,7 +234,7 @@ const Navbar = () => {
          <Link to="/emprendimientos" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Emprendimientos</Link>
          <Link to="/sucursales" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Sucursales</Link>
          <Link to="/nosotros" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Nosotros</Link>
-         <Link to="/#" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Obras de Mar</Link>
+         <Link to="/obras-de-mar" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Obras de Mar</Link>
          <Link to="/contacto" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Contacto</Link>
     </div>
     </>
@@ -2041,6 +2042,549 @@ const SobreNosotros = () => {
   );
 };
 
+// ----------------------------------------------------
+// ODM INQUIRY FORM  (uses Obras de Mar Tokko key)
+// ----------------------------------------------------
+const OdmInquiryForm = ({ propertyId }) => {
+  const [form, setForm] = useState({ name: '', email: '', phone: '', message: '' });
+  const [status, setStatus] = useState('idle');
+
+  const handleChange = e => setForm(f => ({ ...f, [e.target.name]: e.target.value }));
+
+  const handleSubmit = async e => {
+    e.preventDefault();
+    setStatus('sending');
+    try {
+      const res = await fetch(
+        `https://tokkobroker.com/api/v1/property/contact/?key=${import.meta.env.VITE_ODM_TOKKO_API_KEY}&format=json`,
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            property_ids: [propertyId],
+            name: form.name,
+            email: form.email,
+            phone: form.phone,
+            message: form.message || `Consulta sobre proyecto #${propertyId}`,
+            tags: ['Web', 'ObrasDeMarMDP'],
+          }),
+        }
+      );
+      if (!res.ok) throw new Error('Error al enviar');
+      setStatus('success');
+      setForm({ name: '', email: '', phone: '', message: '' });
+    } catch {
+      setStatus('error');
+    }
+  };
+
+  if (status === 'success') {
+    return (
+      <div className="bg-accent/10 border border-accent/30 rounded-xl p-6 text-center">
+        <p className="font-heading font-bold text-primary text-sm mb-1">¡Consulta enviada!</p>
+        <p className="font-heading text-dark/60 text-xs">Nos comunicaremos a la brevedad.</p>
+        <button onClick={() => setStatus('idle')} className="mt-4 font-heading text-xs text-primary/50 hover:text-primary transition-colors underline">
+          Enviar otra consulta
+        </button>
+      </div>
+    );
+  }
+
+  return (
+    <form onSubmit={handleSubmit} className="flex flex-col gap-3 pt-2">
+      <p className="font-heading font-semibold text-sm text-primary">Consultar por este proyecto</p>
+      <input name="name" value={form.name} onChange={handleChange} required placeholder="Nombre completo"
+        className="w-full border border-primary/15 rounded-xl px-4 py-2.5 font-heading text-sm text-primary placeholder-dark/30 focus:outline-none focus:border-accent transition-colors" />
+      <input name="email" type="email" value={form.email} onChange={handleChange} required placeholder="Email"
+        className="w-full border border-primary/15 rounded-xl px-4 py-2.5 font-heading text-sm text-primary placeholder-dark/30 focus:outline-none focus:border-accent transition-colors" />
+      <input name="phone" value={form.phone} onChange={handleChange} placeholder="Teléfono (opcional)"
+        className="w-full border border-primary/15 rounded-xl px-4 py-2.5 font-heading text-sm text-primary placeholder-dark/30 focus:outline-none focus:border-accent transition-colors" />
+      <textarea name="message" value={form.message} onChange={handleChange} placeholder="Mensaje (opcional)" rows={3}
+        className="w-full border border-primary/15 rounded-xl px-4 py-2.5 font-heading text-sm text-primary placeholder-dark/30 focus:outline-none focus:border-accent transition-colors resize-none" />
+      {status === 'error' && (
+        <p className="font-heading text-xs text-red-500">Hubo un error. Intentá de nuevo o escribinos por WhatsApp.</p>
+      )}
+      <button type="submit" disabled={status === 'sending'}
+        className="w-full bg-primary hover:bg-primary/90 disabled:opacity-60 text-white font-heading font-bold px-6 py-3 rounded-xl transition-colors">
+        {status === 'sending' ? 'Enviando…' : 'Solicitar información'}
+      </button>
+    </form>
+  );
+};
+
+// ----------------------------------------------------
+// OBRAS DE MAR — LANDING
+// ----------------------------------------------------
+const ObrasDeMarLanding = () => {
+  const containerRef = useRef(null);
+  const [devs, setDevs] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => { window.scrollTo(0, 0); }, []);
+
+  useLayoutEffect(() => {
+    let ctx = gsap.context(() => {
+      gsap.from('.odm-hero', { y: 40, opacity: 0, duration: 1, stagger: 0.1, ease: 'power3.out' });
+      gsap.utils.toArray('.odm-scroll').forEach(el => {
+        gsap.from(el, {
+          scrollTrigger: { trigger: el, start: 'top 85%' },
+          y: 40, opacity: 0, duration: 0.8, ease: 'power3.out',
+        });
+      });
+    }, containerRef);
+    return () => ctx.revert();
+  }, []);
+
+  useEffect(() => {
+    const ODM_KEY = import.meta.env.VITE_ODM_TOKKO_API_KEY;
+    fetchWithCache(
+      '/data/odm-developments.json',
+      `https://tokkobroker.com/api/v1/development/?key=${ODM_KEY}&lang=es_ar&format=json&limit=100`
+    )
+      .then(all => setDevs(all))
+      .catch(err => console.error('ODM developments fetch error:', err))
+      .finally(() => setLoading(false));
+  }, []);
+
+  const heroImg = devs.length > 0 && devs[0]?.photos?.length > 0
+    ? devs[0].photos[0].image
+    : '/images/Size%20Optimized/_MG_4682.jpg';
+
+  const whyInvest = [
+    {
+      icon: '💰',
+      title: '30% de entrada',
+      desc: 'Cuotas en pesos ajustadas por índice CAC. Una forma accesible y transparente de hacer crecer tu capital.',
+    },
+    {
+      icon: '🏗️',
+      title: '+30 años de trayectoria',
+      desc: 'Grupo Dinal lleva más de tres décadas construyendo con calidad, cumpliendo plazos y entregando lo que promete.',
+    },
+    {
+      icon: '🤝',
+      title: 'Proceso acompañado',
+      desc: 'Te asesoramos en cada etapa: desde la elección del proyecto hasta la escritura. Sin sorpresas, sin letras chicas.',
+    },
+  ];
+
+  return (
+    <div ref={containerRef} className="bg-[#F9FAFB] pt-32 pb-24 min-h-screen">
+
+      {/* ── HERO ── */}
+      <section className="px-6 lg:px-12 mb-20">
+        <div className="max-w-7xl mx-auto rounded-[2rem] overflow-hidden relative h-[60vh] flex items-center justify-center shadow-2xl">
+          <img src={heroImg} alt="Obras de Mar" className="absolute inset-0 w-full h-full object-cover scale-105 transition-all duration-1000" />
+          <div className="absolute inset-0 bg-primary/70"></div>
+          <div className="relative z-10 text-center px-4">
+            <span className="odm-hero font-data tracking-widest text-xs text-white/70 mb-4 block">// DESARROLLOS EN MAR DEL PLATA</span>
+            <h1 className="odm-hero font-drama font-black text-5xl md:text-8xl text-white leading-none mb-4">Obras de Mar</h1>
+            <p className="odm-hero font-heading font-normal italic text-xl md:text-2xl text-white/80 mb-8">Invertí en pozo con el respaldo de los que saben</p>
+            <a href="#proyectos" className="odm-hero inline-block border-2 border-accent text-accent font-heading font-bold px-8 py-3 rounded-full hover:bg-accent hover:text-primary transition-all duration-300">
+              Ver proyectos ↓
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* ── STATS ── */}
+      <section className="px-6 lg:px-12 mb-24 max-w-7xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {[
+            { value: '+30', label: 'Años de trayectoria', sub: 'Grupo Dinal' },
+            { value: devs.length > 0 ? String(devs.length) : '4', label: 'Proyectos activos', sub: 'en Mar del Plata' },
+            { value: 'USD 46.500', label: 'Desde', sub: '1 ambiente · Punta de Arenas XVII' },
+          ].map(s => (
+            <div key={s.label} className="odm-scroll bg-white rounded-2xl p-8 border border-primary/10 text-center shadow-sm">
+              <p className="font-drama font-black text-5xl text-primary mb-1">{s.value}</p>
+              <p className="font-heading font-bold text-primary text-sm uppercase tracking-wider mb-1">{s.label}</p>
+              <p className="font-heading text-dark/50 text-xs">{s.sub}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* ── PROJECTS GRID ── */}
+      <section id="proyectos" className="px-6 lg:px-12 mb-24 max-w-7xl mx-auto">
+        <span className="odm-scroll font-data tracking-widest text-xs text-primary/50 mb-2 block">// NUESTROS DESARROLLOS</span>
+        <h2 className="odm-scroll font-drama font-black text-4xl md:text-5xl text-primary mb-12">Proyectos en pozo</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {loading ? (
+            [1, 2, 3].map(i => (
+              <div key={i} className="bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 animate-pulse">
+                <div className="w-full h-[250px] rounded-lg bg-primary/10 mb-6"></div>
+                <div className="h-5 bg-primary/10 rounded mb-2 w-3/4"></div>
+                <div className="h-4 bg-primary/10 rounded mb-2 w-1/2"></div>
+                <div className="h-4 bg-primary/10 rounded w-1/3"></div>
+              </div>
+            ))
+          ) : devs.length > 0 ? (
+            devs.map(dev => (
+              <Link
+                key={dev.id}
+                to={`/obras-de-mar/propiedad/${propSlug(dev)}`}
+                className="odm-scroll bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full"
+              >
+                <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">
+                  {constructionLabel(dev.construction_status)}
+                </div>
+                <div className="w-full h-[250px] rounded-lg overflow-hidden mb-6 relative">
+                  <img
+                    src={dev.photos?.[0]?.image || '/images/Size%20Optimized/_MG_4682.jpg'}
+                    alt={dev.name}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                  />
+                </div>
+                <div className="px-2 flex-grow flex flex-col">
+                  <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{dev.name}</h3>
+                  <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2">
+                    <MapPin size={16} /> {dev.location?.name ?? 'Mar del Plata'}
+                  </p>
+                  <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between">
+                    <span className="font-heading font-bold text-primary">Ver Proyecto</span>
+                    <ArrowRight size={18} className="text-accent group-hover:translate-x-1 transition-transform" />
+                  </div>
+                </div>
+              </Link>
+            ))
+          ) : (
+            <div className="col-span-3 text-center py-24">
+              <Building size={48} className="text-primary/20 mx-auto mb-4" />
+              <p className="font-heading text-dark/50">No hay proyectos disponibles en este momento.</p>
+            </div>
+          )}
+        </div>
+      </section>
+
+      {/* ── WHY INVEST ── */}
+      <section className="px-6 lg:px-12 mb-24 max-w-7xl mx-auto">
+        <span className="odm-scroll font-data tracking-widest text-xs text-primary/50 mb-2 block text-center">// POR QUÉ INVERTIR</span>
+        <h2 className="odm-scroll font-drama font-black text-4xl md:text-5xl text-primary text-center mb-16">Lo que nos diferencia</h2>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {whyInvest.map((item, i) => (
+            <div key={i} className="odm-scroll bg-white p-8 rounded-[1.5rem] shadow border border-primary/10 hover:-translate-y-2 hover:border-accent transition-all duration-500 group flex flex-col">
+              <span className="text-4xl mb-5 block">{item.icon}</span>
+              <h3 className="font-heading font-bold text-primary text-xl mb-3">{item.title}</h3>
+              <p className="font-heading text-dark/60 leading-relaxed flex-grow">{item.desc}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* ── CTA ── */}
+      <section className="px-6 lg:px-12">
+        <div className="max-w-7xl mx-auto bg-primary rounded-[2rem] p-10 md:p-16 text-center shadow-2xl relative overflow-hidden">
+          <div className="relative z-10">
+            <span className="odm-scroll font-data tracking-widest text-xs text-white/50 mb-4 block">// CONTACTO MAR DEL PLATA</span>
+            <h2 className="odm-scroll font-drama text-4xl md:text-5xl text-white mb-4">¿Listo para dar<br />el primer paso?</h2>
+            <p className="odm-scroll font-heading text-white/70 max-w-xl mx-auto mb-10 text-lg">
+              Charlemos sobre tu inversión. Estamos en Güemes 2305, Mar del Plata, o escribinos por WhatsApp.
+            </p>
+            <div className="odm-scroll flex flex-col sm:flex-row gap-4 justify-center items-center">
+              <a
+                href="https://wa.me/5491176027596?text=Hola%2C%20quería%20más%20información%20sobre%20los%20desarrollos%20de%20Obras%20de%20Mar."
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-3 bg-[#25D366] hover:bg-[#1ebe5d] text-white font-heading font-bold px-8 py-4 rounded-full transition-colors duration-300 shadow-xl"
+              >
+                <svg viewBox="0 0 24 24" width={20} height={20} fill="white"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                WhatsApp Mar del Plata
+              </a>
+              <Link to="/contacto" className="inline-block border-2 border-accent text-accent font-heading font-bold px-8 py-4 rounded-full hover:bg-accent hover:text-primary transition-colors duration-300">
+                Formulario de contacto
+              </Link>
+            </div>
+            <p className="odm-scroll font-heading text-white/40 text-sm mt-8">Güemes 2305, Mar del Plata · L–V 10:00–18:30</p>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  );
+};
+
+// ----------------------------------------------------
+// OBRAS DE MAR — PROPERTY DETAIL
+// ----------------------------------------------------
+const ObrasDeMarPropertyDetail = () => {
+  const { id: rawSlug } = useParams();
+  const id = rawSlug.split('-')[0];
+  const navigate = useNavigate();
+  const [prop, setProp] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [activePhoto, setActivePhoto] = useState(0);
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+    setLoading(true);
+    setProp(null);
+
+    // 1. Try ODM properties cache
+    fetch('/data/odm-properties.json')
+      .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+      .then(data => {
+        const arr = Array.isArray(data) ? data : (data.objects ?? []);
+        const found = arr.find(x => String(x.id) === String(id));
+        if (found) { setProp(found); setLoading(false); return; }
+        // 2. Try ODM developments cache
+        return fetch('/data/odm-developments.json')
+          .then(r => r.json())
+          .then(data2 => {
+            const arr2 = Array.isArray(data2) ? data2 : (data2.objects ?? []);
+            const found2 = arr2.find(x => String(x.id) === String(id));
+            if (found2) { setProp(found2); setLoading(false); }
+            else throw new Error('not in ODM cache');
+          });
+      })
+      .catch(() => {
+        // 3. Fallback: live ODM Tokko API
+        const key = import.meta.env.VITE_ODM_TOKKO_API_KEY;
+        Promise.allSettled([
+          fetch(`https://tokkobroker.com/api/v1/property/${id}/?key=${key}&lang=es_ar&format=json`).then(r => r.json()),
+          fetch(`https://tokkobroker.com/api/v1/development/${id}/?key=${key}&lang=es_ar&format=json`).then(r => r.json()),
+        ]).then(([propRes, devRes]) => {
+          const propData = propRes.status === 'fulfilled' && propRes.value?.id ? propRes.value : null;
+          const devData  = devRes.status  === 'fulfilled' && devRes.value?.id  ? devRes.value  : null;
+          setProp(propData ?? devData ?? null);
+        }).finally(() => setLoading(false));
+      });
+  }, [id]);
+
+  if (loading) return (
+    <div className="min-h-screen bg-[#F9FAFB] pt-32 flex items-center justify-center">
+      <div className="flex flex-col items-center gap-4">
+        <div className="w-12 h-12 border-4 border-primary/20 border-t-accent rounded-full animate-spin" />
+        <p className="font-heading text-dark/50">Cargando proyecto…</p>
+      </div>
+    </div>
+  );
+
+  if (!prop) return (
+    <div className="min-h-screen bg-[#F9FAFB] pt-32 flex items-center justify-center flex-col gap-4">
+      <Building size={64} className="text-primary/20" />
+      <h1 className="font-heading font-bold text-2xl text-primary">Proyecto no encontrado</h1>
+      <button onClick={() => navigate('/obras-de-mar')} className="font-heading text-accent underline">Volver a Obras de Mar</button>
+    </div>
+  );
+
+  const op     = prop.operations?.[0];
+  const price  = op?.prices?.[0];
+  const photos = prop.photos ?? [];
+  const title  = prop.publication_title ?? prop.name ?? '';
+  const lat    = prop.geo_lat  ?? prop.location?.lat;
+  const lon    = prop.geo_long ?? prop.location?.lon;
+
+  const tagsByType = (prop.tags ?? []).reduce((acc, t) => {
+    if (!acc[t.type]) acc[t.type] = [];
+    acc[t.type].push(t.name);
+    return acc;
+  }, {});
+
+  const specs = [
+    { label: 'Tipo',             value: prop.property_type?.name },
+    { label: 'Ambientes',        value: prop.room_amount },
+    { label: 'Dormitorios',      value: prop.suite_amount },
+    { label: 'Baños',            value: prop.bathroom_amount },
+    { label: 'Cocheras',         value: prop.parking_lot_amount },
+    { label: 'Sup. cubierta',    value: prop.roofed_surface    ? `${prop.roofed_surface} m²`    : null },
+    { label: 'Sup. descubierta', value: prop.unroofed_surface  ? `${prop.unroofed_surface} m²`  : null },
+    { label: 'Sup. semicubierta',value: prop.semiroofed_surface ? `${prop.semiroofed_surface} m²` : null },
+    { label: 'Sup. total',       value: prop.total_surface     ? `${prop.total_surface} m²`     : null },
+    { label: 'Estado',           value: prop.property_condition ?? constructionLabel(prop.construction_status) },
+    { label: 'Antigüedad',       value: prop.age },
+    { label: 'Expensas',         value: prop.expenses ? `ARS ${Number(prop.expenses).toLocaleString('es-AR')}` : null },
+  ].filter(s => s.value != null && s.value !== '' && s.value !== 0);
+
+  return (
+    <div className="min-h-screen bg-[#F9FAFB] pt-28 pb-24">
+      <div className="max-w-7xl mx-auto px-6 lg:px-12">
+
+        {/* Back */}
+        <button
+          onClick={() => navigate('/obras-de-mar')}
+          className="flex items-center gap-2 text-dark/50 hover:text-primary font-heading text-sm mb-8 transition-colors group"
+        >
+          <ArrowLeft size={16} className="group-hover:-translate-x-0.5 transition-transform" />
+          Volver a Obras de Mar
+        </button>
+
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
+
+          {/* ── MAIN COLUMN ── */}
+          <div className="lg:col-span-2 flex flex-col gap-8">
+
+            {/* Gallery */}
+            {photos.length > 0 && (
+              <div>
+                <div className="relative rounded-2xl overflow-hidden bg-primary/10 h-[420px] md:h-[500px]">
+                  <img src={photos[activePhoto]?.image} alt={title} className="w-full h-full object-cover transition-opacity duration-300" />
+                  {photos.length > 1 && (
+                    <>
+                      <button onClick={() => setActivePhoto(i => (i - 1 + photos.length) % photos.length)}
+                        className="absolute left-3 top-1/2 -translate-y-1/2 bg-black/40 hover:bg-black/60 text-white rounded-full p-2 transition-colors">
+                        <ChevronLeft size={22} />
+                      </button>
+                      <button onClick={() => setActivePhoto(i => (i + 1) % photos.length)}
+                        className="absolute right-3 top-1/2 -translate-y-1/2 bg-black/40 hover:bg-black/60 text-white rounded-full p-2 transition-colors">
+                        <ChevronRight size={22} />
+                      </button>
+                      <span className="absolute bottom-3 right-3 bg-black/50 text-white text-xs font-data px-3 py-1 rounded-full">
+                        {activePhoto + 1} / {photos.length}
+                      </span>
+                    </>
+                  )}
+                </div>
+                <div className="flex gap-2 mt-3 overflow-x-auto pb-1">
+                  {photos.map((ph, i) => (
+                    <button key={i} onClick={() => setActivePhoto(i)}
+                      className={`shrink-0 h-16 w-24 rounded-lg overflow-hidden border-2 transition-all ${i === activePhoto ? 'border-accent' : 'border-transparent opacity-60 hover:opacity-100'}`}>
+                      <img src={ph.thumb ?? ph.image} alt="" className="w-full h-full object-cover" />
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Header */}
+            <div className="bg-white rounded-2xl p-8 border border-primary/10">
+              <div className="flex flex-wrap items-center gap-2 mb-4">
+                {op?.operation_type && (
+                  <span className="bg-primary text-white font-heading font-bold text-xs px-3 py-1 rounded-full uppercase tracking-wider">{op.operation_type}</span>
+                )}
+                {prop.property_type?.name && (
+                  <span className="bg-primary/5 text-primary font-heading font-bold text-xs px-3 py-1 rounded-full">{prop.property_type.name}</span>
+                )}
+                <span className="bg-accent/20 text-primary font-heading font-bold text-xs px-3 py-1 rounded-full">Obras de Mar</span>
+                <span className="ml-auto font-data text-xs text-dark/40 tracking-widest">REF: {prop.reference_code ?? prop.id}</span>
+              </div>
+              <h1 className="font-heading font-black text-2xl md:text-3xl text-primary mb-3 leading-snug">{title}</h1>
+              {(prop.address || prop.location?.name) && (
+                <p className="font-heading text-dark/60 flex items-center gap-1.5 text-sm">
+                  <MapPin size={15} className="text-accent shrink-0" />
+                  {prop.address ? `${prop.address}${prop.location?.name ? `, ${prop.location.name}` : ''}` : prop.location?.name}
+                </p>
+              )}
+            </div>
+
+            {/* Specs */}
+            {specs.length > 0 && (
+              <div className="bg-white rounded-2xl p-8 border border-primary/10">
+                <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">Características</h2>
+                <div className="grid grid-cols-2 sm:grid-cols-3 gap-x-6 gap-y-5">
+                  {specs.map(s => (
+                    <div key={s.label}>
+                      <p className="font-data text-xs text-dark/40 tracking-widest uppercase mb-0.5">{s.label}</p>
+                      <p className="font-heading font-semibold text-primary">{s.value}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Description */}
+            {(prop.enhanced_description || prop.rich_description || prop.description) && (
+              <div className="bg-white rounded-2xl p-8 border border-primary/10">
+                <h2 className="font-heading font-bold text-lg text-primary mb-4 pb-3 border-b border-primary/10">Descripción</h2>
+                {prop.enhanced_description || prop.rich_description ? (
+                  <div className="font-heading text-dark/70 leading-relaxed text-sm property-description"
+                    dangerouslySetInnerHTML={{ __html: prop.enhanced_description || prop.rich_description }} />
+                ) : (
+                  <p className="font-heading text-dark/70 leading-relaxed whitespace-pre-line text-sm">{prop.description}</p>
+                )}
+              </div>
+            )}
+
+            {/* Amenities */}
+            {Object.keys(tagsByType).length > 0 && (
+              <div className="bg-white rounded-2xl p-8 border border-primary/10">
+                <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">Comodidades</h2>
+                <div className="flex flex-col gap-6">
+                  {Object.entries(tagsByType).map(([type, names]) => (
+                    <div key={type}>
+                      <p className="font-data text-xs text-dark/40 tracking-widest uppercase mb-3">{TAG_TYPE_LABELS[type] ?? type}</p>
+                      <div className="flex flex-wrap gap-2">
+                        {names.map(name => (
+                          <span key={name} className="inline-flex items-center gap-1.5 bg-primary/5 text-primary font-heading text-sm px-3 py-1.5 rounded-lg border border-primary/10">
+                            <span className="text-primary/50 shrink-0">{TAG_ICONS[name] ?? <Check size={14} />}</span>
+                            {name}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Map */}
+            {lat && lon && import.meta.env.VITE_GOOGLE_MAPS_API_KEY && (
+              <div className="bg-white rounded-2xl overflow-hidden border border-primary/10">
+                <div className="p-6 pb-0">
+                  <h2 className="font-heading font-bold text-lg text-primary mb-4">Ubicación</h2>
+                </div>
+                <iframe title="Mapa de ubicación" width="100%" height="320"
+                  style={{ border: 0, display: 'block' }} loading="lazy" allowFullScreen
+                  referrerPolicy="no-referrer-when-downgrade"
+                  src={`https://www.google.com/maps/embed/v1/place?key=${import.meta.env.VITE_GOOGLE_MAPS_API_KEY}&q=${lat},${lon}&zoom=15`}
+                />
+              </div>
+            )}
+          </div>
+
+          {/* ── SIDEBAR ── */}
+          <div className="flex flex-col gap-6 lg:sticky lg:top-28 lg:self-start">
+
+            {/* Price + CTA */}
+            <div className="bg-white rounded-2xl p-8 border border-primary/10 shadow-sm">
+              {price && (
+                <div className="mb-6 pb-6 border-b border-primary/10">
+                  <p className="font-data text-xs text-dark/40 tracking-widest uppercase mb-1">Precio</p>
+                  <p className="font-drama font-black text-4xl text-primary leading-none">
+                    {price.currency} {Number(price.price).toLocaleString('es-AR')}
+                  </p>
+                  {prop.expenses && (
+                    <p className="font-heading text-xs text-dark/50 mt-2">
+                      + Expensas ARS {Number(prop.expenses).toLocaleString('es-AR')}
+                    </p>
+                  )}
+                </div>
+              )}
+
+              <p className="font-heading font-semibold text-sm text-primary mb-3">Consultar por WhatsApp</p>
+              <div className="flex flex-col gap-2 mb-5">
+                <a
+                  href={`https://wa.me/5491176027596?text=${encodeURIComponent(`Hola, quería más información sobre este proyecto: ${window.location.href}`)}`}
+                  target="_blank" rel="noopener noreferrer"
+                  className="flex items-center gap-3 bg-[#25D366]/10 hover:bg-[#25D366]/20 text-[#128C7E] font-heading font-semibold text-sm px-4 py-3 rounded-xl transition-colors"
+                >
+                  {WA_ICON}
+                  Mar del Plata
+                </a>
+              </div>
+
+              <OdmInquiryForm propertyId={prop.id} />
+            </div>
+
+            {/* ODM Office */}
+            <div className="bg-white rounded-2xl p-8 border border-primary/10">
+              <h3 className="font-heading font-bold text-sm text-primary mb-5 pb-3 border-b border-primary/10 uppercase tracking-wider">Oficina Mar del Plata</h3>
+              <div className="flex items-start gap-3">
+                <div className="bg-primary/5 p-2 rounded-lg text-accent shrink-0 mt-0.5"><MapPin size={16} /></div>
+                <div>
+                  <p className="font-heading font-semibold text-primary text-sm">Obras de Mar</p>
+                  <p className="font-heading text-xs text-dark/60">Güemes 2305, Mar del Plata</p>
+                  <a href="tel:+5491176027596" className="font-heading text-xs text-primary/60 hover:text-primary transition-colors">+54 9 11 7602-7596</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
 export default function App() {
   const [propAddress, setPropAddress] = useState(null);
   return (
@@ -2058,6 +2602,8 @@ export default function App() {
           <Route path="/sucursales" element={<Sucursales />} />
           <Route path="/nosotros" element={<SobreNosotros />} />
           <Route path="/propiedad/:id" element={<PropertyDetail />} />
+          <Route path="/obras-de-mar" element={<ObrasDeMarLanding />} />
+          <Route path="/obras-de-mar/propiedad/:id" element={<ObrasDeMarPropertyDetail />} />
         </Routes>
         <Footer />
       </div>

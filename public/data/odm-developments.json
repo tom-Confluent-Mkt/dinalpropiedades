@@ -1,0 +1,2327 @@
+{
+  "meta": {
+    "lastSync": "2026-05-25T13:44:34.910Z"
+  },
+  "objects": [
+    {
+      "address": "            Patagones  1296",
+      "branch": {
+        "address": "Guemes 2305",
+        "alternative_phone": "3424988",
+        "alternative_phone_area": "223",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "9 am a 18 pm",
+        "created_date": "2024-11-25T18:36:01",
+        "display_name": "obras de mar",
+        "email": "ventas@obrasdemar.com",
+        "geo_lat": "-38.0109258",
+        "geo_long": "-57.53803889999999",
+        "gm_location_type": "ROOFTOP",
+        "id": 79172,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+        "name": "Guemes 2305",
+        "pdf_footer_text": "",
+        "phone": "4518084",
+        "phone_area": "223",
+        "phone_country_code": "+54",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "construction_date": "2028-12-01",
+      "construction_status": 3,
+      "custom_tags": [],
+      "deleted_at": "2025-06-27T13:02:27",
+      "description": "Punta de Arenas XIV — Tu vida a metros del mar\nHay lugares que simplemente se sienten bien. Punta de Arenas XIV será uno de ellos. Estará ubicado a solo una cuadra del mar, en el corazón de la zona Constitución, y será pensado para que cada día arranque distinto: con una caminata hasta la escollera, un café mirando el mar, o un asado en tu balcón con amigos.\n\nEn Patagones 1296, este proyecto combinará la calma de una calle tranquila con lo mejor de vivir cerca de todo. Vas a poder caminar a la playa, al súper o a donde quieras, sin renunciar a la paz de tu casa.\n\nEl edificio contará con departamentos de 1, 2 y 3 ambientes, que irán de 42,5 a 113,5 m², todos con cochera y baulera. Serán espacios funcionales, luminosos y bien pensados. Los balcones no van a estar “de adorno”, sino diseñados para usarse: con lavadero oculto, parrilla a gas y ese rincón donde el mate se disfruta más viendo el mar.\n\nLas terminaciones van a marcar la diferencia: estructura sólida, doble muro aislado, DVH, porcelanatos, calefacción por radiadores, cocinas equipadas y baños modernos. Todo pensado para que, cuando llegue el momento, te mudes y vivas, sin tener que hacer nada más.\n\nTambién ofrecerá tecnología y seguridad: puerta de seguridad, cámaras, portero visor, ascensores ágiles y preinstalación lista para que conectes tu WiFi sin cables a la vista.\n\nEntrega prevista para 2028, con financiación posible y el respaldo de Grupo Dinal y Obras de Mar, con más de 30 años en el mercado.\n\nNo va a ser solo una inversión: va a ser elegir un lugar donde vas a querer estar.\n\nPorque vivir bien no es un lujo. Es una decisión.",
+      "display_on_web": true,
+      "excel_extra_headers": "[]",
+      "fake_address": "",
+      "files": [],
+      "financing_details": "",
+      "geo_lat": "-37.968047",
+      "geo_long": "-57.544191",
+      "id": 61242,
+      "is_starred_on_web": false,
+      "location": {
+        "divisions": [],
+        "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Constitución",
+        "id": 26645,
+        "name": "Constitución",
+        "parent_division": "/api/v1/location/26624/",
+        "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
+        "state": null,
+        "weight": 489,
+        "zip_code": null
+      },
+      "name": "Punta de Arenas XIV - Patagones 1296",
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_84038225356390916306568376733507101033532784263715320219671427358005381811267.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_84038225356390916306568376733507101033532784263715320219671427358005381811267.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_84038225356390916306568376733507101033532784263715320219671427358005381811267_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_49532097259448533366755509005338621951113887548978808526084465818185369435460.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_49532097259448533366755509005338621951113887548978808526084465818185369435460.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_49532097259448533366755509005338621951113887548978808526084465818185369435460_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_114020980891750462224981957770418500133351654740662940754186779945283636257378.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_114020980891750462224981957770418500133351654740662940754186779945283636257378.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_114020980891750462224981957770418500133351654740662940754186779945283636257378_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_89123699993860840413802995218116680467718124840751871179922527191260725817903.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_89123699993860840413802995218116680467718124840751871179922527191260725817903.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_89123699993860840413802995218116680467718124840751871179922527191260725817903_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_96459447295285027103187762150308614357555131759988426282817847970969692613749.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_96459447295285027103187762150308614357555131759988426282817847970969692613749.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_96459447295285027103187762150308614357555131759988426282817847970969692613749_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_58183467580992642171559181442833044211431122267154955963005829031180176961129.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_58183467580992642171559181442833044211431122267154955963005829031180176961129.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_58183467580992642171559181442833044211431122267154955963005829031180176961129_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_39047177570446014963002174831263738977470662005223361414635461112764978676518.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_39047177570446014963002174831263738977470662005223361414635461112764978676518.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_39047177570446014963002174831263738977470662005223361414635461112764978676518_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_16441808671112917441256263569286198073571159211363755408163894918168119869229.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_16441808671112917441256263569286198073571159211363755408163894918168119869229.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_16441808671112917441256263569286198073571159211363755408163894918168119869229_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_103959202849234545114238195502706552068383052556495623509623269279541129046282.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_103959202849234545114238195502706552068383052556495623509623269279541129046282.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_103959202849234545114238195502706552068383052556495623509623269279541129046282_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_23365878285630854978020184139806551769551801790103881553054996719571864642553.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_23365878285630854978020184139806551769551801790103881553054996719571864642553.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_23365878285630854978020184139806551769551801790103881553054996719571864642553_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_89778075504840340797036398149854222455687596282221637832859779619611743116476.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_89778075504840340797036398149854222455687596282221637832859779619611743116476.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_89778075504840340797036398149854222455687596282221637832859779619611743116476_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_67385615254872444838893509772724273407073270115676500987752922153730888362219.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_67385615254872444838893509772724273407073270115676500987752922153730888362219.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_67385615254872444838893509772724273407073270115676500987752922153730888362219_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_5041206267339821272258133568419541667734426039762201922788999780116690664442.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_5041206267339821272258133568419541667734426039762201922788999780116690664442.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_5041206267339821272258133568419541667734426039762201922788999780116690664442_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_30828869271835370800317467662207463897456400386987881330823389891726863264155.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 13,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_30828869271835370800317467662207463897456400386987881330823389891726863264155.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_30828869271835370800317467662207463897456400386987881330823389891726863264155_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_26556067685157850548033910044769879214998207135838976625513183835735121911906.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 14,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_26556067685157850548033910044769879214998207135838976625513183835735121911906.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_26556067685157850548033910044769879214998207135838976625513183835735121911906_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_5230539219634964874358293592533668439719956817237750262684309011602672375354.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 15,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_5230539219634964874358293592533668439719956817237750262684309011602672375354.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_5230539219634964874358293592533668439719956817237750262684309011602672375354_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_68634050517130304216794635154823712339665236560382893584509972195511742049192.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 16,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_68634050517130304216794635154823712339665236560382893584509972195511742049192.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_68634050517130304216794635154823712339665236560382893584509972195511742049192_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_76796000672497677706996255324238821118368695978297708164546969283968447862488.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 17,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_76796000672497677706996255324238821118368695978297708164546969283968447862488.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_76796000672497677706996255324238821118368695978297708164546969283968447862488_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_59437190559571349196887586086852172228354041490007695362211757260219782922941.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 18,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_59437190559571349196887586086852172228354041490007695362211757260219782922941.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_59437190559571349196887586086852172228354041490007695362211757260219782922941_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_66464930261547406640803221941064308799401102178490899871070532568397795151784.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 19,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_66464930261547406640803221941064308799401102178490899871070532568397795151784.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_66464930261547406640803221941064308799401102178490899871070532568397795151784_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_113376603416290371181464066274397706589078529005067315237803466650251170567562.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 20,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_113376603416290371181464066274397706589078529005067315237803466650251170567562.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_113376603416290371181464066274397706589078529005067315237803466650251170567562_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_93662007272463997569609850270159919539747941481886945619931992828493493473554.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 21,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_93662007272463997569609850270159919539747941481886945619931992828493493473554.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_93662007272463997569609850270159919539747941481886945619931992828493493473554_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_74305178001121188690135938532816672986064053892478677320845402545548635000670.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 22,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_74305178001121188690135938532816672986064053892478677320845402545548635000670.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_74305178001121188690135938532816672986064053892478677320845402545548635000670_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_84772767232362679761460416704077466866894705144810603603348055658763860431296.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 23,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_84772767232362679761460416704077466866894705144810603603348055658763860431296.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_84772767232362679761460416704077466866894705144810603603348055658763860431296_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_43833951365101756040800843241334284997005858363189903567156349340505018358418.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 24,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_43833951365101756040800843241334284997005858363189903567156349340505018358418.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_43833951365101756040800843241334284997005858363189903567156349340505018358418_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_40261744170691820833140107279659326311967955444076835668027828880880286416437.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 25,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_40261744170691820833140107279659326311967955444076835668027828880880286416437.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_40261744170691820833140107279659326311967955444076835668027828880880286416437_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_52462857634018650913224555315892000934596636622975636377579204216905793521009.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 26,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_52462857634018650913224555315892000934596636622975636377579204216905793521009.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_52462857634018650913224555315892000934596636622975636377579204216905793521009_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_54079625820697524592229110726942239806018798783712125090968189892006996033143.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 27,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_54079625820697524592229110726942239806018798783712125090968189892006996033143.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_54079625820697524592229110726942239806018798783712125090968189892006996033143_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_25396387351958803027799476568443599604077368116973682013214092727892365313664.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 28,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_25396387351958803027799476568443599604077368116973682013214092727892365313664.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_25396387351958803027799476568443599604077368116973682013214092727892365313664_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_32599967690720442881913759752679400736098858064956326987524358408874624761162.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 29,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_32599967690720442881913759752679400736098858064956326987524358408874624761162.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_32599967690720442881913759752679400736098858064956326987524358408874624761162_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_46011961985843261301495082894877598697348953431014764654806398386860047122038.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 30,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_46011961985843261301495082894877598697348953431014764654806398386860047122038.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_46011961985843261301495082894877598697348953431014764654806398386860047122038_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_111069917729511982650503121394761558982051092956378970865332877049230770434459.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 31,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_111069917729511982650503121394761558982051092956378970865332877049230770434459.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_111069917729511982650503121394761558982051092956378970865332877049230770434459_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/61242_34041403393527700552908076045700122993364998722071719358211304665790277759768.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 32,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/61242_34041403393527700552908076045700122993364998722071719358211304665790277759768.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/61242_34041403393527700552908076045700122993364998722071719358211304665790277759768_thumb.jpg"
+        }
+      ],
+      "publication_title": "Edificio en Constitución",
+      "reference_code": "OBU61242",
+      "resource_uri": "/api/v1/development/61242/",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 4,
+          "name": "Internet",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 7,
+          "name": "Teléfono",
+          "type": 1
+        },
+        {
+          "id": 8,
+          "name": "Cable",
+          "type": 1
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 36,
+          "name": "Quincho",
+          "type": 3
+        },
+        {
+          "id": 41,
+          "name": "SUM",
+          "type": 3
+        },
+        {
+          "id": 46,
+          "name": "Apto mascotas",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 1248,
+          "name": "En construcción",
+          "type": 3
+        },
+        {
+          "id": 1390,
+          "name": "Luminoso",
+          "type": 3
+        },
+        {
+          "id": 1514,
+          "name": "Calefacción por radiadores",
+          "type": 3
+        }
+      ],
+      "type": {
+        "code": "BU",
+        "id": 2,
+        "name": "Edificio"
+      },
+      "users_in_charge": {
+        "cellphone": "",
+        "email": "marketing@obrasdemar.com",
+        "id": 123159,
+        "name": "MARKETING",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "videos": [
+        {
+          "description": "",
+          "id": 11868,
+          "order": 1,
+          "player_url": "https://www.youtube.com/embed/X8c1JJQIquQ",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "Vistas Aereas de Pisos y Alrededores",
+          "url": "https://www.youtube.com/watch?v=X8c1JJQIquQ",
+          "video_id": "X8c1JJQIquQ"
+        }
+      ],
+      "web_url": "https://obrasdemar.com"
+    },
+    {
+      "address": "Avenida de los trabajadores 1893",
+      "branch": {
+        "address": "Guemes 2305",
+        "alternative_phone": "3424988",
+        "alternative_phone_area": "223",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "9 am a 18 pm",
+        "created_date": "2024-11-25T18:36:01",
+        "display_name": "obras de mar",
+        "email": "ventas@obrasdemar.com",
+        "geo_lat": "-38.0109258",
+        "geo_long": "-57.53803889999999",
+        "gm_location_type": "ROOFTOP",
+        "id": 79172,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+        "name": "Guemes 2305",
+        "pdf_footer_text": "",
+        "phone": "4518084",
+        "phone_area": "223",
+        "phone_country_code": "+54",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "construction_date": "2028-12-01",
+      "construction_status": 3,
+      "custom_tags": [],
+      "deleted_at": "2026-01-07T15:07:34",
+      "description": "Punta de Arenas XV — Frente al mar, conectado con lo que importa\nHay lugares que te invitan a bajar un cambio. Punta de Arenas XV es uno de ellos. Está ubicado frente al mar, a metros de Waikiki y Honu Beach, y frente a la Reserva Natural de Punta Mogotes, en una ubicación única sobre Av. de los Trabajadores. Un entorno donde la naturaleza, la ciudad y tu hogar se encontrarán para hacer que cada día se viva distinto.\n\nVas a poder empezar la mañana con un mate mirando el mar, cruzarte a la playa, o caminar entre médanos y aves costeras. Todo sin salir de tu barrio, y con la tranquilidad de tener cerca lo que necesitás: balnearios, restaurantes, comercios y centros de salud.\n\nEl edificio contará con departamentos de 2, 3 y 4 ambientes, que irán de 67 a 255 m², todos con cochera, baulera y balcones pensados para usarse: con lavadero oculto, parrilla a gas y ese rincón donde el mate se disfruta más viendo el mar.\n\nEstará construido con una estructura sólida y bien pensada: doble muro con cámara de aire, DVH en todas las aberturas, porcelanatos en todos los ambientes, calefacción por radiadores, preinstalación de aire acondicionado y caldera individual. Nada se dejará al azar: confort térmico, acústico y visual para cada estación del año.\n\nTambién sumará tecnología y seguridad para acompañar tu día a día: puerta de seguridad, portero visor con cámara, ascensores modernos y todo listo para que conectes tus servicios sin instalaciones provisorias ni enredos.\n\nLa entrega está prevista para diciembre de 2028, con posibilidad de financiación y el respaldo de Grupo Dinal y Obras de Mar, con más de 30 años en el mercado.\n\nPorque vivir frente al mar no es un sueño.\nEs una forma de vida que vas a poder elegir, todos los días.",
+      "display_on_web": true,
+      "excel_extra_headers": "[]",
+      "fake_address": "av de los trabajadores",
+      "files": [
+        {
+          "file": "https://static.tokkobroker.com/development_files/114995192846575073559742608843819363653799499565424180074869/Brochure_PAXV_-_8-5-25.pdf"
+        }
+      ],
+      "financing_details": "",
+      "geo_lat": "-38.0591213",
+      "geo_long": "-57.5451225",
+      "id": 62623,
+      "is_starred_on_web": false,
+      "location": {
+        "divisions": [],
+        "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Punta Mogotes",
+        "id": 26682,
+        "name": "Punta Mogotes",
+        "parent_division": "/api/v1/location/26624/",
+        "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
+        "state": null,
+        "weight": 289,
+        "zip_code": null
+      },
+      "name": "Punta de Arenas XV - Punta Mogotes - Av. de los Trabajadores Esq. Tripulantes de Fournier",
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_76144772215269699927510883344476458636466421374839672209309937611612976947229.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_76144772215269699927510883344476458636466421374839672209309937611612976947229.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_76144772215269699927510883344476458636466421374839672209309937611612976947229_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_6841713416220386765070880347747291593314955326521059107311012538517183667745.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_6841713416220386765070880347747291593314955326521059107311012538517183667745.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_6841713416220386765070880347747291593314955326521059107311012538517183667745_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_85622700211939031637708864878933785693013519355310916654321515391309385237604.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_85622700211939031637708864878933785693013519355310916654321515391309385237604.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_85622700211939031637708864878933785693013519355310916654321515391309385237604_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_84430260370003622084196581045881398689692721622367084030123213290576336721004.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_84430260370003622084196581045881398689692721622367084030123213290576336721004.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_84430260370003622084196581045881398689692721622367084030123213290576336721004_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_40536743486787905369216246766370549194312502525837795634341021898007320227351.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_40536743486787905369216246766370549194312502525837795634341021898007320227351.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_40536743486787905369216246766370549194312502525837795634341021898007320227351_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_35484040341287693534089794402914157486422712345813215524761535486933393200640.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_35484040341287693534089794402914157486422712345813215524761535486933393200640.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_35484040341287693534089794402914157486422712345813215524761535486933393200640_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_64994615930047295439505856857454173966245080724961772631570506903952737476860.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_64994615930047295439505856857454173966245080724961772631570506903952737476860.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_64994615930047295439505856857454173966245080724961772631570506903952737476860_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_64971030708089552024295221680281707432215944175739425669433961190437783644126.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_64971030708089552024295221680281707432215944175739425669433961190437783644126.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_64971030708089552024295221680281707432215944175739425669433961190437783644126_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_93600419150063369724726794107843503323533949474294023237943611656456391848343.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_93600419150063369724726794107843503323533949474294023237943611656456391848343.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_93600419150063369724726794107843503323533949474294023237943611656456391848343_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_59121578893155731546266317438767645910300359283425232789067823165839552950374.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_59121578893155731546266317438767645910300359283425232789067823165839552950374.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_59121578893155731546266317438767645910300359283425232789067823165839552950374_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_63865329106987498538489444836244341239472204641478282156680671157418195868100.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_63865329106987498538489444836244341239472204641478282156680671157418195868100.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_63865329106987498538489444836244341239472204641478282156680671157418195868100_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_39662057039539955265146961494221247259561462387836870080642638001690856622054.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_39662057039539955265146961494221247259561462387836870080642638001690856622054.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_39662057039539955265146961494221247259561462387836870080642638001690856622054_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_615958594753302653962557068796815257311731942068542996210404537019439624710.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_615958594753302653962557068796815257311731942068542996210404537019439624710.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_615958594753302653962557068796815257311731942068542996210404537019439624710_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_1931601642820079846901238003604485428843081325560849345258519976020175012705.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 13,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_1931601642820079846901238003604485428843081325560849345258519976020175012705.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_1931601642820079846901238003604485428843081325560849345258519976020175012705_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_113215020631244249461950755408019273317967288227166606865168953152756018169011.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 14,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_113215020631244249461950755408019273317967288227166606865168953152756018169011.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_113215020631244249461950755408019273317967288227166606865168953152756018169011_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_14627005948820994862788140827492432007138752510768140350346431062773391568294.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 15,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_14627005948820994862788140827492432007138752510768140350346431062773391568294.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_14627005948820994862788140827492432007138752510768140350346431062773391568294_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_84244004262706058508967238551991405859651037962412760919859924123903362290151.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 16,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_84244004262706058508967238551991405859651037962412760919859924123903362290151.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_84244004262706058508967238551991405859651037962412760919859924123903362290151_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_105724585895970675451093865309369701787527961940247314348887943910667630937537.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 17,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_105724585895970675451093865309369701787527961940247314348887943910667630937537.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_105724585895970675451093865309369701787527961940247314348887943910667630937537_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_111698813646851012913305612715388233226203977810902766484076536031605761513649.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 18,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_111698813646851012913305612715388233226203977810902766484076536031605761513649.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_111698813646851012913305612715388233226203977810902766484076536031605761513649_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_111126348361446629294170489479463641884213721708154296230041086862625802961212.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 19,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_111126348361446629294170489479463641884213721708154296230041086862625802961212.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_111126348361446629294170489479463641884213721708154296230041086862625802961212_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_11086994172269706825400551265524641826478621045444862654783440683455539260343.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 20,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_11086994172269706825400551265524641826478621045444862654783440683455539260343.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_11086994172269706825400551265524641826478621045444862654783440683455539260343_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_83630385314664521691224037848443057138337953840732939022442133384725354454064.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 21,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_83630385314664521691224037848443057138337953840732939022442133384725354454064.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_83630385314664521691224037848443057138337953840732939022442133384725354454064_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_75343446304649964276458255049000455982520696383220883239069488817527349571816.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 22,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_75343446304649964276458255049000455982520696383220883239069488817527349571816.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_75343446304649964276458255049000455982520696383220883239069488817527349571816_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_40357645199246976598508348190159030053330543959119878408583684704901741885936.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 23,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_40357645199246976598508348190159030053330543959119878408583684704901741885936.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_40357645199246976598508348190159030053330543959119878408583684704901741885936_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_101952748800843353855460638421438073263244357590252349165463623328094236284257.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 24,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_101952748800843353855460638421438073263244357590252349165463623328094236284257.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_101952748800843353855460638421438073263244357590252349165463623328094236284257_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_49762603654747744947627181328945608402213698536682948605022138647832540240760.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 25,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_49762603654747744947627181328945608402213698536682948605022138647832540240760.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_49762603654747744947627181328945608402213698536682948605022138647832540240760_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_91653670775738666550300399318424445221247637699070777546908744649359719144122.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 26,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_91653670775738666550300399318424445221247637699070777546908744649359719144122.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_91653670775738666550300399318424445221247637699070777546908744649359719144122_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_59155522714717023257821834010052742008824061509708295249969111550976103280338.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 27,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_59155522714717023257821834010052742008824061509708295249969111550976103280338.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_59155522714717023257821834010052742008824061509708295249969111550976103280338_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_59229394665272752375924391233234954188072085749637407683986484808423959353235.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 28,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_59229394665272752375924391233234954188072085749637407683986484808423959353235.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_59229394665272752375924391233234954188072085749637407683986484808423959353235_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_110224656472075235159784068955380059543954451327599623629931085635279186343378.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 29,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_110224656472075235159784068955380059543954451327599623629931085635279186343378.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_110224656472075235159784068955380059543954451327599623629931085635279186343378_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/62623_37581045182116467139949248073702734216099605981413724495411430409321196569371.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 30,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/62623_37581045182116467139949248073702734216099605981413724495411430409321196569371.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/62623_37581045182116467139949248073702734216099605981413724495411430409321196569371_thumb.jpg"
+        }
+      ],
+      "publication_title": "Edificio en Construcción",
+      "reference_code": "OBU62623",
+      "resource_uri": "/api/v1/development/62623/",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 4,
+          "name": "Internet",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 7,
+          "name": "Teléfono",
+          "type": 1
+        },
+        {
+          "id": 8,
+          "name": "Cable",
+          "type": 1
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 36,
+          "name": "Quincho",
+          "type": 3
+        },
+        {
+          "id": 41,
+          "name": "SUM",
+          "type": 3
+        },
+        {
+          "id": 46,
+          "name": "Apto mascotas",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
+        },
+        {
+          "id": 1030,
+          "name": "Cochera subterránea",
+          "type": 3
+        },
+        {
+          "id": 1248,
+          "name": "En construcción",
+          "type": 3
+        },
+        {
+          "id": 1390,
+          "name": "Luminoso",
+          "type": 3
+        },
+        {
+          "id": 1514,
+          "name": "Calefacción por radiadores",
+          "type": 3
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
+        }
+      ],
+      "type": {
+        "code": "BU",
+        "id": 2,
+        "name": "Edificio"
+      },
+      "users_in_charge": {
+        "cellphone": "",
+        "email": "marketing@obrasdemar.com",
+        "id": 123159,
+        "name": "MARKETING",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "videos": [],
+      "web_url": "https://obrasdemar.com"
+    },
+    {
+      "address": "ENTRE RIOS 2650",
+      "branch": {
+        "address": "Guemes 2305",
+        "alternative_phone": "3424988",
+        "alternative_phone_area": "223",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "9 am a 18 pm",
+        "created_date": "2024-11-25T18:36:01",
+        "display_name": "obras de mar",
+        "email": "ventas@obrasdemar.com",
+        "geo_lat": "-38.0109258",
+        "geo_long": "-57.53803889999999",
+        "gm_location_type": "ROOFTOP",
+        "id": 79172,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+        "name": "Guemes 2305",
+        "pdf_footer_text": "",
+        "phone": "4518084",
+        "phone_area": "223",
+        "phone_country_code": "+54",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "construction_date": null,
+      "construction_status": 3,
+      "custom_tags": [],
+      "deleted_at": "2026-01-07T14:45:27",
+      "description": "Moderno edificio en pozo con características premium, ubicado en Entre Ríos 2650, una de las zonas más buscadas de Mar del Plata. A solo pocas cuadras de Plaza Colón y del Paseo Aldrey, con excelente conectividad, servicios y propuesta urbana.\n\nEl proyecto se desarrolla en 8 pisos y ofrece unidades de 1, 2 y 4 ambientes, con superficies que van desde 31 m² hasta 125 m², pensadas para vivienda permanente, inversión o renta temporaria.\n\nEl edificio contará con:\n\nDos ascensores de última generación\n\nSUM para reuniones y eventos\n\nCocheras\n\nEspacios verdes\n\nDetalles constructivos de calidad premium y diseño contemporáneo\n\nUna oportunidad ideal para invertir en pozo, combinando ubicación estratégica, diseño moderno y excelente proyección de valorización.",
+      "display_on_web": true,
+      "excel_extra_headers": "[]",
+      "fake_address": "",
+      "files": [],
+      "financing_details": "",
+      "geo_lat": "-38.0090927",
+      "geo_long": "-57.5489258",
+      "id": 69153,
+      "is_starred_on_web": false,
+      "location": {
+        "divisions": [
+          {
+            "id": 26625,
+            "name": "Antartida Argentina",
+            "resource_uri": "/api/v1/location/26625/"
+          },
+          {
+            "id": 26626,
+            "name": "Arenas del Sur",
+            "resource_uri": "/api/v1/location/26626/"
+          },
+          {
+            "id": 26627,
+            "name": "Barrio 2 De Abril",
+            "resource_uri": "/api/v1/location/26627/"
+          },
+          {
+            "id": 26628,
+            "name": "B.Ameghino",
+            "resource_uri": "/api/v1/location/26628/"
+          },
+          {
+            "id": 26629,
+            "name": "Belgrano",
+            "resource_uri": "/api/v1/location/26629/"
+          },
+          {
+            "id": 26630,
+            "name": "Barrio Felix Camet",
+            "resource_uri": "/api/v1/location/26630/"
+          },
+          {
+            "id": 26631,
+            "name": "Hipódromo",
+            "resource_uri": "/api/v1/location/26631/"
+          },
+          {
+            "id": 26632,
+            "name": "Las Americas",
+            "resource_uri": "/api/v1/location/26632/"
+          },
+          {
+            "id": 26633,
+            "name": "Las Margaritas",
+            "resource_uri": "/api/v1/location/26633/"
+          },
+          {
+            "id": 26634,
+            "name": "B.Libertad",
+            "resource_uri": "/api/v1/location/26634/"
+          },
+          {
+            "id": 26635,
+            "name": "Los Pinares",
+            "resource_uri": "/api/v1/location/26635/"
+          },
+          {
+            "id": 26636,
+            "name": "Barrio 180",
+            "resource_uri": "/api/v1/location/26636/"
+          },
+          {
+            "id": 26637,
+            "name": "Bosque Alegre",
+            "resource_uri": "/api/v1/location/26637/"
+          },
+          {
+            "id": 26638,
+            "name": "Cabo Corrientes",
+            "resource_uri": "/api/v1/location/26638/"
+          },
+          {
+            "id": 26639,
+            "name": "Caisamar",
+            "resource_uri": "/api/v1/location/26639/"
+          },
+          {
+            "id": 26640,
+            "name": "Camet",
+            "resource_uri": "/api/v1/location/26640/"
+          },
+          {
+            "id": 26641,
+            "name": "Centro",
+            "resource_uri": "/api/v1/location/26641/"
+          },
+          {
+            "id": 26642,
+            "name": "Cerenil",
+            "resource_uri": "/api/v1/location/26642/"
+          },
+          {
+            "id": 26643,
+            "name": "Cerrito",
+            "resource_uri": "/api/v1/location/26643/"
+          },
+          {
+            "id": 26644,
+            "name": "Chauvin",
+            "resource_uri": "/api/v1/location/26644/"
+          },
+          {
+            "id": 26645,
+            "name": "Constitución",
+            "resource_uri": "/api/v1/location/26645/"
+          },
+          {
+            "id": 26646,
+            "name": "Divino Rostro",
+            "resource_uri": "/api/v1/location/26646/"
+          },
+          {
+            "id": 26647,
+            "name": "Dorrego",
+            "resource_uri": "/api/v1/location/26647/"
+          },
+          {
+            "id": 26648,
+            "name": "El Gaucho",
+            "resource_uri": "/api/v1/location/26648/"
+          },
+          {
+            "id": 26649,
+            "name": "El Marquesado",
+            "resource_uri": "/api/v1/location/26649/"
+          },
+          {
+            "id": 26650,
+            "name": "El Martillo",
+            "resource_uri": "/api/v1/location/26650/"
+          },
+          {
+            "id": 26651,
+            "name": "El Monolito",
+            "resource_uri": "/api/v1/location/26651/"
+          },
+          {
+            "id": 26652,
+            "name": "El Progreso",
+            "resource_uri": "/api/v1/location/26652/"
+          },
+          {
+            "id": 26653,
+            "name": "Estacion Ferrocarril",
+            "resource_uri": "/api/v1/location/26653/"
+          },
+          {
+            "id": 26654,
+            "name": "Estrada",
+            "resource_uri": "/api/v1/location/26654/"
+          },
+          {
+            "id": 26655,
+            "name": "Faro",
+            "resource_uri": "/api/v1/location/26655/"
+          },
+          {
+            "id": 26656,
+            "name": "Fortunato de La Plaz",
+            "resource_uri": "/api/v1/location/26656/"
+          },
+          {
+            "id": 26657,
+            "name": "Gral. San Martin",
+            "resource_uri": "/api/v1/location/26657/"
+          },
+          {
+            "id": 26658,
+            "name": "Grosellar",
+            "resource_uri": "/api/v1/location/26658/"
+          },
+          {
+            "id": 26659,
+            "name": "Jorge Newbery",
+            "resource_uri": "/api/v1/location/26659/"
+          },
+          {
+            "id": 26660,
+            "name": "Juramento",
+            "resource_uri": "/api/v1/location/26660/"
+          },
+          {
+            "id": 26661,
+            "name": "La Armonia",
+            "resource_uri": "/api/v1/location/26661/"
+          },
+          {
+            "id": 26662,
+            "name": "La Bristol",
+            "resource_uri": "/api/v1/location/26662/"
+          },
+          {
+            "id": 26663,
+            "name": "La Caleta",
+            "resource_uri": "/api/v1/location/26663/"
+          },
+          {
+            "id": 26664,
+            "name": "La Florida",
+            "resource_uri": "/api/v1/location/26664/"
+          },
+          {
+            "id": 26665,
+            "name": "La Perla Norte",
+            "resource_uri": "/api/v1/location/26665/"
+          },
+          {
+            "id": 26666,
+            "name": "La Perla Sur",
+            "resource_uri": "/api/v1/location/26666/"
+          },
+          {
+            "id": 26667,
+            "name": "Las Avenidas",
+            "resource_uri": "/api/v1/location/26667/"
+          },
+          {
+            "id": 26668,
+            "name": "Colinas de Peralta Ramos",
+            "resource_uri": "/api/v1/location/26668/"
+          },
+          {
+            "id": 26669,
+            "name": "Las Dalias",
+            "resource_uri": "/api/v1/location/26669/"
+          },
+          {
+            "id": 26670,
+            "name": "Los Acantilados",
+            "resource_uri": "/api/v1/location/26670/"
+          },
+          {
+            "id": 26671,
+            "name": "Los Andes",
+            "resource_uri": "/api/v1/location/26671/"
+          },
+          {
+            "id": 26673,
+            "name": "Los Tilos",
+            "resource_uri": "/api/v1/location/26673/"
+          },
+          {
+            "id": 26674,
+            "name": "Los Troncos",
+            "resource_uri": "/api/v1/location/26674/"
+          },
+          {
+            "id": 26675,
+            "name": "Lourdes",
+            "resource_uri": "/api/v1/location/26675/"
+          },
+          {
+            "id": 26676,
+            "name": "Materno Infantil",
+            "resource_uri": "/api/v1/location/26676/"
+          },
+          {
+            "id": 26677,
+            "name": "Microcentro",
+            "resource_uri": "/api/v1/location/26677/"
+          },
+          {
+            "id": 26678,
+            "name": "Montemar",
+            "resource_uri": "/api/v1/location/26678/"
+          },
+          {
+            "id": 26679,
+            "name": "Mundialista",
+            "resource_uri": "/api/v1/location/26679/"
+          },
+          {
+            "id": 26680,
+            "name": "Playa Grande",
+            "resource_uri": "/api/v1/location/26680/"
+          },
+          {
+            "id": 26681,
+            "name": "Parque Luro",
+            "resource_uri": "/api/v1/location/26681/"
+          },
+          {
+            "id": 26682,
+            "name": "Punta Mogotes",
+            "resource_uri": "/api/v1/location/26682/"
+          },
+          {
+            "id": 26683,
+            "name": "P.Ramos Bosque",
+            "resource_uri": "/api/v1/location/26683/"
+          },
+          {
+            "id": 26684,
+            "name": "Parque Independencia",
+            "resource_uri": "/api/v1/location/26684/"
+          },
+          {
+            "id": 26685,
+            "name": "Parque Palermo",
+            "resource_uri": "/api/v1/location/26685/"
+          },
+          {
+            "id": 26686,
+            "name": "Parque Peña",
+            "resource_uri": "/api/v1/location/26686/"
+          },
+          {
+            "id": 26687,
+            "name": "Pinos De Anchorena",
+            "resource_uri": "/api/v1/location/26687/"
+          },
+          {
+            "id": 26688,
+            "name": "Playa Chica",
+            "resource_uri": "/api/v1/location/26688/"
+          },
+          {
+            "id": 26689,
+            "name": "Playa Serena",
+            "resource_uri": "/api/v1/location/26689/"
+          },
+          {
+            "id": 26690,
+            "name": "Playas Del Sur",
+            "resource_uri": "/api/v1/location/26690/"
+          },
+          {
+            "id": 26691,
+            "name": "Plaza Colon",
+            "resource_uri": "/api/v1/location/26691/"
+          },
+          {
+            "id": 26692,
+            "name": "Plaza Mitre",
+            "resource_uri": "/api/v1/location/26692/"
+          },
+          {
+            "id": 26693,
+            "name": "Plaza Rocha",
+            "resource_uri": "/api/v1/location/26693/"
+          },
+          {
+            "id": 26694,
+            "name": "Pompeya",
+            "resource_uri": "/api/v1/location/26694/"
+          },
+          {
+            "id": 26695,
+            "name": "Primera Junta",
+            "resource_uri": "/api/v1/location/26695/"
+          },
+          {
+            "id": 26696,
+            "name": "Puerto",
+            "resource_uri": "/api/v1/location/26696/"
+          },
+          {
+            "id": 26697,
+            "name": "Punta Iglesia",
+            "resource_uri": "/api/v1/location/26697/"
+          },
+          {
+            "id": 26698,
+            "name": "Punta Piedras",
+            "resource_uri": "/api/v1/location/26698/"
+          },
+          {
+            "id": 26699,
+            "name": "Rumenco",
+            "resource_uri": "/api/v1/location/26699/"
+          },
+          {
+            "id": 26700,
+            "name": "Ruta 226",
+            "resource_uri": "/api/v1/location/26700/"
+          },
+          {
+            "id": 26701,
+            "name": "Ruta 88",
+            "resource_uri": "/api/v1/location/26701/"
+          },
+          {
+            "id": 26702,
+            "name": "San Carlos",
+            "resource_uri": "/api/v1/location/26702/"
+          },
+          {
+            "id": 26703,
+            "name": "San Cayetano",
+            "resource_uri": "/api/v1/location/26703/"
+          },
+          {
+            "id": 26704,
+            "name": "San Jorge",
+            "resource_uri": "/api/v1/location/26704/"
+          },
+          {
+            "id": 26705,
+            "name": "San José",
+            "resource_uri": "/api/v1/location/26705/"
+          },
+          {
+            "id": 26706,
+            "name": "San Juan",
+            "resource_uri": "/api/v1/location/26706/"
+          },
+          {
+            "id": 26707,
+            "name": "Santa Cecilia",
+            "resource_uri": "/api/v1/location/26707/"
+          },
+          {
+            "id": 26708,
+            "name": "Santa Celina",
+            "resource_uri": "/api/v1/location/26708/"
+          },
+          {
+            "id": 26709,
+            "name": "Santa Monica",
+            "resource_uri": "/api/v1/location/26709/"
+          },
+          {
+            "id": 26710,
+            "name": "Sarmiento",
+            "resource_uri": "/api/v1/location/26710/"
+          },
+          {
+            "id": 26711,
+            "name": "Sierra De Los Padres",
+            "resource_uri": "/api/v1/location/26711/"
+          },
+          {
+            "id": 26712,
+            "name": "Stella Maris",
+            "resource_uri": "/api/v1/location/26712/"
+          },
+          {
+            "id": 26713,
+            "name": "Terminal",
+            "resource_uri": "/api/v1/location/26713/"
+          },
+          {
+            "id": 26714,
+            "name": "Torreon",
+            "resource_uri": "/api/v1/location/26714/"
+          },
+          {
+            "id": 26715,
+            "name": "Varese",
+            "resource_uri": "/api/v1/location/26715/"
+          },
+          {
+            "id": 26716,
+            "name": "Villa Primera",
+            "resource_uri": "/api/v1/location/26716/"
+          },
+          {
+            "id": 51857,
+            "name": "Los Robles",
+            "resource_uri": "/api/v1/location/51857/"
+          },
+          {
+            "id": 81269,
+            "name": "Guemes",
+            "resource_uri": "/api/v1/location/81269/"
+          },
+          {
+            "id": 82111,
+            "name": "9 de julio",
+            "resource_uri": "/api/v1/location/82111/"
+          },
+          {
+            "id": 82112,
+            "name": "Libertad",
+            "resource_uri": "/api/v1/location/82112/"
+          },
+          {
+            "id": 82113,
+            "name": "Lopez de Gomara",
+            "resource_uri": "/api/v1/location/82113/"
+          },
+          {
+            "id": 82114,
+            "name": "Las Lilas",
+            "resource_uri": "/api/v1/location/82114/"
+          },
+          {
+            "id": 82115,
+            "name": "Zona Rural Sur",
+            "resource_uri": "/api/v1/location/82115/"
+          },
+          {
+            "id": 82116,
+            "name": "Zona Rural Oeste",
+            "resource_uri": "/api/v1/location/82116/"
+          },
+          {
+            "id": 82117,
+            "name": "Florencio Sanchez",
+            "resource_uri": "/api/v1/location/82117/"
+          },
+          {
+            "id": 82118,
+            "name": "General Roca",
+            "resource_uri": "/api/v1/location/82118/"
+          },
+          {
+            "id": 82119,
+            "name": "San Juan",
+            "resource_uri": "/api/v1/location/82119/"
+          },
+          {
+            "id": 82120,
+            "name": "Santa Rita",
+            "resource_uri": "/api/v1/location/82120/"
+          },
+          {
+            "id": 82121,
+            "name": "Don Bosco",
+            "resource_uri": "/api/v1/location/82121/"
+          },
+          {
+            "id": 82122,
+            "name": "Estacion Norte",
+            "resource_uri": "/api/v1/location/82122/"
+          },
+          {
+            "id": 82123,
+            "name": "Alfar",
+            "resource_uri": "/api/v1/location/82123/"
+          },
+          {
+            "id": 82124,
+            "name": "La Juanita",
+            "resource_uri": "/api/v1/location/82124/"
+          },
+          {
+            "id": 82125,
+            "name": "San Jerónimo",
+            "resource_uri": "/api/v1/location/82125/"
+          },
+          {
+            "id": 82126,
+            "name": "Aeroparque",
+            "resource_uri": "/api/v1/location/82126/"
+          },
+          {
+            "id": 82127,
+            "name": "Centenario",
+            "resource_uri": "/api/v1/location/82127/"
+          },
+          {
+            "id": 82128,
+            "name": "Camino a Necochea",
+            "resource_uri": "/api/v1/location/82128/"
+          },
+          {
+            "id": 82129,
+            "name": "Regional",
+            "resource_uri": "/api/v1/location/82129/"
+          },
+          {
+            "id": 82316,
+            "name": "Alem",
+            "resource_uri": "/api/v1/location/82316/"
+          },
+          {
+            "id": 82317,
+            "name": "Hermitage",
+            "resource_uri": "/api/v1/location/82317/"
+          },
+          {
+            "id": 82318,
+            "name": "Golf Club",
+            "resource_uri": "/api/v1/location/82318/"
+          },
+          {
+            "id": 82319,
+            "name": "Macrocentro",
+            "resource_uri": "/api/v1/location/82319/"
+          },
+          {
+            "id": 82320,
+            "name": "Parque San Martín",
+            "resource_uri": "/api/v1/location/82320/"
+          },
+          {
+            "id": 82321,
+            "name": "Shopping",
+            "resource_uri": "/api/v1/location/82321/"
+          },
+          {
+            "id": 82552,
+            "name": "las Prunas",
+            "resource_uri": "/api/v1/location/82552/"
+          },
+          {
+            "id": 82553,
+            "name": "Marayui",
+            "resource_uri": "/api/v1/location/82553/"
+          },
+          {
+            "id": 82554,
+            "name": "Museo Castagnino",
+            "resource_uri": "/api/v1/location/82554/"
+          },
+          {
+            "id": 82555,
+            "name": "Tribunales",
+            "resource_uri": "/api/v1/location/82555/"
+          },
+          {
+            "id": 82556,
+            "name": "Zona Norte",
+            "resource_uri": "/api/v1/location/82556/"
+          },
+          {
+            "id": 102435,
+            "name": "La Perla",
+            "resource_uri": "/api/v1/location/102435/"
+          },
+          {
+            "id": 102436,
+            "name": "Bernardino Rivadavia",
+            "resource_uri": "/api/v1/location/102436/"
+          },
+          {
+            "id": 102437,
+            "name": "Bosque Peralta Ramos",
+            "resource_uri": "/api/v1/location/102437/"
+          },
+          {
+            "id": 102438,
+            "name": "Terminal Vieja",
+            "resource_uri": "/api/v1/location/102438/"
+          },
+          {
+            "id": 102439,
+            "name": "Terminal Nueva",
+            "resource_uri": "/api/v1/location/102439/"
+          },
+          {
+            "id": 102456,
+            "name": "Santa Rosa del Mar",
+            "resource_uri": "/api/v1/location/102456/"
+          },
+          {
+            "id": 102457,
+            "name": "Barrio Zacagnini",
+            "resource_uri": "/api/v1/location/102457/"
+          },
+          {
+            "id": 239688,
+            "name": "Pinares de Santa Clara",
+            "resource_uri": "/api/v1/location/239688/"
+          },
+          {
+            "id": 239714,
+            "name": "La Cercania",
+            "resource_uri": "/api/v1/location/239714/"
+          },
+          {
+            "id": 254575,
+            "name": "Barrio Alvarado",
+            "resource_uri": "/api/v1/location/254575/"
+          },
+          {
+            "id": 254688,
+            "name": "Rumencó Joven",
+            "resource_uri": "/api/v1/location/254688/"
+          },
+          {
+            "id": 254690,
+            "name": "Arenas Chico",
+            "resource_uri": "/api/v1/location/254690/"
+          },
+          {
+            "id": 254691,
+            "name": "Tierra y Mar",
+            "resource_uri": "/api/v1/location/254691/"
+          },
+          {
+            "id": 254694,
+            "name": "Casonas del Haras",
+            "resource_uri": "/api/v1/location/254694/"
+          },
+          {
+            "id": 254696,
+            "name": "Colina Alegre",
+            "resource_uri": "/api/v1/location/254696/"
+          },
+          {
+            "id": 254697,
+            "name": "Faro Norte",
+            "resource_uri": "/api/v1/location/254697/"
+          },
+          {
+            "id": 255789,
+            "name": "El Jardin De Stella Maris",
+            "resource_uri": "/api/v1/location/255789/"
+          },
+          {
+            "id": 255790,
+            "name": "Lomas De Stella Maris",
+            "resource_uri": "/api/v1/location/255790/"
+          },
+          {
+            "id": 255794,
+            "name": "Tierras del Mar",
+            "resource_uri": "/api/v1/location/255794/"
+          },
+          {
+            "id": 255795,
+            "name": "Developer Aqua",
+            "resource_uri": "/api/v1/location/255795/"
+          },
+          {
+            "id": 255796,
+            "name": "Developer Park",
+            "resource_uri": "/api/v1/location/255796/"
+          },
+          {
+            "id": 256044,
+            "name": "San Patricio",
+            "resource_uri": "/api/v1/location/256044/"
+          },
+          {
+            "id": 256096,
+            "name": "San Jacinto",
+            "resource_uri": "/api/v1/location/256096/"
+          },
+          {
+            "id": 256417,
+            "name": "San Eduardo De Chapadmalal",
+            "resource_uri": "/api/v1/location/256417/"
+          },
+          {
+            "id": 256517,
+            "name": "Terralar",
+            "resource_uri": "/api/v1/location/256517/"
+          },
+          {
+            "id": 256530,
+            "name": "La Aurelia",
+            "resource_uri": "/api/v1/location/256530/"
+          },
+          {
+            "id": 569636,
+            "name": "Parque Industrial General Savio",
+            "resource_uri": "/api/v1/location/569636/"
+          },
+          {
+            "id": 569637,
+            "name": "El Jardin de Peralta Ramos",
+            "resource_uri": "/api/v1/location/569637/"
+          },
+          {
+            "id": 569664,
+            "name": "Peralta Ramos Oeste",
+            "resource_uri": "/api/v1/location/569664/"
+          },
+          {
+            "id": 570028,
+            "name": "Nueva Pompeya",
+            "resource_uri": "/api/v1/location/570028/"
+          },
+          {
+            "id": 570029,
+            "name": "La Trinidad",
+            "resource_uri": "/api/v1/location/570029/"
+          },
+          {
+            "id": 570695,
+            "name": "Las Canteras",
+            "resource_uri": "/api/v1/location/570695/"
+          },
+          {
+            "id": 570696,
+            "name": "Nuevo Golf",
+            "resource_uri": "/api/v1/location/570696/"
+          }
+        ],
+        "full_location": "Argentina | Costa Atlantica | Mar Del Plata ",
+        "id": 26624,
+        "name": "Mar Del Plata",
+        "parent_division": null,
+        "short_location": "Argentina | Costa Atlantica | Mar Del Plata ",
+        "state": "/api/v1/state/150/",
+        "weight": 3688,
+        "zip_code": ""
+      },
+      "name": "PUNTA DE ARENAS XVII - ENTRE RIOS 2650",
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69153_44918443729270258727108990349443591057092357609557160061474652185152209788384.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69153_44918443729270258727108990349443591057092357609557160061474652185152209788384.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69153_44918443729270258727108990349443591057092357609557160061474652185152209788384_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69153_77871822721105246004100998988055126381715838717761076618963081882213852334997.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69153_77871822721105246004100998988055126381715838717761076618963081882213852334997.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69153_77871822721105246004100998988055126381715838717761076618963081882213852334997_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69153_54941586523504992395077979094904141656523026156135125161287959330546341545397.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69153_54941586523504992395077979094904141656523026156135125161287959330546341545397.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69153_54941586523504992395077979094904141656523026156135125161287959330546341545397_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69153_8117027163218942424746724334409338846440482889255794118190824964894578807795.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69153_8117027163218942424746724334409338846440482889255794118190824964894578807795.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69153_8117027163218942424746724334409338846440482889255794118190824964894578807795_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69153_78963648308493944449091485239971733605562550097290351615009988186536872860728.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69153_78963648308493944449091485239971733605562550097290351615009988186536872860728.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69153_78963648308493944449091485239971733605562550097290351615009988186536872860728_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69153_4235705893576398308254929540747660019520496803785681037263971349538176386234.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69153_4235705893576398308254929540747660019520496803785681037263971349538176386234.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69153_4235705893576398308254929540747660019520496803785681037263971349538176386234_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69153_23682218307727078880674426358900156783573612321641016354710309481597605668690.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69153_23682218307727078880674426358900156783573612321641016354710309481597605668690.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69153_23682218307727078880674426358900156783573612321641016354710309481597605668690_thumb.jpg"
+        }
+      ],
+      "publication_title": "Edificio en Mar Del Plata - zona aldrey",
+      "reference_code": "OBU69153",
+      "resource_uri": "/api/v1/development/69153/",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 7,
+          "name": "Teléfono",
+          "type": 1
+        },
+        {
+          "id": 28,
+          "name": "Aire Acondicionado individual",
+          "type": 3
+        },
+        {
+          "id": 31,
+          "name": "Calefacción",
+          "type": 3
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 41,
+          "name": "SUM",
+          "type": 3
+        },
+        {
+          "id": 147,
+          "name": "Caldera",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
+        },
+        {
+          "id": 1443,
+          "name": "Agua Potable",
+          "type": 1
+        },
+        {
+          "id": 1512,
+          "name": "Calefacción individual",
+          "type": 3
+        },
+        {
+          "id": 1514,
+          "name": "Calefacción por radiadores",
+          "type": 3
+        },
+        {
+          "id": 1529,
+          "name": "Venta Directa",
+          "type": 9
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
+        }
+      ],
+      "type": {
+        "code": "BU",
+        "id": 2,
+        "name": "Edificio"
+      },
+      "users_in_charge": {
+        "cellphone": "",
+        "email": "laura@obrasdemar.com",
+        "id": 122960,
+        "name": "Laura Suarez",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "videos": [],
+      "web_url": "http://www.obrasdemar.com"
+    },
+    {
+      "address": "GUEMES 2224",
+      "branch": {
+        "address": "Guemes 2305",
+        "alternative_phone": "3424988",
+        "alternative_phone_area": "223",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "9 am a 18 pm",
+        "created_date": "2024-11-25T18:36:01",
+        "display_name": "obras de mar",
+        "email": "ventas@obrasdemar.com",
+        "geo_lat": "-38.0109258",
+        "geo_long": "-57.53803889999999",
+        "gm_location_type": "ROOFTOP",
+        "id": 79172,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+        "name": "Guemes 2305",
+        "pdf_footer_text": "",
+        "phone": "4518084",
+        "phone_area": "223",
+        "phone_country_code": "+54",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "construction_date": null,
+      "construction_status": 3,
+      "custom_tags": [],
+      "deleted_at": "2026-01-07T14:55:41",
+      "description": "Moderno edificio en construcción – Zona Güemes\n\nExclusivo edificio en construcción ubicado en una de las mejores esquinas de Mar del Plata, en Güemes 2224, a pocas cuadras del mar y del reconocido centro comercial Güemes, rodeado de bares, restaurantes y una variada propuesta gastronómica y comercial.\n\nEl proyecto se desarrolla en 17 pisos y ofrece unidades amplias y luminosas, con diseño moderno y detalles de calidad. Cuenta con ascensores de última generación, espacio de cocheras y SUM, pensado para disfrutar y compartir.\n\nDispone de departamentos de 2 y 3 ambientes, con superficies que van desde 75 m² hasta 132 m², ideales tanto para vivienda permanente como para inversión en una de las zonas más buscadas de la ciudad.\n\nUna oportunidad única de invertir en confort, ubicación y proyección.",
+      "display_on_web": true,
+      "excel_extra_headers": "[]",
+      "fake_address": "",
+      "files": [],
+      "financing_details": "",
+      "geo_lat": "-38.0105166",
+      "geo_long": "-57.5372604",
+      "id": 69155,
+      "is_starred_on_web": false,
+      "location": {
+        "divisions": [],
+        "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Guemes",
+        "id": 81269,
+        "name": "Guemes",
+        "parent_division": "/api/v1/location/26624/",
+        "short_location": "Costa Atlantica | Mar Del Plata | Guemes",
+        "state": null,
+        "weight": 1349,
+        "zip_code": null
+      },
+      "name": "PUNTA DE ARENAS X  - GUEMES Y COLÓN",
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_53854221958679025833036981506280519496668338698028448553815820580507484470881.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_53854221958679025833036981506280519496668338698028448553815820580507484470881.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_53854221958679025833036981506280519496668338698028448553815820580507484470881_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_48055513686153018685555100396715000901390476995586591571563378139974946296231.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_48055513686153018685555100396715000901390476995586591571563378139974946296231.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_48055513686153018685555100396715000901390476995586591571563378139974946296231_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_13463604352035445624365121787883242047754225368435339183000381381657654380345.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_13463604352035445624365121787883242047754225368435339183000381381657654380345.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_13463604352035445624365121787883242047754225368435339183000381381657654380345_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_115422018836219027461591193334189709704850254965077910406325803806385605300221.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_115422018836219027461591193334189709704850254965077910406325803806385605300221.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_115422018836219027461591193334189709704850254965077910406325803806385605300221_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_13761185547582326688772688514301420371853935916988330310663432418233248400691.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_13761185547582326688772688514301420371853935916988330310663432418233248400691.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_13761185547582326688772688514301420371853935916988330310663432418233248400691_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_19292944588552929014150134034336603871862288547175580438529855866977352772863.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_19292944588552929014150134034336603871862288547175580438529855866977352772863.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_19292944588552929014150134034336603871862288547175580438529855866977352772863_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_8025925623694962318941398105645304749264855274996384313302785408367311521764.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_8025925623694962318941398105645304749264855274996384313302785408367311521764.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_8025925623694962318941398105645304749264855274996384313302785408367311521764_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_70968242552669085547021400493950359149073291332977064988434864285476965238534.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_70968242552669085547021400493950359149073291332977064988434864285476965238534.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_70968242552669085547021400493950359149073291332977064988434864285476965238534_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_75113098815922344426823816468515870393148584986812945105646490610856166108640.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_75113098815922344426823816468515870393148584986812945105646490610856166108640.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_75113098815922344426823816468515870393148584986812945105646490610856166108640_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_92683716200013983837733166533776212559190862955615782996437922295020152288875.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_92683716200013983837733166533776212559190862955615782996437922295020152288875.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_92683716200013983837733166533776212559190862955615782996437922295020152288875_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_72900435656791036067083203845774021810958769321899408042112393736452965845471.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_72900435656791036067083203845774021810958769321899408042112393736452965845471.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_72900435656791036067083203845774021810958769321899408042112393736452965845471_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_38029492119245951643730371724491831480511440965901648077370807606529939004864.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_38029492119245951643730371724491831480511440965901648077370807606529939004864.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_38029492119245951643730371724491831480511440965901648077370807606529939004864_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528_thumb.jpg"
+        }
+      ],
+      "publication_title": "Edificio en Guemes",
+      "reference_code": "OBU69155",
+      "resource_uri": "/api/v1/development/69155/",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 7,
+          "name": "Teléfono",
+          "type": 1
+        },
+        {
+          "id": 31,
+          "name": "Calefacción",
+          "type": 3
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 36,
+          "name": "Quincho",
+          "type": 3
+        },
+        {
+          "id": 41,
+          "name": "SUM",
+          "type": 3
+        },
+        {
+          "id": 46,
+          "name": "Apto mascotas",
+          "type": 3
+        },
+        {
+          "id": 147,
+          "name": "Caldera",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
+        },
+        {
+          "id": 1030,
+          "name": "Cochera subterránea",
+          "type": 3
+        },
+        {
+          "id": 1248,
+          "name": "En construcción",
+          "type": 3
+        },
+        {
+          "id": 1443,
+          "name": "Agua Potable",
+          "type": 1
+        },
+        {
+          "id": 1512,
+          "name": "Calefacción individual",
+          "type": 3
+        },
+        {
+          "id": 1514,
+          "name": "Calefacción por radiadores",
+          "type": 3
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
+        },
+        {
+          "id": 1586,
+          "name": "Red de desagües pluviales",
+          "type": 1
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
+        }
+      ],
+      "type": {
+        "code": "BU",
+        "id": 2,
+        "name": "Edificio"
+      },
+      "users_in_charge": {
+        "cellphone": "",
+        "email": "laura@obrasdemar.com",
+        "id": 122960,
+        "name": "Laura Suarez",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "videos": [],
+      "web_url": "http://www.obrasdemar.com"
+    }
+  ]
+}
