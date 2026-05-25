@@ -41,6 +41,15 @@ function constructionLabel(status) {
   return CONSTRUCTION_STATUS[status] ?? (status ? String(status) : 'Emprendimiento');
 }
 
+// For ODM developments: Tokko reports status=3 ("Terminado") even for future projects.
+// If the construction date is still in the future, show "En construcción" instead.
+function odmConstructionLabel(dev) {
+  const date = dev.construction_date;
+  if (date && new Date(date) > new Date()) return 'En construcción';
+  if (dev.construction_status === 3 && !date) return 'En construcción';
+  return constructionLabel(dev.construction_status);
+}
+
 const TAG_TYPE_LABELS = {
   1: 'Servicios',
   2: 'Ambientes',
@@ -2169,19 +2178,29 @@ const ObrasDeMarLanding = () => {
   ];
 
   return (
-    <div ref={containerRef} className="bg-[#F9FAFB] pt-32 pb-24 min-h-screen">
+    <div ref={containerRef} className="bg-[#F9FAFB] pb-24 min-h-screen">
 
       {/* ── HERO ── */}
-      <section className="px-6 lg:px-12 mb-20">
-        <div className="max-w-7xl mx-auto rounded-[2rem] overflow-hidden relative h-[60vh] flex items-center justify-center shadow-2xl">
-          <img src={heroImg} alt="Obras de Mar" className="absolute inset-0 w-full h-full object-cover scale-105 transition-all duration-1000" />
-          <div className="absolute inset-0 bg-primary/70"></div>
-          <div className="relative z-10 text-center px-4">
-            <span className="odm-hero font-data tracking-widest text-xs text-white/70 mb-4 block">// DESARROLLOS EN MAR DEL PLATA</span>
-            <h1 className="odm-hero font-drama font-black text-5xl md:text-8xl text-white leading-none mb-4">Obras de Mar</h1>
-            <p className="odm-hero font-heading font-normal italic text-xl md:text-2xl text-white/80 mb-8">Invertí en pozo con el respaldo de los que saben</p>
-            <a href="#proyectos" className="odm-hero inline-block border-2 border-accent text-accent font-heading font-bold px-8 py-3 rounded-full hover:bg-accent hover:text-primary transition-all duration-300">
-              Ver proyectos ↓
+      <section className="relative h-[100dvh] w-full flex items-end pb-24 lg:pb-32 px-6 lg:px-12 overflow-hidden bg-primary mb-20">
+        <div className="absolute inset-0 z-0">
+          <img src={heroImg} alt="Obras de Mar" className="w-full h-full object-cover scale-105 origin-center opacity-80" />
+          <div className="absolute inset-0 bg-gradient-to-t from-primary via-primary/80 to-transparent"></div>
+        </div>
+        <div className="relative z-10 w-full max-w-6xl mx-auto">
+          <h1 className="text-background flex flex-col gap-4">
+            <span className="odm-hero font-drama font-black text-5xl md:text-7xl lg:text-8xl leading-none md:leading-[1.1] text-white drop-shadow-md pb-2">
+              <span className="font-normal">Invertí en pozo</span> con los que saben.
+              <div className="h-1 w-24 bg-accent mt-8 mb-2"></div>
+            </span>
+            <span className="odm-hero font-heading font-normal italic text-2xl md:text-3xl text-background/90">Desarrollos en Mar del Plata</span>
+          </h1>
+          <p className="odm-hero mt-6 text-background/80 font-heading text-lg max-w-xl">
+            Más de 30 años construyendo con Grupo Dinal. Proyectos en pozo en las mejores zonas de la Costa Atlántica.
+          </p>
+          <div className="odm-hero mt-10">
+            <a href="#proyectos" className="group inline-flex items-center gap-4 border border-white text-white px-8 py-4 rounded-full font-heading font-bold text-lg hover:border-accent hover:text-accent hover:scale-[1.02] transition-all duration-300">
+              Ver proyectos
+              <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
             </a>
           </div>
         </div>
@@ -2226,7 +2245,7 @@ const ObrasDeMarLanding = () => {
                 className="odm-scroll bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full"
               >
                 <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">
-                  {constructionLabel(dev.construction_status)}
+                  {odmConstructionLabel(dev)}
                 </div>
                 <div className="w-full h-[250px] rounded-lg overflow-hidden mb-6 relative">
                   <img
@@ -2390,7 +2409,7 @@ const ObrasDeMarPropertyDetail = () => {
     { label: 'Sup. descubierta', value: prop.unroofed_surface  ? `${prop.unroofed_surface} m²`  : null },
     { label: 'Sup. semicubierta',value: prop.semiroofed_surface ? `${prop.semiroofed_surface} m²` : null },
     { label: 'Sup. total',       value: prop.total_surface     ? `${prop.total_surface} m²`     : null },
-    { label: 'Estado',           value: prop.property_condition ?? constructionLabel(prop.construction_status) },
+    { label: 'Estado',           value: prop.property_condition ?? odmConstructionLabel(prop) },
     { label: 'Antigüedad',       value: prop.age },
     { label: 'Expensas',         value: prop.expenses ? `ARS ${Number(prop.expenses).toLocaleString('es-AR')}` : null },
   ].filter(s => s.value != null && s.value !== '' && s.value !== 0);
