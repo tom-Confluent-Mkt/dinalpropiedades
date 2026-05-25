@@ -209,6 +209,7 @@ const Navbar = () => {
         <Link to="/emprendimientos" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Emprendimientos</Link>
         <Link to="/sucursales" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Sucursales</Link>
         <Link to="/nosotros" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Nosotros</Link>
+        <span className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300 cursor-pointer">Obras de Mar</span>
       </div>
 
       <div className="hidden md:block">
@@ -232,6 +233,7 @@ const Navbar = () => {
          <Link to="/emprendimientos" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Emprendimientos</Link>
          <Link to="/sucursales" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Sucursales</Link>
          <Link to="/nosotros" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Nosotros</Link>
+         <span className="font-heading text-4xl text-primary hover:text-accent transition-colors cursor-pointer" onClick={()=>setMobileOpen(false)}>Obras de Mar</span>
          <Link to="/contacto" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Contacto</Link>
     </div>
     </>
