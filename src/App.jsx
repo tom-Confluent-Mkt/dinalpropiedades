@@ -1828,7 +1828,8 @@ const WhatsAppButton = () => {
   const [open, setOpen] = useState(false);
   const location = useLocation();
 
-  const isPropertyPage = location.pathname.startsWith('/propiedad/');
+  const isOdmPage = location.pathname.startsWith('/obras-de-mar');
+  const isPropertyPage = location.pathname.startsWith('/propiedad/') || location.pathname.startsWith('/obras-de-mar/propiedad/');
   const msg = isPropertyPage
     ? `Hola, quería más información sobre esta propiedad: ${window.location.origin}${location.pathname}`
     : 'Hola, quería realizar una consulta.';
@@ -1840,24 +1841,38 @@ const WhatsAppButton = () => {
     <div className="fixed bottom-6 right-6 z-50 flex flex-col items-end gap-3">
       {/* Tooltip */}
       <div className={`flex flex-col gap-2 transition-all duration-300 ${open ? 'opacity-100 translate-y-0 pointer-events-auto' : 'opacity-0 translate-y-2 pointer-events-none'}`}>
-        <a
-          href={waUrl('5491177170405')}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center gap-3 bg-white text-primary font-heading font-semibold text-sm px-4 py-3 rounded-2xl shadow-xl border border-primary/10 hover:border-[#25D366] hover:text-[#25D366] transition-all duration-200 whitespace-nowrap"
-        >
-          {WA_SVG}
-          Villa Ballester
-        </a>
-        <a
-          href={waUrl('5491177176007')}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center gap-3 bg-white text-primary font-heading font-semibold text-sm px-4 py-3 rounded-2xl shadow-xl border border-primary/10 hover:border-[#25D366] hover:text-[#25D366] transition-all duration-200 whitespace-nowrap"
-        >
-          {WA_SVG}
-          San Martín
-        </a>
+        {isOdmPage ? (
+          <a
+            href={waUrl('5491176027596')}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-3 bg-white text-primary font-heading font-semibold text-sm px-4 py-3 rounded-2xl shadow-xl border border-primary/10 hover:border-[#25D366] hover:text-[#25D366] transition-all duration-200 whitespace-nowrap"
+          >
+            {WA_SVG}
+            Mar del Plata
+          </a>
+        ) : (
+          <>
+            <a
+              href={waUrl('5491177170405')}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 bg-white text-primary font-heading font-semibold text-sm px-4 py-3 rounded-2xl shadow-xl border border-primary/10 hover:border-[#25D366] hover:text-[#25D366] transition-all duration-200 whitespace-nowrap"
+            >
+              {WA_SVG}
+              Villa Ballester
+            </a>
+            <a
+              href={waUrl('5491177176007')}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 bg-white text-primary font-heading font-semibold text-sm px-4 py-3 rounded-2xl shadow-xl border border-primary/10 hover:border-[#25D366] hover:text-[#25D366] transition-all duration-200 whitespace-nowrap"
+            >
+              {WA_SVG}
+              San Martín
+            </a>
+          </>
+        )}
       </div>
 
       {/* Main button */}
