@@ -32,9 +32,9 @@ const CONSTRUCTION_STATUS = {
   1: 'En pozo',
   2: 'En construcción',
   3: 'En pozo',
-  4: 'En construcción',
+  4: 'Construcción',
   5: 'Proyecto',
-  6: 'Entrega inmediata',
+  6: 'Construcción terminada',
 };
 
 function constructionLabel(status) {
