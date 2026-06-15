@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-05-25T13:44:34.910Z"
+    "lastSync": "2026-06-09T14:49:19.822Z"
   },
   "objects": [
     {
@@ -139,6 +139,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6696622,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -594,6 +622,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6696627,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -1080,6 +1136,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6756999,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -1469,6 +1553,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6881171,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-02-20T17:03:37",
+            "document_number": "",
+            "email": "laura@obrasdemar.com",
+            "id": 50627939,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "2235271809",
+            "updated_at": "2025-03-31T14:32:25",
+            "work_email": "laura@obrasdemar.com"
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -1861,6 +1973,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6881319,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "+5492235271809",
+            "created_at": "2025-01-16T17:49:56",
+            "document_number": "",
+            "email": "obrasdemar@gmail.com",
+            "id": 49583186,
+            "name": "Laura",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "+5492235271809",
+            "updated_at": "2025-04-15T18:25:26",
+            "work_email": "obrasdemar@gmail.com"
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -2188,6 +2328,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6921400,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "+5492235271809",
+            "created_at": "2025-01-16T17:49:56",
+            "document_number": "",
+            "email": "obrasdemar@gmail.com",
+            "id": 49583186,
+            "name": "Laura",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "+5492235271809",
+            "updated_at": "2025-04-15T18:25:26",
+            "work_email": "obrasdemar@gmail.com"
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -2998,6 +3166,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938514,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -4053,6 +4263,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938551,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -5188,6 +5440,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938552,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -6243,6 +6537,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938553,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -7378,6 +7714,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938554,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -8433,6 +8811,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938555,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -9555,6 +9975,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938607,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -10657,6 +11119,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938608,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -11679,6 +12183,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938609,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -12781,6 +13327,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938613,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -13883,6 +14471,48 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 6938629,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -14420,6 +15050,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7050842,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -14762,6 +15420,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7055820,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -15116,6 +15802,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7056015,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -15463,6 +16177,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059901,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -15510,7 +16252,7 @@
           "is_front_cover": true,
           "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7059901_24829512782184045383860930839417289083393283154107580989641764709273036173884.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101718594_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059901_24829512782184045383860930839417289083393283154107580989641764709273036173884_thumb.jpg"
         },
         {
@@ -15810,6 +16552,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059904,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -15857,7 +16627,7 @@
           "is_front_cover": true,
           "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7059904_5376631499107885433340960737892299019686280809469019089332769236680955982549.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101718705_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059904_5376631499107885433340960737892299019686280809469019089332769236680955982549_thumb.jpg"
         },
         {
@@ -16157,6 +16927,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059909,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -16204,7 +17002,7 @@
           "is_front_cover": true,
           "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7059909_21957910179731864548401182527994208340575880702865614012556588125176504469326.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101718725_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059909_21957910179731864548401182527994208340575880702865614012556588125176504469326_thumb.jpg"
         },
         {
@@ -16504,6 +17302,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059912,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -16551,7 +17377,7 @@
           "is_front_cover": true,
           "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7059912_47995865577772354539238788409570727814451717541273096882881352979064694314983.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101718771_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059912_47995865577772354539238788409570727814451717541273096882881352979064694314983_thumb.jpg"
         },
         {
@@ -16861,6 +17687,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059919,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -16908,7 +17762,7 @@
           "is_front_cover": true,
           "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/7059919_86807055365866028742031101753870689811150541833556179440990246093911145026903.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719050_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059919_86807055365866028742031101753870689811150541833556179440990246093911145026903_thumb.jpg"
         },
         {
@@ -17233,6 +18087,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059947,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -17280,7 +18162,7 @@
           "is_front_cover": true,
           "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/7059947_74638951373083787328816653229338258022185403729174499850201913783695135741728.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719070_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059947_74638951373083787328816653229338258022185403729174499850201913783695135741728_thumb.jpg"
         },
         {
@@ -17605,6 +18487,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059957,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -17652,7 +18562,7 @@
           "is_front_cover": true,
           "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/7059957_54764280514634003834435330739040427295914942496739872752180132113995913194133.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719313_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059957_54764280514634003834435330739040427295914942496739872752180132113995913194133_thumb.jpg"
         },
         {
@@ -17977,6 +18887,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059965,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -18024,7 +18962,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059965_52416970690121424852668041630951217531997438701819041244568400699783800546018.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719443_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059965_52416970690121424852668041630951217531997438701819041244568400699783800546018_thumb.jpg"
         },
         {
@@ -18344,6 +19282,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059972,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -18391,7 +19357,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059972_14853551289221546592196305070411185151208994090176790432244410442393579774796.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719823_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059972_14853551289221546592196305070411185151208994090176790432244410442393579774796_thumb.jpg"
         },
         {
@@ -18691,6 +19657,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059980,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -18738,7 +19732,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059980_24319970110919897033753588964311099774012264739054040915583337520521534092300.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719832_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059980_24319970110919897033753588964311099774012264739054040915583337520521534092300_thumb.jpg"
         },
         {
@@ -19043,6 +20037,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059986,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -19090,7 +20112,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059986_81408363018291301791408729672920633595025462888763639431907844745920536910718.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719954_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059986_81408363018291301791408729672920633595025462888763639431907844745920536910718_thumb.jpg"
         },
         {
@@ -19390,6 +20412,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059988,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -19437,7 +20487,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059988_9956086500697887590431109789630216749295633702774265782405040870550536138000.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719968_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059988_9956086500697887590431109789630216749295633702774265782405040870550536138000_thumb.jpg"
         },
         {
@@ -19737,6 +20787,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059989,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -19784,7 +20862,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059989_53017532317888765965508674059179911531333154302951545109122025171881071834745.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719999_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059989_53017532317888765965508674059179911531333154302951545109122025171881071834745_thumb.jpg"
         },
         {
@@ -20084,6 +21162,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059996,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -20131,7 +21237,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059996_107475278063821110951038959485113468402495454485556218382599697202145819972248.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101720136_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059996_107475278063821110951038959485113468402495454485556218382599697202145819972248_thumb.jpg"
         },
         {
@@ -20431,6 +21537,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7059999,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -20478,7 +21612,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059999_30011982908690303298309352969296467047423188063754194637539621437319822185249.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101720198_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059999_30011982908690303298309352969296467047423188063754194637539621437319822185249_thumb.jpg"
         },
         {
@@ -20778,6 +21912,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7060001,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -20825,7 +21987,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7060001_54282903540680648666728880733243358405425877006628079995016456637997381239289.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101720209_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7060001_54282903540680648666728880733243358405425877006628079995016456637997381239289_thumb.jpg"
         },
         {
@@ -21125,6 +22287,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7060005,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -21172,7 +22362,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7060005_81017678949567035089107034908116598942264518218838571628844717694899953706004.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101720218_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7060005_81017678949567035089107034908116598942264518218838571628844717694899953706004_thumb.jpg"
         },
         {
@@ -21472,6 +22662,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7060007,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -21519,7 +22737,7 @@
           "is_front_cover": true,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7060007_55180656688943854926137037659238205594248239724353111207442944343930065697241.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101720266_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7060007_55180656688943854926137037659238205594248239724353111207442944343930065697241_thumb.jpg"
         },
         {
@@ -21819,6 +23037,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7062432,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -21866,7 +23112,7 @@
           "is_front_cover": true,
           "order": 2,
           "original": "https://static.tokkobroker.com/original_pictures/7062432_18026310249486816187904443993792898223247257484311085933116137276641122948400.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101782194_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7062432_18026310249486816187904443993792898223247257484311085933116137276641122948400_thumb.jpg"
         },
         {
@@ -22138,6 +23384,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7367885,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -22185,7 +23459,7 @@
           "is_front_cover": true,
           "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/7367885_97011259732131920602758200097921464156512668771347544064291783517398881380083.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/108568862_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7367885_97011259732131920602758200097921464156512668771347544064291783517398881380083_thumb.jpg"
         },
         {
@@ -22482,6 +23756,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7453904,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -22529,7 +23831,7 @@
           "is_front_cover": true,
           "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/7453904_89379195967515912486759679898135256242613877440245401139208782325710714642698.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/110374171_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7453904_89379195967515912486759679898135256242613877440245401139208782325710714642698_thumb.jpg"
         },
         {
@@ -22831,6 +24133,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7474768,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -22878,7 +24208,7 @@
           "is_front_cover": true,
           "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/7474768_66263599635905059391999607811585937322938242113704728376630200289194977257950.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/110785147_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7474768_66263599635905059391999607811585937322938242113704728376630200289194977257950_thumb.jpg"
         },
         {
@@ -23183,6 +24513,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7561129,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -23230,7 +24588,7 @@
           "is_front_cover": true,
           "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7561129_63251251899637972733665926890491217541323676685672106753144346865899973013967.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/112616519_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7561129_63251251899637972733665926890491217541323676685672106753144346865899973013967_thumb.jpg"
         },
         {
@@ -23540,6 +24898,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7594898,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -23587,7 +24973,7 @@
           "is_front_cover": true,
           "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/7594898_23630250429525070067635812468474052252094925555674415682143364458570991033976.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/113428004_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7594898_23630250429525070067635812468474052252094925555674415682143364458570991033976_thumb.jpg"
         },
         {
@@ -23975,6 +25361,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7686369,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-09T15:41:30",
+            "document_number": "",
+            "email": "",
+            "id": 49378961,
+            "name": "Grupo Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-01-19T14:18:54",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -24377,6 +25791,34 @@
       "guests_amount": 0,
       "has_temporary_rent": false,
       "id": 7875260,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Owner",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2025-01-10T01:30:58",
+            "document_number": "",
+            "email": "",
+            "id": 49395591,
+            "name": "Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-05-13T08:51:47",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
@@ -25205,7 +26647,7 @@
           "is_front_cover": true,
           "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7875260_9567038398987919895024274894732831213987085628412649388617835827532231041148.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/119613896_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7875260_9567038398987919895024274894732831213987085628412649388617835827532231041148_thumb.jpg"
         },
         {
