@@ -31,22 +31,18 @@ gsap.registerPlugin(ScrollTrigger);
 const CONSTRUCTION_STATUS = {
   1: 'En pozo',
   2: 'En construcción',
-  3: 'Terminado',
-  4: 'Entrega inmediata',
+  3: 'En pozo',
+  4: 'En construcción',
   5: 'Proyecto',
-  6: 'En construcción',
+  6: 'Entrega inmediata',
 };
 
 function constructionLabel(status) {
   return CONSTRUCTION_STATUS[status] ?? (status ? String(status) : 'Emprendimiento');
 }
 
-// For ODM developments: Tokko reports status=3 ("Terminado") even for future projects.
-// If the construction date is still in the future, show "En construcción" instead.
+// ODM developments all use status 3 (En pozo) — same base mapping, no override needed.
 function odmConstructionLabel(dev) {
-  const date = dev.construction_date;
-  if (date && new Date(date) > new Date()) return 'En construcción';
-  if (dev.construction_status === 3 && !date) return 'En construcción';
   return constructionLabel(dev.construction_status);
 }
 
