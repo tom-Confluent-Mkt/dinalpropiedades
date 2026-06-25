@@ -524,87 +524,175 @@ const Categories = () => {
 };
 
 // ----------------------------------------------------
-// F. TOKKO PROPERTIES / LATEST LISTINGS
+// F. REUSABLE LISTING CARDS + FEATURED SLIDER
 // ----------------------------------------------------
-const PropertiesFetch = () => {
-  const [allProperties, setAllProperties] = useState([]);
+const FALLBACK_IMG = '/images/Size%20Optimized/_MG_4841.jpg';
+
+const StarBadge = () => (
+  <span className="absolute top-8 right-8 z-10 bg-accent text-primary font-heading font-bold px-2.5 py-1 rounded-sm text-[10px] uppercase tracking-wider flex items-center gap-1">
+    <Star size={11} fill="currentColor" /> Destacada
+  </span>
+);
+
+const PropertyCard = ({ prop, opType, className = '' }) => {
+  const op = prop.operations?.find(o => o.operation_type === opType) || prop.operations?.[0];
+  const price = op && op.prices?.length > 0 ? `${op.prices[0].currency} ${op.prices[0].price}` : 'Consultar';
+  return (
+    <Link to={`/propiedad/${propSlug(prop)}`} className={`${className} bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full block`}>
+      <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">{price}</div>
+      {prop.is_starred_on_web && <StarBadge />}
+      <div className="w-full h-[250px] rounded-lg overflow-hidden mb-6 relative">
+        <img src={prop.photos?.[0]?.image || FALLBACK_IMG} alt={prop.publication_title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+      </div>
+      <div className="px-2 flex-grow flex flex-col">
+        <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{prop.publication_title}</h3>
+        <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {prop.location?.name}</p>
+        <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between text-sm font-heading">
+          {prop.roofed_surface > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.roofed_surface}m²</span>}
+          {prop.bathroom_amount > 0 && <span className="flex items-center gap-1"><Bath size={16}/> {prop.bathroom_amount} Baños</span>}
+          <span className="font-bold text-primary group-hover:translate-x-1 transition-transform inline-flex items-center gap-1 ml-auto">Ver <ArrowRight size={14} /></span>
+        </div>
+      </div>
+    </Link>
+  );
+};
+
+const DevelopmentCard = ({ dev, className = '' }) => (
+  <Link to={`/propiedad/${propSlug(dev)}`} className={`${className} bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full block`}>
+    <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">{constructionLabel(dev.construction_status)}</div>
+    {dev.is_starred_on_web && <StarBadge />}
+    <div className="w-full h-[250px] rounded-lg overflow-hidden mb-6 relative">
+      <img src={dev.photos?.[0]?.image || '/images/Size%20Optimized/_MG_2516.jpg'} alt={dev.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+    </div>
+    <div className="px-2 flex-grow flex flex-col">
+      <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{dev.name}</h3>
+      <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {dev.location?.name}</p>
+      <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between">
+        <span className="font-heading font-bold text-primary">Ver Proyecto</span>
+        <ArrowRight size={18} className="text-accent group-hover:translate-x-1 transition-transform" />
+      </div>
+    </div>
+  </Link>
+);
+
+// Horizontal, swipeable slider with arrow controls (arrows appear when there's
+// more than one row's worth of cards).
+const FeaturedSlider = ({ items, renderItem }) => {
+  const trackRef = useRef(null);
+  const scrollByCard = (dir) => {
+    const el = trackRef.current;
+    if (el) el.scrollBy({ left: dir * el.clientWidth * 0.85, behavior: 'smooth' });
+  };
+  if (!items.length) return null;
+  return (
+    <div className="relative">
+      <div ref={trackRef} className="flex gap-6 overflow-x-auto snap-x snap-mandatory pb-4 -mx-1 px-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+        {items.map((item, i) => (
+          <div key={item.id ?? i} className="snap-start shrink-0 w-[88%] sm:w-[46%] lg:w-[31.5%]">
+            {renderItem(item)}
+          </div>
+        ))}
+      </div>
+      {items.length > 3 && (
+        <>
+          <button type="button" aria-label="Anterior" onClick={() => scrollByCard(-1)} className="hidden md:flex absolute -left-4 top-1/2 -translate-y-1/2 z-10 w-11 h-11 rounded-full bg-white border border-primary/15 shadow-md items-center justify-center text-primary hover:border-accent hover:text-accent transition-colors">
+            <ChevronLeft size={20} />
+          </button>
+          <button type="button" aria-label="Siguiente" onClick={() => scrollByCard(1)} className="hidden md:flex absolute -right-4 top-1/2 -translate-y-1/2 z-10 w-11 h-11 rounded-full bg-white border border-primary/15 shadow-md items-center justify-center text-primary hover:border-accent hover:text-accent transition-colors">
+            <ChevronRight size={20} />
+          </button>
+        </>
+      )}
+    </div>
+  );
+};
+
+const FEATURED_OPTIONS = [
+  { key: 'venta', label: 'Venta' },
+  { key: 'alquiler', label: 'Alquiler' },
+  { key: 'emprendimientos', label: 'Emprendimientos' },
+];
+
+// ----------------------------------------------------
+// G. OPORTUNIDADES — homepage featured slider
+// ----------------------------------------------------
+const Oportunidades = () => {
   const [properties, setProperties] = useState([]);
+  const [devs, setDevs] = useState([]);
+  const [tab, setTab] = useState('venta');
   const [loading, setLoading] = useState(true);
-  const [query, setQuery] = useState('');
 
   useEffect(() => {
-    fetchWithCache(
-      '/data/developments.json',
-      `https://tokkobroker.com/api/v1/development/?key=${import.meta.env.VITE_TOKKO_API_KEY}&lang=es_ar&format=json&limit=200`
-    ).then(all => { setAllProperties(all); setProperties(all.slice(0, 6)); })
-     .catch(err => console.error('Developments fetch error:', err))
-     .finally(() => setLoading(false));
+    Promise.all([
+      fetchWithCache('/data/properties.json', `https://tokkobroker.com/api/v1/property/?key=${import.meta.env.VITE_TOKKO_API_KEY}&lang=es_ar&format=json&limit=200`),
+      fetchWithCache('/data/developments.json', `https://tokkobroker.com/api/v1/development/?key=${import.meta.env.VITE_TOKKO_API_KEY}&lang=es_ar&format=json&limit=200`),
+    ]).then(([p, d]) => { setProperties(p); setDevs(d); })
+      .catch(err => console.error('Oportunidades fetch error:', err))
+      .finally(() => setLoading(false));
   }, []);
 
-  const handleSearch = () => {
-    const q = query.trim().toLowerCase();
-    if (!q) { setProperties(allProperties.slice(0, 6)); return; }
-    const filtered = allProperties.filter(d =>
-      (d.name ?? '').toLowerCase().includes(q) ||
-      (d.location?.name ?? '').toLowerCase().includes(q) ||
-      (d.construction_status ?? '').toLowerCase().includes(q) ||
-      (d.fake_address ?? '').toLowerCase().includes(q)
-    );
-    setProperties(filtered.slice(0, 6));
-  };
+  // Show the starred ("destacadas") of the selected category; if none are
+  // starred yet, fall back to the latest of that category so it isn't empty.
+  const items = useMemo(() => {
+    if (tab === 'emprendimientos') {
+      const starred = devs.filter(d => d.is_starred_on_web);
+      return (starred.length ? starred : devs).slice(0, 9);
+    }
+    const op = tab === 'venta' ? 'Venta' : 'Alquiler';
+    const ofType = properties.filter(p => p.operations?.some(o => o.operation_type === op));
+    const starred = ofType.filter(p => p.is_starred_on_web);
+    return (starred.length ? starred : ofType).slice(0, 9);
+  }, [tab, properties, devs]);
 
   return (
     <section id="propiedades" className="py-32 px-6 lg:px-12 bg-white relative">
-      <div className="max-w-7xl mx-auto flex flex-col gap-16">
+      <div className="max-w-7xl mx-auto flex flex-col gap-12">
 
-        <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b border-primary/10 pb-8 relative group">
-          <div className="absolute left-0 bottom-0 h-px w-0 bg-accent group-hover:w-full transition-all duration-1000 ease-in-out"></div>
+        <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b border-primary/10 pb-8">
           <div>
-            <span className="font-data text-primary/40 tracking-widest text-xs mb-4 block">// ÚLTIMOS INGRESOS</span>
-            <h2 className="font-heading font-bold text-4xl lg:text-5xl text-primary">Emprendimientos Destacados</h2>
+            <span className="font-data text-primary/40 tracking-widest text-xs mb-4 block">// DESTACADAS</span>
+            <h2 className="font-heading font-bold text-4xl lg:text-5xl text-primary">Oportunidades</h2>
           </div>
-          <Link to="/emprendimientos" className="text-primary border-b border-primary hover:border-accent transition-colors font-heading font-bold pb-1">
-            Ver todos los emprendimientos
-          </Link>
+          <div className="flex items-center gap-3">
+            <label htmlFor="oportunidades-select" className="font-data text-xs uppercase tracking-widest text-primary/40">Mostrar</label>
+            <select
+              id="oportunidades-select"
+              value={tab}
+              onChange={e => setTab(e.target.value)}
+              className="px-4 py-2.5 rounded-xl border border-primary/15 font-heading font-semibold text-sm text-primary bg-white focus:outline-none focus:border-accent transition-colors"
+            >
+              {FEATURED_OPTIONS.map(o => <option key={o.key} value={o.key}>{o.label}</option>)}
+            </select>
+          </div>
         </div>
 
-
-        {/* Tokko Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {loading ? (
-            Array(6).fill(0).map((_,i) => (
+        {loading ? (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {Array(3).fill(0).map((_, i) => (
               <div key={i} className="animate-pulse bg-background p-4 rounded-[1rem] h-[400px] border border-primary/10">
-                <div className="bg-dark/10 w-full h-[200px] rounded-lg"></div>
+                <div className="bg-dark/10 w-full h-[240px] rounded-lg"></div>
                 <div className="mt-4 bg-dark/10 h-6 w-1/2 rounded"></div>
                 <div className="mt-2 bg-dark/10 h-4 w-1/3 rounded"></div>
               </div>
-            ))
-          ) : (
-            properties.length > 0 ? (
-              properties.map(dev => (
-                <Link key={dev.id} to={`/propiedad/${propSlug(dev)}`} className="bg-background rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col block">
-                  <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">
-                    {constructionLabel(dev.construction_status)}
-                  </div>
-                  <div className="w-full h-[240px] rounded-lg overflow-hidden mb-6 relative">
-                    <img src={dev.photos[0]?.image || '/images/Size%20Optimized/_MG_2516.jpg'} alt={dev.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
-                  </div>
-                  <div className="px-2 pb-2 flex-grow flex flex-col">
-                    <h3 className="font-heading font-bold text-xl text-primary mb-1 line-clamp-2">{dev.name}</h3>
-                    <p className="font-heading text-xs text-dark/50 mb-6 flex items-center gap-1"><MapPin size={14}/> {dev.location?.name}</p>
-                    <div className="mt-auto flex items-center justify-between border-t border-primary/10 pt-4">
-                      <span className="font-heading font-bold text-primary text-sm">Ver Proyecto</span>
-                      <ArrowRight size={16} className="text-primary group-hover:translate-x-1 transition-transform" />
-                    </div>
-                  </div>
-                </Link>
-              ))
-            ) : (
-              <p className="col-span-full text-center py-20 font-heading text-xl text-dark/50">
-                No hay emprendimientos disponibles en este momento.
-              </p>
-            )
-          )}
+            ))}
+          </div>
+        ) : items.length > 0 ? (
+          <FeaturedSlider
+            items={items}
+            renderItem={item => tab === 'emprendimientos'
+              ? <DevelopmentCard dev={item} />
+              : <PropertyCard prop={item} opType={tab === 'venta' ? 'Venta' : 'Alquiler'} />}
+          />
+        ) : (
+          <p className="text-center py-20 font-heading text-xl text-dark/50">
+            No hay oportunidades en esta categoría por ahora.
+          </p>
+        )}
+
+        <div className="flex justify-center">
+          <Link to={tab === 'emprendimientos' ? '/emprendimientos' : `/${tab}`} className="text-primary border-b border-primary hover:border-accent hover:text-accent transition-colors font-heading font-bold pb-1">
+            Ver todo en {FEATURED_OPTIONS.find(o => o.key === tab)?.label}
+          </Link>
         </div>
       </div>
     </section>
@@ -875,6 +963,7 @@ const Emprendimientos = () => {
   const containerRef = useRef(null);
   const [devs, setDevs] = useState([]);
   const [loading, setLoading] = useState(true);
+  const { filtered, filterProps } = useDevelopmentFilters(devs);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -912,7 +1001,7 @@ const Emprendimientos = () => {
     fetchWithCache(
       '/data/developments.json',
       `https://tokkobroker.com/api/v1/development/?key=${import.meta.env.VITE_TOKKO_API_KEY}&lang=es_ar&format=json&limit=100`
-    ).then(all => setDevs(all.slice(0, 9)))
+    ).then(all => setDevs(all))
      .catch(err => console.error('Developments fetch error:', err))
      .finally(() => setLoading(false));
   }, []);
@@ -958,6 +1047,7 @@ const Emprendimientos = () => {
            <h2 className="emp-scroll font-drama text-4xl text-primary">Catálogo de Proyectos</h2>
         </div>
 
+        {!loading && devs.length > 0 && <DevelopmentFilters {...filterProps} />}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {loading ? (
              Array(3).fill(0).map((_,i) => (
@@ -967,26 +1057,16 @@ const Emprendimientos = () => {
                  <div className="mt-2 bg-dark/10 h-4 w-1/2 rounded"></div>
                </div>
              ))
-          ) : devs.length > 0 ? (
-             devs.map(dev => (
-                 <Link key={dev.id} to={`/propiedad/${propSlug(dev)}`} className="emp-scroll bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full block">
-                   <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">
-                     {constructionLabel(dev.construction_status)}
-                   </div>
-                   <div className="w-full h-[250px] rounded-lg overflow-hidden mb-6 relative">
-                     <img src={dev.photos[0]?.image || '/images/Size%20Optimized/_MG_2516.jpg'} alt={dev.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
-                   </div>
-                   <div className="px-2 flex-grow flex flex-col">
-                     <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{dev.name}</h3>
-                     <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {dev.location?.name}</p>
-                     
-                     <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between">
-                        <span className="font-heading font-bold text-primary">Ver Proyecto</span>
-                        <ArrowRight size={18} className="text-accent group-hover:translate-x-1 transition-transform" />
-                     </div>
-                   </div>
-                 </Link>
+          ) : filtered.length > 0 ? (
+             filtered.map(dev => (
+               <DevelopmentCard key={dev.id} dev={dev} className="emp-scroll" />
              ))
+          ) : filterProps.active ? (
+            <div className="col-span-full py-20 text-center flex flex-col items-center">
+               <Search size={48} className="text-primary/20 mb-4" />
+               <p className="font-heading text-xl text-dark/50">No encontramos proyectos con esos filtros.</p>
+               <button type="button" onClick={filterProps.reset} className="font-heading text-accent mt-2 hover:underline">Limpiar filtros</button>
+            </div>
           ) : (
             <div className="col-span-full py-20 text-center flex flex-col items-center">
                <Building size={48} className="text-primary/20 mb-4" />
@@ -1124,6 +1204,90 @@ const PropertyFilters = ({
 };
 
 // ----------------------------------------------------
+// Development (emprendimientos) filter bar
+// Developments are all "Edificio" type, so they filter by construction
+// stage + zone + text rather than rooms/baths.
+// ----------------------------------------------------
+function useDevelopmentFilters(devs) {
+  const [stage, setStage] = useState('');
+  const [zone, setZone] = useState('');
+  const [query, setQuery] = useState('');
+
+  const stages = useMemo(
+    () => [...new Set(devs.map(d => constructionLabel(d.construction_status)).filter(Boolean))].sort(),
+    [devs]
+  );
+  const zones = useMemo(
+    () => [...new Set(devs.map(d => d.location?.name).filter(Boolean))].sort(),
+    [devs]
+  );
+
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return devs.filter(d => {
+      if (stage && constructionLabel(d.construction_status) !== stage) return false;
+      if (zone && d.location?.name !== zone) return false;
+      if (q) {
+        const hay = `${d.name || ''} ${d.publication_title || ''} ${d.location?.name || ''} ${d.address || ''}`.toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+  }, [devs, stage, zone, query]);
+
+  const reset = () => { setStage(''); setZone(''); setQuery(''); };
+  const active = Boolean(stage || zone || query);
+
+  return {
+    filtered,
+    filterProps: { stage, setStage, zone, setZone, query, setQuery, stages, zones, reset, active, count: filtered.length },
+  };
+}
+
+const DevelopmentFilters = ({
+  stage, setStage, zone, setZone, query, setQuery, stages, zones, reset, active, count,
+}) => {
+  const pill = (selected) => `px-3 py-1.5 rounded-full font-heading text-sm border transition-colors ${selected ? 'bg-primary text-white border-primary' : 'bg-white text-primary border-primary/15 hover:border-accent'}`;
+
+  return (
+    <div className="emp-scroll bg-white rounded-2xl border border-primary/10 shadow-sm p-5 md:p-6 mb-12">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="relative">
+          <Search size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-primary/40" />
+          <input
+            value={query}
+            onChange={e => setQuery(e.target.value)}
+            placeholder="Buscar por nombre o dirección…"
+            className="w-full pl-10 pr-4 py-3 rounded-xl border border-primary/15 font-heading text-sm text-primary focus:outline-none focus:border-accent transition-colors"
+          />
+        </div>
+        <select value={zone} onChange={e => setZone(e.target.value)} className="w-full px-4 py-3 rounded-xl border border-primary/15 font-heading text-sm text-primary bg-white focus:outline-none focus:border-accent transition-colors" aria-label="Zona">
+          <option value="">Todas las zonas</option>
+          {zones.map(z => <option key={z} value={z}>{z}</option>)}
+        </select>
+      </div>
+
+      <div className="flex flex-wrap items-center gap-x-8 gap-y-4 mt-5">
+        <div className="flex items-center gap-2">
+          <span className="font-data text-xs uppercase tracking-widest text-primary/40 mr-1">Estado de obra</span>
+          {stages.map(s => (
+            <button key={s} type="button" onClick={() => setStage(stage === s ? '' : s)} className={pill(stage === s)}>{s}</button>
+          ))}
+        </div>
+        <div className="ml-auto flex items-center gap-4">
+          <span className="font-heading text-sm text-dark/50">{count} {count === 1 ? 'proyecto' : 'proyectos'}</span>
+          {active && (
+            <button type="button" onClick={reset} className="font-heading text-sm text-primary hover:text-accent inline-flex items-center gap-1 transition-colors">
+              <X size={14} /> Limpiar filtros
+            </button>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+// ----------------------------------------------------
 // J. ALQUILER PAGE
 // ----------------------------------------------------
 const Alquiler = () => {
@@ -1189,6 +1353,15 @@ const Alquiler = () => {
         </div>
       </section>
 
+      {!loading && properties.some(p => p.is_starred_on_web) && (
+        <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
+          <div className="flex items-end justify-between mb-10 border-b border-primary/10 pb-6">
+             <h2 className="alq-scroll font-drama text-4xl text-primary">Destacadas</h2>
+          </div>
+          <FeaturedSlider items={properties.filter(p => p.is_starred_on_web)} renderItem={p => <PropertyCard prop={p} opType="Alquiler" />} />
+        </section>
+      )}
+
       <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
            <h2 className="alq-scroll font-drama text-4xl text-primary">Propiedades en Alquiler</h2>
@@ -1203,27 +1376,9 @@ const Alquiler = () => {
                </div>
              ))
           ) : filtered.length > 0 ? (
-             filtered.map(prop => {
-                 const op = prop.operations.find(o => o.operation_type === "Alquiler");
-                 const price = op && op.prices.length > 0 ? `${op.prices[0].currency} ${op.prices[0].price}` : 'Consultar';
-                 return (
-                 <Link key={prop.id} to={`/propiedad/${propSlug(prop)}`} className="alq-scroll bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full block">
-                   <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">{price}</div>
-                   <div className="w-full h-[250px] rounded-lg overflow-hidden mb-6 relative">
-                     <img src={prop.photos[0]?.image || '/images/Size%20Optimized/_MG_4841.jpg'} alt={prop.publication_title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
-                   </div>
-                   <div className="px-2 flex-grow flex flex-col">
-                     <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{prop.publication_title}</h3>
-                     <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {prop.location?.name}</p>
-                     <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between text-sm font-heading">
-                        {prop.roofed_surface > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.roofed_surface}m²</span>}
-                        {prop.bathroom_amount > 0 && <span className="flex items-center gap-1"><Bath size={16}/> {prop.bathroom_amount} Baños</span>}
-                        <span className="font-bold text-primary group-hover:translate-x-1 transition-transform inline-flex items-center gap-1 ml-auto">Ver <ArrowRight size={14} /></span>
-                     </div>
-                   </div>
-                 </Link>
-                 );
-             })
+             filtered.map(prop => (
+               <PropertyCard key={prop.id} prop={prop} opType="Alquiler" className="alq-scroll" />
+             ))
           ) : filterProps.active ? (
             <div className="col-span-full py-20 text-center flex flex-col items-center">
                <Search size={48} className="text-primary/20 mb-4" />
@@ -1321,6 +1476,15 @@ const Ventas = () => {
         </div>
       </section>
 
+      {!loading && properties.some(p => p.is_starred_on_web) && (
+        <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
+          <div className="flex items-end justify-between mb-10 border-b border-primary/10 pb-6">
+             <h2 className="vnt-scroll font-drama text-4xl text-primary">Destacadas</h2>
+          </div>
+          <FeaturedSlider items={properties.filter(p => p.is_starred_on_web)} renderItem={p => <PropertyCard prop={p} opType="Venta" />} />
+        </section>
+      )}
+
       <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
            <h2 className="vnt-scroll font-drama text-4xl text-primary">Propiedades en Venta</h2>
@@ -1335,27 +1499,9 @@ const Ventas = () => {
                </div>
              ))
           ) : filtered.length > 0 ? (
-             filtered.map(prop => {
-                 const op = prop.operations.find(o => o.operation_type === "Venta");
-                 const price = op && op.prices.length > 0 ? `${op.prices[0].currency} ${op.prices[0].price}` : 'Consultar';
-                 return (
-                 <Link key={prop.id} to={`/propiedad/${propSlug(prop)}`} className="vnt-scroll bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full block">
-                   <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">{price}</div>
-                   <div className="w-full h-[250px] rounded-lg overflow-hidden mb-6 relative">
-                     <img src={prop.photos[0]?.image || '/images/Size%20Optimized/_MG_1122.jpg'} alt={prop.publication_title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
-                   </div>
-                   <div className="px-2 flex-grow flex flex-col">
-                     <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{prop.publication_title}</h3>
-                     <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {prop.location?.name}</p>
-                     <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between text-sm font-heading">
-                        {prop.roofed_surface > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.roofed_surface}m²</span>}
-                        {prop.bathroom_amount > 0 && <span className="flex items-center gap-1"><Bath size={16}/> {prop.bathroom_amount} Baños</span>}
-                        <span className="font-bold text-primary group-hover:translate-x-1 transition-transform inline-flex items-center gap-1 ml-auto">Ver <ArrowRight size={14} /></span>
-                     </div>
-                   </div>
-                 </Link>
-                 );
-             })
+             filtered.map(prop => (
+               <PropertyCard key={prop.id} prop={prop} opType="Venta" className="vnt-scroll" />
+             ))
           ) : filterProps.active ? (
             <div className="col-span-full py-20 text-center flex flex-col items-center">
                <Search size={48} className="text-primary/20 mb-4" />
@@ -1511,7 +1657,7 @@ const Home = () => (
     <Features />
     <Philosophy />
     <Categories />
-    <PropertiesFetch />
+    <Oportunidades />
   </>
 );
 
