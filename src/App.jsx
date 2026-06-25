@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState, useLayoutEffect, createContext, useContext } from 'react';
+import { useEffect, useRef, useState, useLayoutEffect, useMemo, createContext, useContext } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, useLocation, useParams, useNavigate } from 'react-router-dom';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
@@ -1017,12 +1017,120 @@ const Emprendimientos = () => {
 };
 
 // ----------------------------------------------------
+// Shared property filter bar (used by Venta + Alquiler)
+// ----------------------------------------------------
+const ROOM_OPTIONS = [1, 2, 3, 4];
+const BATH_OPTIONS = [1, 2, 3];
+
+// Derives the available filter options from the listing set and returns the
+// filtered results plus everything <PropertyFilters/> needs to render.
+function usePropertyFilters(properties) {
+  const [type, setType] = useState('');
+  const [location, setLocation] = useState('');
+  const [rooms, setRooms] = useState(0);
+  const [baths, setBaths] = useState(0);
+  const [query, setQuery] = useState('');
+
+  const types = useMemo(
+    () => [...new Set(properties.map(p => p.type?.name).filter(Boolean))].sort(),
+    [properties]
+  );
+  const locations = useMemo(
+    () => [...new Set(properties.map(p => p.location?.name).filter(Boolean))].sort(),
+    [properties]
+  );
+
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return properties.filter(p => {
+      if (type && p.type?.name !== type) return false;
+      if (location && p.location?.name !== location) return false;
+      if (rooms && (p.room_amount || 0) < rooms) return false;
+      if (baths && (p.bathroom_amount || 0) < baths) return false;
+      if (q) {
+        const hay = `${p.publication_title || ''} ${p.location?.name || ''} ${p.address || ''}`.toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+  }, [properties, type, location, rooms, baths, query]);
+
+  const reset = () => { setType(''); setLocation(''); setRooms(0); setBaths(0); setQuery(''); };
+  const active = Boolean(type || location || rooms || baths || query);
+
+  return {
+    filtered,
+    filterProps: {
+      type, setType, location, setLocation, rooms, setRooms, baths, setBaths,
+      query, setQuery, types, locations, reset, active, count: filtered.length,
+    },
+  };
+}
+
+const PropertyFilters = ({
+  prefix = 'prop', type, setType, location, setLocation, rooms, setRooms,
+  baths, setBaths, query, setQuery, types, locations, reset, active, count,
+}) => {
+  const selectCls = "w-full px-4 py-3 rounded-xl border border-primary/15 font-heading text-sm text-primary bg-white focus:outline-none focus:border-accent transition-colors";
+  const pill = (selected) => `px-3 py-1.5 rounded-full font-heading text-sm border transition-colors ${selected ? 'bg-primary text-white border-primary' : 'bg-white text-primary border-primary/15 hover:border-accent'}`;
+  const toggle = (current, value, setter) => setter(current === value ? 0 : value);
+
+  return (
+    <div className={`${prefix}-scroll bg-white rounded-2xl border border-primary/10 shadow-sm p-5 md:p-6 mb-12`}>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="lg:col-span-2 relative">
+          <Search size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-primary/40" />
+          <input
+            value={query}
+            onChange={e => setQuery(e.target.value)}
+            placeholder="Buscar por título, zona o dirección…"
+            className="w-full pl-10 pr-4 py-3 rounded-xl border border-primary/15 font-heading text-sm text-primary focus:outline-none focus:border-accent transition-colors"
+          />
+        </div>
+        <select value={type} onChange={e => setType(e.target.value)} className={selectCls} aria-label="Tipo de propiedad">
+          <option value="">Todos los tipos</option>
+          {types.map(t => <option key={t} value={t}>{t}</option>)}
+        </select>
+        <select value={location} onChange={e => setLocation(e.target.value)} className={selectCls} aria-label="Zona">
+          <option value="">Todas las zonas</option>
+          {locations.map(l => <option key={l} value={l}>{l}</option>)}
+        </select>
+      </div>
+
+      <div className="flex flex-wrap items-center gap-x-8 gap-y-4 mt-5">
+        <div className="flex items-center gap-2">
+          <span className="font-data text-xs uppercase tracking-widest text-primary/40 mr-1">Ambientes</span>
+          {ROOM_OPTIONS.map(n => (
+            <button key={n} type="button" onClick={() => toggle(rooms, n, setRooms)} className={pill(rooms === n)}>{n}+</button>
+          ))}
+        </div>
+        <div className="flex items-center gap-2">
+          <span className="font-data text-xs uppercase tracking-widest text-primary/40 mr-1">Baños</span>
+          {BATH_OPTIONS.map(n => (
+            <button key={n} type="button" onClick={() => toggle(baths, n, setBaths)} className={pill(baths === n)}>{n}+</button>
+          ))}
+        </div>
+        <div className="ml-auto flex items-center gap-4">
+          <span className="font-heading text-sm text-dark/50">{count} {count === 1 ? 'resultado' : 'resultados'}</span>
+          {active && (
+            <button type="button" onClick={reset} className="font-heading text-sm text-primary hover:text-accent inline-flex items-center gap-1 transition-colors">
+              <X size={14} /> Limpiar filtros
+            </button>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+// ----------------------------------------------------
 // J. ALQUILER PAGE
 // ----------------------------------------------------
 const Alquiler = () => {
   const containerRef = useRef(null);
   const [properties, setProperties] = useState([]);
   const [loading, setLoading] = useState(true);
+  const { filtered, filterProps } = usePropertyFilters(properties);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -1044,7 +1152,7 @@ const Alquiler = () => {
       `https://tokkobroker.com/api/v1/property/?key=${import.meta.env.VITE_TOKKO_API_KEY}&lang=es_ar&format=json&limit=200`
     ).then(all => {
         const rentals = all.filter(p => p.operations?.some(op => op.operation_type === 'Alquiler'));
-        setProperties(rentals.slice(0, 9));
+        setProperties(rentals);
       })
      .catch(err => console.error(err))
      .finally(() => setLoading(false));
@@ -1070,7 +1178,6 @@ const Alquiler = () => {
            {[ 
              { title: "Residencial", desc: "Casas y departamentos en excelentes condiciones para vos y tu familia.", badge: "Vivienda" },
              { title: "Comercial", desc: "Locales y oficinas estratégicamente ubicados para potenciar tu negocio.", badge: "Negocios" },
-             { title: "Temporario", desc: "Unidades amobladas y equipadas para estadías cortas o relocalizaciones.", badge: "Flexibilidad" },
              { title: "Garantías", desc: "Te brindamos asesoramiento permanente para que el proceso sea 100% seguro.", badge: "Legal" }
            ].map((cat, i) => (
              <div key={i} className="alq-scroll bg-white p-6 rounded-2xl border border-primary/10 hover:border-accent hover:-translate-y-1 transition-all shadow-sm">
@@ -1086,6 +1193,7 @@ const Alquiler = () => {
         <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
            <h2 className="alq-scroll font-drama text-4xl text-primary">Propiedades en Alquiler</h2>
         </div>
+        {!loading && properties.length > 0 && <PropertyFilters prefix="alq" {...filterProps} />}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {loading ? (
              Array(3).fill(0).map((_,i) => (
@@ -1094,8 +1202,8 @@ const Alquiler = () => {
                  <div className="mt-4 bg-dark/10 h-6 w-3/4 rounded"></div>
                </div>
              ))
-          ) : properties.length > 0 ? (
-             properties.map(prop => {
+          ) : filtered.length > 0 ? (
+             filtered.map(prop => {
                  const op = prop.operations.find(o => o.operation_type === "Alquiler");
                  const price = op && op.prices.length > 0 ? `${op.prices[0].currency} ${op.prices[0].price}` : 'Consultar';
                  return (
@@ -1116,6 +1224,12 @@ const Alquiler = () => {
                  </Link>
                  );
              })
+          ) : filterProps.active ? (
+            <div className="col-span-full py-20 text-center flex flex-col items-center">
+               <Search size={48} className="text-primary/20 mb-4" />
+               <p className="font-heading text-xl text-dark/50">No encontramos alquileres con esos filtros.</p>
+               <button type="button" onClick={filterProps.reset} className="font-heading text-accent mt-2 hover:underline">Limpiar filtros</button>
+            </div>
           ) : (
             <div className="col-span-full py-20 text-center flex flex-col items-center">
                <Building size={48} className="text-primary/20 mb-4" />
@@ -1147,6 +1261,7 @@ const Ventas = () => {
   const containerRef = useRef(null);
   const [properties, setProperties] = useState([]);
   const [loading, setLoading] = useState(true);
+  const { filtered, filterProps } = usePropertyFilters(properties);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -1168,7 +1283,7 @@ const Ventas = () => {
       `https://tokkobroker.com/api/v1/property/?key=${import.meta.env.VITE_TOKKO_API_KEY}&lang=es_ar&format=json&limit=200`
     ).then(all => {
         const sales = all.filter(p => p.operations?.some(op => op.operation_type === 'Venta'));
-        setProperties(sales.slice(0, 9));
+        setProperties(sales);
       })
      .catch(err => console.error(err))
      .finally(() => setLoading(false));
@@ -1210,6 +1325,7 @@ const Ventas = () => {
         <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
            <h2 className="vnt-scroll font-drama text-4xl text-primary">Propiedades en Venta</h2>
         </div>
+        {!loading && properties.length > 0 && <PropertyFilters prefix="vnt" {...filterProps} />}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {loading ? (
              Array(3).fill(0).map((_,i) => (
@@ -1218,8 +1334,8 @@ const Ventas = () => {
                  <div className="mt-4 bg-dark/10 h-6 w-3/4 rounded"></div>
                </div>
              ))
-          ) : properties.length > 0 ? (
-             properties.map(prop => {
+          ) : filtered.length > 0 ? (
+             filtered.map(prop => {
                  const op = prop.operations.find(o => o.operation_type === "Venta");
                  const price = op && op.prices.length > 0 ? `${op.prices[0].currency} ${op.prices[0].price}` : 'Consultar';
                  return (
@@ -1240,6 +1356,12 @@ const Ventas = () => {
                  </Link>
                  );
              })
+          ) : filterProps.active ? (
+            <div className="col-span-full py-20 text-center flex flex-col items-center">
+               <Search size={48} className="text-primary/20 mb-4" />
+               <p className="font-heading text-xl text-dark/50">No encontramos propiedades con esos filtros.</p>
+               <button type="button" onClick={filterProps.reset} className="font-heading text-accent mt-2 hover:underline">Limpiar filtros</button>
+            </div>
           ) : (
             <div className="col-span-full py-20 text-center flex flex-col items-center">
                <Building size={48} className="text-primary/20 mb-4" />
@@ -1291,7 +1413,7 @@ const Sucursales = () => {
       phone: "+54 9 11 7717-0405",
       whatsapp: "5491177170405",
       mapUrl: "https://www.google.com/maps/search/?api=1&query=Almirante+Brown+3295,+Villa+Ballester",
-      hours: "Lunes a Viernes: 9:30 a 18:30hs. Sábados: 10 a 13hs.",
+      hours: "Lunes a Viernes: 10 a 13hs y 14 a 18:30hs.",
       img: "/images/Size%20Optimized/_MG_1718.jpg"
     },
     {
@@ -1301,7 +1423,7 @@ const Sucursales = () => {
       phone: "+54 9 11 7717-6007",
       whatsapp: "5491177176007",
       mapUrl: "https://www.google.com/maps/search/?api=1&query=Mitre+3404,+San+Martin",
-      hours: "Lunes a Viernes: 9:30 a 18:30hs. Sábados: 10 a 13hs.",
+      hours: "Lunes a Viernes: 10 a 13hs y 14 a 18:30hs.",
       img: "/images/Size%20Optimized/_MG_2462.jpg"
     }
   ];
