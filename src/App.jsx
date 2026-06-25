@@ -431,17 +431,17 @@ const Categories = () => {
 
   const categories = [
     {
-      title: "Casas & Residencias",
+      title: "Casas & Departamentos",
       desc: "Espacios diseñados para habitar y disfrutar. Conectando familias con su lugar ideal en el mundo.",
       img: "/images/Size%20Optimized/_MG_1702.jpg",
       tags: ["+150 Disponibles", "A Estrenar", "Barrios Cerrados"],
       link: "/venta"
     },
     {
-      title: "Departamentos",
-      desc: "Ubicaciones estratégicas, vistas panorámicas y la comodidad de vivir a un paso de todo.",
+      title: "Alquileres",
+      desc: "Opciones residenciales y comerciales con un trato transparente y asesoramiento permanente en cada paso.",
       img: "/images/Size%20Optimized/_MG_1211.jpg",
-      tags: ["Oportunidad", "Monoambientes", "Penthouses"],
+      tags: ["Residencial", "Comercial", "Con Garantía"],
       link: "/alquiler"
     },
     {
