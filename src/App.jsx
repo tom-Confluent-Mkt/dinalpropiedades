@@ -1174,7 +1174,7 @@ const Alquiler = () => {
 
       <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <h2 className="alq-scroll font-heading font-bold text-3xl text-primary mb-12 text-center">Nuestras Opciones</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
            {[ 
              { title: "Residencial", desc: "Casas y departamentos en excelentes condiciones para vos y tu familia.", badge: "Vivienda" },
              { title: "Comercial", desc: "Locales y oficinas estratégicamente ubicados para potenciar tu negocio.", badge: "Negocios" },
