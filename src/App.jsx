@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Routes, Route, Link, useLocation, useParams, u
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Building, MapPin, Compass, Search, Phone, Mail, ArrowRight, Menu, X, Clock, Bed, Bath, ArrowLeft, ChevronLeft, ChevronRight, Droplets, Flame, Zap, Wifi, Tv, Thermometer, Trees, Package, DoorOpen, Users, Waves, Wind, Sun, Shield, Dumbbell, Bell, Car, FileText, TrendingUp, Check, Utensils, Home as HomeIcon, Leaf, Sofa, Shirt, Star } from 'lucide-react';
+import sucursalBallester from './assets/Dinal-Ballester.jpg';
+import sucursalSanMartin from './assets/San-martin.jpg';
 
 const PropertyCtx = createContext({ address: null, setAddress: () => {} });
 
@@ -1548,7 +1550,7 @@ const Sucursales = () => {
       whatsapp: "5491177170405",
       mapUrl: "https://www.google.com/maps/search/?api=1&query=Almirante+Brown+3295,+Villa+Ballester",
       hours: "Lunes a Viernes: 10 a 13hs y 14 a 18:30hs.",
-      img: "/images/Size%20Optimized/_MG_1718.jpg"
+      img: sucursalBallester
     },
     {
       id: "sanmartin",
@@ -1558,7 +1560,7 @@ const Sucursales = () => {
       whatsapp: "5491177176007",
       mapUrl: "https://www.google.com/maps/search/?api=1&query=Mitre+3404,+San+Martin",
       hours: "Lunes a Viernes: 10 a 13hs y 14 a 18:30hs.",
-      img: "/images/Size%20Optimized/_MG_2462.jpg"
+      img: sucursalSanMartin
     }
   ];
 
