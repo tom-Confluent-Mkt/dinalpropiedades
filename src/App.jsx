@@ -1210,15 +1210,10 @@ const PropertyFilters = ({
 // ----------------------------------------------------
 function useDevelopmentFilters(devs) {
   const [stage, setStage] = useState('');
-  const [zone, setZone] = useState('');
   const [query, setQuery] = useState('');
 
   const stages = useMemo(
     () => [...new Set(devs.map(d => constructionLabel(d.construction_status)).filter(Boolean))].sort(),
-    [devs]
-  );
-  const zones = useMemo(
-    () => [...new Set(devs.map(d => d.location?.name).filter(Boolean))].sort(),
     [devs]
   );
 
@@ -1226,45 +1221,38 @@ function useDevelopmentFilters(devs) {
     const q = query.trim().toLowerCase();
     return devs.filter(d => {
       if (stage && constructionLabel(d.construction_status) !== stage) return false;
-      if (zone && d.location?.name !== zone) return false;
       if (q) {
         const hay = `${d.name || ''} ${d.publication_title || ''} ${d.location?.name || ''} ${d.address || ''}`.toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
     });
-  }, [devs, stage, zone, query]);
+  }, [devs, stage, query]);
 
-  const reset = () => { setStage(''); setZone(''); setQuery(''); };
-  const active = Boolean(stage || zone || query);
+  const reset = () => { setStage(''); setQuery(''); };
+  const active = Boolean(stage || query);
 
   return {
     filtered,
-    filterProps: { stage, setStage, zone, setZone, query, setQuery, stages, zones, reset, active, count: filtered.length },
+    filterProps: { stage, setStage, query, setQuery, stages, reset, active, count: filtered.length },
   };
 }
 
 const DevelopmentFilters = ({
-  stage, setStage, zone, setZone, query, setQuery, stages, zones, reset, active, count,
+  stage, setStage, query, setQuery, stages, reset, active, count,
 }) => {
   const pill = (selected) => `px-3 py-1.5 rounded-full font-heading text-sm border transition-colors ${selected ? 'bg-primary text-white border-primary' : 'bg-white text-primary border-primary/15 hover:border-accent'}`;
 
   return (
     <div className="emp-scroll bg-white rounded-2xl border border-primary/10 shadow-sm p-5 md:p-6 mb-12">
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <div className="relative">
-          <Search size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-primary/40" />
-          <input
-            value={query}
-            onChange={e => setQuery(e.target.value)}
-            placeholder="Buscar por nombre o dirección…"
-            className="w-full pl-10 pr-4 py-3 rounded-xl border border-primary/15 font-heading text-sm text-primary focus:outline-none focus:border-accent transition-colors"
-          />
-        </div>
-        <select value={zone} onChange={e => setZone(e.target.value)} className="w-full px-4 py-3 rounded-xl border border-primary/15 font-heading text-sm text-primary bg-white focus:outline-none focus:border-accent transition-colors" aria-label="Zona">
-          <option value="">Todas las zonas</option>
-          {zones.map(z => <option key={z} value={z}>{z}</option>)}
-        </select>
+      <div className="relative">
+        <Search size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-primary/40" />
+        <input
+          value={query}
+          onChange={e => setQuery(e.target.value)}
+          placeholder="Buscar por nombre o dirección…"
+          className="w-full pl-10 pr-4 py-3 rounded-xl border border-primary/15 font-heading text-sm text-primary focus:outline-none focus:border-accent transition-colors"
+        />
       </div>
 
       <div className="flex flex-wrap items-center gap-x-8 gap-y-4 mt-5">
