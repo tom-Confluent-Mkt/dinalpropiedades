@@ -1325,7 +1325,7 @@ const TerminadoDetail = () => {
       const res = await fetch(`https://tokkobroker.com/api/v1/property/contact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name: formData.name, email: formData.email, phone: formData.phone, message: formData.message || `Consulta sobre ${dev.name}`, property_id: 0 }),
+        body: JSON.stringify({ name: formData.name, email: formData.email, phone: formData.phone, message: formData.message || `Consulta sobre nuevos proyectos (referencia: ${dev.name})`, property_id: 0 }),
       });
       setSubmitStatus(res.ok ? 'ok' : 'error');
     } catch { setSubmitStatus('error'); }
@@ -1461,8 +1461,12 @@ const TerminadoDetail = () => {
 
             {/* Contact form */}
             <div className="bg-white rounded-2xl p-6 border border-primary/10 shadow-sm sticky top-28">
-              <h3 className="font-heading font-bold text-primary text-lg mb-1">¿Te interesa este proyecto?</h3>
-              <p className="font-heading text-dark/50 text-sm mb-6">Consultá con nuestros asesores.</p>
+              <div className="bg-accent/15 border border-accent/30 rounded-xl px-4 py-3 mb-5">
+                <p className="font-heading font-bold text-primary text-sm leading-snug">Todas las unidades de este proyecto fueron vendidas.</p>
+                <p className="font-heading text-dark/60 text-sm mt-1">Consultanos para enterarte de nuestros nuevos proyectos.</p>
+              </div>
+              <h3 className="font-heading font-bold text-primary text-lg mb-1">¿Querés conocer otros proyectos?</h3>
+              <p className="font-heading text-dark/50 text-sm mb-6">Dejanos tus datos y te contamos las novedades.</p>
               {submitStatus === 'ok' ? (
                 <div className="text-center py-8">
                   <div className="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center mx-auto mb-3"><Check size={24} className="text-primary" /></div>
@@ -1484,7 +1488,7 @@ const TerminadoDetail = () => {
                   ))}
                   <div>
                     <label className="font-data text-xs text-dark/40 tracking-widest uppercase mb-1 block">Mensaje</label>
-                    <textarea name="message" rows={3} value={formData.message} onChange={handleField} placeholder={`Consulta sobre ${dev.name}`}
+                    <textarea name="message" rows={3} value={formData.message} onChange={handleField} placeholder="¿Sobre qué tipo de proyecto querés saber más?"
                       className="w-full border border-primary/15 rounded-xl px-4 py-3 font-heading text-sm focus:outline-none focus:border-accent transition-colors resize-none" />
                   </div>
                   {submitStatus === 'error' && <p className="font-heading text-red-500 text-sm">Hubo un error. Intentá de nuevo.</p>}
