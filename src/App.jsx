@@ -961,6 +961,7 @@ const Footer = () => {
 // ----------------------------------------------------
 // I. EMPRENDIMIENTOS PAGE
 // ----------------------------------------------------
+const T = '/images/terminados/';
 const STATIC_TERMINADOS = [
   {
     id: 'yapeyu-1850',
@@ -968,13 +969,14 @@ const STATIC_TERMINADOS = [
     location: 'San Martín, Pdo. de San Martín',
     address: 'Yapeyú 1850, entre Lincoln y Moreno, a 200m de Av. 25 de Mayo',
     construction_status: 6,
+    _isStatic: true,
     photos: [
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_balcon-con-parrilla-1-1.webp', label: 'Balcón con parrilla' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_bano-completo-1.webp', label: 'Baño completo' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_amplio-living-comedor-1.webp', label: 'Living comedor' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_cocina-equipada-1.webp', label: 'Cocina equipada' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_dormitorio-c-placard-1.webp', label: 'Dormitorio con placard' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_terraza-con-parrilla-1.webp', label: 'Terraza con parrilla' },
+      { image: `${T}yapeyu-1850_balcon.webp`, label: 'Balcón con parrilla' },
+      { image: `${T}yapeyu-1850_bano.webp`, label: 'Baño completo' },
+      { image: `${T}yapeyu-1850_living.webp`, label: 'Living comedor' },
+      { image: `${T}yapeyu-1850_cocina.webp`, label: 'Cocina equipada' },
+      { image: `${T}yapeyu-1850_dormitorio.webp`, label: 'Dormitorio con placard' },
+      { image: `${T}yapeyu-1850_terraza.webp`, label: 'Terraza con parrilla' },
     ],
     specs: '8 pisos con terraza verde y parrilla',
     units: 'Unidades de 2 y 3 ambientes',
@@ -998,11 +1000,12 @@ const STATIC_TERMINADOS = [
     location: 'San Martín, Pdo. de San Martín',
     address: 'Rivadavia 3869, entre Tucumán y San Lorenzo, a 400m de Av. Ricardo Balbín',
     construction_status: 6,
+    _isStatic: true,
     photos: [
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-rivadavia-3869_balcon-con-parrilla.webp', label: 'Balcón con parrilla' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-rivadavia-3869_bano-completo.webp', label: 'Baño completo' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-rivadavia-3869_amplio-living-comedor.webp', label: 'Living comedor' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-rivadavia-3869_cocina-equipada.webp', label: 'Cocina equipada' },
+      { image: `${T}rivadavia-3869_balcon.webp`, label: 'Balcón con parrilla' },
+      { image: `${T}rivadavia-3869_bano.webp`, label: 'Baño completo' },
+      { image: `${T}rivadavia-3869_living.webp`, label: 'Living comedor' },
+      { image: `${T}rivadavia-3869_cocina.webp`, label: 'Cocina equipada' },
     ],
     specs: '8 pisos con terraza verde y parrilla',
     units: 'Unidades de 2 y 3 ambientes',
@@ -1026,13 +1029,14 @@ const STATIC_TERMINADOS = [
     location: 'San Martín, Pdo. de San Martín',
     address: 'Ayacucho 2236, entre Pueyrredón y Matheu, acceso General Paz',
     construction_status: 6,
+    _isStatic: true,
     photos: [
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_bano-completo.webp', label: 'Baño completo' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_amplio-living-comedor.webp', label: 'Living comedor' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_cocina-equipada.webp', label: 'Cocina equipada' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_dormitorio-c-placard.webp', label: 'Dormitorio con placard' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_terraza-con-parrilla.webp', label: 'Terraza con parrilla' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_calidad-constructiva.webp', label: 'Calidad constructiva' },
+      { image: `${T}ayacucho-2236_bano.webp`, label: 'Baño completo' },
+      { image: `${T}ayacucho-2236_living.webp`, label: 'Living comedor' },
+      { image: `${T}ayacucho-2236_cocina.webp`, label: 'Cocina equipada' },
+      { image: `${T}ayacucho-2236_dormitorio.webp`, label: 'Dormitorio con placard' },
+      { image: `${T}ayacucho-2236_terraza.webp`, label: 'Terraza con parrilla' },
+      { image: `${T}ayacucho-2236_calidad.webp`, label: 'Calidad constructiva' },
     ],
     specs: '2 pisos de oficinas + 8 de departamentos',
     units: 'Unidades de 2 y 3 ambientes',
@@ -1056,14 +1060,15 @@ const STATIC_TERMINADOS = [
     location: 'San Martín, Pdo. de San Martín',
     address: 'Bartolomé Mitre 3565, entre Cerrito y Salguero, a 200m de Plaza San Martín',
     construction_status: 6,
+    _isStatic: true,
     photos: [
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_balcon-con-parrilla-.webp', label: 'Balcón con parrilla' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_bano-completo.webp', label: 'Baño completo' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_amplio-living-comedor.webp', label: 'Living comedor' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_cocina-equipada.webp', label: 'Cocina equipada' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_dormitorio-c-placard.webp', label: 'Dormitorio con placard' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_terraza-con-parrilla.webp', label: 'Terraza con parrilla' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_sum.webp', label: 'SUM' },
+      { image: `${T}mitre-3565_balcon.webp`, label: 'Balcón con parrilla' },
+      { image: `${T}mitre-3565_bano.webp`, label: 'Baño completo' },
+      { image: `${T}mitre-3565_living.webp`, label: 'Living comedor' },
+      { image: `${T}mitre-3565_cocina.webp`, label: 'Cocina equipada' },
+      { image: `${T}mitre-3565_dormitorio.webp`, label: 'Dormitorio con placard' },
+      { image: `${T}mitre-3565_terraza.webp`, label: 'Terraza con parrilla' },
+      { image: `${T}mitre-3565_sum.webp`, label: 'SUM' },
     ],
     specs: '9 pisos con terraza verde y parrilla · 2 SUM independientes',
     units: 'Unidades de 2 y 3 ambientes',
@@ -1087,14 +1092,15 @@ const STATIC_TERMINADOS = [
     location: 'San Martín, Pdo. de San Martín',
     address: 'Pueyrredón 3175, entre Riobamba y Las Heras, a 100m de Ayacucho',
     construction_status: 6,
+    _isStatic: true,
     photos: [
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_balcon-con-parrilla.webp', label: 'Balcón con parrilla' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_bano-completo.webp', label: 'Baño completo' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_amplio-living-comedor.webp', label: 'Living comedor' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_cocina-equipada.webp', label: 'Cocina equipada' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_dormitorio-c-placard.webp', label: 'Dormitorio con placard' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_paneles-solares.webp', label: 'Paneles solares' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_terraza-con-parrilla.webp', label: 'Terraza con parrilla' },
+      { image: `${T}pueyrredon-3175_balcon.webp`, label: 'Balcón con parrilla' },
+      { image: `${T}pueyrredon-3175_bano.webp`, label: 'Baño completo' },
+      { image: `${T}pueyrredon-3175_living.webp`, label: 'Living comedor' },
+      { image: `${T}pueyrredon-3175_cocina.webp`, label: 'Cocina equipada' },
+      { image: `${T}pueyrredon-3175_dormitorio.webp`, label: 'Dormitorio con placard' },
+      { image: `${T}pueyrredon-3175_paneles.webp`, label: 'Paneles solares' },
+      { image: `${T}pueyrredon-3175_terraza.webp`, label: 'Terraza con parrilla' },
     ],
     specs: '5 pisos con terraza verde y parrilla · Cocheras en planta baja',
     units: 'Unidades de 2 ambientes',
@@ -1118,14 +1124,15 @@ const STATIC_TERMINADOS = [
     location: 'San Martín, Pdo. de San Martín',
     address: 'Pueyrredón 3445, entre Cochabamba y Cerrito, a 150m de Ayacucho',
     construction_status: 6,
+    _isStatic: true,
     photos: [
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_balcon-con-parrilla-.webp', label: 'Balcón con parrilla' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_bano-completo.webp', label: 'Baño completo' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_amplio-living-comedor.webp', label: 'Living comedor' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_cocina-equipada.webp', label: 'Cocina equipada' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_dormitorio-c-placard.webp', label: 'Dormitorio con placard' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_terraza.webp', label: 'Terraza' },
-      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_cocheras.webp', label: 'Cocheras' },
+      { image: `${T}pueyrredon-3445_balcon.webp`, label: 'Balcón con parrilla' },
+      { image: `${T}pueyrredon-3445_bano.webp`, label: 'Baño completo' },
+      { image: `${T}pueyrredon-3445_living.webp`, label: 'Living comedor' },
+      { image: `${T}pueyrredon-3445_cocina.webp`, label: 'Cocina equipada' },
+      { image: `${T}pueyrredon-3445_dormitorio.webp`, label: 'Dormitorio con placard' },
+      { image: `${T}pueyrredon-3445_terraza.webp`, label: 'Terraza' },
+      { image: `${T}pueyrredon-3445_cocheras.webp`, label: 'Cocheras' },
     ],
     specs: '8 pisos con terraza y parrilla',
     units: 'Monoambiente y 2 ambientes',
@@ -1149,7 +1156,8 @@ const Emprendimientos = () => {
   const containerRef = useRef(null);
   const [devs, setDevs] = useState([]);
   const [loading, setLoading] = useState(true);
-  const { filtered, filterProps } = useDevelopmentFilters(devs);
+  const allDevs = useMemo(() => [...devs, ...STATIC_TERMINADOS], [devs]);
+  const { filtered, filterProps } = useDevelopmentFilters(allDevs);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -1211,12 +1219,11 @@ const Emprendimientos = () => {
       {/* 2. Categories */}
       <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <h2 className="emp-scroll font-heading font-bold text-3xl text-primary mb-12 text-center">Modalidades de Inversión</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-           {[ 
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+           {[
              { title: "En Pozo", desc: "Máxima rentabilidad al entrar en la etapa inicial del proyecto.", badge: "Mayor ROI" },
              { title: "En Construcción", desc: "Avance comprobable con planes de financiación flexibles y en cuotas.", badge: "Financiado" },
              { title: "A Estrenar", desc: "Unidades terminadas con posesión inmediata, listas para habitar o alquilar.", badge: "Inmediato" },
-             { title: "Loteos", desc: "Terrenos en barrios cerrados para que proyectes tu hogar desde cero.", badge: "Estilo de Vida" }
            ].map((cat, i) => (
              <div key={i} className="emp-scroll bg-white p-6 rounded-2xl border border-primary/10 hover:border-accent hover:-translate-y-1 transition-all shadow-sm">
                 <span className="bg-primary/5 text-primary text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block">{cat.badge}</span>
@@ -1233,7 +1240,7 @@ const Emprendimientos = () => {
            <h2 className="emp-scroll font-drama text-4xl text-primary">Catálogo de Proyectos</h2>
         </div>
 
-        {!loading && devs.length > 0 && <DevelopmentFilters {...filterProps} />}
+        {!loading && <DevelopmentFilters {...filterProps} />}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {loading ? (
              Array(3).fill(0).map((_,i) => (
@@ -1243,27 +1250,37 @@ const Emprendimientos = () => {
                  <div className="mt-2 bg-dark/10 h-4 w-1/2 rounded"></div>
                </div>
              ))
-          ) : filtered.length > 0 ? (
-             filtered.map(dev => (
-               <DevelopmentCard key={dev.id} dev={dev} className="emp-scroll" />
-             ))
           ) : filterProps.active ? (
-            <div className="col-span-full py-20 text-center flex flex-col items-center">
-               <Search size={48} className="text-primary/20 mb-4" />
-               <p className="font-heading text-xl text-dark/50">No encontramos proyectos con esos filtros.</p>
-               <button type="button" onClick={filterProps.reset} className="font-heading text-accent mt-2 hover:underline">Limpiar filtros</button>
-            </div>
+            filtered.length > 0 ? (
+              filtered.map(dev => (
+                <DevelopmentCard key={dev.id} dev={dev} className="emp-scroll"
+                  linkTo={dev._isStatic ? `/emprendimientos/terminado/${dev.id}` : undefined} />
+              ))
+            ) : (
+              <div className="col-span-full py-20 text-center flex flex-col items-center">
+                 <Search size={48} className="text-primary/20 mb-4" />
+                 <p className="font-heading text-xl text-dark/50">No encontramos proyectos con esos filtros.</p>
+                 <button type="button" onClick={filterProps.reset} className="font-heading text-accent mt-2 hover:underline">Limpiar filtros</button>
+              </div>
+            )
           ) : (
-            <div className="col-span-full py-20 text-center flex flex-col items-center">
-               <Building size={48} className="text-primary/20 mb-4" />
-               <p className="font-heading text-xl text-dark/50">Actualmente no hay emprendimientos disponibles.</p>
-               <p className="font-heading text-accent mt-2">Consultá con nuestros asesores.</p>
-            </div>
+            devs.length > 0 ? (
+              devs.map(dev => (
+                <DevelopmentCard key={dev.id} dev={dev} className="emp-scroll" />
+              ))
+            ) : (
+              <div className="col-span-full py-20 text-center flex flex-col items-center">
+                 <Building size={48} className="text-primary/20 mb-4" />
+                 <p className="font-heading text-xl text-dark/50">Actualmente no hay emprendimientos disponibles.</p>
+                 <p className="font-heading text-accent mt-2">Consultá con nuestros asesores.</p>
+              </div>
+            )
           )}
         </div>
       </section>
 
-      {/* 4. Terminados */}
+      {/* 4. Terminados — only when no filter active */}
+      {!filterProps.active && (
       <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
           <div>
@@ -1278,6 +1295,7 @@ const Emprendimientos = () => {
           ))}
         </div>
       </section>
+      )}
 
       {/* 5. Trust Block & CTA */}
       <section className="px-6 lg:px-12">
