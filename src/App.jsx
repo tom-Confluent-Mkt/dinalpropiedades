@@ -2,7 +2,7 @@ import { useEffect, useRef, useState, useLayoutEffect, useMemo, createContext, u
 import { BrowserRouter as Router, Routes, Route, Link, useLocation, useParams, useNavigate } from 'react-router-dom';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { Building, MapPin, Compass, Search, Phone, Mail, ArrowRight, Menu, X, Clock, Bed, Bath, ArrowLeft, ChevronLeft, ChevronRight, Droplets, Flame, Zap, Wifi, Tv, Thermometer, Trees, Package, DoorOpen, Users, Waves, Wind, Sun, Shield, Dumbbell, Bell, Car, FileText, TrendingUp, Check, Utensils, Home as HomeIcon, Leaf, Sofa, Shirt, Star } from 'lucide-react';
+import { Building, MapPin, Compass, Search, Phone, Mail, ArrowRight, Menu, X, Clock, Bed, Bath, ArrowLeft, ChevronLeft, ChevronRight, Droplets, Flame, Zap, Wifi, Tv, Thermometer, Trees, Package, DoorOpen, Users, Waves, Wind, Sun, Shield, Dumbbell, Bell, Car, FileText, TrendingUp, Check, Utensils, Home as HomeIcon, Leaf, Sofa, Shirt, Star, Play } from 'lucide-react';
 import sucursalBallester from './assets/Dinal-Ballester.jpg';
 import sucursalSanMartin from './assets/San-martin.jpg';
 
@@ -183,7 +183,7 @@ const Navbar = () => {
   const isAlquilerPage = location.pathname === '/alquiler';
   const isVentaPage = location.pathname === '/venta';
   const isSucursalesPage = location.pathname === '/sucursales';
-  const isDetailPage = location.pathname.startsWith('/propiedad');
+  const isDetailPage = location.pathname.startsWith('/propiedad') || location.pathname.startsWith('/emprendimientos/terminado/');
   const isNosotrosPage = location.pathname === '/nosotros';
   const isObrasDeMarPage = location.pathname.startsWith('/obras-de-mar');
 
@@ -559,8 +559,8 @@ const PropertyCard = ({ prop, opType, className = '' }) => {
   );
 };
 
-const DevelopmentCard = ({ dev, className = '' }) => (
-  <Link to={`/propiedad/${propSlug(dev)}`} className={`${className} bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full block`}>
+const DevelopmentCard = ({ dev, className = '', linkTo }) => (
+  <Link to={linkTo ?? `/propiedad/${propSlug(dev)}`} className={`${className} bg-white rounded-[1rem] p-4 shadow-sm border border-primary/10 hover:shadow-xl hover:-translate-y-2 hover:border-accent transition-all duration-300 group cursor-pointer relative flex flex-col h-full block`}>
     <div className="absolute top-8 left-8 z-10 bg-primary text-white font-heading font-bold px-3 py-1 rounded-sm text-xs uppercase tracking-wider">{constructionLabel(dev.construction_status)}</div>
     {dev.is_starred_on_web && <StarBadge />}
     <div className="w-full h-[250px] rounded-lg overflow-hidden mb-6 relative">
@@ -916,7 +916,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center gap-3 border border-white/20 px-4 py-2 rounded-sm w-fit">
               <span className="w-1.5 h-1.5 rounded-full bg-accent animate-pulse"></span>
-              <span className="font-data text-xs text-background/80 uppercase">Atención activa de 10 a 18:30 hs</span>
+              <span className="font-data text-xs text-background/80 uppercase">Atención activa de 10 a 13 y de 14 a 18 hs</span>
             </div>
           </div>
 
@@ -961,6 +961,190 @@ const Footer = () => {
 // ----------------------------------------------------
 // I. EMPRENDIMIENTOS PAGE
 // ----------------------------------------------------
+const STATIC_TERMINADOS = [
+  {
+    id: 'yapeyu-1850',
+    name: 'Yapeyú 1850',
+    location: 'San Martín, Pdo. de San Martín',
+    address: 'Yapeyú 1850, entre Lincoln y Moreno, a 200m de Av. 25 de Mayo',
+    construction_status: 6,
+    photos: [
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_balcon-con-parrilla-1-1.webp', label: 'Balcón con parrilla' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_bano-completo-1.webp', label: 'Baño completo' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_amplio-living-comedor-1.webp', label: 'Living comedor' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_cocina-equipada-1.webp', label: 'Cocina equipada' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_dormitorio-c-placard-1.webp', label: 'Dormitorio con placard' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-yapeyu-1850_terraza-con-parrilla-1.webp', label: 'Terraza con parrilla' },
+    ],
+    specs: '8 pisos con terraza verde y parrilla',
+    units: 'Unidades de 2 y 3 ambientes',
+    sqm: 'De 45 a 88.95 m²',
+    price: 'USD 70.000 – 130.000',
+    features: ['Balcones con piso deck y parrilla exclusiva', 'Baño y cocina con muebles completos', 'Amplio living – comedor', 'Dormitorios con frente de placard en 2 puertas de piso a techo', 'Unidades del último piso con terraza propia'],
+    construction: [
+      { title: 'Paredes', items: ['Mampostería divisoria en ladrillo cerámico hueco', 'Exteriores con doble muro de ladrillo hueco y hormigón armado', 'Terminaciones exteriores con pintura plástica tipo tarquini', 'Interiores con terminación en yeso', 'Baño con cerámica del piso al techo'] },
+      { title: 'Pisos y Cielorrasos', items: ['Cielorrasos en yeso armado o aplicado', 'Pisos porcelanato de primera calidad', 'Dormitorios con porcelanato símil madera'] },
+      { title: 'Aberturas', items: ['Ventanas de aluminio', 'Puertas placa en interiores'] },
+      { title: 'Detalles', items: ['Termo de agua caliente y cocina eléctricos', 'Instalación para aire acondicionado en estar y dormitorio', 'Portero eléctrico con cámara visor'] },
+    ],
+    sustainability: ['Paneles solares para espacios comunes', 'Estaciones de carga para autos eléctricos', 'Sistema de riego con captación de agua de lluvia', 'Cestos de reciclaje', 'Doble muro de ladrillo con cámara de aire', 'Aberturas de doble vidrio (DVH)'],
+    nearby: ['Estación de ferrocarril línea Mitre', 'Hospital Italiano sede San Martín', 'Universidad Nacional de San Martín', 'Plaza San Martín', 'Club Atlético Gral. San Martín', 'Sanatorio Modelo de Caseros'],
+    brochure: 'https://grupodinal.com/wp-content/uploads/2025/01/Brochure-Yapeyu-1850-web.pdf',
+    video: 'https://youtu.be/JzmBuIE_NGk',
+  },
+  {
+    id: 'rivadavia-3869',
+    name: 'Rivadavia 3869',
+    location: 'San Martín, Pdo. de San Martín',
+    address: 'Rivadavia 3869, entre Tucumán y San Lorenzo, a 400m de Av. Ricardo Balbín',
+    construction_status: 6,
+    photos: [
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-rivadavia-3869_balcon-con-parrilla.webp', label: 'Balcón con parrilla' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-rivadavia-3869_bano-completo.webp', label: 'Baño completo' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-rivadavia-3869_amplio-living-comedor.webp', label: 'Living comedor' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-rivadavia-3869_cocina-equipada.webp', label: 'Cocina equipada' },
+    ],
+    specs: '8 pisos con terraza verde y parrilla',
+    units: 'Unidades de 2 y 3 ambientes',
+    sqm: 'De 50.35 a 70.60 m²',
+    price: 'USD 1.500/m²',
+    features: ['Balcones con piso deck y parrilla', 'Baño y cocina con muebles completos', 'Living comedor con cocina integrada', 'Frente de placard en 2 puertas de piso a techo', 'Jardines exteriores verticales', 'SUM (salón de usos múltiples)'],
+    construction: [
+      { title: 'Paredes', items: ['Mampostería divisoria en ladrillo cerámico hueco', 'Exteriores con doble muro de ladrillo hueco y hormigón armado', 'Terminaciones exteriores con pintura plástica tipo tarquini', 'Interiores con terminación en yeso', 'Baño con cerámica del piso al techo'] },
+      { title: 'Pisos y Cielorrasos', items: ['Cielorrasos en yeso armado o aplicado', 'Pisos porcelanato de primera calidad', 'Dormitorios con porcelanato símil madera'] },
+      { title: 'Aberturas', items: ['Ventanas de aluminio', 'Puertas placa en interiores'] },
+      { title: 'Detalles', items: ['Termo de agua caliente y cocina eléctricos', 'Instalación para aire acondicionado en estar y dormitorio', 'Portero eléctrico con cámara visor'] },
+    ],
+    sustainability: ['Paneles solares para espacios comunes', 'Jardines exteriores verticales', 'Sistema de riego con captación de agua de lluvia', 'Cestos de reciclaje', 'Doble muro de ladrillo con cámara de aire', 'Aberturas de doble vidrio (DVH)', 'Estaciones de carga para autos eléctricos'],
+    nearby: ['Plaza San Martín', 'Hospital Italiano sede San Martín', 'Hospital Municipal Dr. Diego Thompson', 'Universidad Nacional de San Martín'],
+    brochure: 'https://grupodinal.com/wp-content/uploads/2024/05/BROCHURE-RIVADAVIA-3869.pdf',
+    video: null,
+  },
+  {
+    id: 'ayacucho-2236',
+    name: 'Ayacucho 2236',
+    location: 'San Martín, Pdo. de San Martín',
+    address: 'Ayacucho 2236, entre Pueyrredón y Matheu, acceso General Paz',
+    construction_status: 6,
+    photos: [
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_bano-completo.webp', label: 'Baño completo' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_amplio-living-comedor.webp', label: 'Living comedor' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_cocina-equipada.webp', label: 'Cocina equipada' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_dormitorio-c-placard.webp', label: 'Dormitorio con placard' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_terraza-con-parrilla.webp', label: 'Terraza con parrilla' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-ayacucho-2236_calidad-constructiva.webp', label: 'Calidad constructiva' },
+    ],
+    specs: '2 pisos de oficinas + 8 de departamentos',
+    units: 'Unidades de 2 y 3 ambientes',
+    sqm: 'De 42 a 76.2 m²',
+    price: 'USD 75.000 – 135.000',
+    features: ['Balcón con piso deck', 'Baño y cocina con muebles completos', 'Cocina integrada al living', 'Frente de placard en 2 puertas de piso a techo'],
+    construction: [
+      { title: 'Paredes', items: ['Mampostería divisoria en ladrillo cerámico hueco', 'Exteriores con doble muro de ladrillo hueco y hormigón armado', 'Terminaciones exteriores con pintura plástica tipo tarquini', 'Interiores con terminación en yeso', 'Baño con cerámica del piso al techo'] },
+      { title: 'Pisos y Cielorrasos', items: ['Cielorrasos en yeso armado o aplicado', 'Pisos porcelanato de primera calidad', 'Dormitorios con porcelanato símil madera'] },
+      { title: 'Aberturas', items: ['Ventanas de aluminio', 'Puertas placa en interiores'] },
+      { title: 'Detalles', items: ['Termo de agua caliente y cocina eléctricos', 'Instalación para aire acondicionado en estar y dormitorio', 'Portero eléctrico con cámara visor'] },
+    ],
+    sustainability: ['Paneles solares para espacios comunes', 'Sistema de riego con captación de agua de lluvia', 'Doble muro de ladrillo con cámara de aire', 'Aberturas de doble vidrio (DVH)', 'Cestos de reciclaje'],
+    nearby: ['Estación de ferrocarril línea Mitre', 'Hospital Italiano sede San Martín', 'Universidad Nacional de San Martín', 'Instituto Maipú'],
+    brochure: 'https://grupodinal.com/wp-content/uploads/2024/05/BROCHURE-AYACUCHO-2236.pdf',
+    video: 'https://www.youtube.com/watch?v=fA9byGeCi0w',
+  },
+  {
+    id: 'mitre-3565',
+    name: 'Mitre 3565',
+    location: 'San Martín, Pdo. de San Martín',
+    address: 'Bartolomé Mitre 3565, entre Cerrito y Salguero, a 200m de Plaza San Martín',
+    construction_status: 6,
+    photos: [
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_balcon-con-parrilla-.webp', label: 'Balcón con parrilla' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_bano-completo.webp', label: 'Baño completo' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_amplio-living-comedor.webp', label: 'Living comedor' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_cocina-equipada.webp', label: 'Cocina equipada' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_dormitorio-c-placard.webp', label: 'Dormitorio con placard' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_terraza-con-parrilla.webp', label: 'Terraza con parrilla' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-mitre-3565_sum.webp', label: 'SUM' },
+    ],
+    specs: '9 pisos con terraza verde y parrilla · 2 SUM independientes',
+    units: 'Unidades de 2 y 3 ambientes',
+    sqm: 'De 51.30 a 87.25 m²',
+    price: 'USD 84.000 – 110.000',
+    features: ['Balcones con piso deck y parrilla exclusiva', 'Baño y cocina con muebles completos', 'Amplio living – comedor', 'Dormitorios con frente de placard en 2 puertas de piso a techo', 'Dos SUM independientes conectados entre sí'],
+    construction: [
+      { title: 'Paredes', items: ['Mampostería divisoria en ladrillo cerámico hueco', 'Exteriores con doble muro de ladrillo hueco y hormigón armado', 'Terminaciones exteriores con pintura plástica tipo tarquini', 'Interiores con terminación en yeso', 'Baño con cerámica del piso al techo'] },
+      { title: 'Pisos y Cielorrasos', items: ['Cielorrasos en yeso armado o aplicado', 'Pisos porcelanato de primera calidad', 'Dormitorios con porcelanato símil madera'] },
+      { title: 'Aberturas', items: ['Ventanas de aluminio', 'Puertas placa en interiores'] },
+      { title: 'Detalles', items: ['Termo de agua caliente y cocina eléctricos', 'Instalación para aire acondicionado en estar y dormitorio', 'Portero eléctrico con cámara visor'] },
+    ],
+    sustainability: ['Paneles solares para espacios comunes', 'Estaciones de carga para autos eléctricos', 'Sistema de riego con captación de agua de lluvia', 'Cestos de reciclaje', 'Doble muro de ladrillo con cámara de aire', 'Jardines exteriores verticales', 'Aberturas de doble vidrio (DVH)'],
+    nearby: ['Municipalidad de San Martín', 'Plaza San Martín', 'Universidad Nacional de San Martín', 'Liceo Superior de Cultura Inglesa', 'Estación de ferrocarril línea Mitre'],
+    brochure: 'https://grupodinal.com/wp-content/uploads/2024/05/BROCHURE-2024-MITRE-3565.pdf',
+    video: 'https://www.youtube.com/watch?v=hg0XlxuTCEQ',
+  },
+  {
+    id: 'pueyrredon-3175',
+    name: 'Pueyrredón 3175',
+    location: 'San Martín, Pdo. de San Martín',
+    address: 'Pueyrredón 3175, entre Riobamba y Las Heras, a 100m de Ayacucho',
+    construction_status: 6,
+    photos: [
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_balcon-con-parrilla.webp', label: 'Balcón con parrilla' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_bano-completo.webp', label: 'Baño completo' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_amplio-living-comedor.webp', label: 'Living comedor' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_cocina-equipada.webp', label: 'Cocina equipada' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_dormitorio-c-placard.webp', label: 'Dormitorio con placard' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_paneles-solares.webp', label: 'Paneles solares' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3175_terraza-con-parrilla.webp', label: 'Terraza con parrilla' },
+    ],
+    specs: '5 pisos con terraza verde y parrilla · Cocheras en planta baja',
+    units: 'Unidades de 2 ambientes',
+    sqm: 'Desde 49.85 m²',
+    price: 'USD 68.000 – 72.000',
+    features: ['Balcones con piso deck y parrilla exclusiva', 'Baño y cocina con muebles completos', 'Amplio living – comedor', 'Dormitorios con frente de placard con 2 puertas de piso a techo', 'Cocheras disponibles'],
+    construction: [
+      { title: 'Paredes', items: ['Mampostería divisoria en ladrillo cerámico hueco', 'Exteriores con doble muro de ladrillo hueco y hormigón armado', 'Terminaciones exteriores con pintura plástica tipo tarquini', 'Interiores con terminación en yeso', 'Baño con cerámica del piso al techo'] },
+      { title: 'Pisos y Cielorrasos', items: ['Cielorrasos en yeso armado o aplicado', 'Pisos porcelanato de primera calidad', 'Dormitorios con porcelanato símil madera'] },
+      { title: 'Aberturas', items: ['Ventanas de aluminio', 'Puertas placa en interiores'] },
+      { title: 'Detalles', items: ['Termo de agua caliente y cocina eléctricos', 'Instalación para aire acondicionado en estar y dormitorio', 'Portero eléctrico con cámara visor'] },
+    ],
+    sustainability: ['Paneles solares para espacios comunes', 'Sistema de riego con captación de agua de lluvia', 'Aberturas de doble vidrio (DVH)', 'Cestos de reciclaje', 'Doble muro de ladrillo con cámara de aire'],
+    nearby: ['Estación de ferrocarril línea Mitre', 'Estadio Chacarita Juniors', 'Club Atlético Tres de Febrero', 'Instituto Maipú'],
+    brochure: 'https://grupodinal.com/wp-content/uploads/2024/05/BROCHURE-2024-PUERYREDON-3175.pdf',
+    video: null,
+  },
+  {
+    id: 'pueyrredon-3445',
+    name: 'Pueyrredón 3445',
+    location: 'San Martín, Pdo. de San Martín',
+    address: 'Pueyrredón 3445, entre Cochabamba y Cerrito, a 150m de Ayacucho',
+    construction_status: 6,
+    photos: [
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_balcon-con-parrilla-.webp', label: 'Balcón con parrilla' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_bano-completo.webp', label: 'Baño completo' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_amplio-living-comedor.webp', label: 'Living comedor' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_cocina-equipada.webp', label: 'Cocina equipada' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_dormitorio-c-placard.webp', label: 'Dormitorio con placard' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_terraza.webp', label: 'Terraza' },
+      { image: 'https://grupodinal.com/wp-content/uploads/2024/02/carrusel-pueyrredon-3445_cocheras.webp', label: 'Cocheras' },
+    ],
+    specs: '8 pisos con terraza y parrilla',
+    units: 'Monoambiente y 2 ambientes',
+    sqm: 'De 46.30 a 67.85 m²',
+    price: 'USD 70.000 – 92.000',
+    features: ['Balcones con piso deck y parrilla exclusiva', 'Baño y cocina con muebles completos', 'Amplio living – comedor', 'Dormitorios con frente de placard con 2 puertas de piso a techo', 'Cocheras disponibles'],
+    construction: [
+      { title: 'Paredes', items: ['Mampostería divisoria en ladrillo cerámico hueco', 'Exteriores con doble muro de ladrillo hueco y hormigón armado', 'Terminaciones exteriores con pintura plástica tipo tarquini', 'Interiores con terminación en yeso', 'Baño con cerámica del piso al techo'] },
+      { title: 'Pisos y Cielorrasos', items: ['Cielorrasos en yeso armado o aplicado', 'Pisos porcelanato de primera calidad', 'Dormitorios con porcelanato símil madera'] },
+      { title: 'Aberturas', items: ['Ventanas de aluminio', 'Puertas placa en interiores'] },
+      { title: 'Detalles', items: ['Termo de agua caliente y cocina eléctricos', 'Instalación para aire acondicionado en estar y dormitorio', 'Portero eléctrico con cámara visor'] },
+    ],
+    sustainability: ['Paneles solares para espacios comunes', 'Doble muro de ladrillo con cámara de aire', 'Sistema de riego con captación de agua de lluvia', 'Cestos de reciclaje', 'Aberturas de doble vidrio (DVH)'],
+    nearby: ['Estación de ferrocarril línea Mitre', 'Hospital Italiano sede San Martín', 'Colegio Estados Unidos', 'Universidad Nacional de San Martín'],
+    brochure: 'https://grupodinal.com/wp-content/uploads/2024/05/BROCHURE-PUEYRREDON-3445.pdf',
+    video: 'https://www.youtube.com/watch?v=w4KIz5MUeIY',
+  },
+];
+
 const Emprendimientos = () => {
   const containerRef = useRef(null);
   const [devs, setDevs] = useState([]);
@@ -1079,7 +1263,23 @@ const Emprendimientos = () => {
         </div>
       </section>
 
-      {/* 4. Trust Block & CTA */}
+      {/* 4. Terminados */}
+      <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
+        <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
+          <div>
+            <h2 className="emp-scroll font-drama text-4xl text-primary">Proyectos Terminados</h2>
+            <p className="emp-scroll font-heading text-dark/50 text-sm mt-2">Edificios entregados por Dinal en San Martín</p>
+          </div>
+          <span className="emp-scroll bg-primary/5 text-primary font-heading font-bold text-xs px-3 py-1.5 rounded-full border border-primary/10">Entregados</span>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {STATIC_TERMINADOS.map(dev => (
+            <DevelopmentCard key={dev.id} dev={dev} className="emp-scroll" linkTo={`/emprendimientos/terminado/${dev.id}`} />
+          ))}
+        </div>
+      </section>
+
+      {/* 5. Trust Block & CTA */}
       <section className="px-6 lg:px-12">
         <div className="max-w-7xl mx-auto bg-primary rounded-[2rem] p-10 md:p-16 text-center shadow-2xl relative overflow-hidden">
            <div className="relative z-10">
@@ -1099,6 +1299,241 @@ const Emprendimientos = () => {
 };
 
 // ----------------------------------------------------
+const TerminadoDetail = () => {
+  const { slug } = useParams();
+  const navigate = useNavigate();
+  const dev = STATIC_TERMINADOS.find(d => d.id === slug);
+  const [activePhoto, setActivePhoto] = useState(0);
+  const [formData, setFormData] = useState({ name: '', email: '', phone: '', message: '' });
+  const [submitStatus, setSubmitStatus] = useState('idle');
+
+  useEffect(() => { window.scrollTo(0, 0); }, []);
+
+  if (!dev) return (
+    <div className="min-h-screen bg-[#F9FAFB] pt-32 flex items-center justify-center flex-col gap-4">
+      <Building size={64} className="text-primary/20" />
+      <h1 className="font-heading font-bold text-2xl text-primary">Proyecto no encontrado</h1>
+      <button onClick={() => navigate('/emprendimientos')} className="font-heading text-accent underline">Ver todos los emprendimientos</button>
+    </div>
+  );
+
+  const handleField = e => setFormData(p => ({ ...p, [e.target.name]: e.target.value }));
+  const handleSubmit = async e => {
+    e.preventDefault();
+    setSubmitStatus('sending');
+    try {
+      const res = await fetch(`https://tokkobroker.com/api/v1/property/contact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: formData.name, email: formData.email, phone: formData.phone, message: formData.message || `Consulta sobre ${dev.name}`, property_id: 0 }),
+      });
+      setSubmitStatus(res.ok ? 'ok' : 'error');
+    } catch { setSubmitStatus('error'); }
+  };
+
+  return (
+    <div className="min-h-screen bg-[#F9FAFB] pt-28 pb-24">
+      <div className="max-w-7xl mx-auto px-6 lg:px-12">
+
+        <button onClick={() => navigate('/emprendimientos')} className="flex items-center gap-2 text-dark/50 hover:text-primary font-heading text-sm mb-8 transition-colors group">
+          <ArrowLeft size={16} className="group-hover:-translate-x-0.5 transition-transform" />
+          Volver a emprendimientos
+        </button>
+
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
+
+          {/* ── MAIN ── */}
+          <div className="lg:col-span-2 flex flex-col gap-8">
+
+            {/* Gallery */}
+            <div>
+              <div className="relative rounded-2xl overflow-hidden bg-primary/10 h-[420px] md:h-[500px]">
+                <img src={dev.photos[activePhoto]?.image} alt={dev.name} className="w-full h-full object-cover transition-opacity duration-300" />
+                {dev.photos.length > 1 && (
+                  <>
+                    <button onClick={() => setActivePhoto(i => (i - 1 + dev.photos.length) % dev.photos.length)} className="absolute left-3 top-1/2 -translate-y-1/2 bg-black/40 hover:bg-black/60 text-white rounded-full p-2 transition-colors"><ChevronLeft size={22} /></button>
+                    <button onClick={() => setActivePhoto(i => (i + 1) % dev.photos.length)} className="absolute right-3 top-1/2 -translate-y-1/2 bg-black/40 hover:bg-black/60 text-white rounded-full p-2 transition-colors"><ChevronRight size={22} /></button>
+                    <span className="absolute bottom-3 right-3 bg-black/50 text-white text-xs font-data px-3 py-1 rounded-full">{activePhoto + 1} / {dev.photos.length}</span>
+                  </>
+                )}
+              </div>
+              <div className="flex gap-2 mt-3 overflow-x-auto pb-1">
+                {dev.photos.map((ph, i) => (
+                  <button key={i} onClick={() => setActivePhoto(i)} className={`shrink-0 h-16 w-24 rounded-lg overflow-hidden border-2 transition-all ${i === activePhoto ? 'border-accent' : 'border-transparent opacity-60 hover:opacity-100'}`}>
+                    <img src={ph.image} alt={ph.label} className="w-full h-full object-cover" />
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {/* Header */}
+            <div className="bg-white rounded-2xl p-8 border border-primary/10">
+              <div className="flex flex-wrap items-center gap-2 mb-4">
+                <span className="bg-primary text-white font-heading font-bold text-xs px-3 py-1 rounded-full uppercase tracking-wider">Terminado</span>
+                <span className="bg-primary/5 text-primary font-heading font-bold text-xs px-3 py-1 rounded-full">Departamentos</span>
+              </div>
+              <h1 className="font-heading font-black text-2xl md:text-3xl text-primary mb-3 leading-snug">{dev.name}</h1>
+              <p className="font-heading text-dark/60 flex items-center gap-1.5 text-sm"><MapPin size={15} className="text-accent shrink-0" />{dev.address}</p>
+            </div>
+
+            {/* Specs */}
+            <div className="bg-white rounded-2xl p-8 border border-primary/10">
+              <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">Características</h2>
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-6">
+                {[
+                  { label: 'Edificio', value: dev.specs },
+                  { label: 'Unidades', value: dev.units },
+                  { label: 'Superficie', value: dev.sqm },
+                  { label: 'Precio', value: dev.price },
+                ].map(s => (
+                  <div key={s.label}>
+                    <p className="font-data text-xs text-dark/40 tracking-widest uppercase mb-0.5">{s.label}</p>
+                    <p className="font-heading font-semibold text-primary text-sm">{s.value}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Features */}
+            <div className="bg-white rounded-2xl p-8 border border-primary/10">
+              <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">Nuestras unidades cuentan con</h2>
+              <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {dev.features.map((f, i) => (
+                  <li key={i} className="flex items-start gap-3 font-heading text-dark/80 text-sm">
+                    <span className="w-1.5 h-1.5 rounded-full bg-accent shrink-0 mt-2" />
+                    {f}
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            {/* Construction specs */}
+            <div className="bg-white rounded-2xl p-8 border border-primary/10">
+              <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">Especificaciones constructivas</h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+                {dev.construction.map(sec => (
+                  <div key={sec.title}>
+                    <h3 className="font-heading font-bold text-primary text-sm mb-3">{sec.title}</h3>
+                    <ul className="space-y-1.5">
+                      {sec.items.map((item, i) => (
+                        <li key={i} className="flex items-start gap-2 font-heading text-dark/70 text-sm">
+                          <span className="w-1 h-1 rounded-full bg-primary/30 shrink-0 mt-2" />
+                          {item}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Sustainability */}
+            <div className="bg-primary rounded-2xl p-8">
+              <h2 className="font-heading font-bold text-lg text-white mb-2">Máximo confort, mínimo consumo</h2>
+              <p className="font-heading text-white/50 text-sm mb-6">Tecnologías sustentables incorporadas al edificio</p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {dev.sustainability.map((s, i) => (
+                  <div key={i} className="flex items-center gap-3 bg-white/10 rounded-xl px-4 py-3">
+                    <span className="w-1.5 h-1.5 rounded-full bg-accent shrink-0" />
+                    <span className="font-heading text-white/90 text-sm">{s}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Nearby */}
+            <div className="bg-white rounded-2xl p-8 border border-primary/10">
+              <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">Puntos de interés cercanos</h2>
+              <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {dev.nearby.map((n, i) => (
+                  <li key={i} className="flex items-center gap-3 font-heading text-dark/70 text-sm">
+                    <MapPin size={14} className="text-accent shrink-0" />
+                    {n}
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+          </div>
+
+          {/* ── SIDEBAR ── */}
+          <div className="flex flex-col gap-6">
+
+            {/* Contact form */}
+            <div className="bg-white rounded-2xl p-6 border border-primary/10 shadow-sm sticky top-28">
+              <h3 className="font-heading font-bold text-primary text-lg mb-1">¿Te interesa este proyecto?</h3>
+              <p className="font-heading text-dark/50 text-sm mb-6">Consultá con nuestros asesores.</p>
+              {submitStatus === 'ok' ? (
+                <div className="text-center py-8">
+                  <div className="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center mx-auto mb-3"><Check size={24} className="text-primary" /></div>
+                  <p className="font-heading font-bold text-primary">¡Mensaje enviado!</p>
+                  <p className="font-heading text-dark/50 text-sm mt-1">Te contactamos a la brevedad.</p>
+                </div>
+              ) : (
+                <form onSubmit={handleSubmit} className="flex flex-col gap-4">
+                  {[
+                    { name: 'name', label: 'Nombre', type: 'text', required: true },
+                    { name: 'email', label: 'Email', type: 'email', required: true },
+                    { name: 'phone', label: 'Teléfono', type: 'tel', required: false },
+                  ].map(f => (
+                    <div key={f.name}>
+                      <label className="font-data text-xs text-dark/40 tracking-widest uppercase mb-1 block">{f.label}</label>
+                      <input type={f.type} name={f.name} required={f.required} value={formData[f.name]} onChange={handleField}
+                        className="w-full border border-primary/15 rounded-xl px-4 py-3 font-heading text-sm focus:outline-none focus:border-accent transition-colors" />
+                    </div>
+                  ))}
+                  <div>
+                    <label className="font-data text-xs text-dark/40 tracking-widest uppercase mb-1 block">Mensaje</label>
+                    <textarea name="message" rows={3} value={formData.message} onChange={handleField} placeholder={`Consulta sobre ${dev.name}`}
+                      className="w-full border border-primary/15 rounded-xl px-4 py-3 font-heading text-sm focus:outline-none focus:border-accent transition-colors resize-none" />
+                  </div>
+                  {submitStatus === 'error' && <p className="font-heading text-red-500 text-sm">Hubo un error. Intentá de nuevo.</p>}
+                  <button type="submit" disabled={submitStatus === 'sending'}
+                    className="w-full bg-primary hover:bg-primary/90 disabled:opacity-60 text-white font-heading font-bold px-6 py-3 rounded-xl transition-colors">
+                    {submitStatus === 'sending' ? 'Enviando…' : 'Enviar consulta'}
+                  </button>
+                </form>
+              )}
+
+              {/* WhatsApp */}
+              <div className="mt-4 pt-4 border-t border-primary/10 flex flex-col gap-2">
+                <a href="https://wa.me/5491177170405" target="_blank" rel="noopener noreferrer"
+                  className="flex items-center justify-center gap-2 border border-primary/15 hover:border-accent text-primary font-heading font-bold text-sm py-3 rounded-xl transition-colors">
+                  WhatsApp Villa Ballester
+                </a>
+                <a href="https://wa.me/5491177176007" target="_blank" rel="noopener noreferrer"
+                  className="flex items-center justify-center gap-2 border border-primary/15 hover:border-accent text-primary font-heading font-bold text-sm py-3 rounded-xl transition-colors">
+                  WhatsApp San Martín
+                </a>
+              </div>
+            </div>
+
+            {/* Brochure + Video */}
+            <div className="bg-white rounded-2xl p-6 border border-primary/10 shadow-sm flex flex-col gap-3">
+              <h3 className="font-heading font-bold text-primary text-sm mb-1">Recursos del proyecto</h3>
+              {dev.brochure && (
+                <a href={dev.brochure} target="_blank" rel="noopener noreferrer"
+                  className="flex items-center gap-3 bg-primary/5 hover:bg-primary/10 text-primary font-heading font-bold text-sm px-4 py-3 rounded-xl transition-colors">
+                  <FileText size={16} className="text-accent shrink-0" />
+                  Descargar brochure (PDF)
+                </a>
+              )}
+              {dev.video && (
+                <a href={dev.video} target="_blank" rel="noopener noreferrer"
+                  className="flex items-center gap-3 bg-primary/5 hover:bg-primary/10 text-primary font-heading font-bold text-sm px-4 py-3 rounded-xl transition-colors">
+                  <Play size={16} className="text-accent shrink-0" />
+                  Ver video del proyecto
+                </a>
+              )}
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
 // Shared property filter bar (used by Venta + Alquiler)
 // ----------------------------------------------------
 const ROOM_OPTIONS = [1, 2, 3, 4];
@@ -1406,6 +1841,7 @@ const Ventas = () => {
   const containerRef = useRef(null);
   const [properties, setProperties] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [devHeroImg, setDevHeroImg] = useState('/images/Size%20Optimized/_MG_4682.jpg');
   const { filtered, filterProps } = usePropertyFilters(properties);
 
   useEffect(() => {
@@ -1424,6 +1860,16 @@ const Ventas = () => {
 
   useEffect(() => {
     fetchWithCache(
+      '/data/developments.json',
+      `https://tokkobroker.com/api/v1/development/?key=${import.meta.env.VITE_TOKKO_API_KEY}&lang=es_ar&format=json&limit=100`
+    ).then(devs => {
+      const img = devs?.find(d => d.photos?.length > 0)?.photos[0]?.image;
+      if (img) setDevHeroImg(img);
+    }).catch(() => {});
+  }, []);
+
+  useEffect(() => {
+    fetchWithCache(
       '/data/properties.json',
       `https://tokkobroker.com/api/v1/property/?key=${import.meta.env.VITE_TOKKO_API_KEY}&lang=es_ar&format=json&limit=200`
     ).then(all => {
@@ -1438,7 +1884,7 @@ const Ventas = () => {
     <div ref={containerRef} className="bg-[#F9FAFB] pt-32 pb-24 min-h-screen">
       <section className="px-6 lg:px-12 mb-24">
         <div className="max-w-7xl mx-auto rounded-[2rem] overflow-hidden relative h-[60vh] flex items-center justify-center shadow-2xl">
-           <img src={properties.length > 0 && properties[0]?.photos?.length > 0 ? properties[0].photos[0].image : "/images/Size%20Optimized/_MG_2515.jpg"} alt="Ventas" className="absolute inset-0 w-full h-full object-cover scale-105 transition-all duration-1000" />
+           <img src={devHeroImg} alt="Ventas" className="absolute inset-0 w-full h-full object-cover scale-105 transition-all duration-1000" />
            <div className="absolute inset-0 bg-primary/70"></div>
            <div className="relative z-10 text-center px-4">
               <span className="vnt-hero font-data tracking-widest text-xs text-white/70 mb-4 block">// COMPRA Y VENTA</span>
@@ -1450,11 +1896,10 @@ const Ventas = () => {
 
       <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <h2 className="vnt-scroll font-heading font-bold text-3xl text-primary mb-12 text-center">Nuestras Soluciones de Venta</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-           {[ 
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+           {[
              { title: "Casas", desc: "Espacios amplios y jardines pensados para tu familia.", badge: "Familia" },
              { title: "Departamentos", desc: "Ubicaciones céntricas con todas las comodidades y seguridad.", badge: "Urbano" },
-             { title: "Terrenos", desc: "El lugar perfecto para proyectar y construir desde cero.", badge: "Proyectos" },
              { title: "Comercial", desc: "Oportunidades únicas de inversión para locales y empresas.", badge: "Inversión" }
            ].map((cat, i) => (
              <div key={i} className="vnt-scroll bg-white p-6 rounded-2xl border border-primary/10 hover:border-accent hover:-translate-y-1 transition-all shadow-sm">
@@ -1549,7 +1994,7 @@ const Sucursales = () => {
       phone: "+54 9 11 7717-0405",
       whatsapp: "5491177170405",
       mapUrl: "https://www.google.com/maps/search/?api=1&query=Almirante+Brown+3295,+Villa+Ballester",
-      hours: "Lunes a Viernes: 10 a 13hs y 14 a 18:30hs.",
+      hours: "Lunes a Viernes: 10 a 13 hs. y 14 a 18 hs.",
       img: sucursalBallester
     },
     {
@@ -1559,7 +2004,7 @@ const Sucursales = () => {
       phone: "+54 9 11 7717-6007",
       whatsapp: "5491177176007",
       mapUrl: "https://www.google.com/maps/search/?api=1&query=Mitre+3404,+San+Martin",
-      hours: "Lunes a Viernes: 10 a 13hs y 14 a 18:30hs.",
+      hours: "Lunes a Viernes: 10 a 13 hs. y 14 a 18 hs.",
       img: sucursalSanMartin
     }
   ];
@@ -2169,8 +2614,8 @@ const SobreNosotros = () => {
     {
       icon: <Building size={28} />,
       title: "Trayectoria",
-      desc: "Más de 20 años construyendo confianza en Villa Ballester y la zona norte del Gran Buenos Aires. Cada proyecto refleja nuestra historia.",
-      data: "+20 años"
+      desc: "Más de 30 años construyendo confianza en Villa Ballester y la zona norte del Gran Buenos Aires. Cada proyecto refleja nuestra historia.",
+      data: "+30 años"
     },
     {
       icon: <ArrowRight size={28} />,
@@ -2202,7 +2647,7 @@ const SobreNosotros = () => {
           <div className="absolute inset-0 bg-primary/75"></div>
           <div className="relative z-10 text-center px-4">
             <span className="nos-hero font-data tracking-widest text-xs text-white/70 mb-4 block">// NUESTRA HISTORIA</span>
-            <h1 className="nos-hero font-drama font-black text-5xl md:text-7xl text-white mb-6">Más de 20 años<br /><span className="font-heading font-black text-accent tracking-tight">construyendo juntos.</span></h1>
+            <h1 className="nos-hero font-drama font-black text-5xl md:text-7xl text-white mb-6">Más de 30 años<br /><span className="font-heading font-black text-accent tracking-tight">construyendo juntos.</span></h1>
             <p className="nos-hero font-heading text-lg text-white/80 max-w-xl mx-auto">Una empresa de familia, una historia de esfuerzo, y una visión compartida que trasciende generaciones.</p>
           </div>
         </div>
@@ -2289,7 +2734,7 @@ const SobreNosotros = () => {
         <div className="max-w-7xl mx-auto bg-primary rounded-[2rem] py-16 px-8 shadow-2xl">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-10 text-center">
             {[
-              { value: "+20", label: "Años de experiencia" },
+              { value: "+30", label: "Años de experiencia" },
               { value: "78", label: "Proyectos en Pcia. de Bs. As." },
               { value: "+150.000", label: "m² entregados" },
               { value: "1.350", label: "Unidades vendidas" }
@@ -2582,7 +3027,7 @@ const ObrasDeMarLanding = () => {
                 Formulario de contacto
               </Link>
             </div>
-            <p className="odm-scroll font-heading text-white/40 text-sm mt-8">Güemes 2305, Mar del Plata · L–V 10:00–18:30</p>
+            <p className="odm-scroll font-heading text-white/40 text-sm mt-8">Güemes 2305, Mar del Plata · L–V 10:00–13:00 / 14:00–18:00</p>
           </div>
         </div>
       </section>
@@ -2890,6 +3335,7 @@ export default function App() {
           <Route path="/sucursales" element={<Sucursales />} />
           <Route path="/nosotros" element={<SobreNosotros />} />
           <Route path="/propiedad/:id" element={<PropertyDetail />} />
+          <Route path="/emprendimientos/terminado/:slug" element={<TerminadoDetail />} />
           <Route path="/obras-de-mar" element={<ObrasDeMarLanding />} />
           <Route path="/obras-de-mar/propiedad/:id" element={<ObrasDeMarPropertyDetail />} />
         </Routes>
