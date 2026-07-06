@@ -10,6 +10,9 @@ lerna-debug.log*
 .env
 .env.*
 node_modules
+
+# WhatsApp/Chatwoot migration docs — contain live credentials; repo is PUBLIC, never commit
+docs/whatsapp-chatbot/
 dist
 dist-ssr
 *.local
