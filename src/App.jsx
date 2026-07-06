@@ -1343,7 +1343,7 @@ const TerminadoDetail = () => {
       const res = await fetch(`https://tokkobroker.com/api/v1/property/contact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name: formData.name, email: formData.email, phone: formData.phone, message: formData.message || `Consulta sobre nuevos proyectos (referencia: ${dev.name})`, property_id: 0 }),
+        body: JSON.stringify({ name: formData.name, email: formData.email, phone: formData.phone, message: formData.message || `Consulta sobre nuevos proyectos (referencia: ${dev.name})`, tags: ['Web', 'Terminado'] }),
       });
       setSubmitStatus(res.ok ? 'ok' : 'error');
     } catch { setSubmitStatus('error'); }
