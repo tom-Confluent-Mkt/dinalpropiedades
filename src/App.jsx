@@ -1285,21 +1285,27 @@ const Emprendimientos = () => {
         <h2 className="emp-scroll font-heading font-bold text-3xl text-primary mb-12 text-center">Modalidades de Inversión</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
            {[
-             { title: "En Pozo", desc: "Máxima rentabilidad al entrar en la etapa inicial del proyecto.", badge: "Mayor ROI" },
-             { title: "En Construcción", desc: "Avance comprobable con planes de financiación flexibles y en cuotas.", badge: "Financiado" },
-             { title: "A Estrenar", desc: "Unidades terminadas con posesión inmediata, listas para habitar o alquilar.", badge: "Inmediato" },
-           ].map((cat, i) => (
-             <div key={i} className="emp-scroll bg-white p-6 rounded-2xl border border-primary/10 hover:border-accent hover:-translate-y-1 transition-all shadow-sm">
-                <span className="bg-primary/5 text-primary text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block">{cat.badge}</span>
-                <h3 className="font-heading font-bold text-xl text-primary mb-3">{cat.title}</h3>
-                <p className="font-heading text-dark/70 text-sm leading-relaxed">{cat.desc}</p>
-             </div>
-           ))}
+             { title: "En Pozo", desc: "Máxima rentabilidad al entrar en la etapa inicial del proyecto.", badge: "Mayor ROI", stage: "En pozo" },
+             { title: "En Construcción", desc: "Avance comprobable con planes de financiación flexibles y en cuotas.", badge: "Financiado", stage: "Construcción" },
+             { title: "A Estrenar", desc: "Unidades terminadas con posesión inmediata, listas para habitar o alquilar.", badge: "Inmediato", stage: "Construcción terminada" },
+           ].map((cat, i) => {
+             const active = filterProps.stage === cat.stage;
+             return (
+               <button key={i} type="button" onClick={() => {
+                 filterProps.setStage(active ? '' : cat.stage);
+                 document.getElementById('emp-catalogue').scrollIntoView({ behavior: 'smooth', block: 'start' });
+               }} className={`emp-scroll text-left bg-white p-6 rounded-2xl border transition-all shadow-sm hover:-translate-y-1 cursor-pointer w-full ${active ? 'border-accent ring-2 ring-accent/20' : 'border-primary/10 hover:border-accent'}`}>
+                  <span className={`text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block ${active ? 'bg-accent text-primary' : 'bg-primary/5 text-primary'}`}>{cat.badge}</span>
+                  <h3 className="font-heading font-bold text-xl text-primary mb-3">{cat.title}</h3>
+                  <p className="font-heading text-dark/70 text-sm leading-relaxed">{cat.desc}</p>
+               </button>
+             );
+           })}
         </div>
       </section>
 
       {/* 3. Tokko Grid */}
-      <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
+      <section id="emp-catalogue" className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
            <h2 className="emp-scroll font-drama text-4xl text-primary">Catálogo de Proyectos</h2>
         </div>
@@ -1627,8 +1633,14 @@ const BATH_OPTIONS = [1, 2, 3];
 
 // Derives the available filter options from the listing set and returns the
 // filtered results plus everything <PropertyFilters/> needs to render.
+const TYPE_GROUPS = {
+  residencial: ['Casa', 'Departamento', 'PH'],
+  comercial:   ['Cochera', 'Depósito', 'Galpón', 'Local', 'Oficina'],
+};
+
 function usePropertyFilters(properties) {
   const [type, setType] = useState('');
+  const [typeGroup, setTypeGroup] = useState('');
   const [location, setLocation] = useState('');
   const [rooms, setRooms] = useState(0);
   const [baths, setBaths] = useState(0);
@@ -1645,7 +1657,9 @@ function usePropertyFilters(properties) {
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
+    const groupTypes = typeGroup ? TYPE_GROUPS[typeGroup] : null;
     return properties.filter(p => {
+      if (groupTypes && !groupTypes.includes(p.type?.name)) return false;
       if (type && p.type?.name !== type) return false;
       if (location && p.location?.name !== location) return false;
       if (rooms && (p.room_amount || 0) < rooms) return false;
@@ -1656,16 +1670,17 @@ function usePropertyFilters(properties) {
       }
       return true;
     });
-  }, [properties, type, location, rooms, baths, query]);
+  }, [properties, type, typeGroup, location, rooms, baths, query]);
 
-  const reset = () => { setType(''); setLocation(''); setRooms(0); setBaths(0); setQuery(''); };
-  const active = Boolean(type || location || rooms || baths || query);
+  const reset = () => { setType(''); setTypeGroup(''); setLocation(''); setRooms(0); setBaths(0); setQuery(''); };
+  const active = Boolean(type || typeGroup || location || rooms || baths || query);
 
   return {
     filtered,
     filterProps: {
-      type, setType, location, setLocation, rooms, setRooms, baths, setBaths,
-      query, setQuery, types, locations, reset, active, count: filtered.length,
+      type, setType, typeGroup, setTypeGroup, location, setLocation,
+      rooms, setRooms, baths, setBaths, query, setQuery,
+      types, locations, reset, active, count: filtered.length,
     },
   };
 }
@@ -1850,17 +1865,23 @@ const Alquiler = () => {
       <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <h2 className="alq-scroll font-heading font-bold text-3xl text-primary mb-12 text-center">Nuestras Opciones</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-           {[ 
-             { title: "Residencial", desc: "Casas y departamentos en excelentes condiciones para vos y tu familia.", badge: "Vivienda" },
-             { title: "Comercial", desc: "Locales y oficinas estratégicamente ubicados para potenciar tu negocio.", badge: "Negocios" },
-             { title: "Garantías", desc: "Te brindamos asesoramiento permanente para que el proceso sea 100% seguro.", badge: "Legal" }
-           ].map((cat, i) => (
-             <div key={i} className="alq-scroll bg-white p-6 rounded-2xl border border-primary/10 hover:border-accent hover:-translate-y-1 transition-all shadow-sm">
-                <span className="bg-primary/5 text-primary text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block">{cat.badge}</span>
-                <h3 className="font-heading font-bold text-xl text-primary mb-3">{cat.title}</h3>
-                <p className="font-heading text-dark/70 text-sm leading-relaxed">{cat.desc}</p>
-             </div>
-           ))}
+           {[
+             { title: "Residencial", desc: "Casas y departamentos en excelentes condiciones para vos y tu familia.", badge: "Vivienda", group: "residencial" },
+             { title: "Comercial", desc: "Locales y oficinas estratégicamente ubicados para potenciar tu negocio.", badge: "Negocios", group: "comercial" },
+             { title: "Garantías", desc: "Te brindamos asesoramiento permanente para que el proceso sea 100% seguro.", badge: "Legal", group: null }
+           ].map((cat, i) => {
+             const active = cat.group && filterProps.typeGroup === cat.group;
+             return (
+               <button key={i} type="button" onClick={() => {
+                 if (cat.group) filterProps.setTypeGroup(active ? '' : cat.group);
+                 document.getElementById('alq-catalogue').scrollIntoView({ behavior: 'smooth', block: 'start' });
+               }} className={`alq-scroll text-left bg-white p-6 rounded-2xl border transition-all shadow-sm hover:-translate-y-1 cursor-pointer w-full ${active ? 'border-accent ring-2 ring-accent/20' : 'border-primary/10 hover:border-accent'}`}>
+                  <span className={`text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block ${active ? 'bg-accent text-primary' : 'bg-primary/5 text-primary'}`}>{cat.badge}</span>
+                  <h3 className="font-heading font-bold text-xl text-primary mb-3">{cat.title}</h3>
+                  <p className="font-heading text-dark/70 text-sm leading-relaxed">{cat.desc}</p>
+               </button>
+             );
+           })}
         </div>
       </section>
 
@@ -1873,7 +1894,7 @@ const Alquiler = () => {
         </section>
       )}
 
-      <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
+      <section id="alq-catalogue" className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
            <h2 className="alq-scroll font-drama text-4xl text-primary">Propiedades en Alquiler</h2>
         </div>
