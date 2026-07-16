@@ -154,6 +154,11 @@ const TAG_ICONS = {
   'Escritura inmediata':      <FileText size={14} />,
 };
 
+function stripCodeFence(html) {
+  if (!html) return html;
+  return html.replace(/^```(?:html)?\s*/i, '').replace(/\s*```$/i, '').trim();
+}
+
 function slugify(str) {
   return (str ?? '')
     .toLowerCase()
@@ -560,8 +565,9 @@ const PropertyCard = ({ prop, opType, className = '' }) => {
         <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{prop.publication_title}</h3>
         <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {prop.location?.name}</p>
         <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between text-sm font-heading">
-          {prop.roofed_surface > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.roofed_surface}m²</span>}
-          {prop.bathroom_amount > 0 && <span className="flex items-center gap-1"><Bath size={16}/> {prop.bathroom_amount} Baños</span>}
+          {(prop.total_surface || prop.roofed_surface) > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.total_surface || prop.roofed_surface}m²</span>}
+          {prop.room_amount > 0 && <span className="flex items-center gap-1">{prop.room_amount} amb.</span>}
+          {prop.bathroom_amount > 0 && <span className="flex items-center gap-1"><Bath size={16}/> {prop.bathroom_amount}</span>}
           <span className="font-bold text-primary group-hover:translate-x-1 transition-transform inline-flex items-center gap-1 ml-auto">Ver <ArrowRight size={14} /></span>
         </div>
       </div>
@@ -2512,7 +2518,7 @@ const PropertyDetail = () => {
                 {prop.enhanced_description || prop.rich_description ? (
                   <div
                     className="font-heading text-dark/70 leading-relaxed text-sm property-description"
-                    dangerouslySetInnerHTML={{ __html: prop.enhanced_description || prop.rich_description }}
+                    dangerouslySetInnerHTML={{ __html: stripCodeFence(prop.enhanced_description || prop.rich_description) }}
                   />
                 ) : (
                   <p className="font-heading text-dark/70 leading-relaxed whitespace-pre-line text-sm">{prop.description}</p>
@@ -3337,7 +3343,7 @@ const ObrasDeMarPropertyDetail = () => {
                 <h2 className="font-heading font-bold text-lg text-primary mb-4 pb-3 border-b border-primary/10">Descripción</h2>
                 {prop.enhanced_description || prop.rich_description ? (
                   <div className="font-heading text-dark/70 leading-relaxed text-sm property-description"
-                    dangerouslySetInnerHTML={{ __html: prop.enhanced_description || prop.rich_description }} />
+                    dangerouslySetInnerHTML={{ __html: stripCodeFence(prop.enhanced_description || prop.rich_description) }} />
                 ) : (
                   <p className="font-heading text-dark/70 leading-relaxed whitespace-pre-line text-sm">{prop.description}</p>
                 )}

@@ -28,6 +28,10 @@ function hash(text) {
   return createHash('sha256').update(text ?? '').digest('hex').slice(0, 16);
 }
 
+function stripCodeFence(text) {
+  return text.replace(/^```(?:html)?\s*/i, '').replace(/\s*```$/i, '').trim();
+}
+
 async function enhance(id, description) {
   const msg = await client.messages.create({
     model: 'claude-haiku-4-5-20251001',
@@ -35,7 +39,7 @@ async function enhance(id, description) {
     system: SYSTEM_PROMPT,
     messages: [{ role: 'user', content: description }],
   });
-  return msg.content[0].text.trim();
+  return stripCodeFence(msg.content[0].text.trim());
 }
 
 async function processCollection(items, cache, label) {
