@@ -171,6 +171,16 @@ function propSlug(item) {
   return `${item.id}-${slugify(text)}`.slice(0, 100);
 }
 
+// Las líneas de WhatsApp de las sucursales se atienden de 10:00 a 16:30 (GMT-3);
+// fuera de ese horario los chats van al número atendido por el asistente (Chatwoot).
+const WA_BOT_NUMBER = '5491124641389';
+function waLine(branchNumber) {
+  const now = new Date();
+  const arMinutes = (now.getUTCHours() * 60 + now.getUTCMinutes() - 180 + 1440) % 1440;
+  const open = arMinutes >= 600 && arMinutes < 990; // 10:00–16:30
+  return open ? branchNumber : WA_BOT_NUMBER;
+}
+
 // ----------------------------------------------------
 // A. NAVBAR
 // ----------------------------------------------------
@@ -873,10 +883,10 @@ const Contact = () => {
            <div className="absolute -left-6 bottom-16 hidden lg:block">
              {waOpen && (
                <div className="absolute bottom-full mb-3 left-0 bg-white rounded-2xl shadow-2xl border border-primary/10 p-3 flex flex-col gap-2 min-w-[220px]">
-                 <a href={`https://wa.me/5491177170405?text=${encodeURIComponent('Hola, quería más información.')}`} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-[#25D366]/10 text-primary font-heading font-semibold text-sm transition-colors whitespace-nowrap">
+                 <a href={`https://wa.me/${waLine('5491177170405')}?text=${encodeURIComponent('Hola, quería más información.')}`} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-[#25D366]/10 text-primary font-heading font-semibold text-sm transition-colors whitespace-nowrap">
                    {WA_SVG} Villa Ballester
                  </a>
-                 <a href={`https://wa.me/5491177176007?text=${encodeURIComponent('Hola, quería más información.')}`} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-[#25D366]/10 text-primary font-heading font-semibold text-sm transition-colors whitespace-nowrap">
+                 <a href={`https://wa.me/${waLine('5491177176007')}?text=${encodeURIComponent('Hola, quería más información.')}`} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-[#25D366]/10 text-primary font-heading font-semibold text-sm transition-colors whitespace-nowrap">
                    {WA_SVG} San Martín
                  </a>
                </div>
@@ -1589,11 +1599,11 @@ const TerminadoDetail = () => {
 
               {/* WhatsApp */}
               <div className="mt-4 pt-4 border-t border-primary/10 flex flex-col gap-2">
-                <a href="https://wa.me/5491177170405" target="_blank" rel="noopener noreferrer"
+                <a href={`https://wa.me/${waLine('5491177170405')}`} target="_blank" rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 border border-primary/15 hover:border-accent text-primary font-heading font-bold text-sm py-3 rounded-xl transition-colors">
                   WhatsApp Villa Ballester
                 </a>
-                <a href="https://wa.me/5491177176007" target="_blank" rel="noopener noreferrer"
+                <a href={`https://wa.me/${waLine('5491177176007')}`} target="_blank" rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 border border-primary/15 hover:border-accent text-primary font-heading font-bold text-sm py-3 rounded-xl transition-colors">
                   WhatsApp San Martín
                 </a>
@@ -2168,7 +2178,7 @@ const Sucursales = () => {
                          <a href={branch.mapUrl} target="_blank" rel="noreferrer" className="flex items-center justify-center gap-2 bg-primary text-white font-heading font-bold py-3 rounded-xl hover:bg-primary/90 transition-colors shadow-lg">
                             Ver Mapa <Compass size={18} />
                          </a>
-                         <a href={`https://wa.me/${branch.whatsapp}`} target="_blank" rel="noreferrer" className="flex items-center justify-center gap-2 bg-transparent border-2 border-[#25D366] text-[#25D366] font-heading font-bold py-3 rounded-xl hover:bg-[#25D366] hover:text-white transition-all shadow-lg">
+                         <a href={`https://wa.me/${waLine(branch.whatsapp)}`} target="_blank" rel="noreferrer" className="flex items-center justify-center gap-2 bg-transparent border-2 border-[#25D366] text-[#25D366] font-heading font-bold py-3 rounded-xl hover:bg-[#25D366] hover:text-white transition-all shadow-lg">
                             WhatsApp
                          </a>
                      </div>
@@ -2576,7 +2586,7 @@ const PropertyDetail = () => {
               <p className="font-heading font-semibold text-sm text-primary mb-3">Consultar por WhatsApp</p>
               <div className="flex flex-col gap-2 mb-5">
                 <a
-                  href={`https://wa.me/5491177170405?text=${encodeURIComponent(`Hola, quería más información sobre esta propiedad: ${window.location.href}`)}`}
+                  href={`https://wa.me/${waLine('5491177170405')}?text=${encodeURIComponent(`Hola, quería más información sobre esta propiedad: ${window.location.href}`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 bg-[#25D366]/10 hover:bg-[#25D366]/20 text-[#128C7E] font-heading font-semibold text-sm px-4 py-3 rounded-xl transition-colors"
@@ -2585,7 +2595,7 @@ const PropertyDetail = () => {
                   Villa Ballester
                 </a>
                 <a
-                  href={`https://wa.me/5491177176007?text=${encodeURIComponent(`Hola, quería más información sobre esta propiedad: ${window.location.href}`)}`}
+                  href={`https://wa.me/${waLine('5491177176007')}?text=${encodeURIComponent(`Hola, quería más información sobre esta propiedad: ${window.location.href}`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 bg-[#25D366]/10 hover:bg-[#25D366]/20 text-[#128C7E] font-heading font-semibold text-sm px-4 py-3 rounded-xl transition-colors"
@@ -2660,7 +2670,7 @@ const WhatsAppButton = () => {
         ) : (
           <>
             <a
-              href={waUrl('5491177170405')}
+              href={waUrl(waLine('5491177170405'))}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 bg-white text-primary font-heading font-semibold text-sm px-4 py-3 rounded-2xl shadow-xl border border-primary/10 hover:border-[#25D366] hover:text-[#25D366] transition-all duration-200 whitespace-nowrap"
@@ -2669,7 +2679,7 @@ const WhatsAppButton = () => {
               Villa Ballester
             </a>
             <a
-              href={waUrl('5491177176007')}
+              href={waUrl(waLine('5491177176007'))}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 bg-white text-primary font-heading font-semibold text-sm px-4 py-3 rounded-2xl shadow-xl border border-primary/10 hover:border-[#25D366] hover:text-[#25D366] transition-all duration-200 whitespace-nowrap"
