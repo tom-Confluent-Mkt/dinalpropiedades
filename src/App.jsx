@@ -733,7 +733,7 @@ const Contact = () => {
     setSubmitStatus('sending');
     try {
       const res = await fetch(
-        `https://tokkobroker.com/api/v1/property/contact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`,
+        `https://tokkobroker.com/api/v1/webcontact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -741,7 +741,8 @@ const Contact = () => {
             name: formData.name,
             email: formData.email,
             phone: formData.phone,
-            message: `[${formData.reason || 'Consulta general'}] ${formData.message}`,
+            cellphone: formData.phone,
+            text: `[${formData.reason || 'Consulta general'}] ${formData.message}`,
             tags: ['Web', 'Contacto'],
           }),
         }
@@ -1426,10 +1427,10 @@ const TerminadoDetail = () => {
     e.preventDefault();
     setSubmitStatus('sending');
     try {
-      const res = await fetch(`https://tokkobroker.com/api/v1/property/contact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`, {
+      const res = await fetch(`https://tokkobroker.com/api/v1/webcontact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name: formData.name, email: formData.email, phone: formData.phone, message: formData.message || `Consulta sobre nuevos proyectos (referencia: ${dev.name})`, tags: ['Web', 'Terminado'] }),
+        body: JSON.stringify({ name: formData.name, email: formData.email, phone: formData.phone, cellphone: formData.phone, text: formData.message || `Consulta sobre nuevos proyectos (referencia: ${dev.name})`, tags: ['Web', 'Terminado'] }),
       });
       setSubmitStatus(res.ok ? 'ok' : 'error');
     } catch { setSubmitStatus('error'); }
@@ -2239,16 +2240,17 @@ const PropertyInquiryForm = ({ propertyId }) => {
     setStatus('sending');
     try {
       const res = await fetch(
-        `https://tokkobroker.com/api/v1/property/contact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`,
+        `https://tokkobroker.com/api/v1/webcontact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
-            property_ids: [propertyId],
+            properties: [propertyId],
             name: form.name,
             email: form.email,
             phone: form.phone,
-            message: form.message || `Consulta sobre propiedad #${propertyId}`,
+            cellphone: form.phone,
+            text: form.message || `Consulta sobre propiedad #${propertyId}`,
             tags: ['Web'],
           }),
         }
@@ -2902,16 +2904,17 @@ const OdmInquiryForm = ({ propertyId }) => {
     setStatus('sending');
     try {
       const res = await fetch(
-        `https://tokkobroker.com/api/v1/property/contact/?key=${import.meta.env.VITE_ODM_TOKKO_API_KEY}&format=json`,
+        `https://tokkobroker.com/api/v1/webcontact/?key=${import.meta.env.VITE_ODM_TOKKO_API_KEY}&format=json`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
-            property_ids: [propertyId],
+            properties: [propertyId],
             name: form.name,
             email: form.email,
             phone: form.phone,
-            message: form.message || `Consulta sobre proyecto #${propertyId}`,
+            cellphone: form.phone,
+            text: form.message || `Consulta sobre proyecto #${propertyId}`,
             tags: ['Web', 'ObrasDeMarMDP'],
           }),
         }
