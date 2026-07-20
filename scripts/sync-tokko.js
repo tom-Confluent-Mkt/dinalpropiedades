@@ -1,5 +1,6 @@
 import 'dotenv/config';
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'fs';
+import { createHash } from 'crypto';
 import { execFileSync } from 'child_process';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
@@ -45,6 +46,11 @@ async function fetchAllDevelopments() {
   return data.objects || [];
 }
 
+function hashProperty(p) {
+  const { _last_changed, enhanced_description, ...rest } = p;
+  return createHash('sha256').update(JSON.stringify(rest)).digest('hex').slice(0, 16);
+}
+
 async function sync() {
   const start = new Date();
   console.log(`[${start.toISOString()}] Starting Tokko sync…`);
@@ -56,6 +62,27 @@ async function sync() {
       fetchAllProperties(),
       fetchAllDevelopments(),
     ]);
+
+    // Load previous snapshot to detect changes
+    const propsFile = join(OUT_DIR, 'properties.json');
+    const prevMap = {};
+    if (existsSync(propsFile)) {
+      const prev = JSON.parse(readFileSync(propsFile, 'utf8'));
+      for (const p of prev.objects) prevMap[p.id] = p;
+    }
+
+    // Stamp each property with _last_changed
+    const now = start.toISOString();
+    for (const p of properties) {
+      const prev = prevMap[p.id];
+      if (!prev) {
+        p._last_changed = p.created_at || now;
+      } else if (hashProperty(p) !== hashProperty(prev)) {
+        p._last_changed = now;
+      } else {
+        p._last_changed = prev._last_changed || prev.created_at || now;
+      }
+    }
 
     const meta = { lastSync: start.toISOString() };
 
