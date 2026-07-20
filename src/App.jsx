@@ -1685,7 +1685,7 @@ function usePropertyFilters(properties) {
         if (!hay.includes(q)) return false;
       }
       return true;
-    });
+    }).sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
   }, [properties, type, typeGroup, location, rooms, baths, query]);
 
   const reset = () => { setType(''); setTypeGroup(''); setLocation(''); setRooms(0); setBaths(0); setQuery(''); };
