@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\Tomas\\AppData\\Roaming\\npm\\node_modules\\chrome-devtools-mcp\\build\\src\\bin\\chrome-devtools-mcp.js",
+        "--no-usage-statistics",
+        "--executablePath",
+        "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      ]
+    }
+  }
+}
