@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-07-20T17:41:08.646Z"
+    "lastSync": "2026-07-22T08:12:26.228Z"
   },
   "objects": [
     {
@@ -499,7 +499,7 @@
           },
           {
             "id": 25025,
-            "name": "V.Libertad",
+            "name": "Villa Libertad",
             "resource_uri": "/api/v1/location/25025/"
           },
           {
@@ -965,7 +965,7 @@
           },
           {
             "id": 25025,
-            "name": "V.Libertad",
+            "name": "Villa Libertad",
             "resource_uri": "/api/v1/location/25025/"
           },
           {
@@ -1381,7 +1381,7 @@
           },
           {
             "id": 25025,
-            "name": "V.Libertad",
+            "name": "Villa Libertad",
             "resource_uri": "/api/v1/location/25025/"
           },
           {
@@ -1833,7 +1833,7 @@
           },
           {
             "id": 25025,
-            "name": "V.Libertad",
+            "name": "Villa Libertad",
             "resource_uri": "/api/v1/location/25025/"
           },
           {
@@ -2217,7 +2217,7 @@
           },
           {
             "id": 25025,
-            "name": "V.Libertad",
+            "name": "Villa Libertad",
             "resource_uri": "/api/v1/location/25025/"
           },
           {
@@ -2491,7 +2491,7 @@
           },
           {
             "id": 25025,
-            "name": "V.Libertad",
+            "name": "Villa Libertad",
             "resource_uri": "/api/v1/location/25025/"
           },
           {
@@ -3436,7 +3436,7 @@
           },
           {
             "id": 25025,
-            "name": "V.Libertad",
+            "name": "Villa Libertad",
             "resource_uri": "/api/v1/location/25025/"
           },
           {
@@ -4531,7 +4531,7 @@
         "alternative_phone_area": "",
         "alternative_phone_country_code": "",
         "alternative_phone_extension": "",
-        "branch_type": "Internal",
+        "branch_type": null,
         "contact_time": "-",
         "created_date": "2025-10-20T16:06:07",
         "display_name": "Inactiva",
@@ -4749,7 +4749,7 @@
         "alternative_phone_area": "",
         "alternative_phone_country_code": "",
         "alternative_phone_extension": "",
-        "branch_type": "Internal",
+        "branch_type": null,
         "contact_time": "-",
         "created_date": "2025-10-20T16:06:07",
         "display_name": "Inactiva",
@@ -5168,7 +5168,7 @@
         "alternative_phone_area": "",
         "alternative_phone_country_code": "",
         "alternative_phone_extension": "",
-        "branch_type": "Internal",
+        "branch_type": null,
         "contact_time": "-",
         "created_date": "2025-10-20T16:06:07",
         "display_name": "Inactiva",
@@ -5255,7 +5255,7 @@
           },
           {
             "id": 25025,
-            "name": "V.Libertad",
+            "name": "Villa Libertad",
             "resource_uri": "/api/v1/location/25025/"
           },
           {
