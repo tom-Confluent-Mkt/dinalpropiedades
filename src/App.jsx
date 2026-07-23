@@ -563,7 +563,7 @@ const PropertyCard = ({ prop, opType, className = '' }) => {
       </div>
       <div className="px-2 flex-grow flex flex-col">
         <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{prop.publication_title}</h3>
-        <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {prop.location?.name}</p>
+        <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {prop.address ? `${prop.address}${prop.location?.name ? `, ${prop.location.name}` : ''}` : prop.location?.name}</p>
         <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between text-sm font-heading">
           {(prop.total_surface || prop.roofed_surface) > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.total_surface || prop.roofed_surface}m²</span>}
           {prop.room_amount > 0 && <span className="flex items-center gap-1">{prop.room_amount} amb.</span>}
@@ -2014,15 +2014,15 @@ const Ventas = () => {
         <h2 className="vnt-scroll font-heading font-bold text-3xl text-primary mb-12 text-center">Nuestras Soluciones de Venta</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
            {[
-             { title: "Casas", desc: "Espacios amplios y jardines pensados para tu familia.", badge: "Familia" },
-             { title: "Departamentos", desc: "Ubicaciones céntricas con todas las comodidades y seguridad.", badge: "Urbano" },
-             { title: "Comercial", desc: "Oportunidades únicas de inversión para locales y empresas.", badge: "Inversión" }
+             { title: "Casas", desc: "Espacios amplios y jardines pensados para tu familia.", badge: "Familia", to: "/venta" },
+             { title: "Departamentos", desc: "Ubicaciones céntricas con todas las comodidades y seguridad.", badge: "Urbano", to: "/venta" },
+             { title: "Comercial", desc: "Oportunidades únicas de inversión para locales y empresas.", badge: "Inversión", to: "/venta" }
            ].map((cat, i) => (
-             <div key={i} className="vnt-scroll bg-white p-6 rounded-2xl border border-primary/10 hover:border-accent hover:-translate-y-1 transition-all shadow-sm">
+             <Link key={i} to={cat.to} className="vnt-scroll bg-white p-6 rounded-2xl border border-primary/10 hover:border-accent hover:-translate-y-1 transition-all shadow-sm block">
                 <span className="bg-primary/5 text-primary text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block">{cat.badge}</span>
                 <h3 className="font-heading font-bold text-xl text-primary mb-3">{cat.title}</h3>
                 <p className="font-heading text-dark/70 text-sm leading-relaxed">{cat.desc}</p>
-             </div>
+             </Link>
            ))}
         </div>
       </section>
@@ -2517,30 +2517,6 @@ const PropertyDetail = () => {
                 ) : (
                   <p className="font-heading text-dark/70 leading-relaxed whitespace-pre-line text-sm">{prop.description}</p>
                 )}
-              </div>
-            )}
-
-            {/* Amenities */}
-            {Object.keys(tagsByType).length > 0 && (
-              <div className="bg-white rounded-2xl p-8 border border-primary/10">
-                <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">Comodidades</h2>
-                <div className="flex flex-col gap-6">
-                  {Object.entries(tagsByType).map(([type, names]) => (
-                    <div key={type}>
-                      <p className="font-data text-xs text-dark/40 tracking-widest uppercase mb-3">
-                        {TAG_TYPE_LABELS[type] ?? type}
-                      </p>
-                      <div className="flex flex-wrap gap-2">
-                        {names.map(name => (
-                          <span key={name} className="inline-flex items-center gap-1.5 bg-primary/5 text-primary font-heading text-sm px-3 py-1.5 rounded-lg border border-primary/10">
-                            <span className="text-primary/50 shrink-0">{TAG_ICONS[name] ?? <Check size={14} />}</span>
-                            {name}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-                  ))}
-                </div>
               </div>
             )}
 
@@ -3346,27 +3322,6 @@ const ObrasDeMarPropertyDetail = () => {
             )}
 
             {/* Amenities */}
-            {Object.keys(tagsByType).length > 0 && (
-              <div className="bg-white rounded-2xl p-8 border border-primary/10">
-                <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">Comodidades</h2>
-                <div className="flex flex-col gap-6">
-                  {Object.entries(tagsByType).map(([type, names]) => (
-                    <div key={type}>
-                      <p className="font-data text-xs text-dark/40 tracking-widest uppercase mb-3">{TAG_TYPE_LABELS[type] ?? type}</p>
-                      <div className="flex flex-wrap gap-2">
-                        {names.map(name => (
-                          <span key={name} className="inline-flex items-center gap-1.5 bg-primary/5 text-primary font-heading text-sm px-3 py-1.5 rounded-lg border border-primary/10">
-                            <span className="text-primary/50 shrink-0">{TAG_ICONS[name] ?? <Check size={14} />}</span>
-                            {name}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
-
             {/* Map */}
             {lat && lon && import.meta.env.VITE_GOOGLE_MAPS_API_KEY && (
               <div className="bg-white rounded-2xl overflow-hidden border border-primary/10">
