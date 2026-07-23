@@ -563,7 +563,7 @@ const PropertyCard = ({ prop, opType, className = '' }) => {
       </div>
       <div className="px-2 flex-grow flex flex-col">
         <h3 className="font-heading font-bold text-xl text-primary mb-2 line-clamp-2">{prop.publication_title}</h3>
-        <p className="font-heading text-sm text-dark/60 mb-6 flex items-center gap-2"><MapPin size={16}/> {prop.address ? `${prop.address}${prop.location?.name ? `, ${prop.location.name}` : ''}` : prop.location?.name}</p>
+        <p className="font-heading text-sm font-semibold text-primary/80 mb-6 flex items-center gap-2"><MapPin size={16} className="text-accent shrink-0"/> {prop.address ? `${prop.address}${prop.location?.name ? `, ${prop.location.name}` : ''}` : prop.location?.name}</p>
         <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between text-sm font-heading">
           {(prop.total_surface || prop.roofed_surface) > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.total_surface || prop.roofed_surface}m²</span>}
           {prop.room_amount > 0 && <span className="flex items-center gap-1">{prop.room_amount} amb.</span>}
