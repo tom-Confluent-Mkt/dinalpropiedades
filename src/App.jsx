@@ -2014,16 +2014,23 @@ const Ventas = () => {
         <h2 className="vnt-scroll font-heading font-bold text-3xl text-primary mb-12 text-center">Nuestras Soluciones de Venta</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
            {[
-             { title: "Casas", desc: "Espacios amplios y jardines pensados para tu familia.", badge: "Familia", to: "/venta" },
-             { title: "Departamentos", desc: "Ubicaciones céntricas con todas las comodidades y seguridad.", badge: "Urbano", to: "/venta" },
-             { title: "Comercial", desc: "Oportunidades únicas de inversión para locales y empresas.", badge: "Inversión", to: "/venta" }
-           ].map((cat, i) => (
-             <Link key={i} to={cat.to} className="vnt-scroll bg-white p-6 rounded-2xl border border-primary/10 hover:border-accent hover:-translate-y-1 transition-all shadow-sm block">
-                <span className="bg-primary/5 text-primary text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block">{cat.badge}</span>
-                <h3 className="font-heading font-bold text-xl text-primary mb-3">{cat.title}</h3>
-                <p className="font-heading text-dark/70 text-sm leading-relaxed">{cat.desc}</p>
-             </Link>
-           ))}
+             { title: "Casas", desc: "Espacios amplios y jardines pensados para tu familia.", badge: "Familia", type: "Casa" },
+             { title: "Departamentos", desc: "Ubicaciones céntricas con todas las comodidades y seguridad.", badge: "Urbano", type: "Departamento" },
+             { title: "Comercial", desc: "Oportunidades únicas de inversión para locales y empresas.", badge: "Inversión", group: "comercial" }
+           ].map((cat, i) => {
+             const active = cat.group ? filterProps.typeGroup === cat.group : filterProps.type === cat.type;
+             return (
+               <button key={i} type="button" onClick={() => {
+                 if (cat.group) filterProps.setTypeGroup(active ? '' : cat.group);
+                 else { filterProps.setType(active ? '' : cat.type); filterProps.setTypeGroup(''); }
+                 document.getElementById('vnt-catalogue').scrollIntoView({ behavior: 'smooth', block: 'start' });
+               }} className={`vnt-scroll text-left bg-white p-6 rounded-2xl border transition-all shadow-sm hover:-translate-y-1 cursor-pointer w-full ${active ? 'border-accent ring-2 ring-accent/20' : 'border-primary/10 hover:border-accent'}`}>
+                 <span className={`text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block ${active ? 'bg-accent text-primary' : 'bg-primary/5 text-primary'}`}>{cat.badge}</span>
+                 <h3 className="font-heading font-bold text-xl text-primary mb-3">{cat.title}</h3>
+                 <p className="font-heading text-dark/70 text-sm leading-relaxed">{cat.desc}</p>
+               </button>
+             );
+           })}
         </div>
       </section>
 
@@ -2036,7 +2043,7 @@ const Ventas = () => {
         </section>
       )}
 
-      <section className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
+      <section id="vnt-catalogue" className="px-6 lg:px-12 mb-32 max-w-7xl mx-auto">
         <div className="flex justify-between items-end mb-12 border-b border-primary/10 pb-6">
            <h2 className="vnt-scroll font-drama text-4xl text-primary">Propiedades en Venta</h2>
         </div>
