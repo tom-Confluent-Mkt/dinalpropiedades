@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-07-23T08:16:25.203Z"
+    "lastSync": "2026-07-24T08:12:12.275Z"
   },
   "objects": [
     {
@@ -2311,7 +2311,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-04-30T14:19:29",
+      "deleted_at": "2026-07-23T16:00:53",
       "depth_measure": "0.00",
       "description": "",
       "development": null,
@@ -2388,10 +2388,10 @@
           "operation_type": "Venta",
           "prices": [
             {
-              "currency": "ARS",
+              "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 210000
+              "price": 230000
             }
           ]
         }
@@ -2570,6 +2570,11 @@
         {
           "id": 203,
           "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 1030,
+          "name": "Cochera subterránea",
           "type": 3
         },
         {
