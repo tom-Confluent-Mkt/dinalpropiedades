@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-07-24T13:10:54.529Z"
+    "lastSync": "2026-07-25T07:53:49.507Z"
   },
   "objects": [
     {
@@ -69674,7 +69674,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2025-12-11T17:01:00",
+      "deleted_at": "2026-07-24T14:27:26",
       "depth_measure": "0.00",
       "description": "                Departamento 3 Ambientes en Villa Ballester            \n        \nLuminoso y cómodo departamento de 3 ambientes, ubicado a pocas cuadras de la estación de tren de Villa Ballester, en una zona tranquila y con excelente acceso a medios de transporte, comercios, escuelas y servicios.\nLa propiedad cuenta con: •\tAmplio living-comedor con salida al balcón •\tCocina integrada con muebles bajo mesada y alacena •\tDos dormitorios con placard empotrado •\tBaño completo con bañera •\tBuen estado general y muy buena ventilación\n\n\nSE VENDE  CON RENTA \nIdeal para quienes buscan comodidad y cercanía al centro de Ballester. ¡No te lo pierdas!\n\n\n            \r\n            ",
       "development": null,
@@ -70008,7 +70008,7 @@
       "status": 2,
       "suite_amount": 2,
       "suites_with_closets": 0,
-      "surface": "67.00",
+      "surface": "0.00",
       "surface_measurement": "M2",
       "tags": [
         {
@@ -70042,6 +70042,11 @@
           "type": 2
         },
         {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
+        },
+        {
           "id": 1443,
           "name": "Agua Potable",
           "type": 1
@@ -70055,7 +70060,7 @@
       "toilet_amount": 0,
       "total_area": "0.00",
       "total_suites": 0,
-      "total_surface": "0.00",
+      "total_surface": "67.00",
       "transaction_requirements": "",
       "tv_rooms": 0,
       "type": {
@@ -70068,7 +70073,7 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2025-05-16T17:35:25",
+      "_last_changed": "2026-07-25T07:53:49.507Z",
       "enhanced_description": "<h3>Departamento 3 Ambientes en Villa Ballester</h3>\n\n<p>Luminoso y cómodo departamento de 3 ambientes, ubicado a pocas cuadras de la estación de tren de Villa Ballester, en una zona tranquila y con excelente acceso a medios de transporte, comercios, escuelas y servicios.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>Amplio living-comedor con salida al balcón</li>\n<li>Cocina integrada con muebles bajo mesada y alacena</li>\n<li>Dos dormitorios con placard empotrado</li>\n<li>Baño completo con bañera</li>\n<li>Buen estado general y muy buena ventilación</li>\n</ul>\n\n<h3>Observaciones</h3>\n\n<p>Se vende con renta. Ideal para quienes buscan comodidad y cercanía al centro de Ballester.</p>"
     },
     {
@@ -102058,7 +102063,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-07-22T21:24:50",
+      "deleted_at": "2026-07-24T14:13:24",
       "depth_measure": "28.12",
       "description": "VIVIENDA MULTIFAMILIAR - VENTA EN BLOCK \n Tucumán 2975 (ex 671), entre Diego Pombo y La Crujía, San Andrés – Partido de General San Martín.\nExcelente oportunidad para quienes buscan una propiedad con gran potencial, ya sea para vivir, obtener una renta o destinarla a dos familias.\nDesarrollada sobre un lote propio de 8,66 x 28,12 metros, la propiedad se vende en bloque y cuenta con dos unidades.\nPlanta baja\nCasa de 3 ambientes a reciclar, con una superficie aproximada de 77 m² cubiertos y 50 m² descubiertos, compuesta por:\n* Living.* Cocina.* Dos dormitorios.* Baño completo.* Hall distribuidor.* Lavadero.* Garage.* Patio y amplio fondo libre.\nTodos los servicios se encuentran en funcionamiento.\n\nPlanta alta\nCon ingreso totalmente independiente por pasillo lateral, se encuentra un departamento de 3 ambientes de aproximadamente 55 m², ideal para generar una renta inmediata o como vivienda para un segundo grupo familiar.\nLa propiedad posee planos aprobados de ambas construcciones y ofrece la posibilidad de independizar completamente los accesos, aumentando su funcionalidad y valor.\nCaracterísticas principales\n* Lote de 8,66 x 28,12 m.* Casa de 3 ambientes en planta baja.* Departamento de 3 ambientes en planta alta * Garage.* Patio y amplio terreno libre.* Todos los servicios en funcionamiento.* Planos aprobados.* Accesos independientes por pasillo lateral.* Venta en bloque.\nUna propiedad con múltiples posibilidades: ideal para reciclar, invertir, obtener renta o disfrutar como vivienda multifamiliar.\n                \n\n            \r\n\r\n            ",
       "development": null,
@@ -102548,7 +102553,7 @@
       },
       "property_condition": "A refaccionar",
       "public_url": "https://ficha.info/p/eJB7hdDQsrEiza",
-      "publication_title": "Casa en venta San Martin ",
+      "publication_title": "Vivienda Multifamiliar en San Martin",
       "quality_level": null,
       "real_address": "Vivienda MULTIFAMILIAR - VENTA EN BLOCK - Tucuman 2975 - San Martin",
       "reference_code": "DHO8448933",
@@ -102607,7 +102612,7 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2026-07-23T08:15:55.019Z",
+      "_last_changed": "2026-07-25T07:53:49.507Z",
       "enhanced_description": "<h3>Vivienda Multifamiliar - Venta en Block</h3>\n\n<p>Tucumán 2975 (ex 671), entre Diego Pombo y La Crujía, San Andrés – Partido de General San Martín.</p>\n\n<p>Excelente oportunidad para quienes buscan una propiedad con gran potencial, ya sea para vivir, obtener una renta o destinarla a dos familias.</p>\n\n<p>Desarrollada sobre un lote propio de 8,66 x 28,12 metros, la propiedad se vende en bloque y cuenta con dos unidades.</p>\n\n<h3>Planta Baja</h3>\n\n<p>Casa de 3 ambientes a reciclar, con una superficie aproximada de 77 m² cubiertos y 50 m² descubiertos, compuesta por:</p>\n\n<ul>\n<li>Living</li>\n<li>Cocina</li>\n<li>Dos dormitorios</li>\n<li>Baño completo</li>\n<li>Hall distribuidor</li>\n<li>Lavadero</li>\n<li>Garage</li>\n<li>Patio y amplio fondo libre</li>\n</ul>\n\n<p>Todos los servicios se encuentran en funcionamiento.</p>\n\n<h3>Planta Alta</h3>\n\n<p>Con ingreso totalmente independiente por pasillo lateral, se encuentra un departamento de 3 ambientes de aproximadamente 55 m², ideal para generar una renta inmediata o como vivienda para un segundo grupo familiar.</p>\n\n<p>La propiedad posee planos aprobados de ambas construcciones y ofrece la posibilidad de independizar completamente los accesos, aumentando su funcionalidad y valor.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Lote de 8,66 x 28,12 m</li>\n<li>Casa de 3 ambientes en planta baja</li>\n<li>Departamento de 3 ambientes en planta alta</li>\n<li>Garage</li>\n<li>Patio y amplio terreno libre</li>\n<li>Todos los servicios en funcionamiento</li>\n<li>Planos aprobados</li>\n<li>Accesos independientes por pasillo lateral</li>\n<li>Venta en bloque</li>\n</ul>\n\n<p>Una propiedad con múltiples posibilidades: ideal para reciclar, invertir, obtener renta o disfrutar como vivienda multifamiliar.</p>"
     },
     {
