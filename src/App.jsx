@@ -269,6 +269,8 @@ const Navbar = () => {
 const Hero = () => {
   const containerRef = useRef(null);
   const [waOpen, setWaOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const navigate = useNavigate();
 
   useLayoutEffect(() => {
     let ctx = gsap.context(() => {
@@ -283,6 +285,13 @@ const Hero = () => {
     }, containerRef);
     return () => ctx.revert();
   }, []);
+
+  const handleSearch = (e) => {
+    e.preventDefault();
+    const q = searchQuery.trim();
+    if (!q) return;
+    navigate('/venta', { state: { heroQuery: q } });
+  };
 
   return (
     <section ref={containerRef} className="relative h-[100dvh] w-full flex items-end pb-24 lg:pb-32 px-6 lg:px-12 object-cover overflow-hidden bg-primary">
@@ -306,12 +315,19 @@ const Hero = () => {
         <p className="hero-element mt-6 text-background/80 font-heading text-lg max-w-xl">
           Impulsamos tus proyectos con la energía de un equipo joven y la solidez de más de 30 años construyendo hogares de calidad.
         </p>
-        <div className="hero-element mt-10">
-          <a href="#propiedades" className="group inline-flex items-center gap-4 border border-white text-white px-8 py-4 rounded-full font-heading font-bold text-lg hover:border-accent hover:text-accent hover:scale-[1.02] transition-all duration-300">
-            Encontrá tu propiedad
-            <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
-          </a>
-        </div>
+        <form onSubmit={handleSearch} className="hero-element mt-10 flex items-center bg-white rounded-full shadow-2xl overflow-hidden max-w-2xl">
+          <Search size={20} className="ml-5 text-primary/40 shrink-0" />
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={e => setSearchQuery(e.target.value)}
+            placeholder="Buscá por dirección, zona o proyecto…"
+            className="flex-1 px-4 py-4 font-heading text-primary placeholder-primary/40 outline-none bg-transparent text-sm"
+          />
+          <button type="submit" className="bg-accent text-primary font-heading font-bold px-6 py-4 text-sm hover:bg-accent/90 transition-colors shrink-0">
+            Buscar
+          </button>
+        </form>
       </div>
     </section>
   );
@@ -1959,9 +1975,16 @@ const Ventas = () => {
   const [loading, setLoading] = useState(true);
   const [devHeroImg, setDevHeroImg] = useState('/images/Size%20Optimized/_MG_4682.jpg');
   const { filtered, filterProps } = usePropertyFilters(properties);
+  const location = useLocation();
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    if (location.state?.heroQuery) {
+      filterProps.setQuery(location.state.heroQuery);
+      setTimeout(() => {
+        document.getElementById('vnt-catalogue')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 400);
+    }
   }, []);
 
   useLayoutEffect(() => {
