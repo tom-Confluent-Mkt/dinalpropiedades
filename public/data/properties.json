@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-07-30T08:10:57.659Z"
+    "lastSync": "2026-07-31T08:38:10.103Z"
   },
   "objects": [
     {
@@ -102202,6 +102202,269 @@
       "zonification": "",
       "_last_changed": "2026-07-23T08:15:55.019Z",
       "enhanced_description": "<h3>Departamento en Alquiler</h3>\n<p>Excelente departamento de 2 ambientes, ubicado en primer piso por escalera, al frente, en muy buen estado y sin expensas.</p>\n\n<h3>Ubicación</h3>\n<p>Yapeyú 4800, Villa Ballester</p>\n\n<h3>Características</h3>\n<ul>\n<li>Amplio living-comedor con estufa</li>\n<li>Dormitorio con pisos de parquet, placard y aire acondicionado</li>\n<li>Baño completo con ducha</li>\n<li>Balcón corrido al frente</li>\n<li>Cocina-comedor con muebles bajo mesada, aire acondicionado y estufa</li>\n<li>Lavadero independiente</li>\n<li>Patio</li>\n<li>Excelente estado general</li>\n</ul>\n\n<h3>Condiciones de Alquiler</h3>\n<ul>\n<li>1 mes de adelanto</li>\n<li>1 mes de depósito en dólares</li>\n<li>Contrato por 2 años</li>\n<li>Ajuste trimestral por índice IPC</li>\n<li>Garantía: únicamente mediante fianza</li>\n<li>Requisito: demostración de ingresos</li>\n</ul>"
+    },
+    {
+      "address": "AYACUCHO al 2200",
+      "address_complement": "",
+      "age": 1,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 0,
+      "block_number": "",
+      "branch": {
+        "address": "Mitre 3400",
+        "alternative_phone": "77176007",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13 y de 14 a 18.30",
+        "created_date": "2018-11-15T19:39:03",
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.57456194412727",
+        "geo_long": "-58.535525085815436",
+        "gm_location_type": "BY_HAND",
+        "id": 7731,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/branch_logos/7731/px%20(1).jpg",
+        "name": "Dinal San Martin",
+        "pdf_footer_text": "",
+        "phone": "77176007",
+        "phone_area": "11",
+        "phone_country_code": "+54",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2026-07-30T19:32:21",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-07-30T19:54:35",
+      "depth_measure": "0.00",
+      "description": "¡Gran oportunidad en San Martín! Cochera descubierta ubicada en Ayacucho 2236, en el corazón de G.B.A. Zona Norte. Esta propiedad es ideal para quienes buscan una solución práctica y accesible para estacionar su vehículo en una zona estratégica de la ciudad. Con fácil acceso a las principales vías de transporte y cercana a comercios y servicios del área. Con tan solo un año de antigüedad, esta cochera es una inversión segura y conveniente. No pierdas la oportunidad de asegurar tu lugar de estacionamiento en una ubicación privilegiada.",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": null,
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [
+        {
+          "is_expenditure": false,
+          "is_measure": false,
+          "name": "",
+          "value": "u$s12.000"
+        }
+      ],
+      "fake_address": "AYACUCHO al 2200",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5727223",
+      "geo_long": "-58.5362766",
+      "gm_location_type": "RANGE_INTERPOLATED",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 8565680,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 5492235283845",
+            "created_at": "2025-05-21T20:48:39",
+            "document_number": "",
+            "email": "",
+            "id": 53166796,
+            "name": "Marcelo Simione",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-07-30T19:32:21",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25015,
+            "name": "B.San Martin",
+            "resource_uri": "/api/v1/location/25015/"
+          },
+          {
+            "id": 25016,
+            "name": "Billinghurst",
+            "resource_uri": "/api/v1/location/25016/"
+          },
+          {
+            "id": 25017,
+            "name": "L.Hermosa",
+            "resource_uri": "/api/v1/location/25017/"
+          },
+          {
+            "id": 25018,
+            "name": "Lourdes",
+            "resource_uri": "/api/v1/location/25018/"
+          },
+          {
+            "id": 25019,
+            "name": "Migueletes",
+            "resource_uri": "/api/v1/location/25019/"
+          },
+          {
+            "id": 25020,
+            "name": "P.Suhr Horeis",
+            "resource_uri": "/api/v1/location/25020/"
+          },
+          {
+            "id": 25021,
+            "name": "S.Andres",
+            "resource_uri": "/api/v1/location/25021/"
+          },
+          {
+            "id": 25022,
+            "name": "S.Martin(Ctro)",
+            "resource_uri": "/api/v1/location/25022/"
+          },
+          {
+            "id": 25023,
+            "name": "Tropezon",
+            "resource_uri": "/api/v1/location/25023/"
+          },
+          {
+            "id": 25024,
+            "name": "V.Bonich",
+            "resource_uri": "/api/v1/location/25024/"
+          },
+          {
+            "id": 25025,
+            "name": "Villa Libertad",
+            "resource_uri": "/api/v1/location/25025/"
+          },
+          {
+            "id": 25026,
+            "name": "V.Lynch",
+            "resource_uri": "/api/v1/location/25026/"
+          },
+          {
+            "id": 25027,
+            "name": "V.Maipu",
+            "resource_uri": "/api/v1/location/25027/"
+          },
+          {
+            "id": 25028,
+            "name": "V.Piaggio",
+            "resource_uri": "/api/v1/location/25028/"
+          },
+          {
+            "id": 25029,
+            "name": "V.Progreso",
+            "resource_uri": "/api/v1/location/25029/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | San Martin",
+        "id": 25014,
+        "name": "San Martin",
+        "parent_division": "/api/v1/location/25013/",
+        "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
+        "state": null,
+        "weight": 1624,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Venta",
+          "prices": [
+            {
+              "currency": "USD",
+              "is_promotional": false,
+              "period": 0,
+              "price": 12000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "5491164806385",
+        "email": "Carmen@dinalpropiedades.com",
+        "id": 12880,
+        "name": "María Del Carmen Turlá",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/userprofile/pictures/profile_picture-12880-253cba9c7d493433e8af1b720df66db9.jpeg",
+        "position": ""
+      },
+      "property_condition": "---",
+      "public_url": "https://ficha.info/p/eJ6uiddvUr6Ema",
+      "publication_title": "Cochera - San Martin",
+      "quality_level": null,
+      "real_address": "AYACUCHO 2236",
+      "reference_code": "DGA8565680",
+      "rich_description": "¡Gran oportunidad en San Martín! Cochera descubierta ubicada en Ayacucho 2236, en el corazón de G.B.A. Zona Norte. Esta propiedad es ideal para quienes buscan una solución práctica y accesible para estacionar su vehículo en una zona estratégica de la ciudad. Con fácil acceso a las principales vías de transporte y cercana a comercios y servicios del área. Con tan solo un año de antigüedad, esta cochera es una inversión segura y conveniente. No pierdas la oportunidad de asegurar tu lugar de estacionamiento en una ubicación privilegiada.",
+      "roofed_surface": "0.00",
+      "room_amount": 0,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 0,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "0.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "GA",
+        "id": 10,
+        "name": "Cochera"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [],
+      "web_price": true,
+      "zonification": "",
+      "_last_changed": "2026-07-30T19:32:21",
+      "enhanced_description": "<h3>Cochera Descubierta</h3>\n<p>Ubicada en Ayacucho 2236, en el corazón de San Martín, Zona Norte del G.B.A. Esta propiedad es ideal para quienes buscan una solución práctica y accesible para estacionar su vehículo en una zona estratégica de la ciudad.</p>\n\n<h3>Características</h3>\n<ul>\n<li>Fácil acceso a las principales vías de transporte</li>\n<li>Cercana a comercios y servicios del área</li>\n<li>Un año de antigüedad</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Ubicada en una zona estratégica de la ciudad con acceso a las principales vías de transporte y próxima a comercios y servicios del área.</p>\n\n<p>Una inversión segura y conveniente. Asegura tu lugar de estacionamiento en una ubicación privilegiada.</p>"
     }
   ]
 }
