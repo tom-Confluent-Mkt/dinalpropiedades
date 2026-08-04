@@ -273,21 +273,68 @@ const Navbar = () => {
 // ----------------------------------------------------
 const Hero = () => {
   const containerRef = useRef(null);
-  const [waOpen, setWaOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [allItems, setAllItems] = useState([]);
+  const [showDropdown, setShowDropdown] = useState(false);
+  const navigate = useNavigate();
+  const inputRef = useRef(null);
 
   useLayoutEffect(() => {
     let ctx = gsap.context(() => {
       gsap.from(".hero-element", {
-        y: 40,
-        opacity: 0,
-        duration: 1.2,
-        stagger: 0.1,
-        ease: "power3.out",
-        delay: 0.2
+        y: 40, opacity: 0, duration: 1.2, stagger: 0.1, ease: "power3.out", delay: 0.2
       });
     }, containerRef);
     return () => ctx.revert();
   }, []);
+
+  useEffect(() => {
+    Promise.all([
+      fetch('/data/properties.json').then(r => r.json()),
+      fetch('/data/developments.json').then(r => r.json()),
+    ]).then(([props, devs]) => {
+      const properties = (props.objects || []).map(p => ({
+        id: p.id, slug: propSlug(p),
+        title: p.address || p.publication_title,
+        subtitle: p.publication_title,
+        location: p.location?.name,
+        type: 'propiedad',
+      }));
+      const developments = (devs.objects || []).map(d => ({
+        id: d.id, slug: propSlug(d),
+        title: d.name,
+        subtitle: d.address || d.location?.name,
+        location: d.location?.name,
+        type: 'emprendimiento',
+      }));
+      setAllItems([...properties, ...developments]);
+    }).catch(() => {});
+  }, []);
+
+  const results = useMemo(() => {
+    const q = searchQuery.trim().toLowerCase();
+    if (q.length < 2) return [];
+    return allItems.filter(item =>
+      `${item.title} ${item.subtitle} ${item.location}`.toLowerCase().includes(q)
+    ).slice(0, 7);
+  }, [searchQuery, allItems]);
+
+  const goTo = (item) => {
+    setShowDropdown(false);
+    setSearchQuery('');
+    const path = item.type === 'emprendimiento'
+      ? `/emprendimientos/terminado/${item.slug}`
+      : `/propiedad/${item.slug}`;
+    navigate(path);
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const q = searchQuery.trim();
+    if (!q) return;
+    setShowDropdown(false);
+    navigate('/venta', { state: { heroQuery: q } });
+  };
 
   return (
     <section ref={containerRef} className="relative h-[100dvh] w-full flex items-end pb-24 lg:pb-32 px-6 lg:px-12 object-cover overflow-hidden bg-primary">
@@ -311,11 +358,45 @@ const Hero = () => {
         <p className="hero-element mt-6 text-background/80 font-heading text-lg max-w-xl">
           Impulsamos tus proyectos con la energía de un equipo joven y la solidez de más de 30 años construyendo hogares de calidad.
         </p>
-        <div className="hero-element mt-10">
-          <a href="#propiedades" className="group inline-flex items-center gap-4 border border-white text-white px-8 py-4 rounded-full font-heading font-bold text-lg hover:border-accent hover:text-accent hover:scale-[1.02] transition-all duration-300">
-            Encontrá tu propiedad
-            <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
-          </a>
+
+        <div className="hero-element mt-10 relative max-w-2xl">
+          <form onSubmit={handleSubmit} className="flex items-center bg-white rounded-full shadow-2xl overflow-hidden">
+            <Search size={20} className="ml-5 text-primary/40 shrink-0" />
+            <input
+              ref={inputRef}
+              type="text"
+              value={searchQuery}
+              onChange={e => { setSearchQuery(e.target.value); setShowDropdown(true); }}
+              onFocus={() => setShowDropdown(true)}
+              onBlur={() => setTimeout(() => setShowDropdown(false), 150)}
+              placeholder="Buscá por dirección, zona o proyecto…"
+              className="flex-1 px-4 py-4 font-heading text-primary placeholder-primary/40 outline-none bg-transparent text-sm"
+            />
+            <button type="submit" className="bg-accent text-primary font-heading font-bold px-6 py-4 text-sm hover:bg-accent/90 transition-colors shrink-0 rounded-r-full">
+              Buscar
+            </button>
+          </form>
+
+          {showDropdown && results.length > 0 && (
+            <div className="absolute top-full left-0 right-0 mt-2 bg-white rounded-2xl shadow-2xl overflow-hidden z-50">
+              {results.map(item => (
+                <button key={item.id} type="button" onMouseDown={() => goTo(item)}
+                  className="w-full text-left px-5 py-3.5 flex items-center gap-3 hover:bg-primary/5 transition-colors border-b border-primary/5 last:border-0">
+                  <MapPin size={15} className="text-accent shrink-0" />
+                  <div className="min-w-0">
+                    <p className="font-heading font-semibold text-primary text-sm truncate">{item.title}</p>
+                    <p className="font-heading text-xs text-dark/50 truncate">{item.subtitle}</p>
+                  </div>
+                  <span className="ml-auto text-xs font-heading font-bold text-primary/30 uppercase tracking-wider shrink-0">{item.type}</span>
+                </button>
+              ))}
+              <button onMouseDown={handleSubmit}
+                className="w-full text-left px-5 py-3 flex items-center gap-2 bg-primary/5 hover:bg-primary/10 transition-colors">
+                <Search size={14} className="text-primary/40" />
+                <span className="font-heading text-sm text-primary/60">Ver todos los resultados para "<span className="font-semibold text-primary">{searchQuery}</span>"</span>
+              </button>
+            </div>
+          )}
         </div>
       </div>
     </section>
@@ -1967,9 +2048,16 @@ const Ventas = () => {
   const [loading, setLoading] = useState(true);
   const [devHeroImg, setDevHeroImg] = useState('/images/Size%20Optimized/_MG_4682.jpg');
   const { filtered, filterProps } = usePropertyFilters(properties);
+  const location = useLocation();
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    if (location.state?.heroQuery) {
+      filterProps.setQuery(location.state.heroQuery);
+      setTimeout(() => {
+        document.getElementById('vnt-catalogue')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 400);
+    }
   }, []);
 
   useLayoutEffect(() => {
