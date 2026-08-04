@@ -2,7 +2,7 @@ import { useEffect, useRef, useState, useLayoutEffect, useMemo, createContext, u
 import { BrowserRouter as Router, Routes, Route, Link, useLocation, useParams, useNavigate } from 'react-router-dom';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { Building, MapPin, Compass, Search, Phone, Mail, ArrowRight, Menu, X, Clock, Bed, Bath, ArrowLeft, ChevronLeft, ChevronRight, Droplets, Flame, Zap, Wifi, Tv, Thermometer, Trees, Package, DoorOpen, Users, Waves, Wind, Sun, Shield, Dumbbell, Bell, Car, FileText, TrendingUp, Check, Utensils, Home as HomeIcon, Leaf, Sofa, Shirt, Star, Play } from 'lucide-react';
+import { Building, MapPin, Compass, Search, Phone, Mail, ArrowRight, Menu, X, Clock, Bed, Bath, Ruler, ArrowLeft, ChevronLeft, ChevronRight, Droplets, Flame, Zap, Wifi, Tv, Thermometer, Trees, Package, DoorOpen, Users, Waves, Wind, Sun, Shield, Dumbbell, Bell, Car, FileText, TrendingUp, Check, Utensils, Home as HomeIcon, Leaf, Sofa, Shirt, Star, Play } from 'lucide-react';
 import sucursalBallester from './assets/Dinal-Ballester.jpg';
 import sucursalSanMartin from './assets/San-martin.jpg';
 
@@ -167,6 +167,11 @@ function slugify(str) {
     .trim()
     .replace(/\s+/g, '-')
     .replace(/-+/g, '-');
+}
+
+// Accent-insensitive search text: "yapeyu" must match "Yapeyú".
+function normSearch(str) {
+  return (str ?? '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 }
 
 function propSlug(item) {
@@ -564,9 +569,9 @@ const PropertyCard = ({ prop, opType, className = '' }) => {
       <div className="px-2 flex-grow flex flex-col">
         <h3 className="font-heading font-bold text-xl text-primary mb-1 line-clamp-2 flex items-center gap-2"><MapPin size={16} className="text-accent shrink-0"/>{prop.address ? `${prop.address}${prop.location?.name ? `, ${prop.location.name}` : ''}` : prop.location?.name}</h3>
         <p className="font-heading text-sm text-dark/50 mb-6 line-clamp-1">{prop.publication_title}</p>
-        <div className="mt-auto pt-4 border-t border-primary/10 flex items-center justify-between text-sm font-heading">
-          {(prop.total_surface || prop.roofed_surface) > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.total_surface || prop.roofed_surface}m²</span>}
-          {prop.room_amount > 0 && <span className="flex items-center gap-1">{prop.room_amount} amb.</span>}
+        <div className="mt-auto pt-4 border-t border-primary/10 flex items-center gap-4 text-sm font-heading">
+          {(prop.total_surface || prop.roofed_surface) > 0 && <span className="flex items-center gap-1"><Ruler size={16}/> {Math.round(Number(prop.total_surface || prop.roofed_surface))} m²</span>}
+          {prop.room_amount > 0 && <span className="flex items-center gap-1"><Bed size={16}/> {prop.room_amount} amb.</span>}
           {prop.bathroom_amount > 0 && <span className="flex items-center gap-1"><Bath size={16}/> {prop.bathroom_amount}</span>}
           <span className="font-bold text-primary group-hover:translate-x-1 transition-transform inline-flex items-center gap-1 ml-auto">Ver <ArrowRight size={14} /></span>
         </div>
@@ -1665,7 +1670,7 @@ function usePropertyFilters(properties) {
   );
 
   const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const qWords = normSearch(query).split(/\s+/).filter(Boolean);
     const groupTypes = typeGroup ? TYPE_GROUPS[typeGroup] : null;
     return properties.filter(p => {
       if (groupTypes && !groupTypes.includes(p.type?.name)) return false;
@@ -1673,9 +1678,9 @@ function usePropertyFilters(properties) {
       if (location && p.location?.name !== location) return false;
       if (rooms && (p.room_amount || 0) < rooms) return false;
       if (baths && (p.bathroom_amount || 0) < baths) return false;
-      if (q) {
-        const hay = `${p.publication_title || ''} ${p.location?.name || ''} ${p.address || ''}`.toLowerCase();
-        if (!hay.includes(q)) return false;
+      if (qWords.length) {
+        const hay = normSearch(`${p.publication_title || ''} ${p.location?.name || ''} ${p.address || ''}`);
+        if (!qWords.every(w => hay.includes(w))) return false;
       }
       return true;
     }).sort((a, b) => new Date(b._last_changed || b.created_at) - new Date(a._last_changed || a.created_at));
@@ -1765,12 +1770,12 @@ function useDevelopmentFilters(devs) {
   );
 
   const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const qWords = normSearch(query).split(/\s+/).filter(Boolean);
     return devs.filter(d => {
       if (stage && constructionLabel(d.construction_status) !== stage) return false;
-      if (q) {
-        const hay = `${d.name || ''} ${d.publication_title || ''} ${d.location?.name || ''} ${d.address || ''}`.toLowerCase();
-        if (!hay.includes(q)) return false;
+      if (qWords.length) {
+        const hay = normSearch(`${d.name || ''} ${d.publication_title || ''} ${d.location?.name || ''} ${d.address || ''}`);
+        if (!qWords.every(w => hay.includes(w))) return false;
       }
       return true;
     });
@@ -1827,6 +1832,7 @@ const DevelopmentFilters = ({
 // ----------------------------------------------------
 const Alquiler = () => {
   const containerRef = useRef(null);
+  const navigate = useNavigate();
   const [properties, setProperties] = useState([]);
   const [loading, setLoading] = useState(true);
   const { filtered, filterProps } = usePropertyFilters(properties);
@@ -1877,12 +1883,14 @@ const Alquiler = () => {
            {[
              { title: "Residencial", desc: "Casas y departamentos en excelentes condiciones para vos y tu familia.", badge: "Vivienda", group: "residencial" },
              { title: "Comercial", desc: "Locales y oficinas estratégicamente ubicados para potenciar tu negocio.", badge: "Negocios", group: "comercial" },
-             { title: "Garantías", desc: "Te brindamos asesoramiento permanente para que el proceso sea 100% seguro.", badge: "Legal", group: null }
-           ].map((cat, i) => {
+             { title: "Garantías", desc: "Te asesoramos con las garantías y requisitos para alquilar. Escribinos y te acompañamos en todo el proceso.", badge: "Legal", group: null }
+           ].filter(cat => !cat.group || properties.some(p => TYPE_GROUPS[cat.group].includes(p.type?.name)))
+           .map((cat, i) => {
              const active = cat.group && filterProps.typeGroup === cat.group;
              return (
                <button key={i} type="button" onClick={() => {
-                 if (cat.group) filterProps.setTypeGroup(active ? '' : cat.group);
+                 if (!cat.group) { navigate('/contacto'); return; }
+                 filterProps.setTypeGroup(active ? '' : cat.group);
                  document.getElementById('alq-catalogue').scrollIntoView({ behavior: 'smooth', block: 'start' });
                }} className={`alq-scroll text-left bg-white p-6 rounded-2xl border transition-all shadow-sm hover:-translate-y-1 cursor-pointer w-full ${active ? 'border-accent ring-2 ring-accent/20' : 'border-primary/10 hover:border-accent'}`}>
                   <span className={`text-xs font-bold px-3 py-1 rounded-full font-heading mb-4 inline-block ${active ? 'bg-accent text-primary' : 'bg-primary/5 text-primary'}`}>{cat.badge}</span>
