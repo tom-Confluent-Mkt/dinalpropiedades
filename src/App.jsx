@@ -2535,8 +2535,8 @@ const PropertyDetail = () => {
               </div>
             )}
 
-            {/* Map */}
-            {lat && lon && import.meta.env.VITE_GOOGLE_MAPS_API_KEY && (
+            {/* Map — keyless Google embed, no API key required */}
+            {lat && lon && (
               <div className="bg-white rounded-2xl overflow-hidden border border-primary/10">
                 <div className="p-6 pb-0">
                   <h2 className="font-heading font-bold text-lg text-primary mb-4">Ubicación</h2>
@@ -2549,7 +2549,7 @@ const PropertyDetail = () => {
                   loading="lazy"
                   allowFullScreen
                   referrerPolicy="no-referrer-when-downgrade"
-                  src={`https://www.google.com/maps/embed/v1/place?key=${import.meta.env.VITE_GOOGLE_MAPS_API_KEY}&q=${lat},${lon}&zoom=15`}
+                  src={`https://maps.google.com/maps?q=${lat},${lon}&z=15&hl=es&output=embed`}
                 />
               </div>
             )}
@@ -3399,8 +3399,8 @@ const ObrasDeMarPropertyDetail = () => {
             )}
 
             {/* Amenities */}
-            {/* Map */}
-            {lat && lon && import.meta.env.VITE_GOOGLE_MAPS_API_KEY && (
+            {/* Map — keyless Google embed, no API key required */}
+            {lat && lon && (
               <div className="bg-white rounded-2xl overflow-hidden border border-primary/10">
                 <div className="p-6 pb-0">
                   <h2 className="font-heading font-bold text-lg text-primary mb-4">Ubicación</h2>
@@ -3408,7 +3408,7 @@ const ObrasDeMarPropertyDetail = () => {
                 <iframe title="Mapa de ubicación" width="100%" height="320"
                   style={{ border: 0, display: 'block' }} loading="lazy" allowFullScreen
                   referrerPolicy="no-referrer-when-downgrade"
-                  src={`https://www.google.com/maps/embed/v1/place?key=${import.meta.env.VITE_GOOGLE_MAPS_API_KEY}&q=${lat},${lon}&zoom=15`}
+                  src={`https://maps.google.com/maps?q=${lat},${lon}&z=15&hl=es&output=embed`}
                 />
               </div>
             )}
