@@ -312,11 +312,12 @@ const Hero = () => {
   }, []);
 
   const results = useMemo(() => {
-    const q = searchQuery.trim().toLowerCase();
-    if (q.length < 2) return [];
-    return allItems.filter(item =>
-      `${item.title} ${item.subtitle} ${item.location}`.toLowerCase().includes(q)
-    ).slice(0, 7);
+    if (searchQuery.trim().length < 2) return [];
+    const qWords = normSearch(searchQuery).split(/\s+/).filter(Boolean);
+    return allItems.filter(item => {
+      const hay = normSearch(`${item.title || ''} ${item.subtitle || ''} ${item.location || ''}`);
+      return qWords.every(w => hay.includes(w));
+    }).slice(0, 7);
   }, [searchQuery, allItems]);
 
   const goTo = (item) => {
