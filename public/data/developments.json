@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-08-04T08:25:24.090Z"
+    "lastSync": "2026-08-05T08:23:18.336Z"
   },
   "objects": [
     {
@@ -5486,9 +5486,19 @@
           "type": 3
         },
         {
+          "id": 180,
+          "name": "Estilo Moderno",
+          "type": 3
+        },
+        {
           "id": 203,
           "name": "Preinstalación de aire acondicionado",
           "type": 3
+        },
+        {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
         },
         {
           "id": 1082,
