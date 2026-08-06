@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-08-05T08:23:40.340Z"
+    "lastSync": "2026-08-06T08:21:15.410Z"
   },
   "objects": [
     {
@@ -767,7 +767,7 @@
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Está ubicado frente al mar, a metros de Waikiki y Honu Beach, y frente a la Reserva Natural de Punta Mogotes, en una ubicación única sobre Av. de los Trabajadores. Un entorno donde la naturaleza, la ciudad y tu hogar se encontrarán para hacer que cada día se viva distinto.</p>\n\n<h3>Departamentos</h3>\n<p>El edificio contará con departamentos de 2, 3 y 4 ambientes, que irán de 67 a 255 m², todos con cochera, baulera y balcones pensados para usarse: con lavadero oculto, parrilla a gas y ese rincón donde el mate se disfruta más viendo el mar.</p>\n\n<h3>Características principales</h3>\n<ul>\n<li>Departamentos con excelente distribución y terminaciones de calidad</li>\n<li>Todos los departamentos cuentan con balcón e instalación de parrilla individual</li>\n<li>Cocheras</li>\n<li>Dos ascensores de última generación para mayor comodidad</li>\n<li>SUM ubicado en el último piso, completamente equipado para reuniones y eventos</li>\n</ul>\n\n<p>Porque vivir frente al mar no es un sueño. Es una forma de vida que vas a poder elegir, todos los días.</p>"
     },
     {
-      "address": "ENTRE RIOS 2650",
+      "address": "Entre Rios 2650",
       "branch": {
         "address": "Guemes 2305",
         "alternative_phone": "3424988",
@@ -796,7 +796,7 @@
       "construction_date": null,
       "construction_status": 3,
       "custom_tags": [],
-      "deleted_at": "2026-07-17T15:09:42",
+      "deleted_at": "2026-08-05T14:47:28",
       "description": "Punta de arenas XVII - Entre Rios 2650\n\nEs moderno edificio en pozo con características premium, ubicado en Entre Ríos 2650, una de las zonas más buscadas de Mar del Plata. A solo pocas cuadras de Plaza Colón y del Paseo Aldrey, con excelente conectividad, servicios y propuesta urbana.\n\nEl proyecto se desarrolla en 8 pisos y ofrece unidades de 1, 2 y 4 ambientes, con superficies que van desde 31 m² hasta 125 m², pensadas para vivienda permanente, inversión o renta temporaria.\n\nEntre sus principales características se destacan:\n\n* Departamentos con excelente distribución y terminaciones de calidad.\n* Todos los departamentos cuentan con balcon e instalación de parrilla individual\n* Cocheras.\n* Dos ascensores de última generación para mayor comodidad.\n* SUM ubicado en el último piso, completamente equipado para reuniones y eventos.\n\nDetalles constructivos de calidad premium y diseño contemporáneo, Una oportunidad ideal para invertir en pozo, combinando ubicación estratégica, diseño moderno y excelente proyección de valorización.",
       "display_on_web": true,
       "excel_extra_headers": "[]",
@@ -1599,7 +1599,7 @@
         "weight": 3688,
         "zip_code": ""
       },
-      "name": "",
+      "name": "Punta de arenas XVII - Entre Rios 2650",
       "photos": [
         {
           "description": null,
@@ -1742,6 +1742,11 @@
           "type": 1
         },
         {
+          "id": 4,
+          "name": "Internet",
+          "type": 1
+        },
+        {
           "id": 5,
           "name": "Electricidad",
           "type": 1
@@ -1754,6 +1759,11 @@
         {
           "id": 7,
           "name": "Teléfono",
+          "type": 1
+        },
+        {
+          "id": 8,
+          "name": "Cable",
           "type": 1
         },
         {
@@ -2183,7 +2193,7 @@
       "construction_date": null,
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-07-24T13:09:18",
+      "deleted_at": "2026-08-05T14:40:31",
       "description": "Punta de Arenas XII es un exclusivo desarrollo ubicado sobre Las Heras 2421, en una de las zonas más consolidadas y buscadas de Mar del Plata. \n\nEl edificio fue diseñado con una arquitectura moderna y funcional, ofreciendo departamentos de 1, 2 y 3 ambientes con excelentes distribuciones, amplios ventanales que brindan gran luminosidad natural y terminaciones de primera calidad. Cada unidad fue pensada para combinar confort, diseño y eficiencia, adaptándose a las necesidades de quienes buscan una vivienda permanente, una segunda residencia o una inversión con alta proyección de valorización.\n\nEntre sus principales características se destacan:\n\n* Departamentos con excelente distribución y terminaciones de calidad.\n* Todos los departamentos cuentan con balcon e instalación de parrilla individual\n* Cocheras.\n* Dos ascensores de última generación para mayor comodidad.\n* SUM ubicado en el último piso, completamente equipado para reuniones y eventos.\n\nSu estratégica ubicación permite disfrutar de la cercanía al mar, al centro comercial Güemes, restaurantes, espacios verdes y los principales servicios de la ciudad, convirtiéndolo en una excelente opción tanto para vivir como para invertir.\n",
       "display_on_web": true,
       "excel_extra_headers": "[]",
@@ -4437,7 +4447,7 @@
       "construction_date": null,
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-07-24T13:09:47",
+      "deleted_at": "2026-08-05T14:31:15",
       "description": "Punta de Arenas IX es un exclusivo edificio en construcción ubicado en  Gerónimo Rejón 3656, en el barrio La Perla Norte, una de las zonas de mayor crecimiento y proyección de Mar del Plata. Emplazado a tan solo 40 metros del mar, ofrece una combinación ideal entre tranquilidad, vistas privilegiadas y excelente conectividad.\n\nEl proyecto se desarrolla en un edificio de 9 pisos, con departamentos de 2 y 3 ambientes de 54 m² a 110 m², diseñados con amplios espacios, excelente distribución y terminaciones de calidad, ideales tanto para vivienda permanente como para inversión.\n\nEntre sus principales características se destacan:\n\n* Unidades de diseño moderno, amplias y luminosas.\n* Todos los departamentos cuentan con balcon e instalación de parrilla individual\n* Cocheras\n* Dos ascensores de última generación.\n* SUM ubicado en el último piso, completamente equipado para reuniones y eventos.\n* Ubicación privilegiada, a pocos pasos de la costa y con rápido acceso al centro de Mar del Plata y a los principales servicios de la ciudad.\n\nUna oportunidad para invertir en un desarrollo con excelente ubicación, calidad constructiva y gran potencial de valorización, disfrutando de la cercanía al mar en uno de los barrios con mayor proyección de Mar del Plata.\n",
       "display_on_web": true,
       "excel_extra_headers": "[]",
