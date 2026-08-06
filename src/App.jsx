@@ -169,6 +169,21 @@ function slugify(str) {
     .replace(/-+/g, '-');
 }
 
+// Tokko sends unset surfaces as "0.00" (a truthy string) — hide those rather
+// than printing "0 m²", and round the rest.
+function surfaceLabel(value) {
+  const n = Number(value);
+  return Number.isFinite(n) && n > 0 ? `${Math.round(n)} m²` : null;
+}
+
+// Tokko uses age -1 for "sin especificar" and 0 for a brand-new unit.
+function ageLabel(age) {
+  const n = Number(age);
+  if (!Number.isFinite(n) || n < 0) return null;
+  if (n === 0) return 'A estrenar';
+  return `${n} ${n === 1 ? 'año' : 'años'}`;
+}
+
 // Accent-insensitive search text: "yapeyu" must match "Yapeyú".
 function normSearch(str) {
   return (str ?? '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
@@ -2414,6 +2429,10 @@ const PropertyDetail = () => {
   const id = rawSlug.split('-')[0];
   const navigate = useNavigate();
   const [prop, setProp] = useState(null);
+  const [units, setUnits] = useState([]);
+  // Parent development, only when it exists in the cache — some listings point at
+  // developments Tokko doesn't publish, and linking to those 404s.
+  const [parentDev, setParentDev] = useState(null);
   const [loading, setLoading] = useState(true);
   const [activePhoto, setActivePhoto] = useState(0);
   const { setAddress } = useContext(PropertyCtx);
@@ -2422,6 +2441,11 @@ const PropertyDetail = () => {
     window.scrollTo(0, 0);
     setLoading(true);
     setProp(null);
+    setUnits([]);
+    setParentDev(null);
+    setActivePhoto(0);
+
+    const unitPrice = u => Number(u.operations?.[0]?.prices?.[0]?.price ?? Infinity);
 
     // 1. Try properties cache
     fetch('/data/properties.json')
@@ -2429,14 +2453,31 @@ const PropertyDetail = () => {
       .then(data => {
         const arr = Array.isArray(data) ? data : (data.objects ?? []);
         const found = arr.find(x => String(x.id) === String(id));
-        if (found) { setProp(found); setLoading(false); return; }
+        if (found) {
+          setProp(found);
+          setLoading(false);
+          if (found.development?.id) {
+            fetch('/data/developments.json')
+              .then(r => r.json())
+              .then(devData => {
+                const devs = Array.isArray(devData) ? devData : (devData.objects ?? []);
+                setParentDev(devs.find(d => String(d.id) === String(found.development.id)) ?? null);
+              })
+              .catch(() => {});
+          }
+          return;
+        }
         // 2. Try developments cache
         return fetch('/data/developments.json')
           .then(r => r.json())
           .then(data2 => {
             const arr2 = Array.isArray(data2) ? data2 : (data2.objects ?? []);
             const found2 = arr2.find(x => String(x.id) === String(id));
-            if (found2) { setProp(found2); setLoading(false); }
+            if (found2) {
+              setProp(found2);
+              setUnits(arr.filter(x => x.development?.id === found2.id).sort((a, b) => unitPrice(a) - unitPrice(b)));
+              setLoading(false);
+            }
             else throw new Error('not in cache');
           });
       })
@@ -2497,14 +2538,14 @@ const PropertyDetail = () => {
     { label: 'Dormitorios',     value: prop.suite_amount },
     { label: 'Baños',           value: prop.bathroom_amount },
     { label: 'Cocheras',        value: prop.parking_lot_amount },
-    { label: 'Sup. cubierta',   value: prop.roofed_surface   ? `${prop.roofed_surface} m²`   : null },
-    { label: 'Sup. descubierta',value: prop.unroofed_surface ? `${prop.unroofed_surface} m²` : null },
-    { label: 'Sup. semicubierta',value: prop.semiroofed_surface ? `${prop.semiroofed_surface} m²` : null },
-    { label: 'Sup. total',      value: prop.total_surface    ? `${prop.total_surface} m²`    : null },
+    { label: 'Sup. cubierta',   value: surfaceLabel(prop.roofed_surface) },
+    { label: 'Sup. descubierta',value: surfaceLabel(prop.unroofed_surface) },
+    { label: 'Sup. semicubierta',value: surfaceLabel(prop.semiroofed_surface) },
+    { label: 'Sup. total',      value: surfaceLabel(prop.total_surface) },
     { label: 'Estado',          value: prop.property_condition ?? constructionLabel(prop.construction_status) },
-    { label: 'Antigüedad',      value: prop.age },
+    { label: 'Antigüedad',      value: ageLabel(prop.age) },
     { label: 'Expensas',        value: prop.expenses ? `ARS ${Number(prop.expenses).toLocaleString('es-AR')}` : null },
-  ].filter(s => s.value != null && s.value !== '' && s.value !== 0);
+  ].filter(s => s.value != null && s.value !== '' && s.value !== 0 && String(s.value).replace(/-/g, '').trim() !== '');
 
   return (
     <div className="min-h-screen bg-[#F9FAFB] pt-28 pb-24">
@@ -2592,6 +2633,16 @@ const PropertyDetail = () => {
                   {prop.address ? `${prop.address}${prop.location?.name ? `, ${prop.location.name}` : ''}` : prop.location?.name}
                 </p>
               )}
+              {parentDev && (
+                <Link
+                  to={`/propiedad/${propSlug(parentDev)}`}
+                  className="mt-4 inline-flex items-center gap-2 bg-primary/5 hover:bg-accent/20 text-primary font-heading font-semibold text-sm px-4 py-2 rounded-full transition-colors group/dev"
+                >
+                  <Building size={15} className="text-accent shrink-0" />
+                  Parte del proyecto <span className="font-black">{parentDev.name ?? 'Ver proyecto'}</span>
+                  <ArrowRight size={14} className="group-hover/dev:translate-x-0.5 transition-transform" />
+                </Link>
+              )}
             </div>
 
             {/* Specs */}
@@ -2621,6 +2672,49 @@ const PropertyDetail = () => {
                 ) : (
                   <p className="font-heading text-dark/70 leading-relaxed whitespace-pre-line text-sm">{prop.description}</p>
                 )}
+              </div>
+            )}
+
+            {/* Units in this development */}
+            {units.length > 0 && (
+              <div className="bg-white rounded-2xl p-8 border border-primary/10">
+                <h2 className="font-heading font-bold text-lg text-primary mb-6 pb-3 border-b border-primary/10">
+                  Unidades disponibles
+                  <span className="ml-2 bg-accent/20 text-primary font-data text-xs px-2.5 py-1 rounded-full align-middle">{units.length}</span>
+                </h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+                  {units.map(u => {
+                    const uPrice = u.operations?.[0]?.prices?.[0];
+                    return (
+                      <Link
+                        key={u.id}
+                        to={`/propiedad/${propSlug(u)}`}
+                        className="group/unit rounded-xl border border-primary/10 overflow-hidden hover:border-accent hover:shadow-lg hover:-translate-y-1 transition-all duration-300 flex flex-col"
+                      >
+                        <div className="h-44 bg-primary/10 overflow-hidden">
+                          {u.photos?.[0] && (
+                            <img src={u.photos[0].thumb ?? u.photos[0].image} alt={u.publication_title ?? ''} loading="lazy"
+                              className="w-full h-full object-cover group-hover/unit:scale-105 transition-transform duration-500" />
+                          )}
+                        </div>
+                        <div className="p-5 flex flex-col gap-3 flex-1">
+                          <p className="font-heading font-bold text-primary text-sm leading-snug line-clamp-2">{u.publication_title}</p>
+                          <div className="flex flex-wrap gap-2">
+                            {u.room_amount != null && u.room_amount !== 0 && (
+                              <span className="bg-primary/5 text-primary font-heading text-xs px-2.5 py-1 rounded-full">{u.room_amount === 1 ? 'Monoambiente' : `${u.room_amount} ambientes`}</span>
+                            )}
+                            {u.total_surface && Number(u.total_surface) > 0 && (
+                              <span className="bg-primary/5 text-primary font-heading text-xs px-2.5 py-1 rounded-full">{Math.round(Number(u.total_surface))} m²</span>
+                            )}
+                          </div>
+                          <p className="font-drama font-black text-xl text-primary mt-auto">
+                            {uPrice ? `${uPrice.currency} ${Number(uPrice.price).toLocaleString('es-AR')}` : 'Consultar precio'}
+                          </p>
+                        </div>
+                      </Link>
+                    );
+                  })}
+                </div>
               </div>
             )}
 
@@ -3326,14 +3420,14 @@ const ObrasDeMarPropertyDetail = () => {
     { label: 'Dormitorios',      value: prop.suite_amount },
     { label: 'Baños',            value: prop.bathroom_amount },
     { label: 'Cocheras',         value: prop.parking_lot_amount },
-    { label: 'Sup. cubierta',    value: prop.roofed_surface    ? `${prop.roofed_surface} m²`    : null },
-    { label: 'Sup. descubierta', value: prop.unroofed_surface  ? `${prop.unroofed_surface} m²`  : null },
-    { label: 'Sup. semicubierta',value: prop.semiroofed_surface ? `${prop.semiroofed_surface} m²` : null },
-    { label: 'Sup. total',       value: prop.total_surface     ? `${prop.total_surface} m²`     : null },
+    { label: 'Sup. cubierta',    value: surfaceLabel(prop.roofed_surface) },
+    { label: 'Sup. descubierta', value: surfaceLabel(prop.unroofed_surface) },
+    { label: 'Sup. semicubierta',value: surfaceLabel(prop.semiroofed_surface) },
+    { label: 'Sup. total',       value: surfaceLabel(prop.total_surface) },
     { label: 'Estado',           value: prop.property_condition ?? odmConstructionLabel(prop) },
-    { label: 'Antigüedad',       value: prop.age },
+    { label: 'Antigüedad',       value: ageLabel(prop.age) },
     { label: 'Expensas',         value: prop.expenses ? `ARS ${Number(prop.expenses).toLocaleString('es-AR')}` : null },
-  ].filter(s => s.value != null && s.value !== '' && s.value !== 0);
+  ].filter(s => s.value != null && s.value !== '' && s.value !== 0 && String(s.value).replace(/-/g, '').trim() !== '');
 
   return (
     <div className="min-h-screen bg-[#F9FAFB] pt-28 pb-24">
@@ -3473,7 +3567,7 @@ const ObrasDeMarPropertyDetail = () => {
                               <span className="bg-primary/5 text-primary font-heading text-xs px-2.5 py-1 rounded-full">{u.room_amount === 1 ? 'Monoambiente' : `${u.room_amount} ambientes`}</span>
                             )}
                             {u.total_surface && Number(u.total_surface) > 0 && (
-                              <span className="bg-primary/5 text-primary font-heading text-xs px-2.5 py-1 rounded-full">{Number(u.total_surface).toLocaleString('es-AR')} m²</span>
+                              <span className="bg-primary/5 text-primary font-heading text-xs px-2.5 py-1 rounded-full">{Math.round(Number(u.total_surface))} m²</span>
                             )}
                           </div>
                           <p className="font-drama font-black text-xl text-primary mt-auto">
