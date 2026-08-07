@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-08-06T08:20:24.800Z"
+    "lastSync": "2026-08-07T07:02:42.026Z"
   },
   "objects": [
     {
@@ -59185,7 +59185,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-06-12T20:04:56",
+      "deleted_at": "2026-08-06T13:37:31",
       "depth_measure": "0.00",
       "description": "                                        Tu nuevo hogar te espera en San Martín \n            \n        \n¡Disfrutá de la comodidad y el diseño que merecés! Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.\n\n* Características destacadas:\nDormitorio luminoso con placard de piso a techo.\nLiving-comedor amplio, perfecto para relajarte o recibir visitas.\nCocina equipada con muebles modernos y funcionales.\nBalcón con parrilla privada, para disfrutar de momentos únicos al aire libre.\n\n Detalles generales del proyecto\n• Mamposterías divisorias entre unidades en ladrillo cerámico hueco• Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado• Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad• Aberturas de aluminio con DVH (Doble Vidrio Hermético)• Pisos de porcelanato rectificado de primera calidad• Dormitorios con porcelanato símil madera y frente de placard de 2 puertas• Cielorrasos en yeso armado o aplicado• Paredes interiores con terminación en yeso• Puertas interiores placa MDF• Instalaciones de agua fría y caliente por termofusión•Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).• Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo• Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave• Mesada de granito, pileta de acero inoxidable y grifería monocomando• Preinstalación para aire acondicionado en estar y dormitorio• Cañerías vacías para TV por cable• Portero eléctrico con cámara visor\n* Contactanos hoy mismo y vení a conocerlo. ¡Tu futuro hogar te está esperando!\n\n\n\n\n\n\n        \n        \r\n            ",
       "development": {
@@ -59984,7 +59984,7 @@
       "real_address": "Moreno 3484 1°A",
       "reference_code": "DBU61860 AP6769631",
       "rich_description": "                                        Tu nuevo hogar te espera en San Martín <br>            <br>        <div><br></div><div>¡Disfrutá de la comodidad y el diseño que merecés! </div><div>Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.<br></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\">* Características destacadas:</span><br></div><div>Dormitorio luminoso con placard de piso a techo.<br></div><div>Living-comedor amplio, perfecto para relajarte o recibir visitas.<br></div><div>Cocina equipada con muebles modernos y funcionales.<br></div><div>Balcón con parrilla privada, para disfrutar de momentos únicos al aire libre.<br></div><div><br></div><div>&nbsp;<span style=\"font-weight: bold; text-decoration-line: underline;\">Detalles generales del proyecto</span><div><br></div><div>• Mamposterías divisorias entre unidades en ladrillo cerámico hueco</div><div>• Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</div><div>• Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</div><div>• Aberturas de aluminio con DVH (Doble Vidrio Hermético)</div><div>• Pisos de porcelanato rectificado de primera calidad</div><div>• Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</div><div>• Cielorrasos en yeso armado o aplicado</div><div>• Paredes interiores con terminación en yeso</div><div>• Puertas interiores placa MDF</div><div>• Instalaciones de agua fría y caliente por termofusión</div><div>•Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).</div><div>• Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</div><div>• Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</div><div>• Mesada de granito, pileta de acero inoxidable y grifería monocomando</div><div>• Preinstalación para aire acondicionado en estar y dormitorio</div><div>• Cañerías vacías para TV por cable</div><div>• Portero eléctrico con cámara visor</div><div><br></div></div><div>* Contactanos hoy mismo y vení a conocerlo. ¡Tu futuro hogar te está esperando!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><br>        <br>        \r\n            ",
-      "roofed_surface": "44.50",
+      "roofed_surface": "44.00",
       "room_amount": 2,
       "semiroofed_surface": "5.00",
       "seo_description": "",
@@ -60050,12 +60050,22 @@
           "id": 1390,
           "name": "Luminoso",
           "type": 3
+        },
+        {
+          "id": 1443,
+          "name": "Agua Potable",
+          "type": 1
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
         }
       ],
       "toilet_amount": 0,
       "total_area": "0.00",
       "total_suites": 0,
-      "total_surface": "49.50",
+      "total_surface": "49.00",
       "transaction_requirements": "",
       "tv_rooms": 0,
       "type": {
@@ -60080,7 +60090,7 @@
       ],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2026-07-22T08:12:26.228Z",
+      "_last_changed": "2026-08-07T07:02:42.026Z",
       "enhanced_description": "<h3>Tu nuevo hogar te espera en San Martín</h3>\n\n<p>Disfrutá de la comodidad y el diseño que merecés. Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.</p>\n\n<h3>Características destacadas</h3>\n<ul>\n<li>Dormitorio luminoso con placard de piso a techo</li>\n<li>Living-comedor amplio, perfecto para relajarte o recibir visitas</li>\n<li>Cocina equipada con muebles modernos y funcionales</li>\n<li>Balcón con parrilla privada, para disfrutar de momentos únicos al aire libre</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica (en caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas)</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Contactanos hoy mismo y vení a conocerlo. Tu futuro hogar te está esperando.</p>"
     },
     {
@@ -64767,7 +64777,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-05T14:52:39",
+      "deleted_at": "2026-08-06T13:49:28",
       "depth_measure": "0.00",
       "description": "                            Presentamos un nuevo edificio en construcción sobre calle Tucumán 2366, Ubicado en el corazón de San Martín, a 6 cuadras de Ayacucho, a 4 cuadras del centro comercial del mismo, a 4 cuadras de Av. Balbín (ex R8), salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\nModerno Monoambiente con Balcón y Parrilla - Muy Luminoso\n\nLa unidad publicada corresponde a un monoambiente , diseñado para ofrecer comodidad y estilo en un espacio funcional y bien distribuido.\nEste departamento es ideal para quienes buscan un hogar práctico y acogedor.\n\nCaracterísticas Principales:\n\nAmbiente: Monoambiente amplio y luminoso\nCocina: Hermosa cocina con muebles altos y bajos, perfecta para preparar deliciosas comidas\nLiving y Comedor: Integrado, creando un espacio abierto y cómodo\nBalcón: Con parrilla, ideal para disfrutar de momentos al aire libre\n\nVentajas Adicionales:\nLuminosidad: Grandes ventanales que permiten una excelente entrada de luz natural\nDiseño Funcional: Espacios diseñados para maximizar el confort y la practicidad\nExcelente Ubicación: Cercano a transporte público, centros comerciales y otros puntos de interés\n\nEste monoambiente es ideal para personas solas o parejas que buscan un espacio moderno y bien ubicado, con la comodidad de un balcón con parrilla para disfrutar del aire libre.\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita\n\nDetalles generales del edificio:\n• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO\n• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini\n• Aberturas de aluminio DVH (Doble Vidrio Hermético)\n• Pisos porcelanato de primera calidad\n• Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo\n• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral\n• Departamentos con parrilla exclusiva en balcón\n• Cielorrasos en yeso armado o aplicado según corresponda\n• Paredes interiores con terminación en yeso\n• Puertas interiores placa\n• Instalación de agua fría y caliente en termofusión\n• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.\n• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo\n• Equipamiento de cocina completo enchapados en melamina\n• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV\n• Instalación para la colocación de Aire Acondicionado en estar y dormitorio\n• Cañerías (vacías) para instalación cable y teléfono\n• Portero eléctrico con cámara visor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \r\n            ",
       "development": {
@@ -65551,9 +65561,9 @@
       "real_address": "Tucuman  2366 4°B",
       "reference_code": "DAP6841299",
       "rich_description": "                            <p>Presentamos un nuevo edificio en construcción sobre calle Tucumán 2366, Ubicado en el corazón de San Martín, a 6 cuadras de Ayacucho, a 4 cuadras del centro comercial del mismo, a 4 cuadras de Av. Balbín (ex R8), salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p><div><br></div><div>Moderno Monoambiente con Balcón y Parrilla - Muy Luminoso</div><div><br></div><div><br></div><div>La unidad publicada corresponde a un monoambiente , diseñado para ofrecer comodidad y estilo en un espacio funcional y bien distribuido.<br></div><div>Este departamento es ideal para quienes buscan un hogar práctico y acogedor.</div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Características Principales:</span><br></div><div><br></div><div>Ambiente: Monoambiente amplio y luminoso<br></div><div>Cocina: Hermosa cocina con muebles altos y bajos, perfecta para preparar deliciosas comidas<br></div><div>Living y Comedor: Integrado, creando un espacio abierto y cómodo<br></div><div>Balcón: Con parrilla, ideal para disfrutar de momentos al aire libre</div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Ventajas Adicionales:</span><br></div><div>Luminosidad: Grandes ventanales que permiten una excelente entrada de luz natural<br></div><div>Diseño Funcional: Espacios diseñados para maximizar el confort y la practicidad<br></div><div>Excelente Ubicación: Cercano a transporte público, centros comerciales y otros puntos de interés</div><div><br></div><div><br></div><div>Este monoambiente es ideal para personas solas o parejas que buscan un espacio moderno y bien ubicado, con la comodidad de un balcón con parrilla para disfrutar del aire libre.</div><div><br></div><div><br></div><div>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita<br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Detalles generales del edificio:</span><br></div><div>• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO<br></div><div>• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini<br></div><div>• Aberturas de aluminio DVH (Doble Vidrio Hermético)<br></div><div>• Pisos porcelanato de primera calidad<br></div><div>• Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo<br></div><div>• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral<br></div><div>• Departamentos con parrilla exclusiva en balcón<br></div><div>• Cielorrasos en yeso armado o aplicado según corresponda<br></div><div>• Paredes interiores con terminación en yeso<br></div><div>• Puertas interiores placa<br></div><div>• Instalación de agua fría y caliente en termofusión<br></div><div>• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.<br></div><div>• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo<br></div><div>• Equipamiento de cocina completo enchapados en melamina<br></div><div>• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV<br></div><div>• Instalación para la colocación de Aire Acondicionado en estar y dormitorio<br></div><div>• Cañerías (vacías) para instalación cable y teléfono<br></div><div>• Portero eléctrico con cámara visor<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><p></p><br>        \r\n            ",
-      "roofed_surface": "32.51",
+      "roofed_surface": "33.00",
       "room_amount": 1,
-      "semiroofed_surface": "5.85",
+      "semiroofed_surface": "6.00",
       "seo_description": "",
       "seo_keywords": "",
       "situation": "---",
@@ -65592,7 +65602,7 @@
       "toilet_amount": 0,
       "total_area": "0.00",
       "total_suites": 0,
-      "total_surface": "38.36",
+      "total_surface": "39.00",
       "transaction_requirements": "",
       "tv_rooms": 0,
       "type": {
@@ -65605,7 +65615,7 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2026-08-06T08:20:24.800Z",
+      "_last_changed": "2026-08-07T07:02:42.026Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Nuevo edificio en construcción sobre calle Tucumán 2366, ubicado en el corazón de San Martín, a 6 cuadras de Ayacucho, a 4 cuadras del centro comercial del mismo, a 4 cuadras de Av. Balbín (ex R8), salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Moderno monoambiente con balcón y parrilla, muy luminoso. La unidad está diseñada para ofrecer comodidad y estilo en un espacio funcional y bien distribuido. Ideal para quienes buscan un hogar práctico y acogedor.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Ambiente: Monoambiente amplio y luminoso</li>\n<li>Cocina: Hermosa cocina con muebles altos y bajos, perfecta para preparar comidas</li>\n<li>Living y Comedor: Integrado, creando un espacio abierto y cómodo</li>\n<li>Balcón: Con parrilla, ideal para disfrutar de momentos al aire libre</li>\n<li>Luminosidad: Grandes ventanales que permiten una excelente entrada de luz natural</li>\n<li>Diseño Funcional: Espacios diseñados para maximizar el confort y la practicidad</li>\n</ul>\n\n<h3>Detalles Constructivos</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco con estructura hormigón armado</li>\n<li>Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético)</li>\n<li>Pisos porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad y zócalo perimetral</li>\n<li>Departamentos con parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa</li>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos serán cambiados por cocina a gas y termo a gas</li>\n<li>En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo enchapados en melamina</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV</li>\n<li>Instalación para la colocación de Aire Acondicionado en estar y dormitorio</li>\n<li>Cañerías (vacías) para instalación cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<p>Excelente ubicación cercana a transporte público, centros comerciales y otros puntos de interés. Ideal"
     },
     {
@@ -70835,7 +70845,7 @@
     {
       "address": "Almirante Brown  al 3300",
       "address_complement": "",
-      "age": 5,
+      "age": 4,
       "apartment_door": "",
       "appartments_per_floor": 0,
       "bathroom_amount": 1,
@@ -70873,7 +70883,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-04T14:51:30",
+      "deleted_at": "2026-08-06T15:24:27",
       "depth_measure": "0.00",
       "description": "                Departamento 3 Ambientes en Villa Ballester            \n        \nLuminoso y cómodo departamento de 3 ambientes, ubicado a pocas cuadras de la estación de tren de Villa Ballester, en una zona tranquila y con excelente acceso a medios de transporte, comercios, escuelas y servicios.\nLa propiedad cuenta con: •\tAmplio living-comedor con salida al balcón •\tCocina integrada con muebles bajo mesada y alacena •\tDos dormitorios con placard empotrado •\tBaño completo con bañera •\tBuen estado general y muy buena ventilación\n\n\nSE VENDE  CON RENTA \nIdeal para quienes buscan comodidad y cercanía al centro de Ballester. ¡No te lo pierdas!\n\n\n            \r\n            ",
       "development": null,
@@ -70981,203 +70991,133 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_76151213417813342085448593667547277305573318342770822461827082158270073290159.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6995956_29984423891587131482416448733743820471417020392235105833386287253310980609980.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_76151213417813342085448593667547277305573318342770822461827082158270073290159.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/100123130_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_76151213417813342085448593667547277305573318342770822461827082158270073290159_thumb.jpg"
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_29984423891587131482416448733743820471417020392235105833386287253310980609980.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6995956_29984423891587131482416448733743820471417020392235105833386287253310980609980_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_29984423891587131482416448733743820471417020392235105833386287253310980609980_thumb.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/6995956_10457601051255458632367214141927165714421006347354440215962778281584323926952.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 0,
+          "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/6995956_10457601051255458632367214141927165714421006347354440215962778281584323926952.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6995956_10457601051255458632367214141927165714421006347354440215962778281584323926952_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_48169418364545159857786365676004035761673035254247023027977260272564780846763.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6995956_76151213417813342085448593667547277305573318342770822461827082158270073290159.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_48169418364545159857786365676004035761673035254247023027977260272564780846763.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_48169418364545159857786365676004035761673035254247023027977260272564780846763_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_76151213417813342085448593667547277305573318342770822461827082158270073290159.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/100123130_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_76151213417813342085448593667547277305573318342770822461827082158270073290159_thumb.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/6995956_62767875711602586875714288342266491512460985437773851267929526658134083928666.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/6995956_62767875711602586875714288342266491512460985437773851267929526658134083928666.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6995956_62767875711602586875714288342266491512460985437773851267929526658134083928666_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_42112926804006064155604697305127453763569592849086756676945574751170555863599.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_42112926804006064155604697305127453763569592849086756676945574751170555863599.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_42112926804006064155604697305127453763569592849086756676945574751170555863599_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_48459174995521643806167423240184738499467088726191864893127499245640692928691.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6995956_91228253017937058369440846394515799142598059871341351636826022794722541045911.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_48459174995521643806167423240184738499467088726191864893127499245640692928691.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_48459174995521643806167423240184738499467088726191864893127499245640692928691_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_22211587478598870923605111816067433292134105833165615018715885958915291772302.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_22211587478598870923605111816067433292134105833165615018715885958915291772302.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_22211587478598870923605111816067433292134105833165615018715885958915291772302_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_95715656764998261734866881667962212435713183094207626600106683505868150614007.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_95715656764998261734866881667962212435713183094207626600106683505868150614007.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_95715656764998261734866881667962212435713183094207626600106683505868150614007_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_62205799923448201062527749933737455743537538401560787097632451603238698399642.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_62205799923448201062527749933737455743537538401560787097632451603238698399642.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_62205799923448201062527749933737455743537538401560787097632451603238698399642_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_19899661638146799889074910102931670978879431725366736724356692165103954786915.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_19899661638146799889074910102931670978879431725366736724356692165103954786915.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_19899661638146799889074910102931670978879431725366736724356692165103954786915_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_82311170474625568106573714878885321564283306117406361362218634464398054070072.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 10,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_82311170474625568106573714878885321564283306117406361362218634464398054070072.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_82311170474625568106573714878885321564283306117406361362218634464398054070072_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_92295350654413784288150298869513164204425228891093142902288904052683040175600.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 11,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_92295350654413784288150298869513164204425228891093142902288904052683040175600.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_92295350654413784288150298869513164204425228891093142902288904052683040175600_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_113927611836748524642272494417521195484225439981366729226779241520946993606846.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 12,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_113927611836748524642272494417521195484225439981366729226779241520946993606846.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_113927611836748524642272494417521195484225439981366729226779241520946993606846_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_69952448857456215219101691051534626796488626525206188260872614676814476538228.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 13,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_69952448857456215219101691051534626796488626525206188260872614676814476538228.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_69952448857456215219101691051534626796488626525206188260872614676814476538228_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_93137856149151854059685240926604176064630618609770771944022287567437482266343.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 14,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_93137856149151854059685240926604176064630618609770771944022287567437482266343.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_93137856149151854059685240926604176064630618609770771944022287567437482266343_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_95944848935431070348531952526454742594438432232582630037308316179786650353842.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 15,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_95944848935431070348531952526454742594438432232582630037308316179786650353842.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_95944848935431070348531952526454742594438432232582630037308316179786650353842_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_91228253017937058369440846394515799142598059871341351636826022794722541045911.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6995956_91228253017937058369440846394515799142598059871341351636826022794722541045911_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_91228253017937058369440846394515799142598059871341351636826022794722541045911_thumb.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/6995956_17123512252158086485641754391730698256181546193153020549931330164688155175080.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 16,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/6995956_17123512252158086485641754391730698256181546193153020549931330164688155175080.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6995956_17123512252158086485641754391730698256181546193153020549931330164688155175080_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_75393260892681602577392970472136442604472023824231008508524140892283611190152.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6995956_60525755284600237548437593641564042059931242549872965557063177819017626715835.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 17,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_75393260892681602577392970472136442604472023824231008508524140892283611190152.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_75393260892681602577392970472136442604472023824231008508524140892283611190152_thumb.jpg"
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_60525755284600237548437593641564042059931242549872965557063177819017626715835.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6995956_60525755284600237548437593641564042059931242549872965557063177819017626715835_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_60525755284600237548437593641564042059931242549872965557063177819017626715835_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_27541183410759261304199642782412222024433926850685317790131969729415782512634.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6995956_92295350654413784288150298869513164204425228891093142902288904052683040175600.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 18,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_27541183410759261304199642782412222024433926850685317790131969729415782512634.jpg",
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_92295350654413784288150298869513164204425228891093142902288904052683040175600.jpg",
           "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_27541183410759261304199642782412222024433926850685317790131969729415782512634_thumb.jpg"
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_92295350654413784288150298869513164204425228891093142902288904052683040175600_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6995956_47808520458397323298165243619488769800314142781413321922919324298688535161299.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6995956_88075686967265301739693023227390737773996771482060302087822794742320285782127.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 19,
-          "original": "https://static.tokkobroker.com/original_pictures/6995956_47808520458397323298165243619488769800314142781413321922919324298688535161299.jpg",
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_88075686967265301739693023227390737773996771482060302087822794742320285782127.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6995956_88075686967265301739693023227390737773996771482060302087822794742320285782127_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_88075686967265301739693023227390737773996771482060302087822794742320285782127_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6995956_95944848935431070348531952526454742594438432232582630037308316179786650353842.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_95944848935431070348531952526454742594438432232582630037308316179786650353842.jpg",
           "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6995956_47808520458397323298165243619488769800314142781413321922919324298688535161299_thumb.jpg"
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_95944848935431070348531952526454742594438432232582630037308316179786650353842_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6995956_103348623041851792877904685640683723403160019589587510818003593083911595638276.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_103348623041851792877904685640683723403160019589587510818003593083911595638276.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6995956_103348623041851792877904685640683723403160019589587510818003593083911595638276_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_103348623041851792877904685640683723403160019589587510818003593083911595638276_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6995956_69952448857456215219101691051534626796488626525206188260872614676814476538228.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_69952448857456215219101691051534626796488626525206188260872614676814476538228.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_69952448857456215219101691051534626796488626525206188260872614676814476538228_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6995956_54229416366489942007795913968362382255884636433468776493986727546927683640892.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 13,
+          "original": "https://static.tokkobroker.com/original_pictures/6995956_54229416366489942007795913968362382255884636433468776493986727546927683640892.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6995956_54229416366489942007795913968362382255884636433468776493986727546927683640892_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6995956_54229416366489942007795913968362382255884636433468776493986727546927683640892_thumb.jpg"
         }
       ],
       "portal_footer": "",
@@ -71272,7 +71212,7 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2026-08-05T08:23:18.336Z",
+      "_last_changed": "2026-08-07T07:02:42.026Z",
       "enhanced_description": "<h3>Departamento 3 Ambientes en Villa Ballester</h3>\n\n<p>Luminoso y cómodo departamento de 3 ambientes, ubicado a pocas cuadras de la estación de tren de Villa Ballester, en una zona tranquila y con excelente acceso a medios de transporte, comercios, escuelas y servicios.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>Amplio living-comedor con salida al balcón</li>\n<li>Cocina integrada con muebles bajo mesada y alacena</li>\n<li>Dos dormitorios con placard empotrado</li>\n<li>Baño completo con bañera</li>\n<li>Buen estado general y muy buena ventilación</li>\n</ul>\n\n<h3>Observaciones</h3>\n\n<p>Se vende con renta. Ideal para quienes buscan comodidad y cercanía al centro de Ballester.</p>"
     },
     {
@@ -103755,7 +103695,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-05T14:39:48",
+      "deleted_at": "2026-08-06T13:28:41",
       "depth_measure": "0.00",
       "description": "Tu nuevo hogar te espera en San Martín\n\n¡Disfrutá de la comodidad y el diseño que merecés!Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.\n* Características destacadas:Dormitorio luminoso con placard de piso a techo.Living-comedor amplio, perfecto para relajarte o recibir visitas.Cocina equipada con muebles modernos y funcionales.Balcón con parrilla privada, para disfrutar de momentos únicos al aire libre.\n Detalles generales del proyecto\n• Mamposterías divisorias entre unidades en ladrillo cerámico hueco• Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado• Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad• Aberturas de aluminio con DVH (Doble Vidrio Hermético)• Pisos de porcelanato rectificado de primera calidad• Dormitorios con porcelanato símil madera y frente de placard de 2 puertas• Cielorrasos en yeso armado o aplicado• Paredes interiores con terminación en yeso• Puertas interiores placa MDF• Instalaciones de agua fría y caliente por termofusión•Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).• Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo• Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave• Mesada de granito, pileta de acero inoxidable y grifería monocomando• Preinstalación para aire acondicionado en estar y dormitorio• Cañerías vacías para TV por cable• Portero eléctrico con cámara visor\n* Contactanos hoy mismo y vení a conocerlo. ¡Tu futuro hogar te está esperando!\n                \r\n            ",
       "development": {
@@ -104614,9 +104554,9 @@
       "real_address": "Moreno 3484  6° B - San Martin",
       "reference_code": "DAP7952568",
       "rich_description": "Tu nuevo hogar te espera en San Martín<div><br></div><div><br></div><div>¡Disfrutá de la comodidad y el diseño que merecés!</div><div>Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.</div><div><br></div><div>* Características destacadas:</div><div>Dormitorio luminoso con placard de piso a techo.</div><div>Living-comedor amplio, perfecto para relajarte o recibir visitas.</div><div>Cocina equipada con muebles modernos y funcionales.</div><div>Balcón con parrilla privada, para disfrutar de momentos únicos al aire libre.</div><div><br></div><div> Detalles generales del proyecto</div><div><br></div><div>• Mamposterías divisorias entre unidades en ladrillo cerámico hueco</div><div>• Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</div><div>• Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</div><div>• Aberturas de aluminio con DVH (Doble Vidrio Hermético)</div><div>• Pisos de porcelanato rectificado de primera calidad</div><div>• Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</div><div>• Cielorrasos en yeso armado o aplicado</div><div>• Paredes interiores con terminación en yeso</div><div>• Puertas interiores placa MDF</div><div>• Instalaciones de agua fría y caliente por termofusión</div><div>•Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).</div><div>• Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</div><div>• Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</div><div>• Mesada de granito, pileta de acero inoxidable y grifería monocomando</div><div>• Preinstalación para aire acondicionado en estar y dormitorio</div><div>• Cañerías vacías para TV por cable</div><div>• Portero eléctrico con cámara visor</div><div><br></div><div>* Contactanos hoy mismo y vení a conocerlo. ¡Tu futuro hogar te está esperando!</div><div><br></div>                \r\n            ",
-      "roofed_surface": "44.07",
+      "roofed_surface": "44.00",
       "room_amount": 2,
-      "semiroofed_surface": "5.26",
+      "semiroofed_surface": "5.00",
       "seo_description": "",
       "seo_keywords": "",
       "situation": "---",
@@ -104710,7 +104650,7 @@
       "toilet_amount": 0,
       "total_area": "0.00",
       "total_suites": 0,
-      "total_surface": "49.33",
+      "total_surface": "49.00",
       "transaction_requirements": "",
       "tv_rooms": 0,
       "type": {
@@ -104723,7 +104663,7 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2026-08-06T08:20:24.800Z",
+      "_last_changed": "2026-08-07T07:02:42.026Z",
       "enhanced_description": "<h3>Tu nuevo hogar te espera en San Martín</h3>\n\n<p>Disfrutá de la comodidad y el diseño que merecés. Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.</p>\n\n<h3>Características destacadas</h3>\n\n<ul>\n<li>Dormitorio luminoso con placard de piso a techo</li>\n<li>Living-comedor amplio, perfecto para relajarte o recibir visitas</li>\n<li>Cocina equipada con muebles modernos y funcionales</li>\n<li>Balcón con parrilla privada, para disfrutar de momentos únicos al aire libre</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Contactanos hoy mismo y vení a conocerlo. Tu futuro hogar te está esperando.</p>"
     },
     {
