@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-08-08T06:38:17.962Z"
+    "lastSync": "2026-08-09T06:41:54.137Z"
   },
   "objects": [
     {
@@ -29892,7 +29892,7 @@
         "id": 122960,
         "name": "Laura Suarez",
         "phone": "",
-        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
         "position": ""
       },
       "property_condition": "Excelente",
