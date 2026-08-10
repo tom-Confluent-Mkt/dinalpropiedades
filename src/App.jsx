@@ -3189,10 +3189,15 @@ const ObrasDeMarLanding = () => {
       {/* ── HERO ── */}
       <section className="relative h-[100dvh] w-full flex items-end pb-24 lg:pb-32 px-6 lg:px-12 overflow-hidden bg-primary mb-20">
         <div className="absolute inset-0 z-0">
-          <img src={heroImg} alt="Obras de Mar" className="w-full h-full object-cover scale-105 origin-center opacity-80" />
+          <img src={heroImg} alt="" className="w-full h-full object-cover scale-105 origin-center opacity-80" />
           <div className="absolute inset-0 bg-gradient-to-t from-primary via-primary/80 to-transparent"></div>
         </div>
         <div className="relative z-10 w-full max-w-6xl mx-auto">
+          <img
+            src="/odm-logo.svg"
+            alt="Obras de Mar"
+            className="odm-hero h-8 md:h-10 w-auto mb-8 drop-shadow-md"
+          />
           <h1 className="text-background flex flex-col gap-4">
             <span className="odm-hero font-drama font-black text-5xl md:text-7xl lg:text-8xl leading-none md:leading-[1.1] text-white drop-shadow-md pb-2">
               <span className="font-normal">Invertí en pozo</span> con los que saben.
@@ -3433,14 +3438,23 @@ const ObrasDeMarPropertyDetail = () => {
     <div className="min-h-screen bg-[#F9FAFB] pt-28 pb-24">
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
 
-        {/* Back */}
-        <button
-          onClick={() => navigate('/obras-de-mar')}
-          className="flex items-center gap-2 text-dark/50 hover:text-primary font-heading text-sm mb-8 transition-colors group"
-        >
-          <ArrowLeft size={16} className="group-hover:-translate-x-0.5 transition-transform" />
-          Volver a Obras de Mar
-        </button>
+        {/* Back + Obras de Mar brand */}
+        <div className="flex items-center justify-between gap-4 mb-8">
+          <button
+            onClick={() => navigate('/obras-de-mar')}
+            className="flex items-center gap-2 text-dark/50 hover:text-primary font-heading text-sm whitespace-nowrap transition-colors group"
+          >
+            <ArrowLeft size={16} className="group-hover:-translate-x-0.5 transition-transform" />
+            Volver a Obras de Mar
+          </button>
+          <Link to="/obras-de-mar" className="shrink-0">
+            <img
+              src="/odm-logo-dark.svg"
+              alt="Obras de Mar"
+              className="h-4 md:h-6 w-auto opacity-80 hover:opacity-100 transition-opacity"
+            />
+          </Link>
+        </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
 
