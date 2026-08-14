@@ -554,6 +554,11 @@
     "html": "<h3>Características Principales</h3>\n<ul>\n<li>4 ambientes</li>\n<li>Cochera doble</li>\n<li>Planta baja al frente</li>\n</ul>\n\n<h3>Distribución Interior</h3>\n<ul>\n<li>Amplio living comedor</li>\n<li>Cocina semi integrada con muebles sobre y bajo mesada más barra desayunadora</li>\n<li>3 dormitorios con placard</li>\n<li>Baño completo</li>\n<li>Lavadero independiente</li>\n<li>Patio</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Excelente ubicación con cómodo acceso y cercanía a todos los servicios.</p>\n\n<h3>Condiciones de Compra</h3>\n<p>Acepta propiedad en parte de pago.</p>",
     "ts": "2026-04-23T12:36:37.311Z"
   },
+  "5873607": {
+    "hash": "3faa9c89badd4eb7",
+    "html": "<h3>Departamento 2 ambientes en alquiler – Centro de San Martín</h3>\n\n<p>Excelente departamento de 2 ambientes, ubicado en un 8.º piso al frente, con terminaciones de calidad premium y una excelente distribución.</p>\n\n<h3>Características</h3>\n<ul>\n<li>Cocina independiente, equipada con muebles altos y bajos de primera calidad, moderna y funcional.</li>\n<li>Dormitorio con frente de placard empotrado.</li>\n<li>Baño completo con mampara.</li>\n<li>Amplio balcón al frente con parrilla propia.</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Ubicado en una zona estratégica del Centro de San Martín, a pocas cuadras del centro comercial, con fácil acceso a diversas líneas de colectivos y rápida conexión con Avenida General Paz.</p>\n\n<h3>Condiciones</h3>\n<ul>\n<li>Contrato por 24 meses.</li>\n<li>Ajuste trimestral por ICL.</li>\n<li>Garantía: fianza.</li>\n<li>No se aceptan mascotas.</li>\n</ul>\n\n<p>Disponible a partir del 1 de septiembre.</p>",
+    "ts": "2026-08-14T07:13:19.993Z"
+  },
   "6016340": {
     "hash": "e270d971c2e49a23",
     "html": "<h3>Cochera Cubierta</h3>\n\n<ul>\n<li>Ubicada al frente del edificio</li>\n<li>Superficie cubierta de 11.75 metros cuadrados</li>\n<li>Unidad funcional independiente</li>\n<li>Control remoto de ingreso</li>\n</ul>\n\n<h3>Información Adicional</h3>\n\n<p>Posible venta conjunta de otra cochera descubierta en el mismo edificio. Consultar disponibilidad.</p>",
@@ -1248,5 +1253,10 @@
     "hash": "03ec54931d8567ba",
     "html": "<h3>Descripción General</h3>\n<p>Este luminoso y moderno departamento de 2 ambientes ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorio: 1 amplio dormitorio con placard</li>\n<li>Cocina: Totalmente equipada</li>\n<li>Living-Comedor: Espacioso y con excelente entrada de luz natural</li>\n<li>Balcón: con parrilla</li>\n<li>Baño: Moderno, completo y funcional</li>\n</ul>",
     "ts": "2026-08-13T07:16:19.277Z"
+  },
+  "8647004": {
+    "hash": "9636bb8662179eb5",
+    "html": "<h3>Descripción General</h3>\n<p>Excelente departamento de 3 ambientes, ubicado en el 2° piso por escalera, en una zona privilegiada de Villa Ballester, a tan solo 2 cuadras del centro comercial. La propiedad cuenta con ambientes cómodos y funcionales, cochera cubierta en subsuelo y baulera, brindando el espacio y la comodidad que buscás.</p>\n\n<h3>Características</h3>\n<ul>\n<li>3 ambientes</li>\n<li>2° piso por escalera</li>\n<li>Cochera cubierta en subsuelo</li>\n<li>Baulera</li>\n</ul>\n\n<h3>Ubicación</h3>\n<ul>\n<li>San Luis 4342 – Villa Ballester</li>\n<li>A 2 cuadras del centro de Ballester</li>\n</ul>\n\n<h3>Oportunidad</h3>\n<p>Una excelente oportunidad para quienes buscan vivir cerca de comercios, servicios y medios de transporte, sin resignar comodidad.</p>",
+    "ts": "2026-08-14T07:13:22.678Z"
   }
 }
