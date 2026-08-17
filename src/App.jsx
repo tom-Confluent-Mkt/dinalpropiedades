@@ -2,7 +2,7 @@ import { useEffect, useRef, useState, useLayoutEffect, useMemo, createContext, u
 import { BrowserRouter as Router, Routes, Route, Link, useLocation, useParams, useNavigate } from 'react-router-dom';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { Building, MapPin, Compass, Search, Phone, Mail, ArrowRight, Menu, X, Clock, Bed, Bath, Ruler, ArrowLeft, ChevronLeft, ChevronRight, Droplets, Flame, Zap, Wifi, Tv, Thermometer, Trees, Package, DoorOpen, Users, Waves, Wind, Sun, Shield, Dumbbell, Bell, Car, FileText, TrendingUp, Check, Utensils, Home as HomeIcon, Leaf, Sofa, Shirt, Star, Play } from 'lucide-react';
+import { Building, MapPin, Compass, Eye, Handshake, KeyRound, Quote, Search, Phone, Mail, ArrowRight, Menu, X, Clock, Bed, Bath, Ruler, ArrowLeft, ChevronLeft, ChevronRight, Droplets, Flame, Zap, Wifi, Tv, Thermometer, Trees, Package, DoorOpen, Users, Waves, Wind, Sun, Shield, Dumbbell, Bell, Car, FileText, TrendingUp, Check, Utensils, Home as HomeIcon, Leaf, Sofa, Shirt, Star, Play } from 'lucide-react';
 import sucursalBallester from './assets/Dinal-Ballester.jpg';
 import sucursalSanMartin from './assets/San-martin.jpg';
 
@@ -251,7 +251,7 @@ const Navbar = () => {
         <Link to="/alquiler" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Alquiler</Link>
         <Link to="/emprendimientos" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Emprendimientos</Link>
         <Link to="/sucursales" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Sucursales</Link>
-        {/* <Link to="/nosotros" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Nosotros</Link> */}
+        <Link to="/nosotros" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Nosotros</Link>
         {/* <Link to="/obras-de-mar" className="hover:-translate-y-[1px] hover:text-accent transition-all duration-300">Obras de Mar</Link> */}
       </div>
 
@@ -275,7 +275,7 @@ const Navbar = () => {
          <Link to="/alquiler" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Alquiler</Link>
          <Link to="/emprendimientos" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Emprendimientos</Link>
          <Link to="/sucursales" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Sucursales</Link>
-         {/* <Link to="/nosotros" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Nosotros</Link> */}
+         <Link to="/nosotros" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Nosotros</Link>
          {/* <Link to="/obras-de-mar" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Obras de Mar</Link> */}
          <Link to="/contacto" className="font-heading text-4xl text-primary hover:text-accent transition-colors" onClick={()=>setMobileOpen(false)}>Contacto</Link>
     </div>
@@ -2897,35 +2897,56 @@ const SobreNosotros = () => {
       gsap.utils.toArray(".nos-scroll").forEach(el => {
         gsap.from(el, { scrollTrigger: { trigger: el, start: "top 85%" }, y: 40, opacity: 0, duration: 0.8, ease: "power3.out" });
       });
+      // Manifesto: reveal line by line
+      gsap.from(".nos-line", {
+        scrollTrigger: { trigger: ".nos-manifesto", start: "top 70%" },
+        y: 30, opacity: 0, duration: 0.7, stagger: 0.18, ease: "power3.out"
+      });
+      // "Suma de todos": words cascade in
+      gsap.from(".nos-word", {
+        scrollTrigger: { trigger: ".nos-suma", start: "top 70%" },
+        y: 20, opacity: 0, duration: 0.5, stagger: 0.08, ease: "power2.out"
+      });
     }, containerRef);
     return () => ctx.revert();
   }, []);
 
-  const valores = [
+  const pasos = [
     {
-      icon: <Building size={28} />,
-      title: "Trayectoria",
-      desc: "Más de 30 años construyendo confianza en Villa Ballester y la zona norte del Gran Buenos Aires. Cada proyecto refleja nuestra historia.",
-      data: "+30 años"
+      n: "01",
+      icon: <Eye size={26} />,
+      title: "Primero lo soñamos",
+      desc: "Nunca elegimos un terreno solo por su ubicación, ni un barrio por su presente. Buscamos lugares donde podamos imaginar un futuro. Muchas veces, antes que los demás."
     },
     {
-      icon: <ArrowRight size={28} />,
-      title: "Innovación",
-      desc: "Pioneros en financiamiento en pesos con cuotas accesibles. Facilitamos el acceso a la vivienda con soluciones flexibles y pensadas para cada cliente.",
-      data: "Financiación propia"
+      n: "02",
+      icon: <Handshake size={26} />,
+      title: "Después lo vemos juntos",
+      desc: "No memorizamos discursos. No presionamos. Preguntamos, escuchamos, observamos. Recién cuando entendemos cómo querés vivir —o cómo querés proyectar tu capital— te mostramos un proyecto."
     },
     {
-      icon: <MapPin size={28} />,
-      title: "Compromiso familiar",
-      desc: "Somos una empresa de familia. Néstor fundó la base y Nahuel lleva adelante la visión de seguir creciendo juntos, con los mismos valores de siempre.",
-      data: "Familia Ruiz"
+      n: "03",
+      icon: <KeyRound size={26} />,
+      title: "Y lo cumplimos",
+      desc: "El día que una familia confía en nosotros, ese sueño pasa a ser también nuestro. Llegar antes que nadie, irse último, resolver lo que parecía imposible: cuando un sueño compartido depende de vos, deja de ser un trabajo. Se convierte en un compromiso."
     }
   ];
 
+  const suma = ["imaginaron", "diseñaron", "confiaron", "firmaron", "llevaron materiales", "levantaron paredes", "resolvieron problemas", "acompañaron", "esperaron", "recomendaron", "volvieron"];
+
   const hitos = [
-    { year: "2003", label: "Fundación", desc: "Néstor Ruiz funda Dinal Propiedades en Villa Ballester, con la visión de ser la inmobiliaria de referencia en la zona." },
-    { year: "2007", label: "Grupo Dinal", desc: "Nace Grupo Dinal: la alianza entre la familia Ruiz y la familia Montanari une expertise comercial y trayectoria constructora." },
-    { year: "Hoy", label: "Nueva generación", desc: "Nahuel Ruiz asume la conducción junto a su padre. La misma esencia, con mirada renovada y proyección hacia el futuro." }
+    { mark: "+30", sub: "años", label: "Los primeros terrenos", desc: "Antes de la marca hubo una manera de hacer las cosas: cada obra empieza mucho antes del primer ladrillo. Empieza cuando alguien confía en nosotros." },
+    { mark: "2003", sub: "", label: "Villa Ballester", desc: "Néstor Ruiz funda Dinal Propiedades, con la visión de ser la inmobiliaria de referencia de la zona norte del Gran Buenos Aires." },
+    { mark: "2007", sub: "", label: "Grupo Dinal", desc: "La familia Ruiz y la familia Montanari unen expertise comercial y trayectoria constructora. Juntos levantan los edificios que hoy son hogar para miles de familias." },
+    { mark: "120", sub: "cuotas", label: "Un camino propio", desc: "Nace nuestro histórico plan de 120 cuotas. No como estrategia comercial: como una puerta para quienes creían que su hogar propio estaba demasiado lejos." },
+    { mark: "Hoy", sub: "", label: "Nueva generación", desc: "Nahuel Ruiz conduce la empresa junto a su padre. La misma esencia, la misma manera de mirar el futuro, con proyección hacia adelante." }
+  ];
+
+  const stats = [
+    { value: "+30", label: "años mirando el futuro" },
+    { value: "+80", label: "edificios entregados" },
+    { value: "+250.000", label: "m² desarrollados y construidos" },
+    { value: "120", label: "cuotas: nuestro plan histórico" }
   ];
 
   return (
@@ -2934,39 +2955,105 @@ const SobreNosotros = () => {
       {/* ── HERO ── */}
       <section className="px-6 lg:px-12 mb-24">
         <div className="max-w-7xl mx-auto rounded-[2rem] overflow-hidden relative h-[60vh] flex items-center justify-center shadow-2xl">
-          <img src="/images/Size%20Optimized/_MG_1091.jpg" alt="Sobre Nosotros" className="absolute inset-0 w-full h-full object-cover scale-105 transition-all duration-1000" />
+          <img src="/images/Size%20Optimized/COnstrucciòn%202%20(1)%20(1).jpg" alt="Estructura de un edificio Dinal en construcción" className="absolute inset-0 w-full h-full object-cover scale-105 transition-all duration-1000" />
           <div className="absolute inset-0 bg-primary/75"></div>
           <div className="relative z-10 text-center px-4">
-            <span className="nos-hero font-data tracking-widest text-xs text-white/70 mb-4 block">// NUESTRA HISTORIA</span>
-            <h1 className="nos-hero font-drama font-black text-5xl md:text-7xl text-white mb-6">Más de 30 años<br /><span className="font-heading font-black text-accent tracking-tight">construyendo juntos.</span></h1>
-            <p className="nos-hero font-heading text-lg text-white/80 max-w-xl mx-auto">Una empresa de familia, una historia de esfuerzo, y una visión compartida que trasciende generaciones.</p>
+            <span className="nos-hero font-data tracking-widest text-xs text-white/70 mb-4 block">// NUESTRO ADN</span>
+            <h1 className="nos-hero font-drama font-black text-6xl md:text-8xl text-white mb-6 leading-none">Lo vimos <span className="text-accent">juntos.</span></h1>
+            <p className="nos-hero font-heading text-lg text-white/80 max-w-2xl mx-auto">No es un eslogan. Es la historia que nos convirtió en Dinal. No explica cómo vender un edificio: explica cómo mirar el futuro.</p>
           </div>
         </div>
       </section>
 
-      {/* ── HISTORIA ── */}
+      {/* ── EL ORIGEN — carta del fundador ── */}
       <section className="px-6 lg:px-12 mb-32">
         <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <span className="nos-scroll font-data tracking-widest text-xs text-primary/50 mb-4 block">// LOS COMIENZOS</span>
-            <h2 className="nos-scroll font-drama font-black text-4xl md:text-5xl text-primary mb-6 leading-tight">Una decisión <br />que cambió <br /><span className="text-accent">todo.</span></h2>
-            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-6">
-              En 2003, Néstor Ruiz apostó a construir algo propio en Villa Ballester. Con esfuerzo, convicción y una vocación genuina por el servicio, fundó Dinal Propiedades — la inmobiliaria que se convertiría en referente de la zona norte del Gran Buenos Aires.
+            <span className="nos-scroll font-data tracking-widest text-xs text-primary/50 mb-4 block">// EL ORIGEN</span>
+            <h2 className="nos-scroll font-drama font-black text-4xl md:text-5xl text-primary mb-8 leading-tight">Antes de los renders, <br />nuestra oficina <br />era <span className="text-accent">el terreno.</span></h2>
+            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-5">
+              Hace muchos años no existían los renders ni los recorridos virtuales. Nuestra oficina era el mismo terreno. Ahí recibíamos a las familias, ahí caminábamos, ahí empezaba todo.
             </p>
-            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-6">
-              En 2007 nació Grupo Dinal: la unión con la familia Montanari sumó expertise constructora a la solidez comercial. Juntos levantaron proyectos que hoy son hogar para miles de familias.
+            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-5">
+              Nos parábamos en medio de un lote donde solo había tierra, cielo y silencio. Yo levantaba el brazo y señalaba hacia arriba: <em>allá va a estar el último piso. Acá el balcón; desde ahí vas a ver el amanecer. Acá la cocina, acá el living, acá la cochera.</em>
             </p>
-            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed">
-              Hoy, Nahuel —hijo de Néstor— conduce la empresa junto a su padre. Creció dentro de Dinal, aprendió los valores que la construyeron, y hoy lleva adelante esa herencia con una mirada moderna y el mismo compromiso de siempre.
+            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-5">
+              Y mientras hablaba pasaba algo maravilloso. Al principio la persona seguía mi mano. Un instante después ya no miraba mi mano: miraba el edificio. Un edificio que todavía no existía.
             </p>
+            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-8">
+              Ahí nacía la obra. No con el primer pozo ni con la primera columna. Nacía cuando dos personas eran capaces de ver el mismo futuro.
+            </p>
+            <div className="nos-scroll flex items-center gap-4">
+              <div className="w-12 h-px bg-accent"></div>
+              <div>
+                <p className="font-heading font-bold text-primary">Néstor Ruiz</p>
+                <p className="font-data text-xs tracking-widest text-primary/50 uppercase">Fundador de Dinal</p>
+              </div>
+            </div>
           </div>
           <div className="nos-scroll relative">
-            <div className="rounded-[2rem] overflow-hidden shadow-2xl h-[480px]">
-              <img src="/images/Size%20Optimized/_MG_2464.jpg" alt="Historia Dinal" className="w-full h-full object-cover" />
+            <div className="rounded-[2rem] overflow-hidden shadow-2xl h-[520px]">
+              <img src="/images/Size%20Optimized/_MG_2464.jpg" alt="Obra Dinal" className="w-full h-full object-cover" />
             </div>
-            <div className="absolute -bottom-6 -left-6 bg-primary text-white px-6 py-4 rounded-2xl shadow-xl">
-              <p className="font-data text-xs text-white/60 tracking-widest uppercase mb-1">Fundada en</p>
-              <p className="font-drama font-black text-4xl text-accent">2003</p>
+            <div className="absolute -bottom-8 left-3 right-3 lg:-left-6 lg:right-auto lg:max-w-sm bg-primary text-white px-7 py-6 rounded-2xl shadow-xl">
+              <Quote size={20} className="text-accent mb-3" />
+              <p className="font-heading text-white/90 leading-relaxed">Decían que vendíamos nubes. Nunca nos molestó: no vendíamos algo invisible, invitábamos a descubrir un futuro que todavía no se podía tocar.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── MANIFIESTO ── */}
+      <section className="px-6 lg:px-12 mb-32">
+        <div className="nos-manifesto max-w-7xl mx-auto bg-primary rounded-[2rem] py-20 md:py-28 px-8 md:px-16 shadow-2xl relative overflow-hidden">
+          <div className="absolute -top-24 -right-24 w-96 h-96 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+          <div className="relative z-10 max-w-4xl">
+            <span className="nos-line font-data tracking-widest text-xs text-white/50 mb-8 block">// NUESTRO VERDADERO TRABAJO</span>
+            <p className="nos-line font-drama font-black text-3xl md:text-5xl text-white/60 leading-tight">Hay empresas que construyen edificios.</p>
+            <p className="nos-line font-drama font-black text-3xl md:text-5xl text-white/60 leading-tight mb-6">Hay empresas que venden departamentos.</p>
+            <p className="nos-line font-drama font-black text-3xl md:text-5xl text-white leading-tight">Nosotros elegimos otro camino:</p>
+            <p className="nos-line font-drama font-black text-3xl md:text-5xl text-white leading-tight mb-6">ayudamos a las personas a ver un futuro que todavía no podían imaginar.</p>
+            <p className="nos-line font-heading text-xl md:text-2xl text-white/70 leading-relaxed">El edificio es importante. Pero nunca fue el principio.</p>
+            <p className="nos-line font-drama font-black text-4xl md:text-6xl text-accent leading-tight mt-2">Siempre fue la consecuencia.</p>
+          </div>
+        </div>
+      </section>
+
+      {/* ── ASÍ NACE CADA OBRA ── */}
+      <section className="px-6 lg:px-12 mb-32">
+        <div className="max-w-7xl mx-auto">
+          <span className="nos-scroll font-data tracking-widest text-xs text-primary/50 mb-2 block text-center">// CÓMO TRABAJAMOS</span>
+          <h2 className="nos-scroll font-drama font-black text-4xl md:text-5xl text-primary text-center mb-16">Así nace cada obra</h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {pasos.map((p) => (
+              <div key={p.n} className="nos-scroll bg-white p-8 rounded-[1.5rem] shadow border border-primary/10 hover:-translate-y-2 hover:border-accent transition-all duration-500 group flex flex-col">
+                <div className="flex items-center justify-between mb-6">
+                  <span className="font-drama font-black text-5xl text-primary/10 group-hover:text-accent transition-colors duration-500 leading-none">{p.n}</span>
+                  <div className="text-accent group-hover:scale-110 transition-transform duration-300">{p.icon}</div>
+                </div>
+                <h3 className="font-heading font-bold text-primary text-xl mb-3">{p.title}</h3>
+                <p className="font-heading text-dark/60 leading-relaxed flex-grow">{p.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── LA SUMA DE TODOS ── */}
+      <section className="px-6 lg:px-12 mb-32">
+        <div className="nos-suma max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-5 gap-12 items-start">
+          <div className="lg:col-span-2">
+            <span className="nos-scroll font-data tracking-widest text-xs text-primary/50 mb-4 block">// LA FUERZA COLECTIVA</span>
+            <h2 className="nos-scroll font-drama font-black text-4xl md:text-5xl text-primary mb-6 leading-tight">Dinal nunca fue <br />una sola persona.</h2>
+            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-6">Ni un vendedor, ni un arquitecto, ni un albañil, ni un escribano, ni un cliente. Dinal siempre fue la suma de todos.</p>
+            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed">Por eso nuestra frase no dice «lo hice». No dice «lo hicimos». Dice <span className="font-bold text-primary">lo vimos juntos</span>.</p>
+          </div>
+          <div className="lg:col-span-3 lg:pt-10">
+            <p className="nos-scroll font-data text-xs tracking-widest text-primary/40 uppercase mb-6">De quienes…</p>
+            <div className="flex flex-wrap gap-x-5 gap-y-3">
+              {suma.map((w, i) => (
+                <span key={w} className={`nos-word font-drama font-black text-3xl md:text-5xl leading-none ${i % 3 === 1 ? 'text-accent' : 'text-primary'}`}>{w}<span className="text-primary/20">.</span></span>
+              ))}
             </div>
           </div>
         </div>
@@ -2978,18 +3065,18 @@ const SobreNosotros = () => {
           <span className="nos-scroll font-data tracking-widest text-xs text-primary/50 mb-2 block text-center">// HITOS</span>
           <h2 className="nos-scroll font-drama font-black text-4xl md:text-5xl text-primary text-center mb-16">Nuestro camino</h2>
           <div className="relative">
-            {/* Vertical line */}
             <div className="hidden lg:block absolute left-1/2 -translate-x-1/2 top-0 bottom-0 w-px bg-primary/10"></div>
             <div className="flex flex-col gap-16">
               {hitos.map((h, i) => (
-                <div key={h.year} className={`nos-scroll flex flex-col lg:flex-row items-center gap-8 ${i % 2 !== 0 ? 'lg:flex-row-reverse' : ''}`}>
+                <div key={h.label} className={`nos-scroll flex flex-col lg:flex-row items-center gap-8 ${i % 2 !== 0 ? 'lg:flex-row-reverse' : ''}`}>
                   <div className={`flex-1 ${i % 2 !== 0 ? 'lg:text-right' : 'lg:text-left'}`}>
                     <span className="font-data text-xs text-primary/40 tracking-widest uppercase block mb-2">{h.label}</span>
                     <p className="font-heading text-dark/70 text-lg leading-relaxed">{h.desc}</p>
                   </div>
                   <div className="flex-shrink-0 relative z-10 flex flex-col items-center">
-                    <div className="w-20 h-20 rounded-full bg-primary flex items-center justify-center shadow-xl border-4 border-accent">
-                      <span className="font-drama font-black text-accent text-xl leading-none">{h.year}</span>
+                    <div className="w-20 h-20 rounded-full bg-primary flex flex-col items-center justify-center shadow-xl border-4 border-accent">
+                      <span className="font-drama font-black text-accent text-xl leading-none">{h.mark}</span>
+                      {h.sub && <span className="font-data text-[10px] tracking-widest uppercase text-white/60 mt-1">{h.sub}</span>}
                     </div>
                   </div>
                   <div className="flex-1 hidden lg:block"></div>
@@ -3000,22 +3087,24 @@ const SobreNosotros = () => {
         </div>
       </section>
 
-      {/* ── VALORES ── */}
+      {/* ── FINANCIACIÓN ── */}
       <section className="px-6 lg:px-12 mb-32">
-        <div className="max-w-7xl mx-auto">
-          <span className="nos-scroll font-data tracking-widest text-xs text-primary/50 mb-2 block text-center">// VALORES</span>
-          <h2 className="nos-scroll font-drama font-black text-4xl md:text-5xl text-primary text-center mb-16">Lo que nos define</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {valores.map((v) => (
-              <div key={v.title} className="nos-scroll bg-white p-8 rounded-[1.5rem] shadow border border-primary/10 hover:-translate-y-2 hover:border-accent transition-all duration-500 group flex flex-col">
-                <div className="text-accent mb-4 group-hover:scale-110 transition-transform duration-300">{v.icon}</div>
-                <h3 className="font-heading font-bold text-primary text-xl mb-3">{v.title}</h3>
-                <p className="font-heading text-dark/60 leading-relaxed flex-grow">{v.desc}</p>
-                <div className="mt-6 pt-4 border-t border-primary/10">
-                  <span className="font-data text-xs tracking-widest text-primary/40 uppercase">{v.data}</span>
-                </div>
-              </div>
-            ))}
+        <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+          <div className="nos-scroll order-2 lg:order-1 rounded-[2rem] overflow-hidden shadow-2xl h-[420px]">
+            <img src="/images/Size%20Optimized/_MG_1219.jpg" alt="Edificio Dinal" className="w-full h-full object-cover" />
+          </div>
+          <div className="order-1 lg:order-2">
+            <span className="nos-scroll font-data tracking-widest text-xs text-primary/50 mb-4 block">// FINANCIACIÓN</span>
+            <h2 className="nos-scroll font-drama font-black text-4xl md:text-5xl text-primary mb-6 leading-tight">No hablamos de cuotas. <br /><span className="text-accent">Hablamos de caminos.</span></h2>
+            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-5">
+              Cada familia tiene una historia distinta, un momento distinto y una forma diferente de llegar a su hogar. Por eso hace muchos años nos propusimos acercar ese sueño a más personas.
+            </p>
+            <p className="nos-scroll font-heading text-dark/70 text-lg leading-relaxed mb-8">
+              Así nació nuestro histórico plan de 120 cuotas: no como una estrategia comercial, sino como una forma de abrir la puerta a quienes creían que su casa propia todavía estaba demasiado lejos. Porque cuando encontramos una mejor manera de ayudar a cumplir un sueño… también lo vimos juntos.
+            </p>
+            <Link to="/emprendimientos" className="nos-scroll inline-flex items-center gap-2 bg-primary text-white font-heading font-bold px-7 py-4 rounded-xl hover:bg-accent hover:text-primary transition-colors duration-300 shadow-lg">
+              Ver proyectos en pozo <ArrowRight size={18} />
+            </Link>
           </div>
         </div>
       </section>
@@ -3023,13 +3112,9 @@ const SobreNosotros = () => {
       {/* ── STATS ── */}
       <section className="px-6 lg:px-12 mb-32">
         <div className="max-w-7xl mx-auto bg-primary rounded-[2rem] py-16 px-8 shadow-2xl">
+          <p className="nos-scroll font-heading text-white/70 text-lg md:text-xl text-center max-w-3xl mx-auto mb-14 leading-relaxed">Llegó un momento en que dejamos de contar edificios. Porque nunca trabajamos para acumularlos: <span className="text-white">trabajamos para llenarlos de historias.</span></p>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-10 text-center">
-            {[
-              { value: "+30", label: "Años de experiencia" },
-              { value: "78", label: "Proyectos en Pcia. de Bs. As." },
-              { value: "+150.000", label: "m² entregados" },
-              { value: "1.350", label: "Unidades vendidas" }
-            ].map((s) => (
+            {stats.map((s) => (
               <div key={s.label} className="nos-scroll">
                 <p className="font-drama font-black text-5xl md:text-6xl text-accent mb-2">{s.value}</p>
                 <p className="font-heading text-white/60 text-sm">{s.label}</p>
@@ -3042,12 +3127,18 @@ const SobreNosotros = () => {
       {/* ── CTA ── */}
       <section className="px-6 lg:px-12">
         <div className="max-w-7xl mx-auto bg-primary rounded-[2rem] p-10 md:p-16 text-center shadow-2xl relative overflow-hidden">
+          <div className="absolute -bottom-24 -left-24 w-96 h-96 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
           <div className="relative z-10">
-            <h2 className="nos-scroll font-drama text-4xl md:text-5xl text-white mb-6">¿Querés conocernos mejor?</h2>
-            <p className="nos-scroll font-heading text-white/70 max-w-2xl mx-auto mb-10 text-lg">Acercate a nuestras sucursales o contactanos. Estamos para asesorarte y acompañarte en cada paso de tu próxima inversión.</p>
-            <Link to="/contacto" className="nos-scroll inline-block bg-transparent border-2 border-accent text-accent font-heading font-bold px-8 py-4 rounded-xl hover:bg-accent hover:text-primary transition-colors transform hover:scale-105 duration-300 shadow-xl">
-              Hablemos
-            </Link>
+            <h2 className="nos-scroll font-drama font-black text-4xl md:text-5xl text-white mb-4 leading-tight">Primero lo vimos juntos.<br /><span className="text-accent">Después lo construimos.</span></h2>
+            <p className="nos-scroll font-heading text-white/70 max-w-2xl mx-auto mb-10 text-lg">Contanos cómo te imaginás viviendo —o invirtiendo— y lo miramos juntos.</p>
+            <div className="nos-scroll flex flex-col sm:flex-row gap-4 justify-center">
+              <Link to="/contacto" className="inline-block bg-accent text-primary font-heading font-bold px-8 py-4 rounded-xl hover:bg-white transition-colors transform hover:scale-105 duration-300 shadow-xl">
+                Hablemos
+              </Link>
+              <Link to="/emprendimientos" className="inline-block bg-transparent border-2 border-accent text-accent font-heading font-bold px-8 py-4 rounded-xl hover:bg-accent hover:text-primary transition-colors transform hover:scale-105 duration-300">
+                Ver emprendimientos
+              </Link>
+            </div>
           </div>
         </div>
       </section>
