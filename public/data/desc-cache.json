@@ -125,9 +125,9 @@
     "ts": "2026-04-23T12:31:50.646Z"
   },
   "1241732": {
-    "hash": "8455d09498d935b1",
-    "html": "<h3>Descripción</h3>\n<p>Excelente departamento de 2 ambientes ubicado en Alte. Brown 3370, entre Aristobulo del Valle y Bolívar, en pleno centro de Villa Ballester. A tan solo 4 cuadras de la estación Villa Ballester del Ferrocarril Mitre y del principal centro comercial de la zona, con una amplia oferta de comercios, servicios y transporte.</p>\n\n<h3>Características de la Propiedad</h3>\n<ul>\n<li>2 ambientes al frente</li>\n<li>56,03 m²</li>\n<li>Orientación noroeste</li>\n<li>Excelente luminosidad durante gran parte del día</li>\n</ul>\n\n<h3>Distribución y Ambientes</h3>\n<p>Amplio living-comedor con cocina integrada, equipada con muebles bajo mesada y alacenas. El dormitorio posee placard con interiores completos. Baño completo con bañera.</p>\n\n<h3>Características Destacadas</h3>\n<ul>\n<li>Cocina integrada</li>\n<li>Dormitorio con placard e interiores</li>\n<li>Baño completo con bañera</li>\n<li>Amplio balcón corrido al frente con parrilla</li>\n<li>Excelente calidad constructiva</li>\n</ul>\n\n<p>Una propiedad moderna, luminosa y funcional, ideal para quienes buscan comodidad, ubicación y espacios para disfrutar.</p>",
-    "ts": "2026-08-12T07:12:51.531Z"
+    "hash": "ff00f6c6fb074093",
+    "html": "<h3>Excelente departamento de 2 ambientes en Villa Ballester</h3>\n\n<h3>Ubicación</h3>\n<p>Ubicado en Alte. Brown 3370, entre Aristóbulo del Valle y Bolívar, en pleno centro de Villa Ballester. A tan solo 4 cuadras de la estación Villa Ballester del Ferrocarril Mitre y del principal centro comercial de la zona, con una amplia oferta de comercios, servicios y transporte.</p>\n\n<h3>Descripción de la propiedad</h3>\n<p>La propiedad cuenta con 56,03 m², orientación noroeste, lo que le brinda una excelente luminosidad durante gran parte del día.</p>\n\n<p>Dispone de un amplio living-comedor con cocina integrada, equipada con muebles bajo mesada y alacenas. El dormitorio posee placard con interiores completos. Baño completo con bañera.</p>\n\n<p>El gran protagonista de la unidad es su amplio balcón corrido.</p>\n\n<h3>Características</h3>\n<ul>\n<li>2 ambientes al frente</li>\n<li>56 m²</li>\n<li>Orientación noroeste</li>\n<li>Cocina integrada</li>\n<li>Dormitorio con placard e interiores</li>\n<li>Baño completo con bañera</li>\n<li>Balcón corrido</li>\n<li>Excelente calidad constructiva</li>\n</ul>\n\n<p>Una propiedad moderna, luminosa y funcional, ideal para quienes buscan comodidad, ubicación y espacios para disfrutar.</p>",
+    "ts": "2026-08-19T06:30:21.157Z"
   },
   "1247453": {
     "hash": "04a2e15e902bb12b",
@@ -458,6 +458,11 @@
     "hash": "e0dc4e1fb9fead91",
     "html": "<h3>Nuevo Ingreso en San Martín</h3>\n\n<p>Cerrito 2526, San Martín (entre Vidal y Av. Pte. Perón)</p>\n\n<p>Propiedad multifamiliar con ingreso independiente al fondo, ideal para dos familias o renta.</p>\n\n<h3>Sobre el Lote</h3>\n\n<ul>\n<li>Superficie total: 265 m²</li>\n<li>2 viviendas en el mismo lote</li>\n</ul>\n\n<h3>1° Propiedad (Planta Única - 3 Ambientes)</h3>\n\n<ul>\n<li>Amplia cocina comedor</li>\n<li>Patio</li>\n<li>Baño completo</li>\n<li>2 dormitorios</li>\n</ul>\n\n<h3>2° Propiedad (Dúplex)</h3>\n\n<h3>Exterior</h3>\n\n<ul>\n<li>Amplio jardín</li>\n<li>Parrilla</li>\n</ul>\n\n<h3>Planta Baja</h3>\n\n<ul>\n<li>Cocina comedor</li>\n<li>Living comedor</li>\n<li>Baño completo</li>\n<li>Terraza</li>\n</ul>\n\n<h3>Planta Alta</h3>\n\n<ul>\n<li>2 dormitorios</li>\n<li>Baño completo</li>\n<li>Balcón al jardín</li>\n<li>Cuarto de guardado</li>\n</ul>\n\n<p>Ideal para vivienda multifamiliar o inversión con renta.</p>\n\n<p>Consultanos para más info o coordinar visita.</p>",
     "ts": "2026-06-09T14:49:53.792Z"
+  },
+  "5494562": {
+    "hash": "44e1dc90f4cfbb01",
+    "html": "<h3>Departamento en Venta</h3>\n\n<p>Excelente departamento de 48 m² totales, ubicado en una zona estratégica de San Martín, a pocas cuadras del centro comercial, la estación del Ferrocarril Mitre y la UNSAM.</p>\n\n<p>A metros de Av. Balbín (Ruta 8), con rápido acceso a General Paz y múltiples líneas de colectivo en las cercanías.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>Amplio living comedor con cocina integrada</li>\n<li>Dormitorio con balcón privado al contrafrente</li>\n<li>Baño completo</li>\n<li>Balcón al frente con parrilla</li>\n<li>Excelente luminosidad y distribución</li>\n</ul>\n\n<h3>Detalles de la Propiedad</h3>\n\n<ul>\n<li>Ubicación estratégica</li>\n<li>Parrilla propia</li>\n<li>Ideal inversor</li>\n<li>Actualmente alquilado, generando renta</li>\n</ul>\n\n<p>Una excelente oportunidad para inversores que buscan una propiedad moderna, bien ubicada y con renta asegurada actualmente.</p>",
+    "ts": "2026-08-19T06:30:22.998Z"
   },
   "5495775": {
     "hash": "650f4d2361424a31",
