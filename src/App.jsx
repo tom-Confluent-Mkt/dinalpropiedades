@@ -2936,7 +2936,7 @@ const SobreNosotros = () => {
 
   const hitos = [
     { mark: "+30", sub: "años", label: "Los primeros terrenos", desc: "Antes de la marca hubo una manera de hacer las cosas: cada obra empieza mucho antes del primer ladrillo. Empieza cuando alguien confía en nosotros." },
-    { mark: "2003", sub: "", label: "Villa Ballester", desc: "Néstor Ruiz funda Dinal Propiedades, con la visión de ser la inmobiliaria de referencia de la zona norte del Gran Buenos Aires." },
+    { mark: "2003", sub: "", label: "Villa Ballester", desc: "Néstor Ruiz funda Dinal Propiedades. Nacimos con una idea simple: ayudar a que más personas puedan encontrar su lugar." },
     { mark: "2007", sub: "", label: "Grupo Dinal", desc: "La familia Ruiz y la familia Montanari unen expertise comercial y trayectoria constructora. Juntos levantan los edificios que hoy son hogar para miles de familias." },
     { mark: "120", sub: "cuotas", label: "Un camino propio", desc: "Nace nuestro histórico plan de 120 cuotas. No como estrategia comercial: como una puerta para quienes creían que su hogar propio estaba demasiado lejos." },
     { mark: "Hoy", sub: "", label: "Nueva generación", desc: "Nahuel Ruiz conduce la empresa junto a su padre. La misma esencia, la misma manera de mirar el futuro, con proyección hacia adelante." }
