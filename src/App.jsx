@@ -3059,6 +3059,21 @@ const SobreNosotros = () => {
         </div>
       </section>
 
+      {/* ── FOTOS: LAS MANOS Y LA OBRA ── */}
+      <section className="px-6 lg:px-12 mb-32">
+        <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6">
+          <div className="nos-scroll rounded-[1.5rem] overflow-hidden shadow-lg h-72 md:h-80">
+            <img src="/images/Size%20Optimized/_MG_4709.jpg" alt="Trabajador colocando deck en una obra Dinal" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+          </div>
+          <div className="nos-scroll rounded-[1.5rem] overflow-hidden shadow-lg h-72 md:h-80">
+            <img src="/images/Size%20Optimized/_MG_1091.jpg" alt="Edificio Dinal terminado visto desde la vereda" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+          </div>
+          <div className="nos-scroll rounded-[1.5rem] overflow-hidden shadow-lg h-72 md:h-80">
+            <img src="/images/Size%20Optimized/_MG_2462.jpg" alt="Vista desde el balcón de un departamento Dinal" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+          </div>
+        </div>
+      </section>
+
       {/* ── TIMELINE ── */}
       <section className="px-6 lg:px-12 mb-32">
         <div className="max-w-7xl mx-auto">
