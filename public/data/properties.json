@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-08-25T06:32:35.906Z"
+    "lastSync": "2026-08-26T06:34:31.919Z"
   },
   "objects": [
     {
@@ -6350,7 +6350,7 @@
     {
       "address": "        Almirante Brown al 3600  2°",
       "address_complement": "",
-      "age": 8,
+      "age": 10,
       "apartment_door": "",
       "appartments_per_floor": 0,
       "bathroom_amount": 1,
@@ -6388,7 +6388,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-04-24T21:05:17",
+      "deleted_at": "2026-08-25T20:49:01",
       "depth_measure": "0.00",
       "description": "Excelente Departamento 2 Ambientes – 2° Piso Contrafrente \nOPORTUNIDAD – IDEAL INVERSIÓN \nUbicación privilegiada:\t•\tA 7 cuadras de la Estación Villa Ballester (Línea Mitre).\t•\tVarias líneas de colectivos en la zona.\t•\tA pocas cuadras del centro comercial de Ballester.\n\n\n Características del departamento\t•\t2° piso al contrafrente con balcón y vista abierta.\t•\tAmplio living comedor.\t•\tCocina equipada con muebles altos y bajos + espacio para lavarropas.\t•\tBarra desayunadora.\t•\tDormitorio con frente de placard integral de piso a techo.\t•\tBaño completo.\t•\tBalcón con lavadero.\n Super luminoso.\n\n Excelente oportunidad de compra, ideal tanto para vivienda como para inversión.\n\r\n        ",
       "development": null,
@@ -6396,7 +6396,7 @@
       "dining_room": 0,
       "disposition": "Contrafrente",
       "down_payment": "0.00",
-      "expenses": 3500,
+      "expenses": 80000,
       "extra_attributes": [
         {
           "is_expenditure": false,
@@ -6521,20 +6521,20 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/43509287726312340837041800474292359479910277004127133670719331943756972234134.jpg",
+          "image": "https://static.tokkobroker.com/pictures/2177309_101046087856597616797457168639476760953865579683651859785673976606110328610512.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
           "order": 0,
-          "original": "https://static.tokkobroker.com/original_pictures/43509287726312340837041800474292359479910277004127133670719331943756972234134.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/18407442_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/43509287726312340837041800474292359479910277004127133670719331943756972234134_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/2177309_101046087856597616797457168639476760953865579683651859785673976606110328610512.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2177309_101046087856597616797457168639476760953865579683651859785673976606110328610512_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2177309_101046087856597616797457168639476760953865579683651859785673976606110328610512_thumb.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/97744959578769665903112553349010366144873945255761692236841120689272628563961.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 2,
           "original": "https://static.tokkobroker.com/original_pictures/97744959578769665903112553349010366144873945255761692236841120689272628563961.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/97744959578769665903112553349010366144873945255761692236841120689272628563961_thumb.jpg"
@@ -6544,7 +6544,7 @@
           "image": "https://static.tokkobroker.com/pictures/85954231601237128336994221967632799453962252453924023398860391643459792695214.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
+          "order": 3,
           "original": "https://static.tokkobroker.com/original_pictures/85954231601237128336994221967632799453962252453924023398860391643459792695214.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/85954231601237128336994221967632799453962252453924023398860391643459792695214_thumb.jpg"
@@ -6554,7 +6554,7 @@
           "image": "https://static.tokkobroker.com/pictures/2959604057104985207415354773915418433222379281165972996826426583007284939377.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/2959604057104985207415354773915418433222379281165972996826426583007284939377.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/2959604057104985207415354773915418433222379281165972996826426583007284939377_thumb.jpg"
@@ -6564,7 +6564,7 @@
           "image": "https://static.tokkobroker.com/pictures/27227332280746789269207838163466121610124916348825185443231505537518234733829.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/27227332280746789269207838163466121610124916348825185443231505537518234733829.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/27227332280746789269207838163466121610124916348825185443231505537518234733829_thumb.jpg"
@@ -6574,7 +6574,7 @@
           "image": "https://static.tokkobroker.com/pictures/55282571236301039488930880798688042582831457810509057061376709357310815950546.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/55282571236301039488930880798688042582831457810509057061376709357310815950546.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/55282571236301039488930880798688042582831457810509057061376709357310815950546_thumb.jpg"
@@ -6697,7 +6697,7 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2019-09-19T14:30:41",
+      "_last_changed": "2026-08-26T06:34:31.919Z",
       "enhanced_description": "<h3>Excelente Departamento 2 Ambientes – 2° Piso Contrafrente</h3>\n\n<p>Oportunidad ideal para inversión</p>\n\n<h3>Ubicación privilegiada</h3>\n<ul>\n<li>A 7 cuadras de la Estación Villa Ballester (Línea Mitre)</li>\n<li>Varias líneas de colectivos en la zona</li>\n<li>A pocas cuadras del centro comercial de Ballester</li>\n</ul>\n\n<h3>Características del departamento</h3>\n<ul>\n<li>2° piso al contrafrente con balcón y vista abierta</li>\n<li>Amplio living comedor</li>\n<li>Cocina equipada con muebles altos y bajos y espacio para lavarropas</li>\n<li>Barra desayunadora</li>\n<li>Dormitorio con frente de placard integral de piso a techo</li>\n<li>Baño completo</li>\n<li>Balcón con lavadero</li>\n<li>Super luminoso</li>\n</ul>\n\n<p>Excelente oportunidad de compra, ideal tanto para vivienda como para inversión.</p>"
     },
     {
@@ -19879,9 +19879,9 @@
       "enhanced_description": "<h3>Ubicación</h3>\n<ul>\n<li>A 2 cuadras de Av. La Plata, con fácil acceso a transporte y servicios</li>\n<li>Ideal para familias que buscan comodidad y funcionalidad en una zona residencial</li>\n</ul>\n\n<h3>Planta Baja</h3>\n<ul>\n<li>Living comedor amplio y luminoso</li>\n<li>Cocina independiente equipada con muebles altos y bajos</li>\n<li>Patio con parrilla, ideal para reuniones al aire libre</li>\n<li>Baño de cortesía</li>\n</ul>\n\n<h3>Primer Piso</h3>\n<ul>\n<li>2 dormitorios, ambos con salida al balcón</li>\n<li>Baño completo con bañera</li>\n</ul>\n\n<h3>Segundo Piso</h3>\n<ul>\n<li>Playroom espacioso y versátil</li>\n<li>Baño completo</li>\n<li>Balcón para disfrutar de momentos de relax</li>\n</ul>\n\n<h3>Características Destacadas</h3>\n<ul>\n<li>Pisos de porcelanato y cerámica en cocina y baños</li>\n<li>Piso flotante en dormitorios y playroom</li>\n<li>Revestimiento cerámico en baños y cocina</li>\n<li>Calefacción por tiro balanceado en todos los ambientes</li>\n<li>Aire acondicionado en dormitorio principal, living comedor y playroom</li>\n<li>Grifería FV y artefactos de baño Ferrum</li>\n<li>Amplios placares y bauleras en ambos dormitorios</li>\n<li>Cañería interna para teléfono y TV por cable en todos los ambientes</li>\n<li>Termotanque de 120 litros</li>\n<li>Vidrios polarizados al frente para mayor privacidad y confort</li>\n</ul>\n\n<h3>Estado de la Propiedad</h3>\n<p>Excelente estado de conservación, lista para habitar. Perfecta para quienes buscan un hogar moderno, funcional y cómodo en una ubicación privilegiada.</p>"
     },
     {
-      "address": "Vidal al 4000 2°",
+      "address": "Vidal al 4000 2° C",
       "address_complement": "",
-      "age": 10,
+      "age": 12,
       "apartment_door": "",
       "appartments_per_floor": 0,
       "bathroom_amount": 1,
@@ -19926,7 +19926,7 @@
           "public_name": ""
         }
       ],
-      "deleted_at": "2026-07-16T20:12:39",
+      "deleted_at": "2026-08-25T20:56:39",
       "depth_measure": "0.00",
       "description": "Departamento 3 Ambientes – Excelente Ubicación – San Martín\nVenta con renta – Ideal inversión\n Ubicación estratégica:\t•\tA pocas cuadras del centro comercial de San Martín y de la estación de tren (Línea Mitre).\t•\tVarias líneas de colectivo en la zona.\t•\tCercano a UNSAM, clínicas y hospitales.\t•\tFácil acceso a Capital Federal y General Paz.\n\n Características del departamento:\t•\tAmplio living comedor.\t•\tCocina independiente con muebles altos y bajos.\t•\t2 dormitorios con placard.\t•\tBaño completo con bañera.\t•\tBalcón con vista abierta.\t•\t3 equipos de aire acondicionado.\t•\tPuertas blindadas marca Superlock.\t•\tOpcional cochera cubierta por U$S 20.000.\n Departamento funcional, luminoso y con excelente seguridad, ideal para inversión con renta vigente.\n",
       "development": null,
@@ -19934,9 +19934,9 @@
       "dining_room": 0,
       "disposition": "Contrafrente",
       "down_payment": "0.00",
-      "expenses": 70000,
+      "expenses": 80000,
       "extra_attributes": [],
-      "fake_address": "Vidal al 4000 2°",
+      "fake_address": "Vidal al 4000 2° C",
       "files": [],
       "fire_insurance_cost": "0.00",
       "floor": "",
@@ -20192,7 +20192,7 @@
       "public_url": "https://ficha.info/p/eo5owddvThA6ta",
       "publication_title": "Departamento en venta en el centro de San Martín",
       "quality_level": null,
-      "real_address": "Vidal 4035 2°C",
+      "real_address": "Vidal 4035 2°C - San Martin",
       "reference_code": "DAP3556590",
       "rich_description": "Departamento 3 Ambientes – Excelente Ubicación – San Martín<div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Venta con renta – Ideal inversión</span></div><div><br></div><div>&nbsp;Ubicación estratégica:</div><div>\t•\tA pocas cuadras del centro comercial de San Martín y de la estación de tren (Línea Mitre).</div><div>\t•\tVarias líneas de colectivo en la zona.</div><div>\t•\tCercano a UNSAM, clínicas y hospitales.</div><div>\t•\tFácil acceso a Capital Federal y General Paz.</div><div><br></div><div><br></div><div>&nbsp;<span style=\"text-decoration-line: underline;\">Características del departamento:</span></div><div>\t•\tAmplio living comedor.</div><div>\t•\tCocina independiente con muebles altos y bajos.</div><div>\t•\t2 dormitorios con placard.</div><div>\t•\tBaño completo con bañera.</div><div>\t•\tBalcón con vista abierta.</div><div>\t•\t3 equipos de aire acondicionado.</div><div>\t•\tPuertas blindadas marca Superlock.</div><div>\t•\tOpcional cochera cubierta por U$S 20.000.</div><div><br></div><div><span style=\"font-weight: bold;\">&nbsp;Departamento funcional, luminoso y con excelente seguridad, ideal para inversión con renta vigente.</span></div><div><br></div>",
       "roofed_surface": "64.91",
@@ -20258,6 +20258,11 @@
           "type": 2
         },
         {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
+        },
+        {
           "id": 1390,
           "name": "Luminoso",
           "type": 3
@@ -20279,7 +20284,7 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2021-02-23T19:56:47",
+      "_last_changed": "2026-08-26T06:34:31.919Z",
       "enhanced_description": "<h3>Ubicación estratégica</h3>\n<ul>\n<li>A pocas cuadras del centro comercial de San Martín y de la estación de tren (Línea Mitre)</li>\n<li>Varias líneas de colectivo en la zona</li>\n<li>Cercano a UNSAM, clínicas y hospitales</li>\n<li>Fácil acceso a Capital Federal y General Paz</li>\n</ul>\n\n<h3>Características del departamento</h3>\n<ul>\n<li>Amplio living comedor</li>\n<li>Cocina independiente con muebles altos y bajos</li>\n<li>2 dormitorios con placard</li>\n<li>Baño completo con bañera</li>\n<li>Balcón con vista abierta</li>\n<li>3 equipos de aire acondicionado</li>\n<li>Puertas blindadas marca Superlock</li>\n<li>Opcional cochera cubierta por U$S 20.000</li>\n</ul>\n\n<p>Departamento funcional, luminoso y con excelente seguridad, ideal para inversión con renta vigente.</p>"
     },
     {
@@ -25056,9 +25061,9 @@
       "credit_eligible": "Apto crédito",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-14T19:48:57",
+      "deleted_at": "2026-08-25T13:16:51",
       "depth_measure": "0.00",
-      "description": "            APTO CRÉDITO - Excelente Dúplex 4 Ambientes con Cochera en Villa Ballester\nUbicación estratégica: A solo 2 cuadras de la estación del tren línea Mitre, cerca del centro comercial de Villa Ballester y con salida directa a Av. 25 de Mayo y General Paz. Zona de fácil acceso y con múltiples medios de transporte.\nCaracterísticas del departamento:\n Distribuido en dos plantas – Muy buen estado general\nPlanta baja: •\tAmplio living-comedor con excelente luminosidad •\tToilette de recepción •\tCocina independiente con muebles altos y bajos •\t1 dormitorio con placard empotrado de piso a techo •\tBaño completo •\tBalcón al frente con parrilla\nPlanta alta: •\t2 dormitorios, ambos con placares empotrados •\tBaño completo •\tTerraza privada con pisos de deck y parrilla •\tPisos de madera en toda la planta (excepto baño)\nExtras: •\tCochera con portón automático •\tAPTO CRÉDITO •\tEdificio moderno y seguro\n\n* Se escucha oferta razonable*  Precio publicado de contado* Consultar por financiación: entrega del 50% y cuotas\n\r\n        ",
+      "description": "                            APTO CRÉDITO - Excelente Dúplex 4 Ambientes con Cochera en Villa Ballester\nUbicación estratégica: A solo 2 cuadras de la estación del tren línea Mitre, cerca del centro comercial de Villa Ballester y con salida directa a Av. 25 de Mayo y General Paz. Zona de fácil acceso y con múltiples medios de transporte.\nCaracterísticas del departamento:\n Distribuido en dos plantas – Muy buen estado general\nPlanta baja: •\tAmplio living-comedor con excelente luminosidad •\tToilette de recepción •\tCocina independiente con muebles altos y bajos •\t1 dormitorio con placard empotrado de piso a techo •\tBaño completo •\tBalcón al frente con parrilla\nPlanta alta: •\t2 dormitorios, ambos con placares empotrados •\tBaño completo •\tTerraza privada con pisos de deck y parrilla •\tPisos de madera en toda la planta (excepto baño)\nExtras: •\tCochera con portón automático •\tAPTO CRÉDITO •\tEdificio moderno y seguro\n\n* Se escucha oferta razonable*  Precio publicado de contado* Consultar por financiación: entrega del 50% y cuotas.\n\n        \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 1,
@@ -25411,7 +25416,7 @@
       "quality_level": null,
       "real_address": "Almirante Brown 3250 - 7° B",
       "reference_code": "DAP4050001",
-      "rich_description": "            <span style=\"font-weight: bold;\">APTO CRÉDITO </span>- Excelente Dúplex 4 Ambientes con Cochera en Villa Ballester<div><br></div><div>Ubicación estratégica: A solo 2 cuadras de la estación del tren línea Mitre, cerca del centro comercial de Villa Ballester y con salida directa a Av. 25 de Mayo y General Paz. Zona de fácil acceso y con múltiples medios de transporte.</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Características del departamento:</span></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">&nbsp;Distribuido en dos plantas – Muy buen estado general</span></div><div><br></div><div>Planta baja:</div><div>&nbsp;•\tAmplio living-comedor con excelente luminosidad</div><div>&nbsp;•\tToilette de recepción</div><div>&nbsp;•\tCocina independiente con muebles altos y bajos</div><div>&nbsp;•\t1 dormitorio con placard empotrado de piso a techo</div><div>&nbsp;•\tBaño completo</div><div>&nbsp;•\tBalcón al frente con parrilla</div><div><br></div><div>Planta alta:</div><div>&nbsp;•\t2 dormitorios, ambos con placares empotrados</div><div>&nbsp;•\tBaño completo</div><div>&nbsp;•\tTerraza privada con pisos de deck y parrilla</div><div>&nbsp;•\tPisos de madera en toda la planta (excepto baño)</div><div><br></div><div>Extras:</div><div>&nbsp;•\tCochera con portón automático</div><div>&nbsp;•\tAPTO CRÉDITO</div><div>&nbsp;•\tEdificio moderno y seguro</div><div><br></div><div><br></div><div>* Se escucha oferta razonable</div><div><span style=\"font-size: 14px;\">*&nbsp; Precio publicado de contado</span></div><div>* Consultar por financiación: entrega del 50% y cuotas</div><div><br></div>\r\n        ",
+      "rich_description": "                            <span style=\"font-weight: bold;\">APTO CRÉDITO </span>- Excelente Dúplex 4 Ambientes con Cochera en Villa Ballester<div><br></div><div>Ubicación estratégica: A solo 2 cuadras de la estación del tren línea Mitre, cerca del centro comercial de Villa Ballester y con salida directa a Av. 25 de Mayo y General Paz. Zona de fácil acceso y con múltiples medios de transporte.</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Características del departamento:</span></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">&nbsp;Distribuido en dos plantas – Muy buen estado general</span></div><div><br></div><div>Planta baja:</div><div>&nbsp;•\tAmplio living-comedor con excelente luminosidad</div><div>&nbsp;•\tToilette de recepción</div><div>&nbsp;•\tCocina independiente con muebles altos y bajos</div><div>&nbsp;•\t1 dormitorio con placard empotrado de piso a techo</div><div>&nbsp;•\tBaño completo</div><div>&nbsp;•\tBalcón al frente con parrilla</div><div><br></div><div>Planta alta:</div><div>&nbsp;•\t2 dormitorios, ambos con placares empotrados</div><div>&nbsp;•\tBaño completo</div><div>&nbsp;•\tTerraza privada con pisos de deck y parrilla</div><div>&nbsp;•\tPisos de madera en toda la planta (excepto baño)</div><div><br></div><div>Extras:</div><div>&nbsp;•\tCochera con portón automático</div><div>&nbsp;•\tAPTO CRÉDITO</div><div>&nbsp;•\tEdificio moderno y seguro</div><div><br></div><div><br></div><div>* Se escucha oferta razonable</div><div><span style=\"font-size: 14px;\">*&nbsp; Precio publicado de contado</span></div><div>* Consultar por financiación: entrega del 50% y cuotas.</div><div><br></div><br>        \r\n\r\n            ",
       "roofed_surface": "94.00",
       "room_amount": 4,
       "semiroofed_surface": "19.50",
@@ -25513,8 +25518,8 @@
       ],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2026-08-15T06:23:54.311Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Estratégica ubicación a solo 2 cuadras de la estación del tren línea Mitre, cerca del centro comercial de Villa Ballester y con salida directa a Avenida 25 de Mayo y General Paz. Zona de fácil acceso y con múltiples medios de transporte.</p>\n\n<h3>Características del departamento</h3>\n<p>Excelente dúplex de 4 ambientes distribuido en dos plantas, en muy buen estado general.</p>\n\n<h3>Planta baja</h3>\n<ul>\n<li>Amplio living-comedor con excelente luminosidad</li>\n<li>Toilette de recepción</li>\n<li>Cocina independiente con muebles altos y bajos</li>\n<li>1 dormitorio con placard empotrado de piso a techo</li>\n<li>Baño completo</li>\n<li>Balcón al frente con parrilla</li>\n</ul>\n\n<h3>Planta alta</h3>\n<ul>\n<li>2 dormitorios, ambos con placares empotrados</li>\n<li>Baño completo</li>\n<li>Terraza privada con pisos de deck y parrilla</li>\n<li>Pisos de madera en toda la planta (excepto baño)</li>\n</ul>\n\n<h3>Extras</h3>\n<ul>\n<li>Cochera con portón automático</li>\n<li>Apto crédito</li>\n<li>Edificio moderno y seguro</li>\n</ul>\n\n<h3>Condiciones de venta</h3>\n<p>Se escuchan ofertas razonables. Precio publicado de contado. Se pueden consultar opciones de financiación con entrega del 50% y cuotas.</p>"
+      "_last_changed": "2026-08-26T06:34:31.919Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>A solo 2 cuadras de la estación del tren línea Mitre, cerca del centro comercial de Villa Ballester y con salida directa a Av. 25 de Mayo y General Paz. Zona de fácil acceso y con múltiples medios de transporte.</p>\n\n<h3>Características del departamento</h3>\n<p>Dúplex de 4 ambientes distribuido en dos plantas en muy buen estado general.</p>\n\n<h3>Planta baja</h3>\n<ul>\n<li>Amplio living-comedor con excelente luminosidad</li>\n<li>Toilette de recepción</li>\n<li>Cocina independiente con muebles altos y bajos</li>\n<li>1 dormitorio con placard empotrado de piso a techo</li>\n<li>Baño completo</li>\n<li>Balcón al frente con parrilla</li>\n</ul>\n\n<h3>Planta alta</h3>\n<ul>\n<li>2 dormitorios, ambos con placares empotrados</li>\n<li>Baño completo</li>\n<li>Terraza privada con pisos de deck y parrilla</li>\n<li>Pisos de madera en toda la planta excepto baño</li>\n</ul>\n\n<h3>Extras</h3>\n<ul>\n<li>Cochera con portón automático</li>\n<li>Apto crédito</li>\n<li>Edificio moderno y seguro</li>\n</ul>\n\n<h3>Condiciones de venta</h3>\n<p>Precio publicado de contado. Se escucha oferta razonable. Consultar por financiación: entrega del 50% y cuotas.</p>"
     },
     {
       "address": "25 de mayo al 2000",
@@ -65217,7 +65222,7 @@
       "enhanced_description": "<h3>Características de la cochera</h3>\n<ul>\n<li>Ubicación: San Martín, zona céntrica con fácil acceso y cerca de todos los servicios</li>\n<li>Seguridad: Acceso con control remoto</li>\n<li>Espacio amplio: Perfecta para autos de tipología mediana</li>\n<li>Cochera descubierta N° 3</li>\n<li>Bajos costos de mantenimiento</li>\n</ul>\n\n<h3>Beneficios adicionales</h3>\n<ul>\n<li>Inversión segura en una zona de alta demanda</li>\n<li>Solución práctica y económica</li>\n</ul>\n\n<p>Se vende cochera descubierta en excelente ubicación en el centro de San Martín. Acceso con control remoto para un rápido acceso y tranquilidad. Espacio amplio y perfecta para autos de tipología mediana.</p>"
     },
     {
-      "address": "Tucuman  al 2300",
+      "address": "Tucuman  al 2300 3°B",
       "address_complement": "",
       "age": -1,
       "apartment_door": "",
@@ -65257,9 +65262,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-06T13:49:28",
+      "deleted_at": "2026-08-25T19:41:17",
       "depth_measure": "0.00",
-      "description": "                            Presentamos un nuevo edificio en construcción sobre calle Tucumán 2366, Ubicado en el corazón de San Martín, a 6 cuadras de Ayacucho, a 4 cuadras del centro comercial del mismo, a 4 cuadras de Av. Balbín (ex R8), salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\nModerno Monoambiente con Balcón y Parrilla - Muy Luminoso\n\nLa unidad publicada corresponde a un monoambiente , diseñado para ofrecer comodidad y estilo en un espacio funcional y bien distribuido.\nEste departamento es ideal para quienes buscan un hogar práctico y acogedor.\n\nCaracterísticas Principales:\n\nAmbiente: Monoambiente amplio y luminoso\nCocina: Hermosa cocina con muebles altos y bajos, perfecta para preparar deliciosas comidas\nLiving y Comedor: Integrado, creando un espacio abierto y cómodo\nBalcón: Con parrilla, ideal para disfrutar de momentos al aire libre\n\nVentajas Adicionales:\nLuminosidad: Grandes ventanales que permiten una excelente entrada de luz natural\nDiseño Funcional: Espacios diseñados para maximizar el confort y la practicidad\nExcelente Ubicación: Cercano a transporte público, centros comerciales y otros puntos de interés\n\nEste monoambiente es ideal para personas solas o parejas que buscan un espacio moderno y bien ubicado, con la comodidad de un balcón con parrilla para disfrutar del aire libre.\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita\n\nDetalles generales del edificio:\n• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO\n• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini\n• Aberturas de aluminio DVH (Doble Vidrio Hermético)\n• Pisos porcelanato de primera calidad\n• Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo\n• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral\n• Departamentos con parrilla exclusiva en balcón\n• Cielorrasos en yeso armado o aplicado según corresponda\n• Paredes interiores con terminación en yeso\n• Puertas interiores placa\n• Instalación de agua fría y caliente en termofusión\n• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.\n• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo\n• Equipamiento de cocina completo enchapados en melamina\n• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV\n• Instalación para la colocación de Aire Acondicionado en estar y dormitorio\n• Cañerías (vacías) para instalación cable y teléfono\n• Portero eléctrico con cámara visor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \r\n            ",
+      "description": "                                            MONOAMBIENTE CON BALCÓN Y PARRILLA – SAN MARTÍN\n\nEdificio en construcción sobre Tucumán 2366 – Excelente ubicación\nEn el corazón de San Martín, se desarrolla este moderno edificio pensado para quienes buscan calidad, comodidad y una excelente ubicación.\nLa propiedad se encuentra a solo 4 cuadras del centro comercial, 4 cuadras de Av. Balbín (ex Ruta 8), con rápido acceso a General Paz, y a pocas cuadras de la estación del Tren Mitre. Además, cuenta con cercanía a colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.\n\nLa unidad ofrece un ambiente amplio, luminoso y funcional, con una excelente distribución y grandes ventanales que permiten aprovechar al máximo la luz natural.\nCuenta con:\n* Amplio ambiente integrado para living, comedor y dormitorio.* Cocina moderna con muebles bajo y sobre mesada.* Mesada de granito, pileta de acero inoxidable y grifería monocomando FV.* Balcón con parrilla exclusiva, ideal para disfrutar y aprovechar el espacio exterior.* Baño completo con mampara de vidrio, vanitory, accesorios y griferías de primera marca.* Pisos de porcelanato de primera calidad.* Aberturas de aluminio con DVH (doble vidrio hermético).* Cielorrasos y paredes interiores terminados en yeso.* Instalación para aire acondicionado.* Portero eléctrico con cámara visor.\nCALIDAD CONSTRUCTIVA\nEl edificio contará con mamposterías exteriores de doble muro de ladrillo hueco con estructura de hormigón armado, terminaciones exteriores en revoque pintado y/o pintura tipo Tarquini y materiales seleccionados para brindar confort y durabilidad.\nLa unidad contará con termotanque eléctrico y cocina eléctrica. En caso de que la empresa distribuidora provea suministro de gas natural al edificio, estos equipos serán reemplazados por cocina y termotanque a gas.\nUNA EXCELENTE OPORTUNIDAD\nIdeal para vivir, invertir o generar renta, en una ubicación estratégica de San Martín, con excelentes accesos y todos los servicios a pocos minutos.\nMonoambiente + balcón + parrilla + excelente calidad constructiva + ubicación estratégica.\nConsultanos para conocer disponibilidad, valores y formas de pago.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n            \r\n\r\n            ",
       "development": {
         "address": "            Tucuman  2366          ",
         "branch": {
@@ -65636,7 +65641,7 @@
           "value": ""
         }
       ],
-      "fake_address": "Tucuman  al 2300",
+      "fake_address": "Tucuman  al 2300 3°B",
       "files": [],
       "fire_insurance_cost": "0.00",
       "floor": "",
@@ -65832,7 +65837,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 62000
+              "price": 62500
             }
           ]
         }
@@ -65899,7 +65904,7 @@
           "is_front_cover": false,
           "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/6841299_43330593629559136825985753570394311201733719115685376701998844217434933028216.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/112930162_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6841299_43330593629559136825985753570394311201733719115685376701998844217434933028216_thumb.jpg"
         },
         {
@@ -66036,11 +66041,11 @@
       },
       "property_condition": "---",
       "public_url": "https://ficha.info/p/eCRTHdDQsohbMa",
-      "publication_title": "Departamento en  VENTA",
+      "publication_title": "Departamento en venta Gral. San Martin",
       "quality_level": null,
-      "real_address": "Tucuman  2366 4°B",
+      "real_address": "Tucumán 2366 3°B - San Martin",
       "reference_code": "DAP6841299",
-      "rich_description": "                            <p>Presentamos un nuevo edificio en construcción sobre calle Tucumán 2366, Ubicado en el corazón de San Martín, a 6 cuadras de Ayacucho, a 4 cuadras del centro comercial del mismo, a 4 cuadras de Av. Balbín (ex R8), salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p><div><br></div><div>Moderno Monoambiente con Balcón y Parrilla - Muy Luminoso</div><div><br></div><div><br></div><div>La unidad publicada corresponde a un monoambiente , diseñado para ofrecer comodidad y estilo en un espacio funcional y bien distribuido.<br></div><div>Este departamento es ideal para quienes buscan un hogar práctico y acogedor.</div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Características Principales:</span><br></div><div><br></div><div>Ambiente: Monoambiente amplio y luminoso<br></div><div>Cocina: Hermosa cocina con muebles altos y bajos, perfecta para preparar deliciosas comidas<br></div><div>Living y Comedor: Integrado, creando un espacio abierto y cómodo<br></div><div>Balcón: Con parrilla, ideal para disfrutar de momentos al aire libre</div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Ventajas Adicionales:</span><br></div><div>Luminosidad: Grandes ventanales que permiten una excelente entrada de luz natural<br></div><div>Diseño Funcional: Espacios diseñados para maximizar el confort y la practicidad<br></div><div>Excelente Ubicación: Cercano a transporte público, centros comerciales y otros puntos de interés</div><div><br></div><div><br></div><div>Este monoambiente es ideal para personas solas o parejas que buscan un espacio moderno y bien ubicado, con la comodidad de un balcón con parrilla para disfrutar del aire libre.</div><div><br></div><div><br></div><div>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita<br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Detalles generales del edificio:</span><br></div><div>• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO<br></div><div>• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini<br></div><div>• Aberturas de aluminio DVH (Doble Vidrio Hermético)<br></div><div>• Pisos porcelanato de primera calidad<br></div><div>• Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo<br></div><div>• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral<br></div><div>• Departamentos con parrilla exclusiva en balcón<br></div><div>• Cielorrasos en yeso armado o aplicado según corresponda<br></div><div>• Paredes interiores con terminación en yeso<br></div><div>• Puertas interiores placa<br></div><div>• Instalación de agua fría y caliente en termofusión<br></div><div>• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.<br></div><div>• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo<br></div><div>• Equipamiento de cocina completo enchapados en melamina<br></div><div>• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV<br></div><div>• Instalación para la colocación de Aire Acondicionado en estar y dormitorio<br></div><div>• Cañerías (vacías) para instalación cable y teléfono<br></div><div>• Portero eléctrico con cámara visor<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><p></p><br>        \r\n            ",
+      "rich_description": "                                            <p><span style=\"font-weight: bold;\">MONOAMBIENTE CON BALCÓN Y PARRILLA – SAN MARTÍN</span></p><div><br></div><div>Edificio en construcción sobre Tucumán 2366 – Excelente ubicación</div><div><br></div><div>En el corazón de San Martín, se desarrolla este moderno edificio pensado para quienes buscan calidad, comodidad y una excelente ubicación.</div><div><br></div><div>La propiedad se encuentra a solo 4 cuadras del centro comercial, 4 cuadras de Av. Balbín (ex Ruta 8), con rápido acceso a General Paz, y a pocas cuadras de la estación del Tren Mitre. Además, cuenta con cercanía a colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.</div><div><br></div><div><br></div><div>La unidad ofrece un ambiente amplio, luminoso y funcional, con una excelente distribución y grandes ventanales que permiten aprovechar al máximo la luz natural.</div><div><br></div><div>Cuenta con:</div><div><br></div><div>* Amplio ambiente integrado para living, comedor y dormitorio.</div><div>* Cocina moderna con muebles bajo y sobre mesada.</div><div>* Mesada de granito, pileta de acero inoxidable y grifería monocomando FV.</div><div>* Balcón con parrilla exclusiva, ideal para disfrutar y aprovechar el espacio exterior.</div><div>* Baño completo con mampara de vidrio, vanitory, accesorios y griferías de primera marca.</div><div>* Pisos de porcelanato de primera calidad.</div><div>* Aberturas de aluminio con DVH (doble vidrio hermético).</div><div>* Cielorrasos y paredes interiores terminados en yeso.</div><div>* Instalación para aire acondicionado.</div><div>* Portero eléctrico con cámara visor.</div><div><br></div><div>CALIDAD CONSTRUCTIVA</div><div><br></div><div>El edificio contará con mamposterías exteriores de doble muro de ladrillo hueco con estructura de hormigón armado, terminaciones exteriores en revoque pintado y/o pintura tipo Tarquini y materiales seleccionados para brindar confort y durabilidad.</div><div><br></div><div>La unidad contará con termotanque eléctrico y cocina eléctrica. En caso de que la empresa distribuidora provea suministro de gas natural al edificio, estos equipos serán reemplazados por cocina y termotanque a gas.</div><div><br></div><div>UNA EXCELENTE OPORTUNIDAD</div><div><br></div><div><span style=\"font-weight: bold;\">Ideal para vivir, invertir o generar renta, en una ubicación estratégica de San Martín, con excelentes accesos y todos los servicios a pocos minutos.</span></div><div><br></div><div>Monoambiente + balcón + parrilla + excelente calidad constructiva + ubicación estratégica.</div><div><br></div><div><span style=\"font-weight: bold;\">Consultanos para conocer disponibilidad, valores y formas de pago.</span></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><p></p><br>        <br>            \r\n\r\n            ",
       "roofed_surface": "33.00",
       "room_amount": 1,
       "semiroofed_surface": "6.00",
@@ -66095,8 +66100,8 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2026-08-13T07:15:58.369Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Nuevo edificio en construcción sobre calle Tucumán 2366, ubicado en el corazón de San Martín, a 6 cuadras de Ayacucho, a 4 cuadras del centro comercial del mismo, a 4 cuadras de Av. Balbín (ex R8), salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Moderno monoambiente con balcón y parrilla, muy luminoso. La unidad está diseñada para ofrecer comodidad y estilo en un espacio funcional y bien distribuido. Ideal para quienes buscan un hogar práctico y acogedor.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Ambiente: Monoambiente amplio y luminoso</li>\n<li>Cocina: Hermosa cocina con muebles altos y bajos, perfecta para preparar comidas</li>\n<li>Living y Comedor: Integrado, creando un espacio abierto y cómodo</li>\n<li>Balcón: Con parrilla, ideal para disfrutar de momentos al aire libre</li>\n<li>Luminosidad: Grandes ventanales que permiten una excelente entrada de luz natural</li>\n<li>Diseño Funcional: Espacios diseñados para maximizar el confort y la practicidad</li>\n</ul>\n\n<h3>Detalles Constructivos</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco con estructura hormigón armado</li>\n<li>Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético)</li>\n<li>Pisos porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad y zócalo perimetral</li>\n<li>Departamentos con parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa</li>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos serán cambiados por cocina a gas y termo a gas</li>\n<li>En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo enchapados en melamina</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV</li>\n<li>Instalación para la colocación de Aire Acondicionado en estar y dormitorio</li>\n<li>Cañerías (vacías) para instalación cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<p>Excelente ubicación cercana a transporte público, centros comerciales y otros puntos de interés. Ideal"
+      "_last_changed": "2026-08-26T06:34:31.919Z",
+      "enhanced_description": "<h3>Monoambiente con Balcón y Parrilla – San Martín</h3>\n\n<p>Edificio en construcción sobre Tucumán 2366 – Excelente ubicación</p>\n\n<p>En el corazón de San Martín, se desarrolla este moderno edificio pensado para quienes buscan calidad, comodidad y una excelente ubicación.</p>\n\n<h3>Ubicación</h3>\n\n<p>La propiedad se encuentra a solo 4 cuadras del centro comercial, 4 cuadras de Av. Balbín (ex Ruta 8), con rápido acceso a General Paz, y a pocas cuadras de la estación del Tren Mitre. Además, cuenta con cercanía a colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Características de la Unidad</h3>\n\n<p>La unidad ofrece un ambiente amplio, luminoso y funcional, con una excelente distribución y grandes ventanales que permiten aprovechar al máximo la luz natural.</p>\n\n<ul>\n<li>Amplio ambiente integrado para living, comedor y dormitorio.</li>\n<li>Cocina moderna con muebles bajo y sobre mesada.</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando FV.</li>\n<li>Balcón con parrilla exclusiva, ideal para disfrutar y aprovechar el espacio exterior.</li>\n<li>Baño completo con mampara de vidrio, vanitory, accesorios y griferías de primera marca.</li>\n<li>Pisos de porcelanato de primera calidad.</li>\n<li>Aberturas de aluminio con DVH (doble vidrio hermético).</li>\n<li>Cielorrasos y paredes interiores terminados en yeso.</li>\n<li>Instalación para aire acondicionado.</li>\n<li>Portero eléctrico con cámara visor.</li>\n</ul>\n\n<h3>Calidad Constructiva</h3>\n\n<p>El edificio contará con mamposterías exteriores de doble muro de ladrillo hueco con estructura de hormigón armado, terminaciones exteriores en revoque pintado y/o pintura tipo Tarquini y materiales seleccionados para brindar confort y durabilidad.</p>\n\n<p>La unidad contará con termotanque eléctrico y cocina eléctrica. En caso de que la empresa distribuidora provea suministro de gas natural al edificio, estos equipos serán reemplazados por cocina y termotanque a gas.</p>\n\n<h3>Una Excelente Oportunidad</h3>\n\n<p>Ideal para vivir, invertir o generar renta, en una ubicación estratégica de San Martín, con excelentes accesos y todos los servicios a pocos minutos.</p>\n\n<p>Monoambiente + balcón + parrilla + excelente calidad constructiva + ubicación estratégica.</p>\n\n<p>Consultanos para conocer disponibilidad, valores y formas de pago.</p>"
     },
     {
       "address": "MATHEU  al 4500",
@@ -99985,7 +99990,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-19T14:56:07",
+      "deleted_at": "2026-08-25T14:37:23",
       "depth_measure": "0.00",
       "description": "                                DEPARTAMENTO 3 AMBIENTES A ESTRENAR – Lincoln 3967 | San Martín\nUbicado en el corazón de San Martín, este moderno edificio se encuentra en una zona estratégica: A 2 cuadras de Perdriel A 4 cuadras del centro comercial A 2 cuadras de Av. Balbín (ex Ruta 8) con rápida salida a General Paz Cercano a estación del Tren Mitre Próximo a colegios, clínicas, hospitales, UNSAM y Tribunales\n\n LA UNIDAD\nAmplio, luminoso y con una distribución ideal para disfrutar cada espacio.\n* Piso 7° al frente* 3 ambientes* Balcón aterrazado\n\n DISTRIBUCIÓN\n* Living-comedor con cocina integrada* Cocina con muebles bajo mesada y alacena de excelente calidad* 2 dormitorios con placard* 2 baños completos, modernos y funcionales\n\n SUPERFICIES\n* Cubiertos: 77,70 m²* Semicubiertos: 13,65 m²* Descubiertos: 12,20 m²* Total: 103,65 m²\n\n DESTACADOS\nExcelente luminosidad naturalAmbientes amplios y funcionalesDiseño modernoUbicación estratégica con múltiples accesosIdeal vivienda o inversión\n\nUna opción perfecta para quienes buscan confort, ubicación y calidad en un entorno urbano con todo al alcance.\n ¡No dejes pasar esta oportunidad! Contáctanos para más información o coordinar una visita.\n                \n            \n            \r\n            ",
       "development": null,
@@ -100191,7 +100196,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 168000
+              "price": 164000
             }
           ]
         }
@@ -100939,7 +100944,7 @@
       "videos": [],
       "web_price": true,
       "zonification": "",
-      "_last_changed": "2026-08-20T06:31:53.419Z",
+      "_last_changed": "2026-08-26T06:34:31.919Z",
       "enhanced_description": "<h3>Departamento 3 ambientes a estrenar</h3>\n\n<p>Ubicado en Lincoln 3967, San Martín. Moderno edificio en zona estratégica con excelente conectividad y acceso a servicios.</p>\n\n<h3>Ubicación</h3>\n\n<ul>\n<li>A 2 cuadras de Perdriel</li>\n<li>A 4 cuadras del centro comercial</li>\n<li>A 2 cuadras de Av. Balbín (ex Ruta 8) con rápida salida a General Paz</li>\n<li>Cercano a estación del Tren Mitre</li>\n<li>Próximo a colegios, clínicas, hospitales, UNSAM y Tribunales</li>\n</ul>\n\n<h3>La unidad</h3>\n\n<p>Amplio, luminoso y con una distribución ideal para disfrutar cada espacio.</p>\n\n<ul>\n<li>Piso 7° al frente</li>\n<li>3 ambientes</li>\n<li>Balcón aterrazado</li>\n</ul>\n\n<h3>Distribución</h3>\n\n<ul>\n<li>Living-comedor con cocina integrada</li>\n<li>Cocina con muebles bajo mesada y alacena de excelente calidad</li>\n<li>2 dormitorios con placard</li>\n<li>2 baños completos, modernos y funcionales</li>\n</ul>\n\n<h3>Superficies</h3>\n\n<ul>\n<li>Cubiertos: 77,70 m²</li>\n<li>Semicubiertos: 13,65 m²</li>\n<li>Descubiertos: 12,20 m²</li>\n<li>Total: 103,65 m²</li>\n</ul>\n\n<h3>Destacados</h3>\n\n<ul>\n<li>Excelente luminosidad natural</li>\n<li>Ambientes amplios y funcionales</li>\n<li>Diseño moderno</li>\n<li>Ubicación estratégica con múltiples accesos</li>\n<li>Ideal vivienda o inversión</li>\n</ul>\n\n<p>Una opción perfecta para quienes buscan confort, ubicación y calidad en un entorno urbano con todo al alcance.</p>"
     },
     {
