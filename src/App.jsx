@@ -28,6 +28,33 @@ async function fetchWithCache(cacheUrl, apiUrl) {
   }
 }
 
+// ------------------------------------
+// Argentine phone normalizer for Tokko payloads.
+// Tokko dedups contacts by exact phone string, so "1512345678",
+// "011 15 1234-5678" and "+5491112345678" create three contacts.
+// Canonical output: "+54 9 11 12345678" (AMBA) / "+54 9 223 1234567" (interior).
+// Returns the trimmed input untouched when it can't normalize with confidence.
+// ------------------------------------
+function normalizeArPhone(raw) {
+  if (!raw) return raw;
+  let d = String(raw).replace(/\D/g, '');
+  if (d.startsWith('00')) d = d.slice(2);
+  if (d.startsWith('54')) d = d.slice(2);
+  if (d.startsWith('9') && d.length > 10) d = d.slice(1);
+  if (d.startsWith('0')) d = d.slice(1);
+  // drop the local-dialing mobile "15" that follows the area code
+  if (d.startsWith('15') && d.length === 10) d = '11' + d.slice(2);
+  else if (d.startsWith('11') && d.length === 12 && d.slice(2, 4) === '15') d = '11' + d.slice(4);
+  else if (d.length === 12 && d.slice(3, 5) === '15') d = d.slice(0, 3) + d.slice(5);
+  else if (d.length === 13 && d.slice(4, 6) === '15') d = d.slice(0, 4) + d.slice(6);
+  if (d.length === 8) d = '11' + d; // bare AMBA local number
+  if (d.length === 10) {
+    const area = d.startsWith('11') ? '11' : d.slice(0, 3);
+    return `+54 9 ${area} ${d.slice(area.length)}`;
+  }
+  return String(raw).trim();
+}
+
 gsap.registerPlugin(ScrollTrigger);
 
 const CONSTRUCTION_STATUS = {
@@ -842,8 +869,8 @@ const Contact = () => {
           body: JSON.stringify({
             name: formData.name,
             email: formData.email,
-            phone: formData.phone,
-            cellphone: formData.phone,
+            phone: normalizeArPhone(formData.phone),
+            cellphone: normalizeArPhone(formData.phone),
             text: `[${formData.reason || 'Consulta general'}] ${formData.message}`,
             tags: ['Web', 'Contacto'],
           }),
@@ -1524,7 +1551,7 @@ const TerminadoDetail = () => {
       const res = await fetch(`https://tokkobroker.com/api/v1/webcontact/?key=${import.meta.env.VITE_TOKKO_API_KEY}&format=json`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name: formData.name, email: formData.email, phone: formData.phone, cellphone: formData.phone, text: formData.message || `Consulta sobre nuevos proyectos (referencia: ${dev.name})`, tags: ['Web', 'Terminado'] }),
+        body: JSON.stringify({ name: formData.name, email: formData.email, phone: normalizeArPhone(formData.phone), cellphone: normalizeArPhone(formData.phone), text: formData.message || `Consulta sobre nuevos proyectos (referencia: ${dev.name})`, tags: ['Web', 'Terminado'] }),
       });
       setSubmitStatus(res.ok ? 'ok' : 'error');
     } catch { setSubmitStatus('error'); }
@@ -2359,8 +2386,8 @@ const PropertyInquiryForm = ({ propertyId }) => {
             properties: [propertyId],
             name: form.name,
             email: form.email,
-            phone: form.phone,
-            cellphone: form.phone,
+            phone: normalizeArPhone(form.phone),
+            cellphone: normalizeArPhone(form.phone),
             text: form.message || `Consulta sobre propiedad #${propertyId}`,
             tags: ['Web'],
           }),
@@ -3184,8 +3211,8 @@ const OdmInquiryForm = ({ propertyId }) => {
             properties: [propertyId],
             name: form.name,
             email: form.email,
-            phone: form.phone,
-            cellphone: form.phone,
+            phone: normalizeArPhone(form.phone),
+            cellphone: normalizeArPhone(form.phone),
             text: form.message || `Consulta sobre proyecto #${propertyId}`,
             tags: ['Web', 'ObrasDeMarMDP'],
           }),
