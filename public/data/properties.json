@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-09-03T10:28:21.117Z"
+    "lastSync": "2026-09-04T10:16:23.797Z"
   },
   "objects": [
     {
@@ -10144,7 +10144,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-28T14:43:40",
+      "deleted_at": "2026-09-03T20:39:28",
       "depth_measure": "0.00",
       "description": "                            Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n*Moderno Departamento de 3 Ambientes con Balcón y Parrilla\n\n¡Descubre tu nuevo hogar!\n\nEste departamento de 3 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\nCaracterísticas Principales:\n\n* Dormitorios: un dormitorio en suite con vestidor y  segundo dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.\n* Lavadero: Independiente para mayor comodidad.\n* Baños: 2 (incluyendo el baño en suite), modernos y funcionales.\n\nVentajas Adicionales:\n\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.\n* Edificio con Amenities: Disfruta de las comodidades del SUM y la terraza verde sin salir de casa.\n* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con \nposibilidad de un segundo dormitorio, y personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \r\n            ",
       "development": {
@@ -10762,30 +10762,40 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/13462242358605255844625867507571495064795878764972944325848143683024142364862.jpg",
+          "image": "https://static.tokkobroker.com/pictures/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
           "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/2435164_9621777073058750175461727608732412081367075393301406935784032593753598.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2435164_63989027871374520008028496653016262297145465902930156175521942107005596670426.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/2435164_6398902787137452000802849665301626229714546590293015617552194210700559.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_22174284575661907257354743763511769284342453600404600374656821004035341687436_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2435164_63989027871374520008028496653016262297145465902930156175521942107005596670426_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/13462242358605255844625867507571495064795878764972944325848143683024142364862.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
           "original": "https://static.tokkobroker.com/original_pictures/13462242358605255844625867507571495064795878764972944325848143683024142364862.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/29094997_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/13462242358605255844625867507571495064795878764972944325848143683024142364862_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/2435164_67645352866275892893332630668219400043459611264408325260484639296431267174636.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 0,
-          "original": "https://static.tokkobroker.com/original_pictures/2435164_67645352866275892893332630668219400043459611264408325260484639296431267174636.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_67645352866275892893332630668219400043459611264408325260484639296431267174636_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/2435164_67645352866275892893332630668219400043459611264408325260484639296431267174636_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/54515942921608356363587170411822525308606023768254786692150201497313458342358.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/54515942921608356363587170411822525308606023768254786692150201497313458342358.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/54515942921608356363587170411822525308606023768254786692150201497313458342358_thumb.jpg"
@@ -10795,7 +10805,7 @@
           "image": "https://static.tokkobroker.com/pictures/64150806210007495942319360571842526846840893025867947380477933881599542412165.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/64150806210007495942319360571842526846840893025867947380477933881599542412165.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/23247608_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/64150806210007495942319360571842526846840893025867947380477933881599542412165_thumb.jpg"
@@ -10805,7 +10815,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_6511935480739570679426785189084469676893135199847811549199792769043150492102.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_6511935480739570679426785189084469676893135199847811549199792769043150492102.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_6511935480739570679426785189084469676893135199847811549199792769043150492102_thumb.jpg"
@@ -10815,7 +10825,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_16464502775620192285624364254976775171334464094236561630918138859782397274472.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_16464502775620192285624364254976775171334464094236561630918138859782397274472.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_16464502775620192285624364254976775171334464094236561630918138859782397274472_thumb.jpg"
@@ -10825,7 +10835,7 @@
           "image": "https://static.tokkobroker.com/pictures/10354135861055210750374904739434768587482438997678669759682655606947268829680.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 8,
           "original": "https://static.tokkobroker.com/original_pictures/10354135861055210750374904739434768587482438997678669759682655606947268829680.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/10354135861055210750374904739434768587482438997678669759682655606947268829680_thumb.jpg"
@@ -10835,7 +10845,7 @@
           "image": "https://static.tokkobroker.com/pictures/103369492379399064051470097172106254858315162192000026178795943382639956667501.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
+          "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/103369492379399064051470097172106254858315162192000026178795943382639956667501.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/103369492379399064051470097172106254858315162192000026178795943382639956667501_thumb.jpg"
@@ -10845,7 +10855,7 @@
           "image": "https://static.tokkobroker.com/pictures/47631096713590909514496719727976903855686702799953984174255842944406181611670.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 8,
+          "order": 10,
           "original": "https://static.tokkobroker.com/original_pictures/47631096713590909514496719727976903855686702799953984174255842944406181611670.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/47631096713590909514496719727976903855686702799953984174255842944406181611670_thumb.jpg"
@@ -10855,7 +10865,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_66275060944356712270379687891628123905129646368113953589783134073600254284238.jpg",
           "is_blueprint": true,
           "is_front_cover": false,
-          "order": 10,
+          "order": 11,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_66275060944356712270379687891628123905129646368113953589783134073600254284238.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_66275060944356712270379687891628123905129646368113953589783134073600254284238_thumb.jpg"
@@ -10865,7 +10875,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_30134450853949765119010910832189966415044567919992209760533206686250709231582.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 11,
+          "order": 12,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_30134450853949765119010910832189966415044567919992209760533206686250709231582.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_30134450853949765119010910832189966415044567919992209760533206686250709231582_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_30134450853949765119010910832189966415044567919992209760533206686250709231582_thumb.jpg"
@@ -10875,7 +10885,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_18773218719271416606773379141799530908809323794335784767324659225281521685762.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 12,
+          "order": 13,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_18773218719271416606773379141799530908809323794335784767324659225281521685762.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_18773218719271416606773379141799530908809323794335784767324659225281521685762_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_18773218719271416606773379141799530908809323794335784767324659225281521685762_thumb.jpg"
@@ -10885,7 +10895,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_41187896708478333295640800360617807147842077612199274472656831176072670613343.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 13,
+          "order": 14,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_41187896708478333295640800360617807147842077612199274472656831176072670613343.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_41187896708478333295640800360617807147842077612199274472656831176072670613343_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_41187896708478333295640800360617807147842077612199274472656831176072670613343_thumb.jpg"
@@ -10895,7 +10905,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_69014734288186883763932086192328836162873503244118319688609587581259696048480.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 14,
+          "order": 15,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_69014734288186883763932086192328836162873503244118319688609587581259696048480.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_69014734288186883763932086192328836162873503244118319688609587581259696048480_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_69014734288186883763932086192328836162873503244118319688609587581259696048480_thumb.jpg"
@@ -10905,7 +10915,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_78782298133310454490072258703255890923391433119265109859390354310128630386132.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 15,
+          "order": 16,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_78782298133310454490072258703255890923391433119265109859390354310128630386132.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_78782298133310454490072258703255890923391433119265109859390354310128630386132_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_78782298133310454490072258703255890923391433119265109859390354310128630386132_thumb.jpg"
@@ -11082,7 +11092,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio en construcción sobre calle Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción del Departamento</h3>\n<p>Moderno departamento de 3 ambientes con balcón y parrilla. Descubre tu nuevo hogar. Este departamento de 3 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorios: un dormitorio en suite con vestidor y segundo dormitorio con placard</li>\n<li>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Lavadero: Independiente para mayor comodidad</li>\n<li>Baños: 2 (incluyendo el baño en suite), modernos y funcionales</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios modernos y funcionales: Diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n\n</ul>\n\n<h3>Ideal Para</h3>\n<p>Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con posibilidad de un segundo dormitorio, y personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.</p>"
     },
     {
@@ -24191,6 +24201,281 @@
       "zonification": "",
       "_last_changed": "2026-09-01T10:52:59.247Z",
       "enhanced_description": "<h3>Ubicación estratégica</h3>\n<ul>\n<li>A 2 cuadras de Av. 25 de Mayo, con salida directa a Gral. Paz</li>\n<li>A pocas cuadras de la estación San Martín (Línea Mitre)</li>\n<li>Cercano al centro comercial de la zona</li>\n</ul>\n\n<h3>Características del departamento</h3>\n<ul>\n<li>Amplio living comedor con salida al balcón con parrilla</li>\n<li>Cocina semi-integrada con muebles altos y bajos</li>\n<li>Dormitorio con placard empotrado y salida a un segundo balcón</li>\n<li>Baño completo con bañera</li>\n<li>Cochera cubierta con baulera incluida</li>\n</ul>\n\n<p>Departamento funcional, luminoso y con excelente ubicación, apto crédito y listo para habitar.</p>"
+    },
+    {
+      "address": "Belgrano al 4900",
+      "address_complement": "",
+      "age": 20,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 1,
+      "block_number": "",
+      "branch": {
+        "address": "Alte Brown 3295",
+        "alternative_phone": "77170405",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13  y de 14 a 18.30",
+        "created_date": "2018-11-23T15:14:30",
+        "deleted_at": null,
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.554152901810376",
+        "geo_long": "-58.56033015478516",
+        "gm_location_type": "BY_HAND",
+        "id": 7883,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/branch_logos/7883/px%20(1).jpg",
+        "name": "Villa Ballester",
+        "pdf_footer_text": "",
+        "phone": "77170405",
+        "phone_area": "011",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2021-09-02T18:52:02",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-09-03T18:46:33",
+      "depth_measure": "0.00",
+      "description": "LOCAL EN ALQUILER – EXCELENTE UBICACIÓN EN VILLA BALLESTER\n¡Ideal para tu próximo emprendimiento! \nLocal de 27 m², ubicado a solo 2 cuadras de la estación de tren de la Línea Mitre, en una zona de gran circulación y excelente conectividad.\n Características:\n* 27 m².* Toilette.* Zona de mucho movimiento.* Gran variedad de líneas de colectivos.* A pocas cuadras del centro comercial de Villa Ballester.* Excelente ubicación y accesibilidad.\n Una oportunidad ideal para instalar tu negocio o emprendimiento en una zona estratégica.\n Consultanos para más información y coordiná una visita.\n",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": "Frente",
+      "down_payment": "0.00",
+      "expenses": 70000,
+      "extra_attributes": [],
+      "fake_address": "Belgrano al 4900",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5531834",
+      "geo_long": "-58.5597715",
+      "gm_location_type": "ROOFTOP",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 3937172,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "541166081561",
+            "created_at": "2026-09-03T18:45:43",
+            "document_number": "",
+            "email": "",
+            "id": 68766172,
+            "name": "Angela",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-09-03T18:45:44",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25035,
+            "name": "Chilavert",
+            "resource_uri": "/api/v1/location/25035/"
+          },
+          {
+            "id": 25036,
+            "name": "Malaver",
+            "resource_uri": "/api/v1/location/25036/"
+          },
+          {
+            "id": 25037,
+            "name": "V.Zagala",
+            "resource_uri": "/api/v1/location/25037/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | Villa Ballester",
+        "id": 25034,
+        "name": "Villa Ballester",
+        "parent_division": "/api/v1/location/25013/",
+        "short_location": "G.B.A. Zona Norte | General San Martin | Villa Ballester",
+        "state": null,
+        "weight": 7615,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 2,
+          "operation_type": "Alquiler",
+          "prices": [
+            {
+              "currency": "ARS",
+              "is_promotional": false,
+              "period": 0,
+              "price": 700000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/3937172_15702050351315423519262267869265653439745361457300895965865016529907818812048.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/3937172_1570205035131542351926226786926565343974536145730089596586501652990781.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/3937172_15702050351315423519262267869265653439745361457300895965865016529907818812048_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/3937172_15702050351315423519262267869265653439745361457300895965865016529907818812048_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/52218563384539023655070198695079637568876174576798140970080354810153253335524.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/52218563384539023655070198695079637568876174576798140970080354810153253335524.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/52218563384539023655070198695079637568876174576798140970080354810153253335524_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/85735782663819598811438520637936054861656280389758902984209731698328834528562.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/85735782663819598811438520637936054861656280389758902984209731698328834528562.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/85735782663819598811438520637936054861656280389758902984209731698328834528562_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/75567899871697266300443846657655079850163774424444790419978017707531257930809.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/75567899871697266300443846657655079850163774424444790419978017707531257930809.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/75567899871697266300443846657655079850163774424444790419978017707531257930809_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/35158168438077850147937522306435462929291803064904153098151134202267096049783.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/35158168438077850147937522306435462929291803064904153098151134202267096049783.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/35158168438077850147937522306435462929291803064904153098151134202267096049783_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/43070384426337496255638413474367399206967209922853821853237949479276660420039.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/43070384426337496255638413474367399206967209922853821853237949479276660420039.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/43070384426337496255638413474367399206967209922853821853237949479276660420039_thumb.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "1126822368",
+        "email": "Micaela@dinalpropiedades.com",
+        "id": 12879,
+        "name": "Micaela Favilla",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "property_condition": "Bueno",
+      "public_url": "https://ficha.info/p/eqGoWddvTioBGa",
+      "publication_title": "Local - Villa Ballester",
+      "quality_level": null,
+      "real_address": "ALQUILER LOCAL - Belgrano 4928 - Villa Ballester",
+      "reference_code": "DLO3937172",
+      "rich_description": "LOCAL EN ALQUILER – EXCELENTE UBICACIÓN EN VILLA BALLESTER<div><br></div><div>¡Ideal para tu próximo emprendimiento!&nbsp;</div><div><br></div><div>Local de 27 m², ubicado a solo 2 cuadras de la estación de tren de la Línea Mitre, en una zona de gran circulación y excelente conectividad.</div><div><br></div><div>&nbsp;Características:</div><div><br></div><div>* 27 m².</div><div>* Toilette.</div><div>* Zona de mucho movimiento.</div><div>* Gran variedad de líneas de colectivos.</div><div>* A pocas cuadras del centro comercial de Villa Ballester.</div><div>* Excelente ubicación y accesibilidad.</div><div><br></div><div>&nbsp;<span style=\"font-weight: bold;\">Una oportunidad ideal para instalar tu negocio o emprendimiento en una zona estratégica.</span></div><div><br></div><div>&nbsp;Consultanos para más información y coordiná una visita.</div><div><br></div>",
+      "roofed_surface": "0.00",
+      "room_amount": 1,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "Vacía ",
+      "status": 2,
+      "suite_amount": 0,
+      "suites_with_closets": 0,
+      "surface": "27.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
+        }
+      ],
+      "toilet_amount": 1,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "0.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "LO",
+        "id": 7,
+        "name": "Local"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2021-09-02T18:52:02",
+      "enhanced_description": "<h3>Local en Alquiler - Villa Ballester</h3>\n\n<p>Ideal para tu próximo emprendimiento. Local ubicado a solo 2 cuadras de la estación de tren de la Línea Mitre, en una zona de gran circulación y excelente conectividad.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>27 m²</li>\n<li>Toilette</li>\n<li>Zona de mucho movimiento</li>\n<li>Gran variedad de líneas de colectivos</li>\n<li>A pocas cuadras del centro comercial de Villa Ballester</li>\n<li>Excelente ubicación y accesibilidad</li>\n</ul>\n\n<p>Una oportunidad ideal para instalar tu negocio o emprendimiento en una zona estratégica. Consultanos para más información y coordina una visita.</p>"
     },
     {
       "address": "Almirante Brown 3200 7°",
@@ -41409,7 +41694,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-07T15:08:21",
+      "deleted_at": "2026-09-03T20:33:55",
       "depth_measure": "0.00",
       "description": "                                                        Oportunidad departamento al Contrafrente de 2 ambientes 56.3m2 .-\n\n¡Descubre tu nuevo hogar!\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\nCaracterísticas Principales:\n\n* Dormitorio: 1 dormitorio con placard.* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.\n* Baño:  moderno y funcional.\n\n\nVentajas Adicionales:\n\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.\n\n* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado.\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n        \n            \r\n            ",
       "development": {
@@ -41929,33 +42214,43 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/115406022085113298084394590179602211164356107906627865253731683671364964560026.jpg",
+          "image": "https://static.tokkobroker.com/pictures/5781232_27044842168328959937646019852482598681872013843472648852651513222800440723254.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/115406022085113298084394590179602211164356107906627865253731683671364964560026.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/115406022085113298084394590179602211164356107906627865253731683671364964560026_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/5781232_2704484216832895993764601985248259868187201384347264885265151322280044.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/5781232_27044842168328959937646019852482598681872013843472648852651513222800440723254_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/5781232_27044842168328959937646019852482598681872013843472648852651513222800440723254_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/54903978603126203500880581071970236211448548880957964357035305224747143780939.jpg",
+          "image": "https://static.tokkobroker.com/pictures/5781232_103126483476333186003423369511085512188726297342269006209792883208867650527305.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/5781232_1031264834763331860034233695110855121887262973422690062097928832088676.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/5781232_103126483476333186003423369511085512188726297342269006209792883208867650527305_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/5781232_103126483476333186003423369511085512188726297342269006209792883208867650527305_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/5781232_80984260515359717084230071884997805442840241820361501323913768345089741871372.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/54903978603126203500880581071970236211448548880957964357035305224747143780939.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/54903978603126203500880581071970236211448548880957964357035305224747143780939_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/5781232_8098426051535971708423007188499780544284024182036150132391376834508974.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/5781232_80984260515359717084230071884997805442840241820361501323913768345089741871372_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/5781232_80984260515359717084230071884997805442840241820361501323913768345089741871372_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/71649432188025267480052420682458298077654667807510791652295043663077512330849.jpg",
+          "image": "https://static.tokkobroker.com/pictures/5781232_74431319054198169301990699754334003054528204769215025559993301710034526418427.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/71649432188025267480052420682458298077654667807510791652295043663077512330849.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/71649432188025267480052420682458298077654667807510791652295043663077512330849_thumb.jpg"
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/5781232_7443131905419816930199069975433400305452820476921502555999330171003452.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/5781232_74431319054198169301990699754334003054528204769215025559993301710034526418427_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/5781232_74431319054198169301990699754334003054528204769215025559993301710034526418427_thu.jpg"
         }
       ],
       "portal_footer": "",
@@ -42071,7 +42366,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Departamento de 2 ambientes, 56.3 m2, contrafrente. Una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 dormitorio con placard</li>\n<li>Cocina completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living comedor integrado, amplio y luminoso</li>\n<li>Balcón propio con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Baño moderno y funcional</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios modernos y funcionales, diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente ubicación cercana a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n<li>Ideal para familias que buscan un hogar cómodo y bien ubicado</li>\n</ul>"
     },
     {
@@ -47279,6 +47574,703 @@
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Nuevo edificio en construcción sobre calle Tucumán 2366, ubicado en el corazón de San Martín, a 6 cuadras de Ayacucho, a 4 cuadras del centro comercial, a 4 cuadras de Av. Balbín (ex R8), con salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción de la Unidad</h3>\n<p>Moderno monoambiente con balcón y parrilla, muy luminoso. Unidad al contrafrente diseñada para ofrecer comodidad y estilo en un espacio funcional y bien distribuido. Ideal para quienes buscan un hogar práctico y acogedor.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Ubicación: Contrafrente, garantizando tranquilidad y privacidad</li>\n<li>Ambiente: Monoambiente amplio y luminoso</li>\n<li>Cocina: Hermosa cocina con muebles altos y bajos</li>\n<li>Living y Comedor: Integrado, creando un espacio abierto y cómodo</li>\n<li>Balcón: Con parrilla, ideal para disfrutar de momentos al aire libre</li>\n<li>Luminosidad: Grandes ventanales que permiten excelente entrada de luz natural</li>\n<li>Diseño Funcional: Espacios diseñados para maximizar confort y practicidad</li>\n</ul>\n\n<h3>Detalles Constructivos del Edificio</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco</li>\n<li>Estructura de hormigón armado</li>\n<li>Terminaciones exteriores: revoque pintado y/o pintura plástica</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético)</li>\n<li>Pisos porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad y zócalo perimetral</li>\n<li>Departamentos con parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa</li>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea suministro al edificio, serán cambiados por cocina a gas y termo a gas</li>\n<li>En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo enchapados en melamina</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV</li>\n<li>Instalación para colocación de Aire Acondicionado en estar y dormitorio</li>\n<li>Cañerías (vacías) para instalación de cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>"
     },
     {
+      "address": "San Lorenzo al 2500 4°",
+      "address_complement": "",
+      "age": 3,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 1,
+      "block_number": "",
+      "branch": {
+        "address": "Alte Brown 3295",
+        "alternative_phone": "77170405",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13  y de 14 a 18.30",
+        "created_date": "2018-11-23T15:14:30",
+        "deleted_at": null,
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.554152901810376",
+        "geo_long": "-58.56033015478516",
+        "gm_location_type": "BY_HAND",
+        "id": 7883,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/branch_logos/7883/px%20(1).jpg",
+        "name": "Villa Ballester",
+        "pdf_footer_text": "",
+        "phone": "77170405",
+        "phone_area": "011",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2024-08-13T16:39:53",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-09-03T18:27:22",
+      "depth_measure": "0.00",
+      "description": "                                                                            DEPARTAMENTO 2 AMBIENTES EN ALQUILER\n\nModerno y cómodo departamento de 2 ambientes, ideal para quienes buscan practicidad y confort.\n Características:\n* Cocina independiente con muebles bajo y alto mesada.* Amplio living comedor integrado, luminoso y funcional.* Baño completo.* Dormitorio con placard.* Balcón, ideal para disfrutar del aire libre.* Pequeño lavadero integrado.\n REQUISITOS:\n* Contrato por 2 años.* Ajuste trimestral por IPC.* Garantía propietaria o fianza.* No se aceptan mascotas.\n Para más información o para coordinar una visita, ¡consultanos!\n\n        \n        \r\n\r\n            ",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": "Contrafrente",
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [],
+      "fake_address": "San Lorenzo al 2500 4°",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 8,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5732402293",
+      "geo_long": "-58.5434352558",
+      "gm_location_type": "BY_HAND",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 6339893,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [
+          {
+            "cellphone": "5491164806385",
+            "email": "Carmen@dinalpropiedades.com",
+            "id": 12880,
+            "name": "María Del Carmen Turlá",
+            "phone": "",
+            "picture": "https://static.tokkobroker.com/userprofile/pictures/profile_picture-12880-253cba9c7d493433e8af1b720df66db9.jpeg",
+            "position": ""
+          }
+        ],
+        "internal_comments": "$500000 con ajuste trimestral por ipc\nMascota chica\nSeguro de caución",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "5491166709560",
+            "created_at": "2025-01-21T19:28:40",
+            "document_number": "",
+            "email": "",
+            "id": 49738847,
+            "name": "Jose Maria Escala",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2025-01-21T19:28:40",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25015,
+            "name": "B.San Martin",
+            "resource_uri": "/api/v1/location/25015/"
+          },
+          {
+            "id": 25016,
+            "name": "Billinghurst",
+            "resource_uri": "/api/v1/location/25016/"
+          },
+          {
+            "id": 25017,
+            "name": "L.Hermosa",
+            "resource_uri": "/api/v1/location/25017/"
+          },
+          {
+            "id": 25018,
+            "name": "Lourdes",
+            "resource_uri": "/api/v1/location/25018/"
+          },
+          {
+            "id": 25019,
+            "name": "Migueletes",
+            "resource_uri": "/api/v1/location/25019/"
+          },
+          {
+            "id": 25020,
+            "name": "P.Suhr Horeis",
+            "resource_uri": "/api/v1/location/25020/"
+          },
+          {
+            "id": 25021,
+            "name": "S.Andres",
+            "resource_uri": "/api/v1/location/25021/"
+          },
+          {
+            "id": 25022,
+            "name": "S.Martin(Ctro)",
+            "resource_uri": "/api/v1/location/25022/"
+          },
+          {
+            "id": 25023,
+            "name": "Tropezon",
+            "resource_uri": "/api/v1/location/25023/"
+          },
+          {
+            "id": 25024,
+            "name": "V.Bonich",
+            "resource_uri": "/api/v1/location/25024/"
+          },
+          {
+            "id": 25025,
+            "name": "Villa Libertad",
+            "resource_uri": "/api/v1/location/25025/"
+          },
+          {
+            "id": 25026,
+            "name": "V.Lynch",
+            "resource_uri": "/api/v1/location/25026/"
+          },
+          {
+            "id": 25027,
+            "name": "V.Maipu",
+            "resource_uri": "/api/v1/location/25027/"
+          },
+          {
+            "id": 25028,
+            "name": "V.Piaggio",
+            "resource_uri": "/api/v1/location/25028/"
+          },
+          {
+            "id": 25029,
+            "name": "V.Progreso",
+            "resource_uri": "/api/v1/location/25029/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | San Martin",
+        "id": 25014,
+        "name": "San Martin",
+        "parent_division": "/api/v1/location/25013/",
+        "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
+        "state": null,
+        "weight": 1624,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 2,
+          "operation_type": "Alquiler",
+          "prices": [
+            {
+              "currency": "ARS",
+              "is_promotional": false,
+              "period": 0,
+              "price": 750000
+            }
+          ]
+        }
+      ],
+      "orientation": "Noreste",
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_37060094120487955487332299478237898808286349596224335676050650952544355592424.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_37060094120487955487332299478237898808286349596224335676050650952544355592424.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/85859731_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_37060094120487955487332299478237898808286349596224335676050650952544355592424_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_73980691203712003956801638509026758647444065314482311556165506237672022845495.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_73980691203712003956801638509026758647444065314482311556165506237672022845495.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_73980691203712003956801638509026758647444065314482311556165506237672022845495_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_16894201339836845441289160820738474850220044381115979536573351565691003851418.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_16894201339836845441289160820738474850220044381115979536573351565691003851418.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_16894201339836845441289160820738474850220044381115979536573351565691003851418_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_21192730660958948897242967354666511150309146626503313961877173928632983338792.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_21192730660958948897242967354666511150309146626503313961877173928632983338792.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_21192730660958948897242967354666511150309146626503313961877173928632983338792_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_30319168309796451096860141482010391901577623818682251380724030916421940884674.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_30319168309796451096860141482010391901577623818682251380724030916421940884674.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_30319168309796451096860141482010391901577623818682251380724030916421940884674_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_9803943725863001844586209294671672021605010543809181587584385030329124409190.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_9803943725863001844586209294671672021605010543809181587584385030329124409190.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_9803943725863001844586209294671672021605010543809181587584385030329124409190_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_42318900946010838682575794731919896439002688993581655555431914453861909119117.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_42318900946010838682575794731919896439002688993581655555431914453861909119117.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_42318900946010838682575794731919896439002688993581655555431914453861909119117_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_5426197789033061376730587429595467052814273511248812633056676728625680551923.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_5426197789033061376730587429595467052814273511248812633056676728625680551923.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_5426197789033061376730587429595467052814273511248812633056676728625680551923_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_92502249975328898572835985120582049006067195478015125762263959968416043624728.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_92502249975328898572835985120582049006067195478015125762263959968416043624728.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_92502249975328898572835985120582049006067195478015125762263959968416043624728_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_11593717851136410528694103928673733413998701238857389610154603159527842613776.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_11593717851136410528694103928673733413998701238857389610154603159527842613776.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_11593717851136410528694103928673733413998701238857389610154603159527842613776_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_55944058298308683534382066348711567509903326898015329869324987603462027275615.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_55944058298308683534382066348711567509903326898015329869324987603462027275615.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_55944058298308683534382066348711567509903326898015329869324987603462027275615_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_75758254714437192591112585133144626486186692158201534909170243018035934290803.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_75758254714437192591112585133144626486186692158201534909170243018035934290803.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_75758254714437192591112585133144626486186692158201534909170243018035934290803_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_89967074434374688140843260555173907578499373472121546874389011197534330237726.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_89967074434374688140843260555173907578499373472121546874389011197534330237726.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_89967074434374688140843260555173907578499373472121546874389011197534330237726_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_109928130569331661532406202163195249618707206611687253663099557189474134602486.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 13,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_109928130569331661532406202163195249618707206611687253663099557189474134602486.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_109928130569331661532406202163195249618707206611687253663099557189474134602486_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_52152307061838949143613640259137955347525489858864528080460646711779010881240.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 14,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_52152307061838949143613640259137955347525489858864528080460646711779010881240.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_52152307061838949143613640259137955347525489858864528080460646711779010881240_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_50523140856883026117723258941479535585720881365207353636420616033134966455959.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 15,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_50523140856883026117723258941479535585720881365207353636420616033134966455959.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_50523140856883026117723258941479535585720881365207353636420616033134966455959_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_49489203676987095854979337634796158759841065007288839475218954460827116003531.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 16,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_49489203676987095854979337634796158759841065007288839475218954460827116003531.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_49489203676987095854979337634796158759841065007288839475218954460827116003531_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_75598696059499433843642508788593764176398424560100679211884276156509551032110.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 17,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_75598696059499433843642508788593764176398424560100679211884276156509551032110.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_75598696059499433843642508788593764176398424560100679211884276156509551032110_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_63192916720495060026880661066227235073657852846738107382702383498369123788821.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 18,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_63192916720495060026880661066227235073657852846738107382702383498369123788821.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_63192916720495060026880661066227235073657852846738107382702383498369123788821_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_57470573535972629222796038677089388857574549818211003463295583465958665772103.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 19,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_57470573535972629222796038677089388857574549818211003463295583465958665772103.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_57470573535972629222796038677089388857574549818211003463295583465958665772103_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_84723661838315565186604429206492951455175302703624349974411996908096931607469.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 20,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_84723661838315565186604429206492951455175302703624349974411996908096931607469.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_84723661838315565186604429206492951455175302703624349974411996908096931607469_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_62289392030810401656887218796074970778443991143782680677832317751875388574707.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 21,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_62289392030810401656887218796074970778443991143782680677832317751875388574707.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_62289392030810401656887218796074970778443991143782680677832317751875388574707_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_52594703992829353747328203604627835234025161160251679241702238904930272462148.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 22,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_52594703992829353747328203604627835234025161160251679241702238904930272462148.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_52594703992829353747328203604627835234025161160251679241702238904930272462148_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_6737844645588282853823108256283368825385082851589395429285945077115679578485.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 23,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_6737844645588282853823108256283368825385082851589395429285945077115679578485.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_6737844645588282853823108256283368825385082851589395429285945077115679578485_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_58455255693012698147183402889222741316633550991192722617405867496409345089041.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 24,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_58455255693012698147183402889222741316633550991192722617405867496409345089041.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_58455255693012698147183402889222741316633550991192722617405867496409345089041_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_51750633707172604867103180164207459572809810305638215154706591010506192313899.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 25,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_51750633707172604867103180164207459572809810305638215154706591010506192313899.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_51750633707172604867103180164207459572809810305638215154706591010506192313899_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_95206752774087149569820837171163316275474223361744167462090415859909461297735.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 26,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_95206752774087149569820837171163316275474223361744167462090415859909461297735.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_95206752774087149569820837171163316275474223361744167462090415859909461297735_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_19459096779834506890272289053110609382328423725437847924834432985887561624978.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 27,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_19459096779834506890272289053110609382328423725437847924834432985887561624978.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_19459096779834506890272289053110609382328423725437847924834432985887561624978_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_30257976266370657682860958931357929216079145577700602163955166682939943210592.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 28,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_30257976266370657682860958931357929216079145577700602163955166682939943210592.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_30257976266370657682860958931357929216079145577700602163955166682939943210592_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_73853734998754067724479335858012240515561282549767419205749651851165360317340.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 29,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_73853734998754067724479335858012240515561282549767419205749651851165360317340.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_73853734998754067724479335858012240515561282549767419205749651851165360317340_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_115578372070826008171167096325904582807174952304683403128264103561786665636669.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 30,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_115578372070826008171167096325904582807174952304683403128264103561786665636669.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_115578372070826008171167096325904582807174952304683403128264103561786665636669_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6339893_31410068981084446980172793128675222286671803252222177304401475780020417388244.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 31,
+          "original": "https://static.tokkobroker.com/original_pictures/6339893_31410068981084446980172793128675222286671803252222177304401475780020417388244.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6339893_31410068981084446980172793128675222286671803252222177304401475780020417388244_thumb.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "5491164806385",
+        "email": "Carmen@dinalpropiedades.com",
+        "id": 12880,
+        "name": "María Del Carmen Turlá",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/userprofile/pictures/profile_picture-12880-253cba9c7d493433e8af1b720df66db9.jpeg",
+        "position": ""
+      },
+      "property_condition": "Excelente",
+      "public_url": "https://ficha.info/p/eALsvddvUnq8sa",
+      "publication_title": "Departamento en venta en  San Martín",
+      "quality_level": null,
+      "real_address": "ALQUILER - San Lorenzo 2550   4° B",
+      "reference_code": "DAP6339893",
+      "rich_description": "                                                                            <p>DEPARTAMENTO 2 AMBIENTES EN ALQUILER</p><div><br></div><div>Moderno y cómodo departamento de 2 ambientes, ideal para quienes buscan practicidad y confort.</div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">&nbsp;Características:</span></div><div><br></div><div>* Cocina independiente con muebles bajo y alto mesada.</div><div>* Amplio living comedor integrado, luminoso y funcional.</div><div>* Baño completo.</div><div>* Dormitorio con placard.</div><div>* Balcón, ideal para disfrutar del aire libre.</div><div>* Pequeño lavadero integrado.</div><div><br></div><div><span style=\"font-weight: bold;\">&nbsp;REQUISITOS:</span></div><div><br></div><div>* Contrato por 2 años.</div><div>* Ajuste trimestral por IPC.</div><div>* Garantía propietaria o fianza.</div><div>* No se aceptan mascotas.</div><div><br></div><div><span style=\"font-weight: bold;\">&nbsp;Para más información o para coordinar una visita, ¡consultanos!</span></div><div><br></div><div><br></div>        <br>        \r\n\r\n            ",
+      "roofed_surface": "47.00",
+      "room_amount": 2,
+      "semiroofed_surface": "11.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 1,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcón",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Cocina",
+          "type": 2
+        },
+        {
+          "id": 20,
+          "name": "Lavadero",
+          "type": 2
+        },
+        {
+          "id": 22,
+          "name": "Living comedor",
+          "type": 2
+        },
+        {
+          "id": 25,
+          "name": "Terraza",
+          "type": 2
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 40,
+          "name": "Solarium",
+          "type": 3
+        },
+        {
+          "id": 41,
+          "name": "SUM",
+          "type": 3
+        },
+        {
+          "id": 42,
+          "name": "Seguridad",
+          "type": 3
+        },
+        {
+          "id": 46,
+          "name": "Apto mascotas",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 1390,
+          "name": "Luminoso",
+          "type": 3
+        },
+        {
+          "id": 1443,
+          "name": "Agua Potable",
+          "type": 1
+        },
+        {
+          "id": 1526,
+          "name": "Seguridad portería",
+          "type": 3
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "58.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [
+        {
+          "description": "",
+          "id": 1142770,
+          "order": 1,
+          "player_url": "https://www.youtube.com/embed/kMK3Lsqejas",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "Obra Finalizada",
+          "url": "https://www.youtube.com/watch?v=kMK3Lsqejas",
+          "video_id": "kMK3Lsqejas"
+        }
+      ],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2024-08-13T16:39:53",
+      "enhanced_description": "<h3>Departamento 2 Ambientes en Alquiler</h3>\n\n<p>Moderno y cómodo departamento de 2 ambientes, ideal para quienes buscan practicidad y confort.</p>\n\n<h3>Características</h3>\n<ul>\n<li>Cocina independiente con muebles bajo y alto mesada</li>\n<li>Amplio living comedor integrado, luminoso y funcional</li>\n<li>Baño completo</li>\n<li>Dormitorio con placard</li>\n<li>Balcón, ideal para disfrutar del aire libre</li>\n<li>Pequeño lavadero integrado</li>\n</ul>\n\n<h3>Requisitos</h3>\n<ul>\n<li>Contrato por 2 años</li>\n<li>Ajuste trimestral por IPC</li>\n<li>Garantía propietaria o fianza</li>\n<li>No se aceptan mascotas</li>\n</ul>\n\n<p>Para más información o para coordinar una visita, consultanos.</p>"
+    },
+    {
       "address": "Tucumán al 2300 3°",
       "address_complement": "",
       "age": -1,
@@ -48560,7 +49552,7 @@
     {
       "address": "Carrillo  al 2200 1°",
       "address_complement": "",
-      "age": 35,
+      "age": 36,
       "apartment_door": "",
       "appartments_per_floor": 0,
       "bathroom_amount": 1,
@@ -48599,7 +49591,7 @@
       "credit_eligible": "Apto crédito",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-31T21:10:22",
+      "deleted_at": "2026-09-03T15:37:40",
       "depth_measure": "0.00",
       "description": "                ¡Excelente oportunidad! Departamento de 3 ambientes en pleno centro de San Martín. APTO CREDITO.\nUbicado en un primer piso por escalera al frente, sobre calle Carrillo, este cómodo y luminoso departamento se encuentra a metros de la plaza principal y rodeado de comercios, servicios y medios de transporte.\nCaracterísticas destacadas:* Cocina independiente equipada con muebles bajo mesada.* Lavadero incorporado con salida directa a un patio con parrilla, ideal para disfrutar al aire libre.* Amplio living comedor con salida a balcón corrido al frente, que aporta gran luminosidad y ventilación natural.* 2 dormitorios espaciosos y bien iluminados, ambos con placards empotrados.* Baño completo con placard adicional en el antebaño, brindando mayor espacio de guardado.\nUna propiedad ideal para quienes buscan comodidad, excelente ubicación y ambientes amplios en el corazón de San Martín.\nConsultanos para más información y coordiná tu visita\n\n\n\n\n\n\n        \n            \r\n\r\n            ",
       "development": null,
@@ -48787,173 +49779,183 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_34808961354711817956901976943198676101596101040862504383566187445715523070701.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6370033_63042933402918859538185779895015794922619229351303017185773117869841148214878.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_34808961354711817956901976943198676101596101040862504383566187445715523070701.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_34808961354711817956901976943198676101596101040862504383566187445715523070701_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_6304293340291885953818577989501579492261922935130301718577311786984114.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_63042933402918859538185779895015794922619229351303017185773117869841148214878_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_63042933402918859538185779895015794922619229351303017185773117869841148214878_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_101881376970925354549124986472483317361825853485802997226604786869011581330151.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6370033_80253330139954434679119428355797192123868338270808503084328942179103915084803.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_101881376970925354549124986472483317361825853485802997226604786869011581330151.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_101881376970925354549124986472483317361825853485802997226604786869011581330151_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_8025333013995443467911942835579719212386833827080850308432894217910391.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_80253330139954434679119428355797192123868338270808503084328942179103915084803_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_80253330139954434679119428355797192123868338270808503084328942179103915084803_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_38843374356542035342721619084875252908670155358913934328161191503319729852253.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6370033_99864306119753269286774926322019102049026168159281193663809022197877175422531.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_38843374356542035342721619084875252908670155358913934328161191503319729852253.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_38843374356542035342721619084875252908670155358913934328161191503319729852253_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_33759008277179073827955446482694427192396627644746139023327598697636428271223.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_33759008277179073827955446482694427192396627644746139023327598697636428271223.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_33759008277179073827955446482694427192396627644746139023327598697636428271223_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_9986430611975326928677492632201910204902616815928119366380902219787717.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_99864306119753269286774926322019102049026168159281193663809022197877175422531_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_99864306119753269286774926322019102049026168159281193663809022197877175422531_thu.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/6370033_98762128616957434827559376074697926241672791866025009274617064273283296846618.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/6370033_98762128616957434827559376074697926241672791866025009274617064273283296846618.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6370033_98762128616957434827559376074697926241672791866025009274617064273283296846618_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_1320148528686332320115479058415609282865695430978545377734057857310254909897.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6370033_45864579586439716581839332550237796957597359960170444175799820994990393396805.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_4586457958643971658183933255023779695759735996017044417579982099499039.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_45864579586439716581839332550237796957597359960170444175799820994990393396805_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_45864579586439716581839332550237796957597359960170444175799820994990393396805_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_17278517237165587180305430072116865198095370384256138752533272758075510227243.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_1320148528686332320115479058415609282865695430978545377734057857310254909897.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_1320148528686332320115479058415609282865695430978545377734057857310254909897_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_1727851723716558718030543007211686519809537038425613875253327275807551.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_17278517237165587180305430072116865198095370384256138752533272758075510227243_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_17278517237165587180305430072116865198095370384256138752533272758075510227243_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_105316964911833600762716269553792262524305130375966327221430792436849829352182.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_1053169649118336007627162695537922625243051303759663272214307924368498.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_105316964911833600762716269553792262524305130375966327221430792436849829352182_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_105316964911833600762716269553792262524305130375966327221430792436849829352182_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_4277089998470910084665905989707953289798832973596744822821905729030382425619.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_4277089998470910084665905989707953289798832973596744822821905729030382.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_4277089998470910084665905989707953289798832973596744822821905729030382425619_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_4277089998470910084665905989707953289798832973596744822821905729030382425619_thum.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/6370033_94682920696545691151070806175031786838144957708251108957188266541960742945959.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
+          "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/6370033_94682920696545691151070806175031786838144957708251108957188266541960742945959.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6370033_94682920696545691151070806175031786838144957708251108957188266541960742945959_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_102325800265303310613078873364256514673024337445975005958746516223655819488740.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_102325800265303310613078873364256514673024337445975005958746516223655819488740.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_102325800265303310613078873364256514673024337445975005958746516223655819488740_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_42228665216894260926591290038610130098325603444760181070075745128611244612191.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_42228665216894260926591290038610130098325603444760181070075745128611244612191.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_42228665216894260926591290038610130098325603444760181070075745128611244612191_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_80988720898372356733706666428513478097044085943763964926016559354617783226042.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 11,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_80988720898372356733706666428513478097044085943763964926016559354617783226042.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_80988720898372356733706666428513478097044085943763964926016559354617783226042_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_7948513022646724389515278253515974123612655283029398881217427010868516251681.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 12,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_7948513022646724389515278253515974123612655283029398881217427010868516251681.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_7948513022646724389515278253515974123612655283029398881217427010868516251681_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_66941753732371747380930316963001654588658077294570048434512261746133001585965.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 13,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_66941753732371747380930316963001654588658077294570048434512261746133001585965.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_66941753732371747380930316963001654588658077294570048434512261746133001585965_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6370033_18609136164078124036465634433918880459568736508671824263251199442583716674299.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 14,
+          "order": 10,
           "original": "https://static.tokkobroker.com/original_pictures/6370033_18609136164078124036465634433918880459568736508671824263251199442583716674299.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6370033_18609136164078124036465634433918880459568736508671824263251199442583716674299_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_40382396524133800161144489768113241311208901808986889640511057987446444890097.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6370033_55222560123801475119357939777538234938945067868608930549335095960204470187435.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_5522256012380147511935793977753823493894506786860893054933509596020447.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_55222560123801475119357939777538234938945067868608930549335095960204470187435_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_55222560123801475119357939777538234938945067868608930549335095960204470187435_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_67108389481534270341098421438781624142195063250808390959702899284309178394723.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_6710838948153427034109842143878162414219506325080839095970289928430917.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_67108389481534270341098421438781624142195063250808390959702899284309178394723_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_67108389481534270341098421438781624142195063250808390959702899284309178394723_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_90927664798591690272495066070178773798916387631829895476470558059461540868388.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 13,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_9092766479859169027249506607017877379891638763182989547647055805946154.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_90927664798591690272495066070178773798916387631829895476470558059461540868388_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_90927664798591690272495066070178773798916387631829895476470558059461540868388_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_59800007694564728048714505633115853200146166026366487536458459697209726789548.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 14,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_5980000769456472804871450563311585320014616602636648753645845969720972.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_59800007694564728048714505633115853200146166026366487536458459697209726789548_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_59800007694564728048714505633115853200146166026366487536458459697209726789548_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_16821803905131726050299006443840300269090563647904220313266090702548684694371.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 15,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_40382396524133800161144489768113241311208901808986889640511057987446444890097.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_40382396524133800161144489768113241311208901808986889640511057987446444890097_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_1682180390513172605029900644384030026909056364790422031326609070254868.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_16821803905131726050299006443840300269090563647904220313266090702548684694371_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_16821803905131726050299006443840300269090563647904220313266090702548684694371_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_27749764535080989584697048765871247651167258276342036158161564979859945804255.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6370033_44414990869695783606664953319444909608463907789849874398453065406919461610559.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 16,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_27749764535080989584697048765871247651167258276342036158161564979859945804255.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_27749764535080989584697048765871247651167258276342036158161564979859945804255_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6370033_92572054383486741636278349704266529875029349608404789470607185881180739776024.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 17,
-          "original": "https://static.tokkobroker.com/original_pictures/6370033_92572054383486741636278349704266529875029349608404789470607185881180739776024.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6370033_92572054383486741636278349704266529875029349608404789470607185881180739776024_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_4441499086969578360666495331944490960846390778984987439845306540691946.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_44414990869695783606664953319444909608463907789849874398453065406919461610559_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_44414990869695783606664953319444909608463907789849874398453065406919461610559_thu.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/6370033_35794955439143832597443150487218796034921291113576921465530077061272469311537.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 18,
+          "order": 17,
           "original": "https://static.tokkobroker.com/original_pictures/6370033_35794955439143832597443150487218796034921291113576921465530077061272469311537.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6370033_35794955439143832597443150487218796034921291113576921465530077061272469311537_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_15936019235120294334039068499040468692545604496895244411297846501013418528050.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 18,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_1593601923512029433403906849904046869254560449689524441129784650101341.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_15936019235120294334039068499040468692545604496895244411297846501013418528050_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_15936019235120294334039068499040468692545604496895244411297846501013418528050_thu.jpg"
         },
         {
           "description": null,
@@ -48964,6 +49966,16 @@
           "original": "https://static.tokkobroker.com/original_pictures/6370033_49484343811925269487529714844802368869097046768993078721938142750981122815696.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6370033_49484343811925269487529714844802368869097046768993078721938142750981122815696_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6370033_56001925654406886499325086556311193155687826608066759440038501940665612912008.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 20,
+          "original": "https://static.tokkobroker.com/original_pictures/6370033_5600192565440688649932508655631119315568782660806675944003850194066561.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6370033_56001925654406886499325086556311193155687826608066759440038501940665612912008_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6370033_56001925654406886499325086556311193155687826608066759440038501940665612912008_thu.jpg"
         }
       ],
       "portal_footer": "",
@@ -48981,7 +49993,7 @@
       "public_url": "https://ficha.info/p/eATiDddvUnu3wa",
       "publication_title": "Departamento en  venta en San Martín",
       "quality_level": null,
-      "real_address": "Carrillo  2242 1° Piso",
+      "real_address": "Carrillo  2242 1° Piso - San Martin",
       "reference_code": "DAP6370033",
       "rich_description": "                <div><span style=\"font-weight: bold;\">¡Excelente oportunidad! Departamento de 3 ambientes en pleno centro de San Martín. APTO CREDITO.</span><div><br></div><div>Ubicado en un primer piso por escalera al frente, sobre calle Carrillo, este cómodo y luminoso departamento se encuentra a metros de la plaza principal y rodeado de comercios, servicios y medios de transporte.</div><div><br></div><div><span style=\"font-weight: bold;\">Características destacadas:</span></div><div>* Cocina independiente equipada con muebles bajo mesada.</div><div>* Lavadero incorporado con salida directa a un patio con parrilla, ideal para disfrutar al aire libre.</div><div>* Amplio living comedor con salida a balcón corrido al frente, que aporta gran luminosidad y ventilación natural.</div><div>* 2 dormitorios espaciosos y bien iluminados, ambos con placards empotrados.</div><div>* Baño completo con placard adicional en el antebaño, brindando mayor espacio de guardado.</div><div><br></div><div>Una propiedad ideal para quienes buscan comodidad, excelente ubicación y ambientes amplios en el corazón de San Martín.</div><div><br></div><div>Consultanos para más información y coordiná tu visita</div><div><br></div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><br>        <br>            \r\n\r\n            ",
       "roofed_surface": "56.19",
@@ -49069,7 +50081,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Departamento de 3 ambientes en San Martín</h3>\n\n<p>Excelente oportunidad. Departamento ubicado en primer piso por escalera al frente, sobre calle Carrillo. Cómodo y luminoso, se encuentra a metros de la plaza principal y rodeado de comercios, servicios y medios de transporte. Apto crédito.</p>\n\n<h3>Características destacadas</h3>\n\n<ul>\n<li>Cocina independiente equipada con muebles bajo mesada</li>\n<li>Lavadero incorporado con salida directa a un patio con parrilla, ideal para disfrutar al aire libre</li>\n<li>Amplio living comedor con salida a balcón corrido al frente, que aporta gran luminosidad y ventilación natural</li>\n<li>2 dormitorios espaciosos y bien iluminados, ambos con placards empotrados</li>\n<li>Baño completo con placard adicional en el antebaño, brindando mayor espacio de guardado</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Una propiedad ideal para quienes buscan comodidad, excelente ubicación y ambientes amplios en el corazón de San Martín.</p>"
     },
     {
@@ -50374,7 +51386,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-05-28T15:08:23",
+      "deleted_at": "2026-09-03T18:55:55",
       "depth_measure": "23.66",
       "description": "                        Venta de Casa en San Andrés, Zona Agustiniano            \n        \nSe ofrece en venta una casa ubicada en la calle Salguero 3181, San Andrés, partido de General San Martín. \n\nCaracterísticas de la vivienda:\n*Amplio garage con cochera cubierta y descubierta.\n*Dormitorio: Un dormitorio con placard empotrado.\n*Living: Espacioso living con buena iluminación natural.\n*Cocina comedor: Cocina integrada al comedor diario, equipada con muebles bajos y alacenas.\n*Quincho con parrilla: Espacio cubierto con parrilla y lavadero.\n*Patio y jardín: Patio trasero con jardín, ofreciendo un espacio verde para disfrutar al aire libre.\n*Terraza: Accesible .-\n* Estado de la propiedad: La casa se encuentra en muy buen estado de conservación, lista para ser habitada sin necesidad de refacciones inmediatas.\n* Potencial de ampliación: Debido a su distribución y espacio, la propiedad ofrece grandes posibilidades para futuras ampliaciones o modificaciones según las necesidades del comprador.\n* Ubicación: Situada en la zona Agustiniano, a pocas cuadras del Colegio Agustiniano  y cercana a la plaza Alem, lo que proporciona un entorno tranquilo y familiar.\nPrecio de venta:  USD 150.000 LIBRE DE GASTOS \nPara más información coordinar una visita.\n        \r\n        ",
       "development": null,
@@ -50482,10 +51494,20 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6439692_23744784687246414266534842448697634197398817186148970164886589088269387964257.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6439692_112967532072332558680594076167747660568709079885605804456143921990999233688182.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
           "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/6439692_1129675320723325586805940761677476605687090798856058044561439219909992.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6439692_112967532072332558680594076167747660568709079885605804456143921990999233688182_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6439692_112967532072332558680594076167747660568709079885605804456143921990999233688182_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6439692_23744784687246414266534842448697634197398817186148970164886589088269387964257.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_23744784687246414266534842448697634197398817186148970164886589088269387964257.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551273_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_23744784687246414266534842448697634197398817186148970164886589088269387964257_thumb.jpg"
@@ -50495,7 +51517,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_6018679345058428566688363426144864351304851170452466715405082001517233805678.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 2,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_6018679345058428566688363426144864351304851170452466715405082001517233805678.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551292_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_6018679345058428566688363426144864351304851170452466715405082001517233805678_thumb.jpg"
@@ -50505,7 +51527,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_95020181249582311755552389345181420722764870795693339399727635724861070886913.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
+          "order": 3,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_95020181249582311755552389345181420722764870795693339399727635724861070886913.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958917_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_95020181249582311755552389345181420722764870795693339399727635724861070886913_thumb.jpg"
@@ -50515,7 +51537,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_96954398519853586147643714004843830239619457238686904003750536173657833139262.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_96954398519853586147643714004843830239619457238686904003750536173657833139262.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958920_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_96954398519853586147643714004843830239619457238686904003750536173657833139262_thumb.jpg"
@@ -50525,7 +51547,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_71536771670316660405276543228880655801136966611462190396055263053424511639618.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_71536771670316660405276543228880655801136966611462190396055263053424511639618.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958918_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_71536771670316660405276543228880655801136966611462190396055263053424511639618_thumb.jpg"
@@ -50535,7 +51557,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_34335831383403575550136219564328628117928156771360139063912260998427624429453.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_34335831383403575550136219564328628117928156771360139063912260998427624429453.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958919_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_34335831383403575550136219564328628117928156771360139063912260998427624429453_thumb.jpg"
@@ -50545,7 +51567,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_102755358436756493120448342687891275438798776785771047480960843834680739775531.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_102755358436756493120448342687891275438798776785771047480960843834680739775531.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958922_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_102755358436756493120448342687891275438798776785771047480960843834680739775531_thumb.jpg"
@@ -50555,7 +51577,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_28752762274724561905059982884466612792759447505540786407126510276398034050339.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
+          "order": 8,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_28752762274724561905059982884466612792759447505540786407126510276398034050339.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551274_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_28752762274724561905059982884466612792759447505540786407126510276398034050339_thumb.jpg"
@@ -50565,7 +51587,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_72166536036755075383797385542757519839859845243790878914587530648293451779082.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 8,
+          "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_72166536036755075383797385542757519839859845243790878914587530648293451779082.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551277_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_72166536036755075383797385542757519839859845243790878914587530648293451779082_thumb.jpg"
@@ -50575,7 +51597,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_45174231260738429782214051738387589313033892167515488634182703085273303399446.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 9,
+          "order": 10,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_45174231260738429782214051738387589313033892167515488634182703085273303399446.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551330_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_45174231260738429782214051738387589313033892167515488634182703085273303399446_thumb.jpg"
@@ -50585,7 +51607,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_51057602279893429184057487154653405421864281144904977256139260539749182617841.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 10,
+          "order": 11,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_51057602279893429184057487154653405421864281144904977256139260539749182617841.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958950_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_51057602279893429184057487154653405421864281144904977256139260539749182617841_thumb.jpg"
@@ -50595,7 +51617,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_29630326606414683272027692131633339375110050089094343050131178513254684976370.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 11,
+          "order": 12,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_29630326606414683272027692131633339375110050089094343050131178513254684976370.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958925_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_29630326606414683272027692131633339375110050089094343050131178513254684976370_thumb.jpg"
@@ -50605,7 +51627,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_67440875469579263787866409924863273622235950363472781571680605085333491107247.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 12,
+          "order": 13,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_67440875469579263787866409924863273622235950363472781571680605085333491107247.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958921_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_67440875469579263787866409924863273622235950363472781571680605085333491107247_thumb.jpg"
@@ -50615,7 +51637,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_53333563866729514913370281009127048017347436117300267420906788212925131591229.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 13,
+          "order": 14,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_53333563866729514913370281009127048017347436117300267420906788212925131591229.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958933_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_53333563866729514913370281009127048017347436117300267420906788212925131591229_thumb.jpg"
@@ -50625,7 +51647,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_12079868742268483972932539047730234331948660393954273132785510559439035916311.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 14,
+          "order": 15,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_12079868742268483972932539047730234331948660393954273132785510559439035916311.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958934_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_12079868742268483972932539047730234331948660393954273132785510559439035916311_thumb.jpg"
@@ -50635,7 +51657,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_2353172490127648153035815295631344562098636878166757382263624174084921753418.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 15,
+          "order": 16,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_2353172490127648153035815295631344562098636878166757382263624174084921753418.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/87958916_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_2353172490127648153035815295631344562098636878166757382263624174084921753418_thumb.jpg"
@@ -50645,7 +51667,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_29798935189253840317166283397346794016384528019482235626238518701586298492101.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 16,
+          "order": 17,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_29798935189253840317166283397346794016384528019482235626238518701586298492101.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551271_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_29798935189253840317166283397346794016384528019482235626238518701586298492101_thumb.jpg"
@@ -50655,7 +51677,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_67402484585567263351793281479893702011398719398110602624137088491843684158304.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 17,
+          "order": 18,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_67402484585567263351793281479893702011398719398110602624137088491843684158304.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551290_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_67402484585567263351793281479893702011398719398110602624137088491843684158304_thumb.jpg"
@@ -50665,7 +51687,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_75293125603446954639246548616828026958731898460406617178975631304794873156438.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 18,
+          "order": 19,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_75293125603446954639246548616828026958731898460406617178975631304794873156438.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551266_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_75293125603446954639246548616828026958731898460406617178975631304794873156438_thumb.jpg"
@@ -50675,7 +51697,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_109736780701865960174198664196813940916447174529865457134572059680785643017649.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 19,
+          "order": 20,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_109736780701865960174198664196813940916447174529865457134572059680785643017649.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551299_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_109736780701865960174198664196813940916447174529865457134572059680785643017649_thumb.jpg"
@@ -50685,7 +51707,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_62365904811646922026183182033118303508482230877188323027120848672286270090262.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 20,
+          "order": 21,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_62365904811646922026183182033118303508482230877188323027120848672286270090262.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551269_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_62365904811646922026183182033118303508482230877188323027120848672286270090262_thumb.jpg"
@@ -50695,7 +51717,7 @@
           "image": "https://static.tokkobroker.com/pictures/6439692_55608594080092738994410890462875318571979422106760443548787880800961102723014.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 21,
+          "order": 22,
           "original": "https://static.tokkobroker.com/original_pictures/6439692_55608594080092738994410890462875318571979422106760443548787880800961102723014.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/88551268_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6439692_55608594080092738994410890462875318571979422106760443548787880800961102723014_thumb.jpg"
@@ -50819,7 +51841,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Propiedad en Venta</h3>\n<p>Se ofrece en venta una casa ubicada en la calle Salguero 3181, San Andrés, partido de General San Martín.</p>\n\n<h3>Características de la vivienda</h3>\n<ul>\n<li>Amplio garage con cochera cubierta y descubierta</li>\n<li>Un dormitorio con placard empotrado</li>\n<li>Espacioso living con buena iluminación natural</li>\n<li>Cocina integrada al comedor diario, equipada con muebles bajos y alacenas</li>\n<li>Quincho con parrilla y lavadero</li>\n<li>Patio trasero con jardín</li>\n<li>Terraza</li>\n</ul>\n\n<h3>Estado de la propiedad</h3>\n<p>La casa se encuentra en muy buen estado de conservación, lista para ser habitada sin necesidad de refacciones inmediatas.</p>\n\n<h3>Potencial de ampliación</h3>\n<p>Debido a su distribución y espacio, la propiedad ofrece grandes posibilidades para futuras ampliaciones o modificaciones según las necesidades del comprador.</p>\n\n<h3>Ubicación</h3>\n<p>Situada en la zona Agustiniano, a pocas cuadras del Colegio Agustiniano y cercana a la plaza Alem, lo que proporciona un entorno tranquilo y familiar.</p>\n\n<h3>Precio</h3>\n<p>USD 150.000 libre de gastos</p>\n\n<p>Para más información coordinar una visita.</p>"
     },
     {
@@ -50864,9 +51886,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-01T13:57:15",
+      "deleted_at": "2026-09-03T15:06:31",
       "depth_measure": "0.00",
-      "description": "                                Monoambiente en Alquiler – Pueyrredón 3445, 6°C            \n        \n Ubicación: Contrafrente Superficie: Ideal para quienes buscan un espacio cómodo y funcional Ambiente: Monoambiente amplio y luminoso Piso: 6° piso, asegurando tranquilidad y privacidad\n Características:\nCocina integradaBaño completoVentanal con buena entrada de luz natural con salida al balcón.\nZona: Ubicado en una zona estratégica, con acceso a múltiples medios de transporte y cerca de comercios.\nEl edificio cuenta con un hermoso lugar con espacios comunes, terraza verde y parrilla\n¡No pierdas la oportunidad de visitarlo y conocer tu próximo hogar! Para más información o para coordinar una visita, contáctanos.\n\n\nCondiciones:\n*- Contrato por dos años*-Ajuste trimestral por ICL*-Garantía : Propietaria*-Mascota: Pequeña \n\n\n            \r\n\r\n            ",
+      "description": "                                                Monoambiente en Alquiler – Pueyrredón 3445, 6°C            \n        \n Ubicación: Contrafrente Ambiente: Monoambiente amplio y luminoso Piso: 6° piso, asegurando tranquilidad y privacidad\n Características:\nCocina integradaBaño completoVentanal con buena entrada de luz natural con salida al balcón.\nZona: Ubicado en una zona estratégica, con acceso a múltiples medios de transporte y cerca de comercios.\nEl edificio cuenta con un hermoso lugar con espacios comunes, terraza verde y parrilla\n¡No pierdas la oportunidad de visitarlo y conocer tu próximo hogar! Para más información o para coordinar una visita, contáctanos.\n\n\nCondiciones:\n*- Contrato por dos años*-Ajuste trimestral por ICL*-Garantía : Propietaria*-Mascota: Pequeña \n\n\n            \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -51338,7 +52360,7 @@
       "quality_level": null,
       "real_address": "ALQUILER - Pueyrredon 3445 6°C",
       "reference_code": "DAP6456184",
-      "rich_description": "                                Monoambiente en Alquiler – Pueyrredón 3445, 6°C            <br>        <div><br></div><div>&nbsp;Ubicación: Contrafrente</div><div>&nbsp;Superficie: Ideal para quienes buscan un espacio cómodo y funcional</div><div>&nbsp;Ambiente: Monoambiente amplio y luminoso</div><div>&nbsp;Piso: 6° piso, asegurando tranquilidad y privacidad</div><div><br></div><div>&nbsp;Características:</div><div><br></div><div>Cocina integrada</div><div>Baño completo</div><div>Ventanal con buena entrada de luz natural con salida al balcón.</div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">Zona: Ubicado en una zona estratégica, con acceso a múltiples medios de transporte y cerca de comercios.</span></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">El edificio cuenta con un hermoso lugar con espacios comunes, terraza verde y parrilla</span></div><div><br></div><div><span style=\"font-weight: bold;\">¡No pierdas la oportunidad de visitarlo y conocer tu próximo hogar! Para más información o para coordinar una visita, contáctanos.</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Condiciones:</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div>*- Contrato por dos años</div><div>*-Ajuste trimestral por ICL</div><div>*-Garantía : Propietaria</div><div>*-Mascota: Pequeña&nbsp;</div><div><br></div><br><br>            \r\n\r\n            ",
+      "rich_description": "                                                Monoambiente en Alquiler – Pueyrredón 3445, 6°C            <br>        <div><br></div><div>&nbsp;Ubicación: Contrafrente</div><div>&nbsp;Ambiente: Monoambiente amplio y luminoso</div><div>&nbsp;Piso: 6° piso, asegurando tranquilidad y privacidad</div><div><br></div><div>&nbsp;<span style=\"font-weight: bold;\">Características:</span></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">Cocina integrada</span></div><div>Baño completo</div><div>Ventanal con buena entrada de luz natural con salida al balcón.</div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">Zona: Ubicado en una zona estratégica, con acceso a múltiples medios de transporte y cerca de comercios.</span></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">El edificio cuenta con un hermoso lugar con espacios comunes, terraza verde y parrilla</span></div><div><br></div><div><span style=\"font-weight: bold;\">¡No pierdas la oportunidad de visitarlo y conocer tu próximo hogar! Para más información o para coordinar una visita, contáctanos.</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Condiciones:</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div>*- Contrato por dos años</div><div>*-Ajuste trimestral por ICL</div><div>*-Garantía : Propietaria</div><div>*-Mascota: Pequeña&nbsp;</div><div><br></div><br><br>            <br><br>            \r\n\r\n            ",
       "roofed_surface": "40.00",
       "room_amount": 1,
       "semiroofed_surface": "6.00",
@@ -51446,8 +52468,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-02T10:18:17.264Z",
-      "enhanced_description": "<h3>Monoambiente en Alquiler – Pueyrredón 3445, 6°C</h3>\n\n<h3>Ubicación</h3>\n<p>Contrafrente, ubicado en una zona estratégica con acceso a múltiples medios de transporte y cerca de comercios.</p>\n\n<h3>Características del Ambiente</h3>\n<ul>\n<li>Monoambiente amplio y luminoso</li>\n<li>Cocina integrada</li>\n<li>Baño completo</li>\n<li>Ventanal con buena entrada de luz natural</li>\n<li>Salida al balcón</li>\n<li>Piso 6°, asegurando tranquilidad y privacidad</li>\n</ul>\n\n<h3>Superficie</h3>\n<p>Ideal para quienes buscan un espacio cómodo y funcional.</p>\n\n<h3>Amenidades del Edificio</h3>\n<ul>\n<li>Espacios comunes</li>\n<li>Terraza verde</li>\n<li>Parrilla</li>\n</ul>\n\n<h3>Condiciones de Alquiler</h3>\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Garantía: Propietaria</li>\n<li>Mascota: Pequeña permitida</li>\n</ul>\n\n<p>No pierdas la oportunidad de visitarlo y conocer tu próximo hogar. Para más información o para coordinar una visita, contáctanos.</p>"
+      "_last_changed": "2026-09-04T10:16:23.797Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Contrafrente en Pueyrredón 3445, 6°C. Ubicado en una zona estratégica, con acceso a múltiples medios de transporte y cerca de comercios.</p>\n\n<h3>Características del Inmueble</h3>\n<ul>\n<li>Monoambiente amplio y luminoso</li>\n<li>6° piso, asegurando tranquilidad y privacidad</li>\n<li>Cocina integrada</li>\n<li>Baño completo</li>\n<li>Ventanal con buena entrada de luz natural con salida al balcón</li>\n</ul>\n\n<h3>Amenities del Edificio</h3>\n<ul>\n<li>Espacios comunes</li>\n<li>Terraza verde</li>\n<li>Parrilla</li>\n</ul>\n\n<h3>Condiciones de Alquiler</h3>\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Garantía: Propietaria</li>\n<li>Mascota: Pequeña permitida</li>\n</ul>"
     },
     {
       "address": "ALQUILER Lincoln al 3967 1° B - San Martin",
@@ -67138,7 +68160,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-05T14:55:26",
+      "deleted_at": "2026-09-03T20:32:10",
       "depth_measure": "0.00",
       "description": "                                                    Oportunidad! Moderno Departamento de 2 Ambientes con Balcón y Parrilla – \n\n\n¡Descubrí tu próximo hogar!\nEste luminoso y moderno departamento de 2 ambientes ubicado en el 5° piso... ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.\n\n\nCaracterísticas Principales:\n •\tSuperficie total: 56,3 m²\n •\tDormitorio: 1 amplio dormitorio con placard.\n •\tCocina: Totalmente equipada .-\n •\tLiving-Comedor:  Espacioso y con excelente entrada de luz natural.\n •\tBalcón:  con parrilla\n •\tBaño: Moderno, completo y funcional.\n\n\n¡No dejes pasar esta oportunidad!\nContáctanos para más información .-\n\n\n\n\n\n\n        \n        \n        \r\n            ",
       "development": {
@@ -67648,53 +68670,43 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6918798_34200525234739852156532318593780398223139812760501151351166324188750369039650.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/6918798_34200525234739852156532318593780398223139812760501151351166324188750369039650.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6918798_34200525234739852156532318593780398223139812760501151351166324188750369039650_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6918798_89707702197301881160705972518531467228416893857797616717618829817129998439203.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/6918798_89707702197301881160705972518531467228416893857797616717618829817129998439203.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6918798_89707702197301881160705972518531467228416893857797616717618829817129998439203_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6918798_71032990357927122567608205837535114808772638273567569540105435051838658010427.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6918798_22598753531405551035421394164552695181229304476203823302680906505675555291157.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/6918798_71032990357927122567608205837535114808772638273567569540105435051838658010427.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6918798_71032990357927122567608205837535114808772638273567569540105435051838658010427_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6918798_2259875353140555103542139416455269518122930447620382330268090650567555.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6918798_22598753531405551035421394164552695181229304476203823302680906505675555291157_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6918798_22598753531405551035421394164552695181229304476203823302680906505675555291157_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6918798_115004063656392238968972091086472488119600754935527409101668663277015804523467.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6918798_52449933532821894593999415023381090352035830934954029251605218442601211673705.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/6918798_115004063656392238968972091086472488119600754935527409101668663277015804523467.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6918798_115004063656392238968972091086472488119600754935527409101668663277015804523467_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6918798_5244993353282189459399941502338109035203583093495402925160521844260121.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6918798_52449933532821894593999415023381090352035830934954029251605218442601211673705_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6918798_52449933532821894593999415023381090352035830934954029251605218442601211673705_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6918798_48698730347698238911407749378319906390849369603544887199917432251578555317859.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6918798_102520683672955289899493792077389161720324203499028141263800009520005334926698.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/6918798_48698730347698238911407749378319906390849369603544887199917432251578555317859.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6918798_48698730347698238911407749378319906390849369603544887199917432251578555317859_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6918798_1025206836729552898994937920773891617203242034990281412638000095200053.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6918798_102520683672955289899493792077389161720324203499028141263800009520005334926698_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6918798_102520683672955289899493792077389161720324203499028141263800009520005334926698_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6918798_1036300191468920775826727465833530356349186960244495635554945670644320287611.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/6918798_1036300191468920775826727465833530356349186960244495635554945670644320.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6918798_1036300191468920775826727465833530356349186960244495635554945670644320287611_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6918798_1036300191468920775826727465833530356349186960244495635554945670644320287611_thum.jpg"
         }
       ],
       "portal_footer": "",
@@ -67785,7 +68797,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Oportunidad: Moderno Departamento de 2 Ambientes con Balcón y Parrilla</h3>\n\n<p>Descubrí tu próximo hogar. Este luminoso y moderno departamento de 2 ambientes ubicado en el 5° piso ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Superficie total: 56,3 m²</li>\n<li>Dormitorio: 1 amplio dormitorio con placard</li>\n<li>Cocina: Totalmente equipada</li>\n<li>Living-Comedor: Espacioso y con excelente entrada de luz natural</li>\n<li>Balcón: con parrilla</li>\n<li>Baño: Moderno, completo y funcional</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Contáctanos para más información.</p>"
     },
     {
@@ -70368,7 +71380,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-07-21T14:34:36",
+      "deleted_at": "2026-09-03T20:32:36",
       "depth_measure": "0.00",
       "description": "Oportunidad! Moderno Departamento de 2 Ambientes con Balcón y Parrilla .-\n            \r\n        \r\n\r\n\r\n¡Descubrí tu próximo hogar!\n\r\nEste luminoso y moderno departamento de 2 ambientes ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.\r\n\nCaracterísticas Principales:\n\r\n • Superficie total: 56,3 m²\r\n • Dormitorio: 1 amplio dormitorio con placard.\r\n • Cocina: Totalmente equipada .-\r\n • Living-Comedor:  Espacioso y con excelente entrada de luz natural.\r\n • Balcón:  con parrilla\r\n • Baño: Moderno, completo y funcional.\r\n\n¡No dejes pasar esta oportunidad!\r\nContáctanos para más información .-\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n",
       "development": {
@@ -70878,63 +71890,43 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6990045_47857404573884274589522903178871193794329962171209533682575415819228417835206.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/6990045_47857404573884274589522903178871193794329962171209533682575415819228417835206.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6990045_47857404573884274589522903178871193794329962171209533682575415819228417835206_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6990045_16869547203747889003138717786839807260373261753782404007899437357667030010949.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/6990045_16869547203747889003138717786839807260373261753782404007899437357667030010949.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6990045_16869547203747889003138717786839807260373261753782404007899437357667030010949_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6990045_101839809082555338075408334717542388583063242230025688507323704913026468709876.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/6990045_101839809082555338075408334717542388583063242230025688507323704913026468709876.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6990045_101839809082555338075408334717542388583063242230025688507323704913026468709876_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6990045_73316977362557338810556121365103037079923589946110257535010807644502709450361.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6990045_11635899410589503957168731171873405701353275986578791941564208049717132608211.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/6990045_73316977362557338810556121365103037079923589946110257535010807644502709450361.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6990045_73316977362557338810556121365103037079923589946110257535010807644502709450361_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6990045_1163589941058950395716873117187340570135327598657879194156420804971713.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6990045_11635899410589503957168731171873405701353275986578791941564208049717132608211_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6990045_11635899410589503957168731171873405701353275986578791941564208049717132608211_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6990045_110780616179880631248516160950174843864430822480631326640450960780884909284937.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/6990045_110780616179880631248516160950174843864430822480631326640450960780884909284937.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6990045_110780616179880631248516160950174843864430822480631326640450960780884909284937_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6990045_54123596735537534168676564161376537496420271061229228017543265974253743833110.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6990045_6907813851042089441066190716285132422749986991967961515668990076359184816154.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/6990045_54123596735537534168676564161376537496420271061229228017543265974253743833110.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6990045_54123596735537534168676564161376537496420271061229228017543265974253743833110_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6990045_6907813851042089441066190716285132422749986991967961515668990076359184.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6990045_6907813851042089441066190716285132422749986991967961515668990076359184816154_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6990045_6907813851042089441066190716285132422749986991967961515668990076359184816154_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6990045_51610693970322622698194900957337346419481223691570711150527643242416265318904.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6990045_5161069397032262269819490095733734641948122369157071115052764324241626.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6990045_51610693970322622698194900957337346419481223691570711150527643242416265318904_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6990045_51610693970322622698194900957337346419481223691570711150527643242416265318904_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6990045_45595413483205170688795691833217609408975781172987874500947430383006199588899.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/6990045_4559541348320517068879569183321760940897578117298787450094743038300619.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6990045_45595413483205170688795691833217609408975781172987874500947430383006199588899_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6990045_45595413483205170688795691833217609408975781172987874500947430383006199588899_thu.jpg"
         }
       ],
       "portal_footer": "",
@@ -71025,7 +72017,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Oportunidad: Moderno Departamento de 2 Ambientes con Balcón y Parrilla</h3>\n\n<p>Descubrí tu próximo hogar. Este luminoso y moderno departamento de 2 ambientes ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Superficie total: 56,3 m²</li>\n<li>Dormitorio: 1 amplio dormitorio con placard</li>\n<li>Cocina: Totalmente equipada</li>\n<li>Living-Comedor: Espacioso y con excelente entrada de luz natural</li>\n<li>Balcón: Con parrilla</li>\n<li>Baño: Moderno, completo y funcional</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Contáctanos para más información.</p>"
     },
     {
@@ -72919,7 +73911,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-11T15:55:03",
+      "deleted_at": "2026-09-03T20:30:59",
       "depth_measure": "0.00",
       "description": "                Oportunidad! Moderno Departamento de 2 Ambientes con Balcón y Parrilla –\n ¡Descubrí tu próximo hogar!\nEste luminoso y moderno departamento de 2 ambientes ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.\nCaracterísticas Principales:\n • Superficie total: 56,3 m² • Dormitorio: 1 amplio dormitorio con placard. • Cocina: Totalmente equipada .- • Living-Comedor:  Espacioso y con excelente entrada de luz natural. • Balcón:  con parrilla • Baño: Moderno, completo y funcional.\n¡No dejes pasar esta oportunidad!Contáctanos para más información .-\n\n\r\n            ",
       "development": {
@@ -73429,26 +74421,6 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7009393_69408602169400585659592934550003827334304480484887126298642599357437261185226.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/7009393_69408602169400585659592934550003827334304480484887126298642599357437261185226.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7009393_69408602169400585659592934550003827334304480484887126298642599357437261185226_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7009393_11388198665324607129065343255122672275269147877479460908311164014521310186856.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/7009393_11388198665324607129065343255122672275269147877479460908311164014521310186856.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7009393_11388198665324607129065343255122672275269147877479460908311164014521310186856_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/7009393_95865978848365327818154189197163156849750054380051537807356644446016766420547.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
@@ -73469,23 +74441,43 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7009393_37323015874538082715172226947375050384041280213661364647003655147443778096701.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7009393_20529350311369124868770876485776718767176905599977220639680008257728539718861.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/7009393_37323015874538082715172226947375050384041280213661364647003655147443778096701.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7009393_37323015874538082715172226947375050384041280213661364647003655147443778096701_thumb.jpg"
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/7009393_2052935031136912486877087648577671876717690559997722063968000825772853.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7009393_20529350311369124868770876485776718767176905599977220639680008257728539718861_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7009393_20529350311369124868770876485776718767176905599977220639680008257728539718861_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7009393_7201999441382876049784852880842943374051917484752831154440883995386470272892.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7009393_30729345568500482684281839460857929184245580939379272855463259094083054236820.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/7009393_7201999441382876049784852880842943374051917484752831154440883995386470272892.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7009393_7201999441382876049784852880842943374051917484752831154440883995386470272892_thumb.jpg"
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/7009393_3072934556850048268428183946085792918424558093937927285546325909408305.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7009393_30729345568500482684281839460857929184245580939379272855463259094083054236820_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7009393_30729345568500482684281839460857929184245580939379272855463259094083054236820_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7009393_28463638187526404848510914081088426581368587457840749739471763056338266945005.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/7009393_2846363818752640484851091408108842658136858745784074973947176305633826.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7009393_28463638187526404848510914081088426581368587457840749739471763056338266945005_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7009393_28463638187526404848510914081088426581368587457840749739471763056338266945005_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7009393_26000017165902281127518993994020190221087761898976331127212805718689031365993.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/7009393_2600001716590228112751899399402019022108776189897633112721280571868903.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7009393_26000017165902281127518993994020190221087761898976331127212805718689031365993_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7009393_26000017165902281127518993994020190221087761898976331127212805718689031365993_thu.jpg"
         }
       ],
       "portal_footer": "",
@@ -73621,7 +74613,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Este luminoso y moderno departamento de 2 ambientes ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Superficie total: 56,3 m²</li>\n<li>Dormitorio: 1 amplio dormitorio con placard</li>\n<li>Cocina: Totalmente equipada</li>\n<li>Living-Comedor: Espacioso y con excelente entrada de luz natural</li>\n<li>Balcón: Con parrilla</li>\n<li>Baño: Moderno, completo y funcional</li>\n</ul>"
     },
     {
@@ -75621,6 +76613,46 @@
           "original": "https://static.tokkobroker.com/original_pictures/7146915_9914569243867835837737842531372762742437026340705796860298714374656236083599.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7146915_9914569243867835837737842531372762742437026340705796860298714374656236083599_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7146915_70332653663255701771378367448864265625203748601439650343717029016849043129216.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/7146915_7033265366325570177137836744886426562520374860143965034371702901684904.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7146915_70332653663255701771378367448864265625203748601439650343717029016849043129216_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7146915_70332653663255701771378367448864265625203748601439650343717029016849043129216_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7146915_4023906953936490161804620538113549326231739554065375852251490189822645830950.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/7146915_4023906953936490161804620538113549326231739554065375852251490189822645.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7146915_4023906953936490161804620538113549326231739554065375852251490189822645830950_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7146915_4023906953936490161804620538113549326231739554065375852251490189822645830950_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7146915_83423306375997181182574696427125703224772389553302871597602796334689877464906.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/7146915_8342330637599718118257469642712570322477238955330287159760279633468987.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7146915_83423306375997181182574696427125703224772389553302871597602796334689877464906_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7146915_83423306375997181182574696427125703224772389553302871597602796334689877464906_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7146915_105688526767841830965206439053841035029432506081384016407918041371853534015560.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/7146915_1056885267678418309652064390538410350294325060813840164079180413718535.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7146915_105688526767841830965206439053841035029432506081384016407918041371853534015560_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7146915_105688526767841830965206439053841035029432506081384016407918041371853534015560_th.jpg"
         }
       ],
       "portal_footer": "",
@@ -75711,7 +76743,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Descripción</h3>\n<p>Descubrí tu próximo hogar. Este luminoso y moderno departamento de 2 ambientes ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorio: 1 amplio dormitorio con placard</li>\n<li>Cocina: Totalmente equipada</li>\n<li>Living-Comedor: Espacioso y con excelente entrada de luz natural</li>\n<li>Balcón: con parrilla</li>\n<li>Baño: Moderno, completo y funcional</li>\n</ul>"
     },
     {
@@ -88074,6 +89106,46 @@
           "original": "https://static.tokkobroker.com/original_pictures/7536339_13408490979636980014177380839581870792787568585580942657324955053923880803757.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7536339_13408490979636980014177380839581870792787568585580942657324955053923880803757_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7536339_106914670241212785446192830675004374013163058986107291458167128762512033408205.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/7536339_1069146702412127854461928306750043740131630589861072914581671287625120.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7536339_106914670241212785446192830675004374013163058986107291458167128762512033408205_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7536339_106914670241212785446192830675004374013163058986107291458167128762512033408205_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7536339_93067243550404595747178810728272542775287897176338224337539116342292216969664.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/7536339_9306724355040459574717881072827254277528789717633822433753911634229221.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7536339_93067243550404595747178810728272542775287897176338224337539116342292216969664_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7536339_93067243550404595747178810728272542775287897176338224337539116342292216969664_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7536339_105606864517193181717862730318781546676034091730918502902772493294232263527736.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/7536339_1056068645171931817178627303187815466760340917309185029027724932942322.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7536339_105606864517193181717862730318781546676034091730918502902772493294232263527736_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7536339_105606864517193181717862730318781546676034091730918502902772493294232263527736_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7536339_70946452567452067992323481111760298371376780138603044569469437360526568905761.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/7536339_7094645256745206799232348111176029837137678013860304456946943736052656.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7536339_70946452567452067992323481111760298371376780138603044569469437360526568905761_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7536339_70946452567452067992323481111760298371376780138603044569469437360526568905761_thu.jpg"
         }
       ],
       "portal_footer": "",
@@ -88199,7 +89271,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Descubrí tu próximo hogar. Este luminoso y moderno departamento de 2 ambientes ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorio: 1 amplio dormitorio con placard</li>\n<li>Cocina: Totalmente equipada</li>\n<li>Living-Comedor: Espacioso y con excelente entrada de luz natural</li>\n<li>Balcón: con parrilla</li>\n<li>Baño: Moderno, completo y funcional</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Contáctanos para más información.</p>"
     },
     {
@@ -88244,7 +89316,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-05T14:52:39",
+      "deleted_at": "2026-09-03T15:47:39",
       "depth_measure": "0.00",
       "description": "Presentamos este edificio en construcción sobre calle Tucumán 2366, Ubicado en el corazón de San Martín, a 4 cuadras del centro comercial ,salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\nModerno Monoambiente con Balcón y Parrilla - Muy Luminoso\n\nLa unidad publicada corresponde a un monoambiente , diseñado para ofrecer comodidad y estilo en un espacio funcional y bien distribuido.Este departamento es ideal para quienes buscan un hogar práctico y acogedor.\nCaracterísticas: \nAbiente: Monoambiente amplio y luminosoCocina: Hermosa cocina con muebles altos y bajos.Living y Comedor: Integrado, creando un espacio abierto y cómodoBalcón: Con parrilla, ideal para disfrutar de momentos al aire libre.\nVentajas Adicionales:Luminosidad: Grandes ventanales que permiten una excelente entrada de luz naturalDiseño Funcional: Espacios diseñados para maximizar el confort y la practicidadExcelente Ubicación: Cercano a transporte público, centros comerciales y otros puntos de interés\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita\nDetalles generales del edificio:\n• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini• Aberturas de aluminio DVH (Doble Vidrio Hermético)• Pisos porcelanato de primera calidad• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral• Departamentos con parrilla exclusiva en balcón• Cielorrasos en yeso armado o aplicado según corresponda• Paredes interiores con terminación en yeso• Puertas interiores placa• Instalación de agua fría y caliente en termofusión• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo• Equipamiento de cocina completo enchapados en melamina• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV• Instalación para la colocación de Aire Acondicionado en estar y dormitorio• Cañerías (vacías) para instalación cable y teléfono• Portero eléctrico con cámara visor\n                \r\n            ",
       "development": {
@@ -88813,7 +89885,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 60000
+              "price": 80000
             }
           ]
         }
@@ -88825,9 +89897,19 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7547140_105870461758810170737683824696109917266045586465595591346007902912922046480854.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7547140_45030357543254307737823255422693733864272825108145111429880802732465740935624.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/7547140_45030357543254307737823255422693733864272825108145111429880802732465740935624.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7547140_45030357543254307737823255422693733864272825108145111429880802732465740935624_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7547140_45030357543254307737823255422693733864272825108145111429880802732465740935624_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7547140_105870461758810170737683824696109917266045586465595591346007902912922046480854.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
           "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7547140_105870461758810170737683824696109917266045586465595591346007902912922046480854.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/112311507_og.jpg",
@@ -88882,16 +89964,6 @@
           "original": "https://static.tokkobroker.com/original_pictures/7547140_93093245868607590585253170430486073121122592508717938135959589216994800325626.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7547140_93093245868607590585253170430486073121122592508717938135959589216994800325626_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7547140_93093245868607590585253170430486073121122592508717938135959589216994800325626_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7547140_45030357543254307737823255422693733864272825108145111429880802732465740935624.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/7547140_45030357543254307737823255422693733864272825108145111429880802732465740935624.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7547140_45030357543254307737823255422693733864272825108145111429880802732465740935624_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7547140_45030357543254307737823255422693733864272825108145111429880802732465740935624_thumb.jpg"
         },
         {
           "description": null,
@@ -88999,7 +90071,7 @@
       "public_url": "https://ficha.info/p/eFPwedDQspKZ3a",
       "publication_title": "Departamento en General San Martin",
       "quality_level": null,
-      "real_address": "Tucuman 2366 5° B",
+      "real_address": "Tucuman 2366 5° B - San Martin",
       "reference_code": "DAP7547140",
       "rich_description": "Presentamos este edificio en construcción sobre calle Tucumán 2366, Ubicado en el corazón de San Martín, a 4 cuadras del centro comercial ,salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<div><br></div><div><br></div><div><span style=\"font-size: 14px;\">Moderno Monoambiente con Balcón y Parrilla - Muy Luminoso</span></div><div><br></div><div><br></div><div>La unidad publicada corresponde a un monoambiente , diseñado para ofrecer comodidad y estilo en un espacio funcional y bien distribuido.</div><div>Este departamento es ideal para quienes buscan un hogar práctico y acogedor.</div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Características: </span></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">A</span><span style=\"font-size: 14px;\">biente: Monoambiente amplio y luminoso</span></div><div>Cocina: Hermosa cocina con muebles altos y bajos.</div><div>Living y Comedor: Integrado, creando un espacio abierto y cómodo</div><div>Balcón: Con parrilla, ideal para disfrutar de momentos al aire libre.</div><div><br></div><div>Ventajas Adicionales:</div><div>Luminosidad: Grandes ventanales que permiten una excelente entrada de luz natural</div><div>Diseño Funcional: Espacios diseñados para maximizar el confort y la practicidad</div><div>Excelente Ubicación: Cercano a transporte público, centros comerciales y otros puntos de interés</div><div><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita</span></div><div><br></div><div><span style=\"font-weight: bold;\">Detalles generales del edificio:</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div>• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO</div><div>• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini</div><div>• Aberturas de aluminio DVH (Doble Vidrio Hermético)</div><div>• Pisos porcelanato de primera calidad</div><div>• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral</div><div>• Departamentos con parrilla exclusiva en balcón</div><div>• Cielorrasos en yeso armado o aplicado según corresponda</div><div>• Paredes interiores con terminación en yeso</div><div>• Puertas interiores placa</div><div>• Instalación de agua fría y caliente en termofusión</div><div>• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.</div><div>• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</div><div>• Equipamiento de cocina completo enchapados en melamina</div><div>• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV</div><div>• Instalación para la colocación de Aire Acondicionado en estar y dormitorio</div><div>• Cañerías (vacías) para instalación cable y teléfono</div><div>• Portero eléctrico con cámara visor</div><div><br></div>                \r\n            ",
       "roofed_surface": "0.00",
@@ -89092,7 +90164,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio en construcción sobre calle Tucumán 2366, ubicado en el corazón de San Martín, a 4 cuadras del centro comercial, con salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>La Unidad</h3>\n<p>Moderno monoambiente con balcón y parrilla, muy luminoso. Diseñado para ofrecer comodidad y estilo en un espacio funcional y bien distribuido. Ideal para quienes buscan un hogar práctico y acogedor.</p>\n\n<h3>Características del Departamento</h3>\n<ul>\n<li>Monoambiente amplio y luminoso</li>\n<li>Cocina hermosa con muebles altos y bajos</li>\n<li>Living y comedor integrado, creando un espacio abierto y cómodo</li>\n<li>Balcón con parrilla, ideal para disfrutar de momentos al aire libre</li>\n<li>Grandes ventanales que permiten excelente entrada de luz natural</li>\n<li>Espacios diseñados para maximizar confort y practicidad</li>\n</ul>\n\n<h3>Detalles Constructivos</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco</li>\n<li>Estructura de hormigón armado</li>\n<li>Terminaciones exteriores con revoque pintado y pintura plástica tipo Tarquini</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético)</li>\n<li>Pisos en porcelanato de primera calidad</li>\n<li>Balcón interno con pisos cerámicos de primera calidad y zócalo perimetral</li>\n<li>Departamentos con parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores en placa</li>\n</ul>\n\n<h3>Instalaciones</h3>\n<ul>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. Si la empresa distribuidora de gas natural provee suministro al edificio, estos serán cambiados por cocina a gas y termo a gas</li>\n<li>Equipamiento de cocina completo enchapado en melamina</li>\n<li>Mesada de cocina en granito, pileta de acero inoxidable y grifería monocomando FV</li>\n<li>Baño con mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Instalación para colocación de aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para instalación de cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>"
     },
     {
@@ -92149,10 +93221,10 @@
       "enhanced_description": "<h3>Nuevo lanzamiento en San Martín</h3>\n\n<p>Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín</p>\n\n<p>Presentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.</p>\n\n<h3>Tipologías disponibles</h3>\n\n<ul>\n<li>3 ambientes – 76 m²</li>\n<li>2 ambientes – 45 m²</li>\n</ul>\n\n<h3>Características de las unidades</h3>\n\n<ul>\n<li>Dormitorios luminosos con placard de piso a techo</li>\n<li>Living-comedor amplio, ideal para el confort diario</li>\n<li>Cocina equipada, moderna y funcional</li>\n<li>Balcón con parrilla privada, para disfrutar al aire libre</li>\n</ul>\n\n<h3>Cercanías destacadas</h3>\n\n<ul>\n<li>UNSAM</li>\n<li>Estación San Martín – Tren Mitre</li>\n<li>Sanatorio Anchorena</li>\n<li>Municipalidad, bancos y zona comercial</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Consultanos y armamos un plan de pago a medida de tus necesidades. Una excelente oportunidad para vivir o invertir en pleno San Martín.</p>"
     },
     {
-      "address": "Cerrito al 2200",
+      "address": "Cerrito al 2200 4° C",
       "address_complement": "",
       "age": -1,
-      "apartment_door": "B",
+      "apartment_door": "C",
       "appartments_per_floor": 3,
       "bathroom_amount": 1,
       "block_number": "",
@@ -92190,7 +93262,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-04T17:51:25",
+      "deleted_at": "2026-09-03T18:07:45",
       "depth_measure": "0.00",
       "description": "Nuevo lanzamiento en San Martín  Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín\nPresentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.\n Tipologías disponibles\t•\t3 ambientes – 76 m²\t•\t2 ambientes – 45 m²\n\n Características de las unidades\n\t•\tDormitorios luminosos con placard de piso a techo\t•\tLiving-comedor amplio, ideal para el confort diario\t•\tCocina equipada, moderna y funcional\t•\tBalcón con parrilla privada, para disfrutar al aire libre\n\n\n Cercanías destacadas\n* UNSAM* Estación San Martín – Tren Mitre* Sanatorio Anchorena* Municipalidad, bancos y zona comercial\n\n\n Detalles generales del proyecto\n\t•\tMamposterías divisorias entre unidades en ladrillo cerámico hueco\t•\tMuros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado\t•\tTerminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad\t•\tAberturas de aluminio con DVH (Doble Vidrio Hermético)\t•\tPisos de porcelanato rectificado de primera calidad\t•\tDormitorios con porcelanato símil madera y frente de placard de 2 puertas\t•\tCielorrasos en yeso armado o aplicado\t•\tParedes interiores con terminación en yeso\t•\tPuertas interiores placa MDF\t•\tInstalaciones de agua fría y caliente por termofusión\t•Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).•\tBaños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo\t•\tCocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave\t•\tMesada de granito, pileta de acero inoxidable y grifería monocomando\t•\tPreinstalación para aire acondicionado en estar y dormitorio\t•\tCañerías vacías para TV por cable\t•\tPortero eléctrico con cámara visor\n\n\n Consúltanos y armamos un plan de pago a medida de tus necesidades.Una excelente oportunidad para vivir o invertir en pleno San Martín.\n                \r\n            ",
       "development": {
@@ -92618,10 +93690,10 @@
       "down_payment": "0.00",
       "expenses": 0,
       "extra_attributes": [],
-      "fake_address": "Cerrito al 2200",
+      "fake_address": "Cerrito al 2200 4° C",
       "files": [],
       "fire_insurance_cost": "0.00",
-      "floor": "1",
+      "floor": "4",
       "floors_amount": 9,
       "front_measure": "0.00",
       "geo_lat": "-34.5736885",
@@ -92870,7 +93942,7 @@
       "public_url": "https://ficha.info/p/eGxgtdDQsp6Saa",
       "publication_title": "Departamento en General San Martin",
       "quality_level": null,
-      "real_address": "Cerrito 2278 1° C - San Martin",
+      "real_address": "Cerrito 2278 4° C - San Martin",
       "reference_code": "DAP7715299",
       "rich_description": "Nuevo lanzamiento en San Martín&nbsp;<div><span style=\"font-weight: bold;\">&nbsp;Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín</span></div><div><br></div><div>Presentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.</div><div><br></div><div>&nbsp;Tipologías disponibles</div><div>\t•\t3 ambientes – 76 m²</div><div>\t•\t2 ambientes – 45 m²</div><div><br></div><div><br></div><div>&nbsp;<span style=\"font-weight: bold; text-decoration-line: underline;\">Características de las unidades</span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div>\t•\tDormitorios luminosos con placard de piso a techo</div><div>\t•\tLiving-comedor amplio, ideal para el confort diario</div><div>\t•\tCocina equipada, moderna y funcional</div><div>\t•\tBalcón con parrilla privada, para disfrutar al aire libre</div><div><br></div><div><br></div><div><br></div><div>&nbsp;<span style=\"font-weight: bold;\">Cercanías destacadas</span></div><div><br></div><div>* UNSAM</div><div>* Estación San Martín – Tren Mitre</div><div>* Sanatorio Anchorena</div><div>* Municipalidad, bancos y zona comercial</div><div><br></div><div><br></div><div><br></div><div>&nbsp;<span style=\"font-weight: bold; text-decoration-line: underline;\">Detalles generales del proyecto</span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div>\t•\tMamposterías divisorias entre unidades en ladrillo cerámico hueco</div><div>\t•\tMuros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</div><div>\t•\tTerminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</div><div>\t•\tAberturas de aluminio con DVH (Doble Vidrio Hermético)</div><div>\t•\tPisos de porcelanato rectificado de primera calidad</div><div>\t•\tDormitorios con porcelanato símil madera y frente de placard de 2 puertas</div><div>\t•\tCielorrasos en yeso armado o aplicado</div><div>\t•\tParedes interiores con terminación en yeso</div><div>\t•\tPuertas interiores placa MDF</div><div>\t•\tInstalaciones de agua fría y caliente por termofusión</div><div>\t•Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).</div><div><span style=\"font-size: 14px;\">•\tBaños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</span></div><div>\t•\tCocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</div><div>\t•\tMesada de granito, pileta de acero inoxidable y grifería monocomando</div><div>\t•\tPreinstalación para aire acondicionado en estar y dormitorio</div><div>\t•\tCañerías vacías para TV por cable</div><div>\t•\tPortero eléctrico con cámara visor</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">&nbsp;Consúltanos y armamos un plan de pago a medida de tus necesidades.</span></div><div><span style=\"font-weight: bold;\">Una excelente oportunidad para vivir o invertir en pleno San Martín.</span></div><div><br></div>                \r\n            ",
       "roofed_surface": "40.00",
@@ -92963,7 +94035,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Nuevo lanzamiento en San Martín</h3>\n\n<p>Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín</p>\n\n<p>Presentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.</p>\n\n<h3>Tipologías disponibles</h3>\n\n<ul>\n<li>3 ambientes – 76 m²</li>\n<li>2 ambientes – 45 m²</li>\n</ul>\n\n<h3>Características de las unidades</h3>\n\n<ul>\n<li>Dormitorios luminosos con placard de piso a techo</li>\n<li>Living-comedor amplo, ideal para el confort diario</li>\n<li>Cocina equipada, moderna y funcional</li>\n<li>Balcón con parrilla privada, para disfrutar al aire libre</li>\n</ul>\n\n<h3>Cercanías destacadas</h3>\n\n<ul>\n<li>UNSAM</li>\n<li>Estación San Martín – Tren Mitre</li>\n<li>Sanatorio Anchorena</li>\n<li>Municipalidad, bancos y zona comercial</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas)</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Consúltanos y armamos un plan de pago a medida de tus necesidades. Una excelente oportunidad para vivir o invertir en pleno San Martín.</p>"
     },
     {
@@ -112846,6 +113918,46 @@
           "original": "https://static.tokkobroker.com/original_pictures/8641983_63232371172007459504961609976789530622155491693562952696866688808427109194767.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/8641983_63232371172007459504961609976789530622155491693562952696866688808427109194767_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/8641983_63232371172007459504961609976789530622155491693562952696866688808427109194767_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/8641983_45322960820667116028120244611377356770974008515727080152998793517689290414528.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/8641983_4532296082066711602812024461137735677097400851572708015299879351768929.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/8641983_45322960820667116028120244611377356770974008515727080152998793517689290414528_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/8641983_45322960820667116028120244611377356770974008515727080152998793517689290414528_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/8641983_30164986067724141567644147488333512679416707987661256338756788277024486215900.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/8641983_3016498606772414156764414748833351267941670798766125633875678827702448.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/8641983_30164986067724141567644147488333512679416707987661256338756788277024486215900_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/8641983_30164986067724141567644147488333512679416707987661256338756788277024486215900_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/8641983_6154417516466866738449412520750557007340861740757339014046757493198928456378.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/8641983_6154417516466866738449412520750557007340861740757339014046757493198928.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/8641983_6154417516466866738449412520750557007340861740757339014046757493198928456378_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/8641983_6154417516466866738449412520750557007340861740757339014046757493198928456378_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/8641983_21264300082271048546231697122657771598782988745807410205722059454234663019870.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/8641983_2126430008227104854623169712265777159878298874580741020572205945423466.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/8641983_21264300082271048546231697122657771598782988745807410205722059454234663019870_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/8641983_21264300082271048546231697122657771598782988745807410205722059454234663019870_thu.jpg"
         }
       ],
       "portal_footer": "",
@@ -112946,7 +114058,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-09-04T10:16:23.797Z",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Este luminoso y moderno departamento de 2 ambientes ofrece el equilibrio ideal entre confort, diseño y funcionalidad, en una ubicación privilegiada.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorio: 1 amplio dormitorio con placard</li>\n<li>Cocina: Totalmente equipada</li>\n<li>Living-Comedor: Espacioso y con excelente entrada de luz natural</li>\n<li>Balcón: con parrilla</li>\n<li>Baño: Moderno, completo y funcional</li>\n</ul>"
     },
     {
