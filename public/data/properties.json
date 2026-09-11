@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-09-10T10:20:13.212Z"
+    "lastSync": "2026-09-11T10:20:17.498Z"
   },
   "objects": [
     {
@@ -3387,394 +3387,6 @@
       "enhanced_description": "<h3>Excelente departamento de 2 ambientes en Villa Ballester</h3>\n\n<h3>Ubicación</h3>\n<p>Ubicado en Alte. Brown 3370, entre Aristóbulo del Valle y Bolívar, en pleno centro de Villa Ballester. A tan solo 4 cuadras de la estación Villa Ballester del Ferrocarril Mitre y del principal centro comercial de la zona, con una amplia oferta de comercios, servicios y transporte.</p>\n\n<h3>Descripción de la propiedad</h3>\n<p>La propiedad cuenta con 56,03 m², orientación noroeste, lo que le brinda una excelente luminosidad durante gran parte del día.</p>\n\n<p>Dispone de un amplio living-comedor con cocina integrada, equipada con muebles bajo mesada y alacenas. El dormitorio posee placard con interiores completos. Baño completo con bañera.</p>\n\n<p>El gran protagonista de la unidad es su amplio balcón corrido.</p>\n\n<h3>Características</h3>\n<ul>\n<li>2 ambientes al frente</li>\n<li>56 m²</li>\n<li>Orientación noroeste</li>\n<li>Cocina integrada</li>\n<li>Dormitorio con placard e interiores</li>\n<li>Baño completo con bañera</li>\n<li>Balcón corrido</li>\n<li>Excelente calidad constructiva</li>\n</ul>\n\n<p>Una propiedad moderna, luminosa y funcional, ideal para quienes buscan comodidad, ubicación y espacios para disfrutar.</p>"
     },
     {
-      "address": "Almirante Brown al 3100",
-      "address_complement": "",
-      "age": 10,
-      "apartment_door": "",
-      "appartments_per_floor": 0,
-      "bathroom_amount": 1,
-      "block_number": "",
-      "branch": {
-        "address": "Alte Brown 3295",
-        "alternative_phone": "77170405",
-        "alternative_phone_area": "11",
-        "alternative_phone_country_code": "+549",
-        "alternative_phone_extension": "",
-        "branch_type": "Internal",
-        "contact_time": "De Lun a Vie de 10 a 13  y de 14 a 18.30",
-        "created_date": "2018-11-23T15:14:30",
-        "deleted_at": null,
-        "display_name": "Dinal",
-        "email": "info@dinalpropiedades.com",
-        "geo_lat": "-34.554152901810376",
-        "geo_long": "-58.56033015478516",
-        "gm_location_type": "BY_HAND",
-        "id": 7883,
-        "is_default": false,
-        "logo": "https://static.tokkobroker.com/branch_logos/7883/px%20(1).jpg",
-        "name": "Villa Ballester",
-        "pdf_footer_text": "",
-        "phone": "77170405",
-        "phone_area": "011",
-        "phone_country_code": "",
-        "phone_extension": "",
-        "use_pdf_footer": false
-      },
-      "building": "",
-      "cleaning_tax": "0.00",
-      "common_area": "0.00",
-      "covered_parking_lot": 0,
-      "created_at": "2018-12-10T20:08:46",
-      "credit_eligible": "No especificado",
-      "custom1": "0.00",
-      "custom_tags": [],
-      "deleted_at": "2026-04-06T19:58:23",
-      "depth_measure": "0.00",
-      "description": "                        Excelente Monoambiente en Venta – 6° Piso al Contrafrente con Vista Abierta\n\nModerno y luminoso monoambiente con hermosa vista, ubicado a pocas cuadras del centro comercial de Villa Ballester y de la estación de tren Línea Mitre. La zona cuenta con múltiples líneas de colectivo que garantizan una excelente conectividad.\nLa unidad dispone de:\t•\tCocina completa con muebles altos y bajos + barra desayunadora.\t•\tAmplio living comedor con salida al balcón.\t•\tBaño completo.\t•\tBalcón al contrafrente con vista despejada.\n * Actualmente se encuentra alquilado con contrato en curso (ajuste por índice BCRA), ideal para inversores. * Se escucha ofertas razonables.\n\n        \r\n        ",
-      "development": null,
-      "development_excel_extra_data": "[]",
-      "dining_room": 1,
-      "disposition": "Contrafrente",
-      "down_payment": "0.00",
-      "expenses": 55000,
-      "extra_attributes": [],
-      "fake_address": "Almirante Brown al 3100",
-      "files": [],
-      "fire_insurance_cost": "0.00",
-      "floor": "",
-      "floors_amount": 0,
-      "front_measure": "0.00",
-      "geo_lat": "-34.5528903",
-      "geo_long": "-58.5587208",
-      "gm_location_type": "RANGE_INTERPOLATED",
-      "guests_amount": 0,
-      "has_temporary_rent": false,
-      "id": 1247453,
-      "internal_data": {
-        "commission": "",
-        "cotization_users": [
-          {
-            "cellphone": "",
-            "email": "estefania@lenerconstructora.com",
-            "id": 12863,
-            "name": "Estefanía Ruiz",
-            "phone": "5491164361021",
-            "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
-            "position": ""
-          }
-        ],
-        "internal_comments": "Si se vende REINVIERTE con nosotros. Es de Daniel prote. Contrato de  3 años desde Mayo 2021. Lo tenemos nosotrosw el alquiler, por ende la documentación está toda en la oficina de Ballester\n\nNO BAJA EL PRECIO 06/04/2026",
-        "key_location": "Unknown",
-        "legally_checked": 3,
-        "legally_checked_text": "",
-        "maintenance_user": {
-          "cellphone": "1126822368",
-          "email": "Micaela@dinalpropiedades.com",
-          "id": 12879,
-          "name": "Micaela Favilla",
-          "phone": "",
-          "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
-          "position": ""
-        },
-        "network_information": "",
-        "producer_comision": "0.00",
-        "property_owners": [
-          {
-            "birthdate": null,
-            "cellphone": " 54 9 11 6189-4978",
-            "created_at": "2018-12-10T20:07:11",
-            "document_number": "",
-            "email": "",
-            "id": 7567308,
-            "name": "Prote",
-            "other_email": "",
-            "other_phone": "",
-            "phone": "",
-            "updated_at": "2024-11-22T14:22:54",
-            "work_email": ""
-          }
-        ],
-        "transaction_requirements": ""
-      },
-      "iptu": 0,
-      "iptu_type": "No informado",
-      "is_denounced": false,
-      "is_starred_on_web": false,
-      "legally_checked": "Desconocido",
-      "livable_area": "0.00",
-      "living_amount": 0,
-      "location": {
-        "divisions": [
-          {
-            "id": 25035,
-            "name": "Chilavert",
-            "resource_uri": "/api/v1/location/25035/"
-          },
-          {
-            "id": 25036,
-            "name": "Malaver",
-            "resource_uri": "/api/v1/location/25036/"
-          },
-          {
-            "id": 25037,
-            "name": "V.Zagala",
-            "resource_uri": "/api/v1/location/25037/"
-          }
-        ],
-        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | Villa Ballester",
-        "id": 25034,
-        "name": "Villa Ballester",
-        "parent_division": "/api/v1/location/25013/",
-        "short_location": "G.B.A. Zona Norte | General San Martin | Villa Ballester",
-        "state": null,
-        "weight": 7615,
-        "zip_code": null
-      },
-      "location_level": null,
-      "lot_number": "",
-      "occupation": [],
-      "operations": [
-        {
-          "operation_id": 1,
-          "operation_type": "Venta",
-          "prices": [
-            {
-              "currency": "USD",
-              "is_promotional": false,
-              "period": 0,
-              "price": 62000
-            }
-          ]
-        }
-      ],
-      "orientation": null,
-      "parking_lot_amount": 0,
-      "parking_lot_condition": null,
-      "parking_lot_type": null,
-      "photos": [
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/1247453_47698999582782189645031525610512842128098466059413286369999892502058895174725.jpg",
-          "is_blueprint": false,
-          "is_front_cover": true,
-          "order": 0,
-          "original": "https://static.tokkobroker.com/original_pictures/1247453_47698999582782189645031525610512842128098466059413286369999892502058895174725.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/107101348_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/1247453_47698999582782189645031525610512842128098466059413286369999892502058895174725_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/49150373480217667463595628975612165257325919222607495833426884939536022598575.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/49150373480217667463595628975612165257325919222607495833426884939536022598575.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/49150373480217667463595628975612165257325919222607495833426884939536022598575_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/86933541346219384460822074747615219595075205016881926933766334708710577904758.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/86933541346219384460822074747615219595075205016881926933766334708710577904758.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/86933541346219384460822074747615219595075205016881926933766334708710577904758_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/72470903676246897069884718429325280172911743363972858907260261136923575547139.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/72470903676246897069884718429325280172911743363972858907260261136923575547139.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/72470903676246897069884718429325280172911743363972858907260261136923575547139_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/53497397538398959358662534827932606567887521863863191142680465624247511213931.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/53497397538398959358662534827932606567887521863863191142680465624247511213931.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/53497397538398959358662534827932606567887521863863191142680465624247511213931_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/32737934194670712183354396804248049263537839812573631784459716209498619003000.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/32737934194670712183354396804248049263537839812573631784459716209498619003000.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/32737934194670712183354396804248049263537839812573631784459716209498619003000_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/105356294650186952807936111895297078788027629175746609263724147293848039488552.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/105356294650186952807936111895297078788027629175746609263724147293848039488552.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/105356294650186952807936111895297078788027629175746609263724147293848039488552_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/21277090378726437281797212372171471966574865263387852400494341022905796686993.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/21277090378726437281797212372171471966574865263387852400494341022905796686993.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/21277090378726437281797212372171471966574865263387852400494341022905796686993_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/18184562356327325957747040916715666558489625055194453295934733901564892630822.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/18184562356327325957747040916715666558489625055194453295934733901564892630822.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/18184562356327325957747040916715666558489625055194453295934733901564892630822_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/2522687549049169014635212038150739093641974629033234169270524754173657478372.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/2522687549049169014635212038150739093641974629033234169270524754173657478372.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/2522687549049169014635212038150739093641974629033234169270524754173657478372_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/38794852451258292171146319784250486670519778495027591476163591604172706172311.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 10,
-          "original": "https://static.tokkobroker.com/original_pictures/38794852451258292171146319784250486670519778495027591476163591604172706172311.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/38794852451258292171146319784250486670519778495027591476163591604172706172311_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/115212150692196160214969553077907930095819008753282192435254580955565938581937.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 11,
-          "original": "https://static.tokkobroker.com/original_pictures/115212150692196160214969553077907930095819008753282192435254580955565938581937.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/115212150692196160214969553077907930095819008753282192435254580955565938581937_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/43153774912208175422937351270116053742675236778775588956185529280838204436321.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 12,
-          "original": "https://static.tokkobroker.com/original_pictures/43153774912208175422937351270116053742675236778775588956185529280838204436321.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/43153774912208175422937351270116053742675236778775588956185529280838204436321_thumb.jpg"
-        }
-      ],
-      "portal_footer": "",
-      "private_area": "0.00",
-      "producer": {
-        "cellphone": "",
-        "email": "estefania@lenerconstructora.com",
-        "id": 12863,
-        "name": "Estefanía Ruiz",
-        "phone": "5491164361021",
-        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
-        "position": ""
-      },
-      "property_condition": "Excelente",
-      "public_url": "https://ficha.info/p/efoGnddvDcKKxa",
-      "publication_title": "Excelente Monoambiente en Villa ballester",
-      "quality_level": null,
-      "real_address": "Almirante Brown 3154 6° - Villa Ballester",
-      "reference_code": "DAP1247453",
-      "rich_description": "                        <p>Excelente Monoambiente en Venta – 6° Piso al Contrafrente con Vista Abierta</p><div><br></div><div>Moderno y luminoso monoambiente con hermosa vista, ubicado a pocas cuadras del centro comercial de Villa Ballester y de la estación de tren Línea Mitre. La zona cuenta con múltiples líneas de colectivo que garantizan una excelente conectividad.</div><div><br></div><div>La unidad dispone de:</div><div>\t•\tCocina completa con muebles altos y bajos + barra desayunadora.</div><div>\t•\tAmplio living comedor con salida al balcón.</div><div>\t•\tBaño completo.</div><div>\t•\tBalcón al contrafrente con vista despejada.</div><div><br></div><div>&nbsp;* Actualmente se encuentra alquilado con contrato en curso (ajuste por índice BCRA), ideal para inversores.</div><div>&nbsp;* Se escucha ofertas razonables.</div><div><br></div><br>        \r\n        ",
-      "roofed_surface": "31.00",
-      "room_amount": 1,
-      "semiroofed_surface": "3.68",
-      "seo_description": "",
-      "seo_keywords": "",
-      "situation": "Habitada",
-      "status": 2,
-      "suite_amount": 0,
-      "suites_with_closets": 0,
-      "surface": "0.00",
-      "surface_measurement": "M2",
-      "tags": [
-        {
-          "id": 1,
-          "name": "Agua Corriente",
-          "type": 1
-        },
-        {
-          "id": 2,
-          "name": "Cloaca",
-          "type": 1
-        },
-        {
-          "id": 3,
-          "name": "Gas Natural",
-          "type": 1
-        },
-        {
-          "id": 5,
-          "name": "Electricidad",
-          "type": 1
-        },
-        {
-          "id": 6,
-          "name": "Pavimento",
-          "type": 1
-        },
-        {
-          "id": 12,
-          "name": "Cocina",
-          "type": 2
-        },
-        {
-          "id": 1443,
-          "name": "Agua Potable",
-          "type": 1
-        },
-        {
-          "id": 1573,
-          "name": "Alumbrado público",
-          "type": 1
-        }
-      ],
-      "toilet_amount": 0,
-      "total_area": "0.00",
-      "total_suites": 0,
-      "total_surface": "35.00",
-      "transaction_requirements": "",
-      "tv_rooms": 0,
-      "type": {
-        "code": "AP",
-        "id": 2,
-        "name": "Departamento"
-      },
-      "uncovered_parking_lot": 0,
-      "unroofed_surface": "0.00",
-      "videos": [],
-      "web_price": true,
-      "zip_code": null,
-      "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
-      "enhanced_description": "<h3>Descripción General</h3>\n<p>Excelente monoambiente en venta ubicado en el 6° piso al contrafrente con vista abierta. Moderno y luminoso, se encuentra a pocas cuadras del centro comercial de Villa Ballester y de la estación de tren Línea Mitre. La zona cuenta con múltiples líneas de colectivo que garantizan una excelente conectividad.</p>\n\n<h3>Características del Inmueble</h3>\n<ul>\n<li>Cocina completa con muebles altos y bajos más barra desayunadora</li>\n<li>Amplio living comedor con salida al balcón</li>\n<li>Baño completo</li>\n<li>Balcón al contrafrente con vista despejada</li>\n</ul>\n\n<h3>Información Adicional</h3>\n<p>Actualmente se encuentra alquilado con contrato en curso con ajuste por índice BCRA, ideal para inversores. Se escuchan ofertas razonables.</p>"
-    },
-    {
       "address": "Intendente Larralde al 1900",
       "address_complement": "",
       "age": 0,
@@ -4199,7 +3811,7 @@
           "public_name": "Nuevo Valor"
         }
       ],
-      "deleted_at": "2026-09-01T18:36:40",
+      "deleted_at": "2026-09-10T15:41:53",
       "depth_measure": "0.00",
       "description": "                                            Impecable Monoambiente – 2° Piso por Escalera \n\n¡Gran Oportunidad!\n Excelente ubicación:\t•\tA pocas cuadras de la estación de tren Línea Urquiza.\t•\tVarias líneas de colectivos en la zona.\t•\tCercano a espacios verdes para disfrutar al aire libre.\n Características del departamento:\t•\tCocina comedor con muebles bajo y alto mesada.\t•\tBaño completo con ducha.\t•\tAmbiente cómodo, súper luminoso.\t•\tTechos altos con posibilidad de entrepiso.\n\nSe acepta permuta por propiedad en la Costa, especialmente en Mar del Plata.\n\nRequisitos Alquiler:\nAjuste trimestral del 10 %Garantía: Fianza - Recibos de sueldoContrato : 2 añosMascotas: NO \n\n\n\n\n\n        \n            \r\n            ",
       "development": null,
@@ -4262,7 +3874,7 @@
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
-      "is_starred_on_web": true,
+      "is_starred_on_web": false,
       "legally_checked": "Desconocido",
       "livable_area": "0.00",
       "living_amount": 0,
@@ -4500,7 +4112,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-02T10:18:17.264Z",
+      "_last_changed": "2026-09-11T10:20:17.498Z",
       "enhanced_description": "<h3>Impecable Monoambiente – 2° Piso por Escalera</h3>\n\n<h3>Ubicación</h3>\n<ul>\n<li>A pocas cuadras de la estación de tren Línea Urquiza</li>\n<li>Varias líneas de colectivos en la zona</li>\n<li>Cercano a espacios verdes para disfrutar al aire libre</li>\n</ul>\n\n<h3>Características del Departamento</h3>\n<ul>\n<li>Cocina comedor con muebles bajo y alto mesada</li>\n<li>Baño completo con ducha</li>\n<li>Ambiente cómodo, súper luminoso</li>\n<li>Techos altos con posibilidad de entrepiso</li>\n</ul>\n\n<h3>Permutas</h3>\n<p>Se acepta permuta por propiedad en la Costa, especialmente en Mar del Plata.</p>\n\n<h3>Requisitos de Alquiler</h3>\n<ul>\n<li>Ajuste trimestral del 10%</li>\n<li>Garantía: Fianza - Recibos de sueldos</li>\n<li>Contrato: 2 años</li>\n<li>Mascotas: NO</li>\n</ul>"
     },
     {
@@ -77055,7 +76667,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-09T16:05:21",
+      "deleted_at": "2026-09-10T15:41:07",
       "depth_measure": "0.00",
       "description": "                                 Yapeyú 1972, San Martín Ubicado en el corazón de San Martín, en una zona de fácil acceso: a solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y del Metrobus, 2 cuadras de Av. 25 de Mayo (con salida directa a Gral. Paz y Autopista 25 de Mayo) y a 4 cuadras de la estación de tren Mitre. Rodeado de comercios, colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.\nModerno Departamento de 2 Ambientes con Balcón y Parrilla\n¡Tu próximo hogar te espera!\nEste departamento combina confort, estilo y funcionalidad en una ubicación inmejorable.\nCaracterísticas principales:\n •\tDormitorio: con placard empotrado. •\tCocina: completamente equipada, lista para inspirarte a cocinar. •\tLiving-comedor: integrado, amplio y luminoso. •\tBalcón propio: con parrilla. •\tBaño: moderno y funcional.\n\n¡No pierdas la oportunidad!Contáctanos para más información y coordinar una visita.\n\nREQUISITOS:Contrato por dos añosAjuste trimestral por ICL Garantía: Propietaria o Fianza Mascotas: No se permite \nPOSESION DE LA UNIDAD A PARTIR DE OCTUBRE .-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n            \r\n\r\n            ",
       "development": null,
@@ -77108,7 +76720,7 @@
       "iptu": 0,
       "iptu_type": "No informado",
       "is_denounced": false,
-      "is_starred_on_web": true,
+      "is_starred_on_web": false,
       "legally_checked": "Desconocido",
       "livable_area": "0.00",
       "living_amount": 0,
@@ -77425,7 +77037,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2025-08-13T17:52:45",
+      "_last_changed": "2026-09-11T10:20:17.498Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Ubicado en el corazón de San Martín, en una zona de fácil acceso: a solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y del Metrobus, 2 cuadras de Av. 25 de Mayo (con salida directa a Gral. Paz y Autopista 25 de Mayo) y a 4 cuadras de la estación de tren Mitre. Rodeado de comercios, colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción de la Propiedad</h3>\n<p>Moderno departamento de 2 ambientes con balcón y parrilla. Este departamento combina confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorio: con placard empotrado</li>\n<li>Cocina: completamente equipada, lista para inspirarte a cocinar</li>\n<li>Living-comedor: integrado, amplio y luminoso</li>\n<li>Balcón propio: con parrilla</li>\n<li>Baño: moderno y funcional</li>\n</ul>\n\n<h3>Requisitos</h3>\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Garantía: Propietaria o Fianza</li>\n<li>Mascotas: No se permite</li>\n</ul>\n\n<h3>Posesión</h3>\n<p>A partir de octubre</p>"
     },
     {
