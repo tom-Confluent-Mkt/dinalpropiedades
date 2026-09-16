@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-09-15T10:46:28.882Z"
+    "lastSync": "2026-09-16T10:34:57.923Z"
   },
   "objects": [
     {
@@ -3638,13 +3638,17 @@
       "construction_date": null,
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-07-24T13:09:38",
-      "description": "VI ART es un exclusivo desarrollo residencial ubicado sobre Independencia 2767, en una de las zonas con mayor crecimiento de Mar del Plata. Su ubicación estratégica permite acceder en pocos minutos al centro de la ciudad, las playas de La Perla y el corredor comercial de Avenida Independencia, rodeado de una amplia oferta de comercios, instituciones educativas, centros de salud y servicios.\n\nEl edificio contará con 17 pisos, combinando viviendas, oficinas, espacios comerciales y un exclusivo café cultural en planta baja, generando una propuesta moderna que integra calidad de vida, trabajo y entretenimiento en un mismo lugar.\n\nOfrece departamentos de 1, 2 y 3 ambientes, con superficies de 65, 71 y 138 m², diseñados para brindar amplitud, luminosidad y funcionalidad. Todas las unidades disponen de balcón con parrilla, amplios ventanales con DVH (doble vidrio hermético), pisos de porcelanato en áreas sociales, dormitorios con pisos de madera, muebles de cocina de diseño, bajo mesada y alacena completos, y ascensores de última generación.\n\nVI ART representa una excelente oportunidad tanto para quienes buscan una vivienda de categoría como para quienes desean realizar una inversión con gran potencial de valorización, en un desarrollo que combina diseño contemporáneo, excelentes terminaciones y una ubicación privilegiada en Mar del Plata.",
+      "deleted_at": "2026-09-16T03:38:17",
+      "description": "Punta de Arenas VI ART es un desarrollo de usos mixtos ubicado en **Independencia 2767, Mar del Plata**, en un sector estratégico de la ciudad, con rápido acceso al centro, las playas de La Perla y el corredor comercial de Avenida Independencia.\n\nEl proyecto se desarrolla en **17 pisos** e integra departamentos, oficinas, espacios comerciales y un café cultural en planta baja, conformando una propuesta contemporánea que combina vivienda, trabajo, servicios y espacios de encuentro en un mismo edificio.\n\nCuenta con **departamentos de 1, 2 y 3 ambientes**, con superficies de **65, 71 y 138 m²**, diseñados para ofrecer amplitud, luminosidad, confort y funcionalidad.\n\nEntre sus principales características se destacan:\n\n* Unidades amplias y luminosas, con diseño contemporáneo.\n* Balcones con instalación de parrilla individual.\n* Amplios ventanales con **DVH (doble vidrio hermético)**.\n* Pisos de porcelanato en los ambientes sociales.\n* Dormitorios con pisos de porcelanato simil madera.\n* Cocinas con mobiliario de diseño, bajo mesada y alacenas.\n* Ascensores de última generación.\n* Espacios destinados a oficinas y actividades comerciales.\n* Café cultural en planta baja.\n* Ubicación estratégica, con cercanía al centro, la costa, comercios, establecimientos educativos, centros de salud y principales servicios de la ciudad.\n\n**Punta de Arenas VI ART propone una nueva forma de vivir Mar del Plata**, integrando arquitectura, diseño, servicios y diferentes usos dentro de un mismo desarrollo.\n\nUna alternativa pensada tanto para vivienda como para inversión, en un proyecto con excelente proyección y una ubicación consolidada de la ciudad.\n",
       "display_on_web": true,
       "excel_extra_headers": "[]",
       "fake_address": "",
-      "files": [],
-      "financing_details": "",
+      "files": [
+        {
+          "file": "https://static.tokkobroker.com/development_files/155998577830886932833177905391977823063150842943841182852274/Video_PA_6_liviano_liviano.mp4"
+        }
+      ],
+      "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
       "geo_lat": "-38.0047695",
       "geo_long": "-57.559985",
       "id": 94558,
@@ -3664,103 +3668,93 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94558_112721825578904082285649531341863208037800945146559978476992042042281425966267.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 0,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_112721825578904082285649531341863208037800945146559978476992042042281425966267.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_112721825578904082285649531341863208037800945146559978476992042042281425966267_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_112721825578904082285649531341863208037800945146559978476992042042281425966267_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94558_79838833212985904501145409461382631555786710660746137568460788752999227748731.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_79838833212985904501145409461382631555786710660746137568460788752999227748731.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_79838833212985904501145409461382631555786710660746137568460788752999227748731_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_79838833212985904501145409461382631555786710660746137568460788752999227748731_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94558_77811923986581139739601962518356710018799486121029743948603083520293840204572.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_77811923986581139739601962518356710018799486121029743948603083520293840204572.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_77811923986581139739601962518356710018799486121029743948603083520293840204572_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_77811923986581139739601962518356710018799486121029743948603083520293840204572_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94558_52929529033610837143720832719836788989802652535940090139690689636288972423859.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_52929529033610837143720832719836788989802652535940090139690689636288972423859.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_52929529033610837143720832719836788989802652535940090139690689636288972423859_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_52929529033610837143720832719836788989802652535940090139690689636288972423859_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94558_111841066869170743013915758449195055103171578674623884150811552367012508967287.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_111841066869170743013915758449195055103171578674623884150811552367012508967287.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_111841066869170743013915758449195055103171578674623884150811552367012508967287_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_111841066869170743013915758449195055103171578674623884150811552367012508967287_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/dev_pictures/94558_80135154184052296638859746843156178690890824586298787960981066070000385982793.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 5,
+          "order": 0,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94558_80135154184052296638859746843156178690890824586298787960981066070000385982793.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_80135154184052296638859746843156178690890824586298787960981066070000385982793_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_80135154184052296638859746843156178690890824586298787960981066070000385982793_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94558_70470427412198658724161050912636618345599021267632265046074260385418701126527.jpg",
+          "image": "https://static.tokkobroker.com/dev_pictures/94558_23383848848768223435261455034240713499902035072756476338914291123182011181193.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_70470427412198658724161050912636618345599021267632265046074260385418701126527.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_70470427412198658724161050912636618345599021267632265046074260385418701126527_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_70470427412198658724161050912636618345599021267632265046074260385418701126527_thumb.jpg"
+          "order": 1,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_23383848848768223435261455034240713499902035072756476338914291123182.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_23383848848768223435261455034240713499902035072756476338914291123182011181193_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_23383848848768223435261455034240713499902035072756476338914291123182011181193_t.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94558_58372962395834694801784802869500893660978009624568243991695188490094415658445.jpg",
+          "image": "https://static.tokkobroker.com/dev_pictures/94558_43487402800695861374633807636330770735784508967019264882842284580390597422459.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_58372962395834694801784802869500893660978009624568243991695188490094415658445.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_58372962395834694801784802869500893660978009624568243991695188490094415658445_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_58372962395834694801784802869500893660978009624568243991695188490094415658445_thumb.jpg"
+          "order": 2,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_43487402800695861374633807636330770735784508967019264882842284580390.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_43487402800695861374633807636330770735784508967019264882842284580390597422459_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_43487402800695861374633807636330770735784508967019264882842284580390597422459_t.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/dev_pictures/94558_12160757083386184467852762395822564034454216747081902386323629568928571684866.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 8,
+          "order": 3,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94558_12160757083386184467852762395822564034454216747081902386323629568928571684866.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_12160757083386184467852762395822564034454216747081902386323629568928571684866_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_12160757083386184467852762395822564034454216747081902386323629568928571684866_thumb.jpg"
         },
         {
           "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94558_83712211667229242314784356170664509507081242668321838098924370600985333848976.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_83712211667229242314784356170664509507081242668321838098924370600985.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_83712211667229242314784356170664509507081242668321838098924370600985333848976_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_83712211667229242314784356170664509507081242668321838098924370600985333848976_t.jpg"
+        },
+        {
+          "description": null,
           "image": "https://static.tokkobroker.com/dev_pictures/94558_5184989602030919067397794862946670045589491975383542775976477478946290419300.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 9,
+          "order": 5,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94558_5184989602030919067397794862946670045589491975383542775976477478946290419300.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_5184989602030919067397794862946670045589491975383542775976477478946290419300_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_5184989602030919067397794862946670045589491975383542775976477478946290419300_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94558_91998289505755125917771875774109912119079667310005593241815251622754838477810.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_91998289505755125917771875774109912119079667310005593241815251622754.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_91998289505755125917771875774109912119079667310005593241815251622754838477810_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_91998289505755125917771875774109912119079667310005593241815251622754838477810_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94558_62160058371831664502461274877734057092559490986518504853062871582642515238113.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_62160058371831664502461274877734057092559490986518504853062871582642.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_62160058371831664502461274877734057092559490986518504853062871582642515238113_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_62160058371831664502461274877734057092559490986518504853062871582642515238113_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94558_72028841904969391577651006742482658502330229499584109366324608483214685732827.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94558_72028841904969391577651006742482658502330229499584109366324608483214.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94558_72028841904969391577651006742482658502330229499584109366324608483214685732827_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94558_72028841904969391577651006742482658502330229499584109366324608483214685732827_t.jpg"
         }
       ],
       "publication_title": "Edificio en Macrocentro",
@@ -3863,9 +3857,19 @@
           "type": 3
         },
         {
+          "id": 1529,
+          "name": "Venta Directa",
+          "type": 9
+        },
+        {
           "id": 1573,
           "name": "Alumbrado público",
           "type": 1
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
         }
       ],
       "type": {
@@ -3884,7 +3888,7 @@
       },
       "videos": [],
       "web_url": "http://www.dinal.com.ar",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>VI ART es un exclusivo desarrollo residencial ubicado sobre Independencia 2767, en una de las zonas con mayor crecimiento de Mar del Plata. Su ubicación estratégica permite acceder en pocos minutos al centro de la ciudad, las playas de La Perla y el corredor comercial de Avenida Independencia, rodeado de una amplia oferta de comercios, instituciones educativas, centros de salud y servicios.</p>\n\n<h3>El Proyecto</h3>\n<p>El edificio contará con 17 pisos, combinando viviendas, oficinas, espacios comerciales y un exclusivo café cultural en planta baja, generando una propuesta moderna que integra calidad de vida, trabajo y entretenimiento en un mismo lugar.</p>\n\n<h3>Departamentos</h3>\n<p>Ofrece departamentos de 1, 2 y 3 ambientes, con superficies de 65, 71 y 138 m², diseñados para brindar amplitud, luminosidad y funcionalidad.</p>\n\n<h3>Características y Amenidades</h3>\n<ul>\n<li>Balcón con parrilla en todas las unidades</li>\n<li>Amplios ventanales con DVH (doble vidrio hermético)</li>\n<li>Pisos de porcelanato en áreas sociales</li>\n<li>Pisos de madera en dormitorios</li>\n<li>Muebles de cocina de diseño</li>\n<li>Bajo mesada y alacena completos</li>\n<li>Ascensores de última generación</li>\n</ul>\n\n<h3>Oportunidad de Inversión</h3>\n<p>VI ART representa una excelente oportunidad tanto para quienes buscan una vivienda de categoría como para quienes desean realizar una inversión con gran potencial de valorización, en un desarrollo que combina diseño contemporáneo, excelentes terminaciones y una ubicación privilegiada en Mar del Plata.</p>"
+      "enhanced_description": "<h3>Punta de Arenas VI ART</h3>\n\n<p>Desarrollo de usos mixtos ubicado en Independencia 2767, Mar del Plata, en un sector estratégico de la ciudad, con rápido acceso al centro, las playas de La Perla y el corredor comercial de Avenida Independencia.</p>\n\n<h3>El Proyecto</h3>\n\n<p>Se desarrolla en 17 pisos e integra departamentos, oficinas, espacios comerciales y un café cultural en planta baja, conformando una propuesta contemporánea que combina vivienda, trabajo, servicios y espacios de encuentro en un mismo edificio.</p>\n\n<h3>Unidades</h3>\n\n<p>Cuenta con departamentos de 1, 2 y 3 ambientes, con superficies de 65, 71 y 138 m², diseñados para ofrecer amplitud, luminosidad, confort y funcionalidad.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Unidades amplias y luminosas, con diseño contemporáneo</li>\n<li>Balcones con instalación de parrilla individual</li>\n<li>Amplios ventanales con DVH (doble vidrio hermético)</li>\n<li>Pisos de porcelanato en los ambientes sociales</li>\n<li>Dormitorios con pisos de porcelanato simil madera</li>\n<li>Cocinas con mobiliario de diseño, bajo mesada y alacenas</li>\n<li>Ascensores de última generación</li>\n<li>Espacios destinados a oficinas y actividades comerciales</li>\n<li>Café cultural en planta baja</li>\n<li>Ubicación estratégica, con cercanía al centro, la costa, comercios, establecimientos educativos, centros de salud y principales servicios de la ciudad</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Punta de Arenas VI ART propone una nueva forma de vivir Mar del Plata, integrando arquitectura, diseño, servicios y diferentes usos dentro de un mismo desarrollo. Una alternativa pensada tanto para vivienda como para inversión, en un proyecto con excelente proyección y una ubicación consolidada de la ciudad.</p>"
     },
     {
       "address": "Sarmiento 2640",
@@ -3917,13 +3921,20 @@
       "construction_date": null,
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-07-24T13:09:41",
-      "description": "Punta de Arenas VII es un moderno desarrollo residencial ubicado en Sarmiento 2640, en una excelente zona de Mar del Plata, con rápido acceso al centro, las playas, el Paseo Aldrey, el sector gastronómico y los principales servicios de la ciudad.\n\nEl edificio cuenta con 8 pisos con departamentos de 2 y 3 ambientes, con superficies que van desde 54 hasta 110 m², diseñados para brindar amplitud, funcionalidad y confort, tanto para vivienda permanente como para inversión.\n\nEntre sus principales características se destacan:\n\n* Departamentos con excelente distribución y terminaciones de calidad.\n* Todos los departamentos cuentan con balcon e instalación de parrilla individual\n* Cocheras.\n* Dos ascensores de última generación para mayor comodidad.\n* SUM ubicado en el último piso, completamente equipado para reuniones y eventos.\n\nPunta de Arenas VII representa una excelente oportunidad para quienes buscan vivir con comodidad en una ubicación privilegiada o realizar una inversión con gran potencial de valorización en uno de los mercados inmobiliarios más dinámicos de Mar del Plata.",
+      "deleted_at": "2026-09-16T03:30:27",
+      "description": "Punta de Arenas VII es un desarrollo residencial ubicado en Sarmiento 2640, en una excelente zona de Mar del Plata, en frente al Paseo Aldrey y con rápido acceso a las playas, el centro comercial, el corredor gastronómico de Güemes y los principales servicios de la ciudad.\n\nEl edificio se encuentra en **etapa final de construcción, con próxima entrega**, ofreciendo una excelente oportunidad para quienes buscan una propiedad nueva con la posibilidad de ingresar en un proyecto próximo a finalizar.\n\nCuenta con 8 pisos y departamentos de 2 y 3 ambientes, con superficies que van desde 54 m² hasta 110 m², diseñados con espacios amplios, funcionales y luminosos, tanto para vivienda permanente como para inversión.\n\nEntre sus principales características se destacan:\n\n* Departamentos con excelente distribución y terminaciones de calidad.\n* Todas las unidades cuentan con balcón e instalación para parrilla individual.\n* Cocheras.\n* Dos ascensores de última generación.\n* SUM ubicado en el último piso, para reuniones y eventos.\n* Excelente ubicación, frente al Paseo Aldrey, proximo a las playas, el centro comercial de Güemes y la zona gastronómica.\n\n**Punta de Arenas VII se encuentra transitando su etapa final de obra y próxima entrega**, combinando ubicación, calidad constructiva y la posibilidad de adquirir una unidad nueva en uno de los sectores más consolidados de Mar del Plata.\n",
       "display_on_web": true,
       "excel_extra_headers": "[]",
       "fake_address": "",
-      "files": [],
-      "financing_details": "",
+      "files": [
+        {
+          "file": "https://static.tokkobroker.com/development_files/348653523869896328184735079337592679597875992790322942164419/Recorrido_Sarmiento.mp4"
+        },
+        {
+          "file": "https://static.tokkobroker.com/development_files/1004726294949070051323322633483960132388147594600238799530707/rendair-image-to-video-24-08-2026-f4b8c629.mp4"
+        }
+      ],
+      "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
       "geo_lat": "-38.0121033",
       "geo_long": "-57.5429456",
       "id": 94559,
@@ -3939,100 +3950,80 @@
         "weight": 311,
         "zip_code": null
       },
-      "name": "Punta de arenas VII - Sarmiento 2640",
+      "name": "Punta de Arenas VII - Sarmiento 2640",
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 0,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94559_15776774971196979827414148117435311808595117488811731095712329731940792716768.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_15776774971196979827414148117435311808595117488811731095712329731940792716768.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_15776774971196979827414148117435311808595117488811731095712329731940792716768_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_15776774971196979827414148117435311808595117488811731095712329731940792716768_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94559_87016434837893740153070639212330995852603128619511441824701428803532412511451.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_87016434837893740153070639212330995852603128619511441824701428803532412511451.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_87016434837893740153070639212330995852603128619511441824701428803532412511451_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_87016434837893740153070639212330995852603128619511441824701428803532412511451_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94559_111713238117760234042587786517392017474251300196097316678787723083238616573819.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_111713238117760234042587786517392017474251300196097316678787723083238616573819.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_111713238117760234042587786517392017474251300196097316678787723083238616573819_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_111713238117760234042587786517392017474251300196097316678787723083238616573819_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94559_32118046941420213191433202876422678834686175520104879824476222505653461694763.jpg",
+          "image": "https://static.tokkobroker.com/dev_pictures/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_32118046941420213191433202876422678834686175520104879824476222505653461694763.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_32118046941420213191433202876422678834686175520104879824476222505653461694763_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_32118046941420213191433202876422678834686175520104879824476222505653461694763_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94559_12467371157397541473851526947250991792713766596675121811181891145916962236164.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_12467371157397541473851526947250991792713766596675121811181891145916962236164.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_12467371157397541473851526947250991792713766596675121811181891145916962236164_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_12467371157397541473851526947250991792713766596675121811181891145916962236164_thumb.jpg"
+          "order": 0,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_13446686536759759177848183866771776093871555441412091201995395978141.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774_t.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/dev_pictures/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
+          "order": 1,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94559_21496568676302892007715573696314950090940556159119734006239515511749808340436.jpg",
+          "image": "https://static.tokkobroker.com/dev_pictures/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_21496568676302892007715573696314950090940556159119734006239515511749808340436.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_21496568676302892007715573696314950090940556159119734006239515511749808340436_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_21496568676302892007715573696314950090940556159119734006239515511749808340436_thumb.jpg"
+          "order": 2,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_75828971695341574152016247483182602533549590387045081183757945345748.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_78533466402467990922227234808307937838079799379169405994756540825828.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94559_13926627420277613546580811610511016670455672843017207303019363657322.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348_t.jpg"
         }
       ],
-      "publication_title": "Edificio en Terminal Vieja",
+      "publication_title": "Punta de Arenas VII - Frente al paseo Aldrey",
       "reference_code": "OBU94559",
       "resource_uri": "/api/v1/development/94559/",
       "tags": [
@@ -4102,6 +4093,11 @@
           "type": 9
         },
         {
+          "id": 1044,
+          "name": "Construcción reciente",
+          "type": 9
+        },
+        {
           "id": 1248,
           "name": "En construcción",
           "type": 3
@@ -4127,6 +4123,11 @@
           "type": 3
         },
         {
+          "id": 1529,
+          "name": "Venta Directa",
+          "type": 9
+        },
+        {
           "id": 1573,
           "name": "Alumbrado público",
           "type": 1
@@ -4148,7 +4149,7 @@
       },
       "videos": [],
       "web_url": "http://www.dinal.com.ar",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Punta de Arenas VII es un moderno desarrollo residencial ubicado en Sarmiento 2640, en una excelente zona de Mar del Plata, con rápido acceso al centro, las playas, el Paseo Aldrey, el sector gastronómico y los principales servicios de la ciudad.</p>\n\n<h3>El Proyecto</h3>\n<p>El edificio cuenta con 8 pisos con departamentos de 2 y 3 ambientes, con superficies que van desde 54 hasta 110 m², diseñados para brindar amplitud, funcionalidad y confort, tanto para vivienda permanente como para inversión.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Departamentos con excelente distribución y terminaciones de calidad</li>\n<li>Todos los departamentos cuentan con balcón e instalación de parrilla individual</li>\n<li>Cocheras</li>\n<li>Dos ascensores de última generación para mayor comodidad</li>\n<li>SUM ubicado en el último piso, completamente equipado para reuniones y eventos</li>\n</ul>\n\n<h3>Inversión y Oportunidad</h3>\n<p>Punta de Arenas VII representa una excelente oportunidad para quienes buscan vivir con comodidad en una ubicación privilegiada o realizar una inversión con gran potencial de valorización en uno de los mercados inmobiliarios más dinámicos de Mar del Plata.</p>"
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Punta de Arenas VII es un desarrollo residencial ubicado en Sarmiento 2640, en una excelente zona de Mar del Plata, en frente al Paseo Aldrey y con rápido acceso a las playas, el centro comercial, el corredor gastronómico de Güemes y los principales servicios de la ciudad.</p>\n\n<h3>Estado de la Obra</h3>\n<p>El edificio se encuentra en etapa final de construcción, con próxima entrega, ofreciendo una excelente oportunidad para quienes buscan una propiedad nueva con la posibilidad de ingresar en un proyecto próximo a finalizar.</p>\n\n<h3>Unidades</h3>\n<p>Cuenta con 8 pisos y departamentos de 2 y 3 ambientes, con superficies que van desde 54 m² hasta 110 m², diseñados con espacios amplios, funcionales y luminosos, tanto para vivienda permanente como para inversión.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Departamentos con excelente distribución y terminaciones de calidad</li>\n<li>Todas las unidades cuentan con balcón e instalación para parrilla individual</li>\n<li>Cocheras</li>\n<li>Dos ascensores de última generación</li>\n<li>SUM ubicado en el último piso, para reuniones y eventos</li>\n<li>Excelente ubicación, frente al Paseo Aldrey, próximo a las playas, el centro comercial de Güemes y la zona gastronómica</li>\n</ul>\n\n<h3>Oportunidad de Inversión</h3>\n<p>Punta de Arenas VII se encuentra transitando su etapa final de obra y próxima entrega, combinando ubicación, calidad constructiva y la posibilidad de adquirir una unidad nueva en uno de los sectores más consolidados de Mar del Plata.</p>"
     },
     {
       "address": "Catamarca 1457",
@@ -4181,13 +4182,13 @@
       "construction_date": null,
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-07-24T13:09:44",
-      "description": "Punta de Arenas VIII es un moderno edificio en construcción ubicado en Catamarca 1457, en el tradicional barrio La Perla, una de las zonas más buscadas de Mar del Plata. Su excelente ubicación, a pocos metros del mar y con rápido acceso al centro de la ciudad, lo convierte en una opción ideal tanto para vivir como para invertir.\n\nEl edificio contará con 9 pisos y departamentos de 2 y 3 ambientes, con superficies que van desde 42 m² hasta 85 m², diseñados para brindar funcionalidad, confort y luminosidad.\n\nEntre sus principales características se destacan:\n\n* Departamentos con excelente distribución y terminaciones de calidad.\n* Todos los departamentos cuentan con balcon e instalación de parrilla individual\n* Cocheras.\n* Dos ascensores de última generación para mayor comodidad.\n* SUM ubicado en el último piso, completamente equipado para reuniones y eventos.\n* Excelente ubicación, a pasos de las playas de La Perla y a minutos del centro comercial, gastronómico y turístico de Mar del Plata.\n\nUna propuesta que combina una ubicación privilegiada, diseño moderno y espacios pensados para disfrutar, con la posibilidad de acceder a un desarrollo en plena etapa de construcción, ideal para quienes buscan una inversión con gran potencial de valorización.\n",
+      "deleted_at": "2026-09-16T03:00:17",
+      "description": "Punta de Arenas VIII es un edificio en construcción ubicado en Catamarca 1457, en el barrio La Perla de Mar del Plata, a pocos metros del mar y con excelente conexión con el centro de la ciudad.\n\nEl proyecto se desarrolla en 9 pisos y cuenta con departamentos de 2 y 3 ambientes, con superficies desde 42 m² hasta 85 m², diseñados para aprovechar la luz natural y ofrecer espacios funcionales y cómodos.\n\nEntre sus principales características se destacan:\n\n• Departamentos de 2 y 3 ambientes.\n• Superficies desde 42 m² hasta 85 m².\n• Balcón en todas las unidades.\n• Instalación para parrilla individual.\n• Cocheras.\n• Ascensores de ultima generacion.\n• SUM ubicado en el último piso para reuniones y encuentros.\n• Excelente ubicación, próxima a las playas de La Perla y a pocos minutos del centro comercial, gastronómico y turístico de Mar del Plata.\n\nPunta de Arenas VIII combina ubicación, diseño y funcionalidad en un desarrollo actualmente en construcción, con alternativas tanto para vivienda permanente como para inversión.\n",
       "display_on_web": true,
       "excel_extra_headers": "[]",
       "fake_address": "",
       "files": [],
-      "financing_details": "",
+      "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
       "geo_lat": "-37.9909401",
       "geo_long": "-57.5457272",
       "id": 94561,
@@ -4203,14 +4204,34 @@
         "weight": 559,
         "zip_code": null
       },
-      "name": "Punta de arenas VIII - Catamarca 1457",
+      "name": "Punta de Arenas VIII - Catamarca 1457",
       "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94561_22576074618708429631258403823541112892631498640879436165022752994720530867401.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94561_22576074618708429631258403823541112892631498640879436165022752994720530867401.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_22576074618708429631258403823541112892631498640879436165022752994720530867401_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_22576074618708429631258403823541112892631498640879436165022752994720530867401_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94561_1770387198400288252853806439931232304582732262395789643488972642986353506340.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94561_1770387198400288252853806439931232304582732262395789643488972642986353506340.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_1770387198400288252853806439931232304582732262395789643488972642986353506340_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_1770387198400288252853806439931232304582732262395789643488972642986353506340_thumb.jpg"
+        },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/dev_pictures/94561_93061734394657851218767638869212464479977493478358110555968039600662078197968.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 0,
+          "order": 2,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94561_93061734394657851218767638869212464479977493478358110555968039600662078197968.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_93061734394657851218767638869212464479977493478358110555968039600662078197968_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_93061734394657851218767638869212464479977493478358110555968039600662078197968_thumb.jpg"
@@ -4220,7 +4241,7 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94561_53884575685752388932160016597506836372374474762290899308900062218144831723227.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 3,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94561_53884575685752388932160016597506836372374474762290899308900062218144831723227.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_53884575685752388932160016597506836372374474762290899308900062218144831723227_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_53884575685752388932160016597506836372374474762290899308900062218144831723227_thumb.jpg"
@@ -4230,27 +4251,17 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94561_25779579706664093794915699206146123127388711433046037940000050059566086031128.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
+          "order": 4,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94561_25779579706664093794915699206146123127388711433046037940000050059566086031128.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_25779579706664093794915699206146123127388711433046037940000050059566086031128_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_25779579706664093794915699206146123127388711433046037940000050059566086031128_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94561_1770387198400288252853806439931232304582732262395789643488972642986353506340.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94561_1770387198400288252853806439931232304582732262395789643488972642986353506340.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_1770387198400288252853806439931232304582732262395789643488972642986353506340_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_1770387198400288252853806439931232304582732262395789643488972642986353506340_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/dev_pictures/94561_61466720692838629711043198769967733756968811266364685053379230801250028414290.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 5,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94561_61466720692838629711043198769967733756968811266364685053379230801250028414290.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_61466720692838629711043198769967733756968811266364685053379230801250028414290_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_61466720692838629711043198769967733756968811266364685053379230801250028414290_thumb.jpg"
@@ -4260,7 +4271,7 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94561_7148633602028586004880954542625063329910082535056556123530922663982904551779.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 6,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94561_7148633602028586004880954542625063329910082535056556123530922663982904551779.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_7148633602028586004880954542625063329910082535056556123530922663982904551779_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_7148633602028586004880954542625063329910082535056556123530922663982904551779_thumb.jpg"
@@ -4270,7 +4281,7 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94561_19414676653923864961311162313756738123072375743707620930912701672157567472098.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 7,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94561_19414676653923864961311162313756738123072375743707620930912701672157567472098.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_19414676653923864961311162313756738123072375743707620930912701672157567472098_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_19414676653923864961311162313756738123072375743707620930912701672157567472098_thumb.jpg"
@@ -4280,20 +4291,10 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94561_61958771784489984464735067532655623378198836353262188078831881165916505800167.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 7,
+          "order": 8,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94561_61958771784489984464735067532655623378198836353262188078831881165916505800167.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_61958771784489984464735067532655623378198836353262188078831881165916505800167_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_61958771784489984464735067532655623378198836353262188078831881165916505800167_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94561_22576074618708429631258403823541112892631498640879436165022752994720530867401.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94561_22576074618708429631258403823541112892631498640879436165022752994720530867401.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94561_22576074618708429631258403823541112892631498640879436165022752994720530867401_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94561_22576074618708429631258403823541112892631498640879436165022752994720530867401_thumb.jpg"
         },
         {
           "description": null,
@@ -4406,6 +4407,11 @@
           "type": 3
         },
         {
+          "id": 1529,
+          "name": "Venta Directa",
+          "type": 9
+        },
+        {
           "id": 1573,
           "name": "Alumbrado público",
           "type": 1
@@ -4427,7 +4433,7 @@
       },
       "videos": [],
       "web_url": "http://www.dinal.com.ar",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Punta de Arenas VIII es un moderno edificio en construcción ubicado en Catamarca 1457, en el tradicional barrio La Perla, una de las zonas más buscadas de Mar del Plata. Su excelente ubicación, a pocos metros del mar y con rápido acceso al centro de la ciudad, lo convierte en una opción ideal tanto para vivir como para invertir.</p>\n\n<h3>Características del Edificio</h3>\n<p>El edificio contará con 9 pisos y departamentos de 2 y 3 ambientes, con superficies que van desde 42 m² hasta 85 m², diseñados para brindar funcionalidad, confort y luminosidad.</p>\n\n<h3>Amenities</h3>\n<ul>\n<li>Departamentos con excelente distribución y terminaciones de calidad</li>\n<li>Todos los departamentos cuentan con balcón e instalación de parrilla individual</li>\n<li>Cocheras</li>\n<li>Dos ascensores de última generación para mayor comodidad</li>\n<li>SUM ubicado en el último piso, completamente equipado para reuniones y eventos</li>\n<li>Excelente ubicación, a pasos de las playas de La Perla y a minutos del centro comercial, gastronómico y turístico de Mar del Plata</li>\n</ul>\n\n<h3>Propuesta de Inversión</h3>\n<p>Una propuesta que combina una ubicación privilegiada, diseño moderno y espacios pensados para disfrutar, con la posibilidad de acceder a un desarrollo en plena etapa de construcción, ideal para quienes buscan una inversión con gran potencial de valorización.</p>"
+      "enhanced_description": "```html\n<h3>Punta de Arenas VIII</h3>\n\n<p>Edificio en construcción ubicado en Catamarca 1457, en el barrio La Perla de Mar del Plata, a pocos metros del mar y con excelente conexión con el centro de la ciudad.</p>\n\n<h3>El Proyecto</h3>\n\n<p>Se desarrolla en 9 pisos y cuenta con departamentos de 2 y 3 ambientes, con superficies desde 42 m² hasta 85 m², diseñados para aprovechar la luz natural y ofrecer espacios funcionales y cómodos.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Departamentos de 2 y 3 ambientes</li>\n<li>Superficies desde 42 m² hasta 85 m²</li>\n<li>Balcón en todas las unidades</li>\n<li>Instalación para parrilla individual</li>\n<li>Cocheras</li>\n<li>Ascensores de última generación</li>\n<li>SUM ubicado en el último piso para reuniones y encuentros</li>\n<li>Excelente ubicación, próxima a las playas de La Perla y a pocos minutos del centro comercial, gastronómico y turístico de Mar del Plata</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Punta de Arenas VIII combina ubicación, diseño y funcionalidad en un desarrollo actualmente en construcción, con alternativas tanto para vivienda permanente como para inversión.</p>\n```"
     },
     {
       "address": "Geronimo Rejon 3656",
@@ -4460,13 +4466,17 @@
       "construction_date": null,
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-08-05T14:31:15",
-      "description": "Punta de Arenas IX es un exclusivo edificio en construcción ubicado en  Gerónimo Rejón 3656, en el barrio La Perla Norte, una de las zonas de mayor crecimiento y proyección de Mar del Plata. Emplazado a tan solo 40 metros del mar, ofrece una combinación ideal entre tranquilidad, vistas privilegiadas y excelente conectividad.\n\nEl proyecto se desarrolla en un edificio de 9 pisos, con departamentos de 2 y 3 ambientes de 54 m² a 110 m², diseñados con amplios espacios, excelente distribución y terminaciones de calidad, ideales tanto para vivienda permanente como para inversión.\n\nEntre sus principales características se destacan:\n\n* Unidades de diseño moderno, amplias y luminosas.\n* Todos los departamentos cuentan con balcon e instalación de parrilla individual\n* Cocheras\n* Dos ascensores de última generación.\n* SUM ubicado en el último piso, completamente equipado para reuniones y eventos.\n* Ubicación privilegiada, a pocos pasos de la costa y con rápido acceso al centro de Mar del Plata y a los principales servicios de la ciudad.\n\nUna oportunidad para invertir en un desarrollo con excelente ubicación, calidad constructiva y gran potencial de valorización, disfrutando de la cercanía al mar en uno de los barrios con mayor proyección de Mar del Plata.\n",
+      "deleted_at": "2026-09-16T02:35:47",
+      "description": "En Dinal desarrollamos Punta de Arenas IX en Gerónimo Rejón 3656, La Perla Norte, a tan solo 40 metros del mar, en un sector de Mar del Plata que combina tranquilidad, cercanía a la costa y muy buena conexión con el centro y los principales puntos de la ciudad.\n\nEl proyecto se desarrolla en 9 pisos y propone departamentos de 2 y 3 ambientes, con superficies desde 54 m² hasta 110 m². Unidades pensadas para aprovechar la luz natural, generar ambientes cómodos y funcionales y disfrutar la relación con el exterior.\n\nTodos los departamentos cuentan con balcón e instalación para parrilla individual, incorporando un espacio exterior propio para disfrutar durante todo el año.\n\nEl edificio contará además con cocheras, dos ascensores de última generación y un SUM en el último piso, pensado como una extensión de cada departamento para encuentros, reuniones y momentos compartidos.\n\nPunta de Arenas IX se destaca por:\n\nDepartamentos de 2 y 3 ambientes de 54 m² a 110 m².\nAmbientes amplios, luminosos y de diseño contemporáneo.\nBalcón en todas las unidades.\nInstalación para parrilla individual.\nCocheras.\nAscensores de última generación.\nSUM en el último piso.\nUbicación a solo 40 metros del mar.\nCercanía al centro, servicios y principales accesos de Mar del Plata.\n\nUn desarrollo pensado para quienes quieren vivir cerca del mar y también para quienes buscan invertir en una zona de Mar del Plata con proyección.\n\nDinal desarrolla espacios para vivirlos y disfrutarlos durante muchos años.",
       "display_on_web": true,
       "excel_extra_headers": "[]",
       "fake_address": "",
-      "files": [],
-      "financing_details": "",
+      "files": [
+        {
+          "file": "https://static.tokkobroker.com/development_files/366117060232032233189303643265927997895043689757170646966103/PA_IX_VIDEO_INTERIOR.mp4"
+        }
+      ],
+      "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
       "geo_lat": "-37.9783704",
       "geo_long": "-57.5441485",
       "id": 94567,
@@ -4482,7 +4492,7 @@
         "weight": 363,
         "zip_code": null
       },
-      "name": "Punta de arenas IX - Geronimo Rejon 3656",
+      "name": "Punta de Arenas IX - Geronimo Rejon 3656",
       "photos": [
         {
           "description": null,
@@ -4536,23 +4546,23 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94567_92020199251535446451182695931115588065301412752653871596218638336737230557443.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94567_92020199251535446451182695931115588065301412752653871596218638336737230557443.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94567_92020199251535446451182695931115588065301412752653871596218638336737230557443_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94567_92020199251535446451182695931115588065301412752653871596218638336737230557443_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/dev_pictures/94567_8116909757733407691761013078270662862704776315174874099411812107699687483558.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 5,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94567_8116909757733407691761013078270662862704776315174874099411812107699687483558.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94567_8116909757733407691761013078270662862704776315174874099411812107699687483558_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94567_8116909757733407691761013078270662862704776315174874099411812107699687483558_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94567_4404512216715032185275392493803389694354341955961570786023108263691284844105.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94567_4404512216715032185275392493803389694354341955961570786023108263691284844105.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94567_4404512216715032185275392493803389694354341955961570786023108263691284844105_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94567_4404512216715032185275392493803389694354341955961570786023108263691284844105_thumb.jpg"
         },
         {
           "description": null,
@@ -4566,33 +4576,23 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94567_38557605294373424556742778927579232111233845538457572654878306982736103296021.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94567_38557605294373424556742778927579232111233845538457572654878306982736103296021.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94567_38557605294373424556742778927579232111233845538457572654878306982736103296021_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94567_38557605294373424556742778927579232111233845538457572654878306982736103296021_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94567_4404512216715032185275392493803389694354341955961570786023108263691284844105.jpg",
+          "image": "https://static.tokkobroker.com/dev_pictures/94567_10465378238078562548832968619320237222254287775510687922288544812222651113371.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 9,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94567_4404512216715032185275392493803389694354341955961570786023108263691284844105.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94567_4404512216715032185275392493803389694354341955961570786023108263691284844105_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94567_4404512216715032185275392493803389694354341955961570786023108263691284844105_thumb.jpg"
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94567_10465378238078562548832968619320237222254287775510687922288544812222.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94567_104653782380785625488329686193202372222542877755106879222885448122226511133715_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94567_104653782380785625488329686193202372222542877755106879222885448122226511133715_.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94567_53141523212964363762691612598114769611741861410403390232927423206494638446903.jpg",
+          "image": "https://static.tokkobroker.com/dev_pictures/94567_13694502963848733598563099396458652519334652087745303605079712598972239656467.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 10,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94567_53141523212964363762691612598114769611741861410403390232927423206494638446903.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94567_53141523212964363762691612598114769611741861410403390232927423206494638446903_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94567_53141523212964363762691612598114769611741861410403390232927423206494638446903_thumb.jpg"
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94567_13694502963848733598563099396458652519334652087745303605079712598972.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94567_13694502963848733598563099396458652519334652087745303605079712598972239656467_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94567_13694502963848733598563099396458652519334652087745303605079712598972239656467_t.jpg"
         }
       ],
       "publication_title": "Edificio en La Perla Norte",
@@ -4716,7 +4716,7 @@
       },
       "videos": [],
       "web_url": "http://www.dinal.com.ar",
-      "enhanced_description": "<h3>Punta de Arenas IX</h3>\n\n<p>Exclusivo edificio en construcción ubicado en Gerónimo Rejón 3656, en el barrio La Perla Norte, una de las zonas de mayor crecimiento y proyección de Mar del Plata. Emplazado a tan solo 40 metros del mar, ofrece una combinación ideal entre tranquilidad, vistas privilegiadas y excelente conectividad.</p>\n\n<h3>El Proyecto</h3>\n\n<p>Se desarrolla en un edificio de 9 pisos, con departamentos de 2 y 3 ambientes de 54 m² a 110 m², diseñados con amplios espacios, excelente distribución y terminaciones de calidad, ideales tanto para vivienda permanente como para inversión.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Unidades de diseño moderno, amplias y luminosas</li>\n<li>Todos los departamentos cuentan con balcón e instalación de parrilla individual</li>\n<li>Cocheras</li>\n<li>Dos ascensores de última generación</li>\n<li>SUM ubicado en el último piso, completamente equipado para reuniones y eventos</li>\n<li>Ubicación privilegiada, a pocos pasos de la costa y con rápido acceso al centro de Mar del Plata y a los principales servicios de la ciudad</li>\n</ul>\n\n<h3>Inversión</h3>\n\n<p>Una oportunidad para invertir en un desarrollo con excelente ubicación, calidad constructiva y gran potencial de valorización, disfrutando de la cercanía al mar en uno de los barrios con mayor proyección de Mar del Plata.</p>"
+      "enhanced_description": "<h3>El Proyecto</h3>\n<p>En Dinal desarrollamos Punta de Arenas IX en Gerónimo Rejón 3656, La Perla Norte, a tan solo 40 metros del mar, en un sector de Mar del Plata que combina tranquilidad, cercanía a la costa y muy buena conexión con el centro y los principales puntos de la ciudad.</p>\n<p>El proyecto se desarrolla en 9 pisos y propone departamentos de 2 y 3 ambientes, con superficies desde 54 m² hasta 110 m². Unidades pensadas para aprovechar la luz natural, generar ambientes cómodos y funcionales y disfrutar la relación con el exterior.</p>\n\n<h3>Características de los Departamentos</h3>\n<p>Todos los departamentos cuentan con balcón e instalación para parrilla individual, incorporando un espacio exterior propio para disfrutar durante todo el año.</p>\n\n<h3>Amenities del Edificio</h3>\n<p>El edificio contará además con cocheras, dos ascensores de última generación y un SUM en el último piso, pensado como una extensión de cada departamento para encuentros, reuniones y momentos compartidos.</p>\n\n<h3>Destaque del Proyecto</h3>\n<ul>\n<li>Departamentos de 2 y 3 ambientes de 54 m² a 110 m²</li>\n<li>Ambientes amplios, luminosos y de diseño contemporáneo</li>\n<li>Balcón en todas las unidades</li>\n<li>Instalación para parrilla individual</li>\n<li>Cocheras</li>\n<li>Ascensores de última generación</li>\n<li>SUM en el último piso</li>\n<li>Ubicación a solo 40 metros del mar</li>\n<li>Cercanía al centro, servicios y principales accesos de Mar del Plata</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Un desarrollo pensado para quienes quieren vivir cerca del mar y también para quienes buscan invertir en una zona de Mar del Plata con proyección.</p>\n\n<p>Dinal desarrolla espacios para vivirlos y disfrutarlos durante muchos años.</p>"
     },
     {
       "address": "Av. de los trabajadores 2001",
@@ -4749,13 +4749,13 @@
       "construction_date": null,
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-07-24T13:09:50",
-      "description": "Punta de Arenas XI es un exclusivo edificio en construcción ubicado sobre Avenida de los Trabajadores 2001, en la privilegiada Zona Sur de Mar del Plata, a pocos metros del mar. Su entorno combina la tranquilidad de la costa con un excelente acceso a los principales servicios, espacios recreativos y puntos de interés de la ciudad.\n\nEl proyecto se desarrolla en un moderno edificio de 10 pisos, con departamentos de 2, 3 y 4 ambientes, cuyas superficies van desde **50 m² hasta 235 m²**, ofreciendo opciones para quienes buscan una primera vivienda, un hogar familiar o una inversión de gran proyección.\n\nTodas las unidades han sido diseñadas con ambientes amplios, funcionales y luminosos, y cuentan con balcón, permitiendo disfrutar del aire libre y de las vistas privilegiadas de la zona.\n\nEntre sus principales características se destacan:\n\n* Departamentos de 2, 3 y 4 ambientes con excelente distribución.\n* Superficies desde 50 m² hasta 235 m².\n* Todas las unidades con balcón.\n* Cocheras.\n* Dos ascensores de última generación.\n* SUM ubicado en el último piso, completamente equipado para reuniones y eventos.\n* Terminaciones de calidad y diseño contemporáneo.\n\nGracias a su ubicación estratégica, a metros del mar y en una de las zonas con mayor crecimiento de Mar del Plata, Punta de Arenas XI representa una excelente oportunidad para vivir con confort o invertir en un desarrollo con gran potencial de valorización.\n",
+      "deleted_at": "2026-09-16T02:42:47",
+      "description": "Punta de Arenas XI es un exclusivo edificio en construcción ubicado sobre Avenida de los Trabajadores 2001, Punta Mogotes en la privilegiada Zona Sur de Mar del Plata, frente al mar. Su entorno combina la tranquilidad de la costa con un excelente acceso a los principales servicios, espacios recreativos y puntos de interés de la ciudad.\n\nEl proyecto se desarrolla en un moderno edificio de 10 pisos, con departamentos de 2, 3 y 4 ambientes, cuyas superficies van desde **50 m² hasta 235 m²**, ofreciendo opciones para quienes buscan una primera vivienda, un hogar familiar o una inversión de gran proyección.\n\nTodas las unidades han sido diseñadas con ambientes amplios, funcionales y luminosos, y cuentan con balcón, permitiendo disfrutar del aire libre y de las vistas privilegiadas y despejadas del entorno.\n\nEntre sus principales características se destacan:\n\n* Departamentos de 2, 3 y 4 ambientes con excelente distribución.\n* Superficies desde 50 m² hasta 235 m².\n* Todas las unidades con balcón.\n* Cocheras.\n* Ascensores de última generación.\n* SUM ubicado en el último piso, ideal para reuniones y eventos.\n* Terminaciones de calidad y diseño contemporáneo.\n\nGracias a su ubicación estratégica, en primer linea frente al mar y en una de las zonas con mayor crecimiento de Mar del Plata, Punta de Arenas XI representa una excelente oportunidad para vivir con confort o invertir en un desarrollo con gran potencial de valorización.\n",
       "display_on_web": true,
       "excel_extra_headers": "[]",
       "fake_address": "",
       "files": [],
-      "financing_details": "",
+      "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
       "geo_lat": "-38.0604707932",
       "geo_long": "-57.5456077952",
       "id": 94568,
@@ -4771,7 +4771,7 @@
         "weight": 289,
         "zip_code": null
       },
-      "name": "Punta de arenas XI - av. de los trabajadores 2001",
+      "name": "Punta de Arenas XI - Av. De los Trabajadores 2001",
       "photos": [
         {
           "description": null,
@@ -4979,6 +4979,11 @@
           "type": 3
         },
         {
+          "id": 1257,
+          "name": "Ventanas doble acristalamiento",
+          "type": 3
+        },
+        {
           "id": 1390,
           "name": "Luminoso",
           "type": 3
@@ -5002,6 +5007,11 @@
           "id": 1573,
           "name": "Alumbrado público",
           "type": 1
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
         }
       ],
       "type": {
@@ -5020,7 +5030,7 @@
       },
       "videos": [],
       "web_url": "http://www.dinal.com.ar",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Exclusivo edificio en construcción ubicado sobre Avenida de los Trabajadores 2001, en la privilegiada Zona Sur de Mar del Plata, a pocos metros del mar. Su entorno combina la tranquilidad de la costa con un excelente acceso a los principales servicios, espacios recreativos y puntos de interés de la ciudad.</p>\n\n<h3>El Proyecto</h3>\n<p>El proyecto se desarrolla en un moderno edificio de 10 pisos, con departamentos de 2, 3 y 4 ambientes, cuyas superficies van desde 50 m² hasta 235 m², ofreciendo opciones para quienes buscan una primera vivienda, un hogar familiar o una inversión de gran proyección.</p>\n\n<h3>Departamentos</h3>\n<p>Todas las unidades han sido diseñadas con ambientes amplios, funcionales y luminosos, y cuentan con balcón, permitiendo disfrutar del aire libre y de las vistas privilegiadas de la zona.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Departamentos de 2, 3 y 4 ambientes con excelente distribución</li>\n<li>Superficies desde 50 m² hasta 235 m²</li>\n<li>Todas las unidades con balcón</li>\n<li>Cocheras</li>\n<li>Dos ascensores de última generación</li>\n<li>SUM ubicado en el último piso, completamente equipado para reuniones y eventos</li>\n<li>Terminaciones de calidad y diseño contemporáneo</li>\n</ul>\n\n<h3>Oportunidad de Inversión</h3>\n<p>Gracias a su ubicación estratégica, a metros del mar y en una de las zonas con mayor crecimiento de Mar del Plata, Punta de Arenas XI representa una excelente oportunidad para vivir con confort o invertir en un desarrollo con gran potencial de valorización.</p>"
+      "enhanced_description": "<h3>Punta de Arenas XI</h3>\n\n<p>Exclusivo edificio en construcción ubicado sobre Avenida de los Trabajadores 2001, Punta Mogotes en la privilegiada Zona Sur de Mar del Plata, frente al mar. Su entorno combina la tranquilidad de la costa con un excelente acceso a los principales servicios, espacios recreativos y puntos de interés de la ciudad.</p>\n\n<h3>El Proyecto</h3>\n\n<p>El proyecto se desarrolla en un moderno edificio de 10 pisos, con departamentos de 2, 3 y 4 ambientes, cuyas superficies van desde 50 m² hasta 235 m², ofreciendo opciones para quienes buscan una primera vivienda, un hogar familiar o una inversión de gran proyección.</p>\n\n<p>Todas las unidades han sido diseñadas con ambientes amplios, funcionales y luminosos, y cuentan con balcón, permitiendo disfrutar del aire libre y de las vistas privilegiadas y despejadas del entorno.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Departamentos de 2, 3 y 4 ambientes con excelente distribución</li>\n<li>Superficies desde 50 m² hasta 235 m²</li>\n<li>Todas las unidades con balcón</li>\n<li>Cocheras</li>\n<li>Ascensores de última generación</li>\n<li>SUM ubicado en el último piso, ideal para reuniones y eventos</li>\n<li>Terminaciones de calidad y diseño contemporáneo</li>\n</ul>\n\n<h3>Ubicación e Inversión</h3>\n\n<p>Gracias a su ubicación estratégica, en primer línea frente al mar y en una de las zonas con mayor crecimiento de Mar del Plata, Punta de Arenas XI representa una excelente oportunidad para vivir con confort o invertir en un desarrollo con gran potencial de valorización.</p>"
     }
   ]
 }
