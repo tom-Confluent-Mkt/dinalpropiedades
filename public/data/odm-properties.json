@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-09-17T10:44:14.767Z"
+    "lastSync": "2026-09-18T10:19:52.783Z"
   },
   "objects": [
     {
@@ -3539,7 +3539,7 @@
       "address_complement": "",
       "age": -1,
       "apartment_door": "",
-      "appartments_per_floor": 0,
+      "appartments_per_floor": 6,
       "bathroom_amount": 1,
       "block_number": "",
       "branch": {
@@ -3576,9 +3576,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2025-08-08T18:24:09",
+      "deleted_at": "2026-09-17T19:58:50",
       "depth_measure": "0.00",
-      "description": "                                    Punta de Arenas XIV – Tu próximo dos ambientes a metros del marEste departamento de 2 ambientes, con 70 m² totales y cochera propia, formará parte de Punta de Arenas XIV, un desarrollo en construcción en Patagones 1296, a solo una cuadra del mar, en la zona Constitución.\nUbicado al frente, con orientación sudeste, esta unidad contará con 1 dormitorio, 1 baño completo, 1 toilette, 60 m² cubiertos y un balcón de 10 m² descubiertos. Un espacio amplio y cómodo, ideal para quienes buscan vivir cerca del mar sin resignar funcionalidad.\nEl edificio ofrecerá unidades de 1, 2 y 3 ambientes, con superficies que irán de 42,5 a 113,5 m², todas con cochera y baulera. Cada departamento será luminoso, bien distribuido y con balcones diseñados para disfrutarse todos los días, incluyendo lavadero oculto y parrilla a gas.\nComo todas las unidades del edificio, este departamento contará con terminaciones de calidad: doble muro con aislación térmica, DVH, pisos de porcelanato, calefacción por radiadores, cocina equipada y baño moderno. Además, incorporará puerta de seguridad, portero visor, cámaras, ascensores ágiles y preinstalación lista para conectividad WiFi sin cables a la vista.\nLa entrega está prevista para 2028, con posibilidad de financiación flexible, y el respaldo de Grupo Dinal y Obras de Mar, con más de 30 años en el mercado.Un dos ambientes con espacio, luz y ubicación privilegiada para vivir bien, todo el año.\nPorque vivir bien no es un lujo. Es una decisión.\n\n        \n        \r\n        ",
+      "description": "                                                    Punta de Arenas XIV – 2 ambientes al frente, a una cuadra del mar\nUn departamento pensado para quienes buscan algo más que simplemente un dos ambientes.\nEsta unidad de 70 m² totales se encuentra al frente, con orientación sudeste, dentro de Punta de Arenas XIV, nuestro nuevo desarrollo en Patagones 1296, barrio Constitución, a solo una cuadra del mar.\nCuenta con 60 m² cubiertos y un balcón de aproximadamente 10 m², logrando una planta amplia y funcional para un departamento de dos ambientes.\nLa distribución incluye living comedor, cocina, dormitorio, baño completo y toilette. El balcón fue pensado como una verdadera extensión del departamento, con espacio e instalaciones previstas para parrilla a gas y un sector de lavadero integrado y oculto.\nCaracterísticas de la unidad:\n2 ambientes.70 m² totales.60 m² cubiertos.Balcón de aproximadamente 10 m².Ubicación al frente.Orientación sudeste.1 dormitorio.1 baño completo.1 toilette.Espacio e instalaciones previstas para parrilla a gas.Sector de lavadero integrado y oculto.Cocheras y bauleras disponibles.\nEl proyecto contempla terminaciones y características constructivas pensadas para brindar confort durante todo el año, entre ellas aberturas con DVH, pisos de porcelanato, placares, equipamiento de cocina, instalaciones previstas para climatización y portero visor.\nPunta de Arenas XIV estará ubicado en un sector residencial de Constitución que permite vivir a una cuadra del mar, con buena conectividad y acceso a comercios y servicios, en una zona de Mar del Plata que continúa creciendo y consolidándose.\nActualmente el proyecto se encuentra en etapa de pozo, próximo al inicio de los primeros trabajos de obra.\nUna propuesta especialmente interesante para quien busca un dos ambientes con una superficie mayor a la habitual, balcón realmente utilizable y cercanía al mar.\nConsultanos por disponibilidad, valores, alternativas de financiación y opciones de cochera o baulera.\n\n        \n        \n        \r\n\r\n            ",
       "development": {
         "address": "            Patagones  1296",
         "branch": {
@@ -3615,11 +3615,7 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [
-          {
-            "file": "https://static.tokkobroker.com/development_files/1523150717803321599531633261505087729740083237699524692477991/Brochure_PA_XIV__-_Patagones_1296.pdf"
-          }
-        ],
+        "files": [],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-37.968047",
         "geo_long": "-57.544191",
@@ -4050,20 +4046,6 @@
           {
             "birthdate": null,
             "cellphone": "",
-            "created_at": "2025-01-09T15:41:30",
-            "document_number": "",
-            "email": "",
-            "id": 49378961,
-            "name": "Grupo Dinal",
-            "other_email": "",
-            "other_phone": "",
-            "phone": "",
-            "updated_at": "2026-01-19T14:18:54",
-            "work_email": ""
-          },
-          {
-            "birthdate": null,
-            "cellphone": "",
             "created_at": "2025-01-10T01:30:58",
             "document_number": "",
             "email": "",
@@ -4076,7 +4058,7 @@
             "work_email": ""
           }
         ],
-        "transaction_requirements": ""
+        "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes."
       },
       "iptu": 0,
       "iptu_type": "No informado",
@@ -4108,12 +4090,12 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 154000
+              "price": 168000
             }
           ]
         }
       ],
-      "orientation": "Sudeste",
+      "orientation": "Noroeste",
       "parking_lot_amount": 1,
       "parking_lot_condition": null,
       "parking_lot_type": null,
@@ -4123,7 +4105,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_109115660957112677192265292926172450555676471387895496621138586752284259838999.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 14,
+          "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_109115660957112677192265292926172450555676471387895496621138586752284259838999.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/100071348_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_109115660957112677192265292926172450555676471387895496621138586752284259838999_thumb.jpg"
@@ -4133,7 +4115,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_87995949957363565920939868481960843702236696523870137023304283894759756473156.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 0,
+          "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_87995949957363565920939868481960843702236696523870137023304283894759756473156.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_87995949957363565920939868481960843702236696523870137023304283894759756473156_thumb.jpg"
@@ -4143,7 +4125,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_69284873651770735196648666419753222878122412941133998465182619648543176823086.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 2,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_69284873651770735196648666419753222878122412941133998465182619648543176823086.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_69284873651770735196648666419753222878122412941133998465182619648543176823086_thumb.jpg"
@@ -4153,7 +4135,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_9004438829066824470708801311298273427610987956192523722878566470350065485275.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
+          "order": 3,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_9004438829066824470708801311298273427610987956192523722878566470350065485275.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_9004438829066824470708801311298273427610987956192523722878566470350065485275_thumb.jpg"
@@ -4163,7 +4145,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_30137452257462496395434748803573919339147356478756650130032736684486443890546.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_30137452257462496395434748803573919339147356478756650130032736684486443890546.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_30137452257462496395434748803573919339147356478756650130032736684486443890546_thumb.jpg"
@@ -4173,27 +4155,17 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_14352268112175156297997092262101148064351126251963387590172005350236550011384.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_14352268112175156297997092262101148064351126251963387590172005350236550011384.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_14352268112175156297997092262101148064351126251963387590172005350236550011384_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6938514_42142272559797041104962673397424908281978966069501021973526970611432618021082.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/6938514_42142272559797041104962673397424908281978966069501021973526970611432618021082.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6938514_42142272559797041104962673397424908281978966069501021973526970611432618021082_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6938514_8954813276584492552188145417719535193361265921052779725020003339978992341509.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_8954813276584492552188145417719535193361265921052779725020003339978992341509.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_8954813276584492552188145417719535193361265921052779725020003339978992341509_thumb.jpg"
@@ -4213,7 +4185,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_65599336982284949652945636657590865387358220974661262818142945818895444092325.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 10,
+          "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_65599336982284949652945636657590865387358220974661262818142945818895444092325.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_65599336982284949652945636657590865387358220974661262818142945818895444092325_thumb.jpg"
@@ -4223,29 +4195,19 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_59725434447594969269535753263500927758302173431467592999982109118074522707647.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 12,
+          "order": 10,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_59725434447594969269535753263500927758302173431467592999982109118074522707647.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_59725434447594969269535753263500927758302173431467592999982109118074522707647_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6938514_89521195397547157242477755586233305608875913637240012489696472804375976200054.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 16,
-          "original": "https://static.tokkobroker.com/original_pictures/6938514_89521195397547157242477755586233305608875913637240012489696472804375976200054.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6938514_89521195397547157242477755586233305608875913637240012489696472804375976200054_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6938514_14407634227160011023326255111666242310901404682860371222219759106155769502770.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 18,
+          "order": 12,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_14407634227160011023326255111666242310901404682860371222219759106155769502770.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/100071341_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_14407634227160011023326255111666242310901404682860371222219759106155769502770_thumb.jpg"
         },
         {
@@ -4253,7 +4215,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_58529786205755951241209283557643805922326415703712222741411402596464777551818.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 19,
+          "order": 13,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_58529786205755951241209283557643805922326415703712222741411402596464777551818.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_58529786205755951241209283557643805922326415703712222741411402596464777551818_thumb.jpg"
@@ -4263,7 +4225,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_41363746982934166326641530279604191445903543141120486194825366891883746164873.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 20,
+          "order": 14,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_41363746982934166326641530279604191445903543141120486194825366891883746164873.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_41363746982934166326641530279604191445903543141120486194825366891883746164873_thumb.jpg"
@@ -4273,7 +4235,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_89105957667661437086189958991879988861862350431830480251200568699034206579557.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 21,
+          "order": 15,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_89105957667661437086189958991879988861862350431830480251200568699034206579557.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_89105957667661437086189958991879988861862350431830480251200568699034206579557_thumb.jpg"
@@ -4283,7 +4245,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_101035412884804312695159998541061116131478097766402880073903950272908524176232.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 22,
+          "order": 16,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_101035412884804312695159998541061116131478097766402880073903950272908524176232.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_101035412884804312695159998541061116131478097766402880073903950272908524176232_thumb.jpg"
@@ -4293,7 +4255,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_75302568535348222085776394209571416550355516422687617000003358546555585734655.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 23,
+          "order": 17,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_75302568535348222085776394209571416550355516422687617000003358546555585734655.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_75302568535348222085776394209571416550355516422687617000003358546555585734655_thumb.jpg"
@@ -4303,7 +4265,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_68161068915850513991480599810654049283414642600103027442022968735400046254717.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 24,
+          "order": 18,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_68161068915850513991480599810654049283414642600103027442022968735400046254717.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_68161068915850513991480599810654049283414642600103027442022968735400046254717_thumb.jpg"
@@ -4313,7 +4275,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_108069107097253873338882882074083881965782947296897516948784330029277694129349.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 25,
+          "order": 19,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_108069107097253873338882882074083881965782947296897516948784330029277694129349.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_108069107097253873338882882074083881965782947296897516948784330029277694129349_thumb.jpg"
@@ -4323,7 +4285,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_98678441087149005703571208184588874960151643150353971248393868049099041019489.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 26,
+          "order": 20,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_98678441087149005703571208184588874960151643150353971248393868049099041019489.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_98678441087149005703571208184588874960151643150353971248393868049099041019489_thumb.jpg"
@@ -4333,7 +4295,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_42107967864768719888216242193557100277234724950473015723973921032184785039784.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 27,
+          "order": 21,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_42107967864768719888216242193557100277234724950473015723973921032184785039784.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_42107967864768719888216242193557100277234724950473015723973921032184785039784_thumb.jpg"
@@ -4343,7 +4305,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_30430699822154926976525403623439278465253038151302843738814170072116604396337.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 28,
+          "order": 22,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_30430699822154926976525403623439278465253038151302843738814170072116604396337.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_30430699822154926976525403623439278465253038151302843738814170072116604396337_thumb.jpg"
@@ -4353,7 +4315,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_29972072767867026033727571261251414577872204099994457210118114700082721323955.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 29,
+          "order": 23,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_29972072767867026033727571261251414577872204099994457210118114700082721323955.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_29972072767867026033727571261251414577872204099994457210118114700082721323955_thumb.jpg"
@@ -4363,7 +4325,7 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_66575011328815594422419462066263793681828107959318194909119182125739299865342.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 31,
+          "order": 24,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_66575011328815594422419462066263793681828107959318194909119182125739299865342.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_66575011328815594422419462066263793681828107959318194909119182125739299865342_thumb.jpg"
@@ -4373,40 +4335,30 @@
           "image": "https://static.tokkobroker.com/pictures/6938514_112225110062028337458596587781769134895290689815247740509246368934209816253243.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 33,
+          "order": 25,
           "original": "https://static.tokkobroker.com/original_pictures/6938514_112225110062028337458596587781769134895290689815247740509246368934209816253243.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938514_112225110062028337458596587781769134895290689815247740509246368934209816253243_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6938514_39241108909834972794979588893770283318372857074093329761787332376168136866695.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 34,
-          "original": "https://static.tokkobroker.com/original_pictures/6938514_39241108909834972794979588893770283318372857074093329761787332376168136866695.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6938514_39241108909834972794979588893770283318372857074093329761787332376168136866695_thumb.jpg"
         }
       ],
       "portal_footer": "",
       "private_area": "0.00",
       "producer": {
-        "cellphone": "",
-        "email": "marketing@obrasdemar.com",
-        "id": 123159,
-        "name": "MARKETING",
-        "phone": "",
+        "cellphone": " 5491158510184",
+        "email": "obrasdemar@gmail.com",
+        "id": 122255,
+        "name": "Obras De Mar",
+        "phone": " 5491158510184",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
         "position": ""
       },
       "property_condition": "Excelente",
-      "public_url": "https://ficha.info/p/eDhbGdGcBosEHa",
+      "public_url": "https://ficha.info/p/eDhbGdFX1osLZa",
       "publication_title": "Departamento 2 Ambientes en Constitución | Mar del Plata",
       "quality_level": null,
       "real_address": "Punta de Arenas XIV | Patagones 1296 | Piso 1 a 6 | Unidad A",
       "reference_code": "OBU62623 AP6938514",
-      "rich_description": "                                    <div>Punta de Arenas XIV – Tu próximo dos ambientes a metros del mar</div><div>Este departamento de 2 ambientes, con 70 m² totales y cochera propia, formará parte de Punta de Arenas XIV, un desarrollo en construcción en Patagones 1296, a solo una cuadra del mar, en la zona Constitución.</div><div><br></div><div>Ubicado al frente, con orientación sudeste, esta unidad contará con 1 dormitorio, 1 baño completo, 1 toilette, 60 m² cubiertos y un balcón de 10 m² descubiertos. Un espacio amplio y cómodo, ideal para quienes buscan vivir cerca del mar sin resignar funcionalidad.</div><div><br></div><div>El edificio ofrecerá unidades de 1, 2 y 3 ambientes, con superficies que irán de 42,5 a 113,5 m², todas con cochera y baulera. Cada departamento será luminoso, bien distribuido y con balcones diseñados para disfrutarse todos los días, incluyendo lavadero oculto y parrilla a gas.</div><div><br></div><div>Como todas las unidades del edificio, este departamento contará con terminaciones de calidad: doble muro con aislación térmica, DVH, pisos de porcelanato, calefacción por radiadores, cocina equipada y baño moderno. Además, incorporará puerta de seguridad, portero visor, cámaras, ascensores ágiles y preinstalación lista para conectividad WiFi sin cables a la vista.</div><div><br></div><div>La entrega está prevista para 2028, con posibilidad de financiación flexible, y el respaldo de Grupo Dinal y Obras de Mar, con más de 30 años en el mercado.</div><div>Un dos ambientes con espacio, luz y ubicación privilegiada para vivir bien, todo el año.</div><div><br></div><div>Porque vivir bien no es un lujo. Es una decisión.</div><div><br></div><div><br></div>        <br>        \r\n        ",
+      "rich_description": "                                                    <div>Punta de Arenas XIV – 2 ambientes al frente, a una cuadra del mar<div><br></div><div>Un departamento pensado para quienes buscan algo más que simplemente un dos ambientes.</div><div><br></div><div>Esta unidad de 70 m² totales se encuentra al frente, con orientación sudeste, dentro de Punta de Arenas XIV, nuestro nuevo desarrollo en Patagones 1296, barrio Constitución, a solo una cuadra del mar.</div><div><br></div><div>Cuenta con 60 m² cubiertos y un balcón de aproximadamente 10 m², logrando una planta amplia y funcional para un departamento de dos ambientes.</div><div><br></div><div>La distribución incluye living comedor, cocina, dormitorio, baño completo y toilette. El balcón fue pensado como una verdadera extensión del departamento, con espacio e instalaciones previstas para parrilla a gas y un sector de lavadero integrado y oculto.</div><div><br></div><div>Características de la unidad:</div><div><br></div><div>2 ambientes.</div><div>70 m² totales.</div><div>60 m² cubiertos.</div><div>Balcón de aproximadamente 10 m².</div><div>Ubicación al frente.</div><div>Orientación sudeste.</div><div>1 dormitorio.</div><div>1 baño completo.</div><div>1 toilette.</div><div>Espacio e instalaciones previstas para parrilla a gas.</div><div>Sector de lavadero integrado y oculto.</div><div>Cocheras y bauleras disponibles.</div><div><br></div><div>El proyecto contempla terminaciones y características constructivas pensadas para brindar confort durante todo el año, entre ellas aberturas con DVH, pisos de porcelanato, placares, equipamiento de cocina, instalaciones previstas para climatización y portero visor.</div><div><br></div><div>Punta de Arenas XIV estará ubicado en un sector residencial de Constitución que permite vivir a una cuadra del mar, con buena conectividad y acceso a comercios y servicios, en una zona de Mar del Plata que continúa creciendo y consolidándose.</div><div><br></div><div>Actualmente el proyecto se encuentra en etapa de pozo, próximo al inicio de los primeros trabajos de obra.</div><div><br></div><div>Una propuesta especialmente interesante para quien busca un dos ambientes con una superficie mayor a la habitual, balcón realmente utilizable y cercanía al mar.</div><div><br></div><div>Consultanos por disponibilidad, valores, alternativas de financiación y opciones de cochera o baulera.</div><div><br></div></div><div><br></div>        <br>        <br>        \r\n\r\n            ",
       "roofed_surface": "60.00",
       "room_amount": 2,
       "semiroofed_surface": "0.00",
@@ -4462,11 +4414,6 @@
         {
           "id": 10,
           "name": "Balcón",
-          "type": 2
-        },
-        {
-          "id": 11,
-          "name": "Baulera",
           "type": 2
         },
         {
@@ -4550,16 +4497,26 @@
           "type": 3
         },
         {
+          "id": 1512,
+          "name": "Calefacción individual",
+          "type": 3
+        },
+        {
           "id": 1514,
           "name": "Calefacción por radiadores",
           "type": 3
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
         }
       ],
       "toilet_amount": 1,
       "total_area": "0.00",
       "total_suites": 1,
       "total_surface": "70.00",
-      "transaction_requirements": "",
+      "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes.",
       "tv_rooms": 0,
       "type": {
         "code": "AP",
@@ -4572,7 +4529,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "enhanced_description": "<h3>Punta de Arenas XIV</h3>\n\n<p>Este departamento de 2 ambientes, con 70 m² totales y cochera propia, formará parte de Punta de Arenas XIV, un desarrollo en construcción en Patagones 1296, a solo una cuadra del mar, en la zona Constitución.</p>\n\n<h3>Características de la Unidad</h3>\n\n<p>Ubicado al frente, con orientación sudeste, esta unidad contará con:</p>\n\n<ul>\n<li>1 dormitorio</li>\n<li>1 baño completo</li>\n<li>1 toilette</li>\n<li>60 m² cubiertos</li>\n<li>Balcón de 10 m² descubiertos</li>\n<li>Cochera propia</li>\n<li>Lavadero oculto</li>\n<li>Parrilla a gas</li>\n</ul>\n\n<p>Un espacio amplio y cómodo, ideal para quienes buscan vivir cerca del mar sin resignar funcionalidad.</p>\n\n<h3>El Proyecto</h3>\n\n<p>El edificio ofrecerá unidades de 1, 2 y 3 ambientes, con superficies que irán de 42,5 a 113,5 m², todas con cochera y baulera. Cada departamento será luminoso, bien distribuido y con balcones diseñados para disfrutarse todos los días.</p>\n\n<h3>Terminaciones y Servicios</h3>\n\n<ul>\n<li>Doble muro con aislación térmica</li>\n<li>DVH</li>\n<li>Pisos de porcelanato</li>\n<li>Calefacción por radiadores</li>\n<li>Cocina equipada</li>\n<li>Baño moderno</li>\n<li>Puerta de seguridad</li>\n<li>Portero visor</li>\n<li>Cámaras de vigilancia</li>\n<li>Ascensores ágiles</li>\n<li>Preinstalación lista para conectividad WiFi sin cables a la vista</li>\n</ul>\n\n<h3>Entrega y Financiación</h3>\n\n<p>La entrega está prevista para 2028, con posibilidad de financiación flexible, y el respaldo de Grupo Dinal y Obras de Mar, con más de 30 años en el mercado.</p>\n\n<h3>Ubicación</h3>\n\n<p>Un dos ambientes con espacio, luz y ubicación privilegiada para vivir bien, todo el año.</p>"
+      "enhanced_description": "<h3>Descripción General</h3>\n<p>Un departamento pensado para quienes buscan algo más que simplemente un dos ambientes. Esta unidad de 70 m² totales se encuentra al frente, con orientación sudeste, dentro de Punta de Arenas XIV, nuestro nuevo desarrollo en Patagones 1296, barrio Constitución, a solo una cuadra del mar.</p>\n\n<h3>Características de la Unidad</h3>\n<ul>\n<li>2 ambientes</li>\n<li>70 m² totales</li>\n<li>60 m² cubiertos</li>\n<li>Balcón de aproximadamente 10 m²</li>\n<li>Ubicación al frente</li>\n<li>Orientación sudeste</li>\n<li>1 dormitorio</li>\n<li>1 baño completo</li>\n<li>1 toilette</li>\n<li>Espacio e instalaciones previstas para parrilla a gas</li>\n<li>Sector de lavadero integrado y oculto</li>\n<li>Cocheras y bauleras disponibles</li>\n</ul>\n\n<h3>Distribución</h3>\n<p>Cuenta con 60 m² cubiertos y un balcón de aproximadamente 10 m², logrando una planta ampla y funcional. La distribución incluye living comedor, cocina, dormitorio, baño completo y toilette. El balcón fue pensado como una verdadera extensión del departamento, con espacio e instalaciones previstas para parrilla a gas y un sector de lavadero integrado y oculto.</p>\n\n<h3>Características Constructivas</h3>\n<ul>\n<li>Aberturas con DVH</li>\n<li>Pisos de porcelanato</li>\n<li>Placares</li>\n<li>Equipamiento de cocina</li>\n<li>Instalaciones previstas para climatización</li>\n<li>Portero visor</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Punta de Arenas XIV estará ubicado en un sector residencial de Constitución que permite vivir a una cuadra del mar, con buena conectividad y acceso a comercios y servicios, en una zona de Mar del Plata que continúa creciendo y consolidándose.</p>\n\n<h3>Estado del Proyecto</h3>\n<p>Actualmente el proyecto se encuentra en etapa de pozo, próximo al inicio de los primeros trabajos de obra.</p>"
     },
     {
       "address": "Patagones 1296",
@@ -4655,11 +4612,7 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [
-          {
-            "file": "https://static.tokkobroker.com/development_files/1523150717803321599531633261505087729740083237699524692477991/Brochure_PA_XIV__-_Patagones_1296.pdf"
-          }
-        ],
+        "files": [],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-37.968047",
         "geo_long": "-57.544191",
@@ -5775,11 +5728,7 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [
-          {
-            "file": "https://static.tokkobroker.com/development_files/1523150717803321599531633261505087729740083237699524692477991/Brochure_PA_XIV__-_Patagones_1296.pdf"
-          }
-        ],
+        "files": [],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-37.968047",
         "geo_long": "-57.544191",
@@ -6745,11 +6694,7 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [
-          {
-            "file": "https://static.tokkobroker.com/development_files/1523150717803321599531633261505087729740083237699524692477991/Brochure_PA_XIV__-_Patagones_1296.pdf"
-          }
-        ],
+        "files": [],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-37.968047",
         "geo_long": "-57.544191",
@@ -7705,11 +7650,7 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [
-          {
-            "file": "https://static.tokkobroker.com/development_files/1523150717803321599531633261505087729740083237699524692477991/Brochure_PA_XIV__-_Patagones_1296.pdf"
-          }
-        ],
+        "files": [],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-37.968047",
         "geo_long": "-57.544191",
@@ -8676,7 +8617,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2025-08-08T18:25:02",
+      "deleted_at": "2026-09-18T01:18:07",
       "depth_measure": "0.00",
       "description": "                                    Punta de Arenas XIV – Un departamento para vivir bien, todos los díasEste departamento de 2 ambientes y 70 m² totales formará parte de Punta de Arenas XIV, un edificio que se construirá en Patagones 1296, a solo una cuadra del mar, en el corazón de la zona Constitución.\nEstará ubicado al contrafrente, con orientación noroeste, y contará con 1 dormitorio, 1 baño completo, 1 toilette, balcón con 10 m² descubiertos y cochera propia. Una unidad funcional y bien pensada, ideal para quienes buscan comodidad, calidad y cercanía con la naturaleza costera.\nPunta de Arenas XIV ofrecerá departamentos de 1, 2 y 3 ambientes, con superficies que irán de 42,5 a 113,5 m², todos con cochera y baulera. Cada unidad estará diseñada para ser luminosa, eficiente y disfrutable, con balcones que no serán decorativos, sino espacios para usar todos los días: lavadero oculto, parrilla a gas y vistas abiertas.\nEste departamento, al igual que el resto del edificio, contará con terminaciones de alta calidad: doble muro con aislación térmica, DVH, porcelanatos, calefacción por radiadores, cocina equipada y baño moderno. Además, sumará puerta de seguridad, portero visor, cámaras, ascensores ágiles y preinstalación para WiFi sin cables a la vista.\nLa entrega está prevista para 2028, con posibilidad de financiación. Y con el respaldo de Grupo Dinal y Obras de Mar, con más de 30 años en el mercado.\nNo será solo un departamento. Va a ser un espacio pensado para vivir bien.\nPorque vivir bien no es un lujo. Es una decisión.        \n        \r\n        ",
       "development": {
@@ -8715,11 +8656,7 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [
-          {
-            "file": "https://static.tokkobroker.com/development_files/1523150717803321599531633261505087729740083237699524692477991/Brochure_PA_XIV__-_Patagones_1296.pdf"
-          }
-        ],
+        "files": [],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-37.968047",
         "geo_long": "-57.544191",
@@ -9220,22 +9157,12 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6938555_63943030333679710129929043644305645482124787881202586723521494542171812116824.jpg",
-          "is_blueprint": false,
-          "is_front_cover": true,
-          "order": 12,
-          "original": "https://static.tokkobroker.com/original_pictures/6938555_63943030333679710129929043644305645482124787881202586723521494542171812116824.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/100069084_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6938555_63943030333679710129929043644305645482124787881202586723521494542171812116824_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6938555_21088072936207183414701134950213142277993417267446804605948854599663059870973.jpg",
           "is_blueprint": false,
-          "is_front_cover": false,
+          "is_front_cover": true,
           "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/6938555_21088072936207183414701134950213142277993417267446804605948854599663059870973.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/100069075_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6938555_21088072936207183414701134950213142277993417267446804605948854599663059870973_thumb.jpg"
         },
         {
@@ -9277,16 +9204,6 @@
           "original": "https://static.tokkobroker.com/original_pictures/6938555_26499398059272547703443834165179561895397035054278307868453065904893781924064.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938555_26499398059272547703443834165179561895397035054278307868453065904893781924064_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6938555_196734347896387519631340501569504397323728498866794922075135963657069528742.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/6938555_196734347896387519631340501569504397323728498866794922075135963657069528742.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6938555_196734347896387519631340501569504397323728498866794922075135963657069528742_thumb.jpg"
         },
         {
           "description": null,
@@ -9350,12 +9267,22 @@
         },
         {
           "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6938555_63943030333679710129929043644305645482124787881202586723521494542171812116824.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/6938555_63943030333679710129929043644305645482124787881202586723521494542171812116824.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/100069084_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6938555_63943030333679710129929043644305645482124787881202586723521494542171812116824_thumb.jpg"
+        },
+        {
+          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6938555_10705150729441448842287651930952759684294954725849500365924228729891047199403.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 13,
           "original": "https://static.tokkobroker.com/original_pictures/6938555_10705150729441448842287651930952759684294954725849500365924228729891047199403.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/100069069_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6938555_10705150729441448842287651930952759684294954725849500365924228729891047199403_thumb.jpg"
         },
         {
@@ -9557,16 +9484,6 @@
           "original": "https://static.tokkobroker.com/original_pictures/6938555_27139613237475352115002517457121002988569018664485720495073337263925064516775.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6938555_27139613237475352115002517457121002988569018664485720495073337263925064516775_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6938555_89247006947652368449454189082290753261138074833794587551617981973836588530368.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 34,
-          "original": "https://static.tokkobroker.com/original_pictures/6938555_89247006947652368449454189082290753261138074833794587551617981973836588530368.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6938555_89247006947652368449454189082290753261138074833794587551617981973836588530368_thumb.jpg"
         }
       ],
       "portal_footer": "",
@@ -19270,7 +19187,7 @@
       "address": "Güemes  al 2200",
       "address_complement": "",
       "age": -1,
-      "apartment_door": "",
+      "apartment_door": "A",
       "appartments_per_floor": 0,
       "bathroom_amount": 2,
       "block_number": "",
@@ -19305,12 +19222,12 @@
       "common_area": "0.00",
       "covered_parking_lot": 0,
       "created_at": "2025-06-10T01:54:48",
-      "credit_eligible": "Apto crédito",
+      "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-04T14:17:03",
+      "deleted_at": "2026-09-18T02:57:32",
       "depth_measure": "0.00",
-      "description": "            Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 107 m² totales, esta unidad al frente combina ambientes amplios con una distribución que fluye naturalmente. El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.            \n        \nLas habitaciones están bien separadas del área social, con ventilación natural y luz. Cada rincón fue diseñado para acompañarte en lo cotidiano: la calefacción por radiadores, la preinstalación para aire acondicionado y los detalles de terminación que resuelven, sin llamar la atención.\nEntrega estimada: fin de 2028.\nUna propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.\r\n        ",
+      "description": "Departamentos de 3 ambientes al frente, con 132,8 m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.\nUna unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.\nEl living comedor y la cocina conforman un área social cómoda y funcional, con salida a un amplio balcón. Un espacio pensado para disfrutarlo de verdad.\nEl dormitorio se encuentra bien diferenciado del sector social, aportando mayor privacidad, ventilación natural y luminosidad.\nLa unidad cuenta además con calefacción por radiadores, preinstalación para aire acondicionado y terminaciones acordes a la categoría del emprendimiento.\nSu ubicación al frente brinda una vista a la ciudad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.\nPropuestas diferentes dentro de Punta de Arenas X: un 3 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.\n        \r\n\r\n            ",
       "development": {
         "address": "GUEMES 2224",
         "branch": {
@@ -19347,7 +19264,14 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [],
+        "files": [
+          {
+            "file": "https://static.tokkobroker.com/development_files/206770989274145011965940329436413646797966275174643460260326/Video_Cafeteria.mp4"
+          },
+          {
+            "file": "https://static.tokkobroker.com/development_files/381865374222698197968713286424863371495039468301823618926619/Video_Project_3.mp4"
+          }
+        ],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-38.0105166",
         "geo_long": "-57.5372604",
@@ -19475,6 +19399,46 @@
             "original": "https://static.tokkobroker.com/dev_original_pictures/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528.jpg",
             "social_media_url": null,
             "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 11,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_16030862946212210491731508725769930582486903619441102932286847771710.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 12,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_90424177886855362252574407986511157142465410789109443614788357175231.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 13,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_57639337699525285466330638069122062284153524786396379720247406572700.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 14,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_42274261736179737261608757861555351741936133976365390189874951805332.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189_t.jpg"
           }
         ],
         "publication_title": "Edificio en Guemes",
@@ -19633,7 +19597,7 @@
       "fake_address": "Güemes  al 2200",
       "files": [],
       "fire_insurance_cost": "0.00",
-      "floor": "",
+      "floor": "15",
       "floors_amount": 0,
       "front_measure": "0.00",
       "geo_lat": "-38.0105166",
@@ -19655,20 +19619,20 @@
         "property_owners": [
           {
             "birthdate": null,
-            "cellphone": "",
-            "created_at": "2025-01-09T15:41:30",
+            "cellphone": " 54 9 2233 42-4988",
+            "created_at": "2026-09-16T11:41:14",
             "document_number": "",
-            "email": "",
-            "id": 49378961,
-            "name": "Grupo Dinal",
+            "email": "obrasdemar@gmail.com",
+            "id": 70610357,
+            "name": "Dinal",
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-01-19T14:18:54",
-            "work_email": ""
+            "updated_at": "2026-09-18T02:55:55",
+            "work_email": "obrasdemar@gmail.com"
           }
         ],
-        "transaction_requirements": ""
+        "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes."
       },
       "iptu": 0,
       "iptu_type": "No informado",
@@ -19700,7 +19664,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 234000
+              "price": 500000
             }
           ]
         }
@@ -19712,20 +19676,20 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059919_17685776080497660288380527385956695546859954138899184998169090157491045428218.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059919_19584114314732593606878591672957099099573252056775179018405657453027979898643.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/7059919_17685776080497660288380527385956695546859954138899184998169090157491045428218.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_17685776080497660288380527385956695546859954138899184998169090157491045428218_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7059919_17685776080497660288380527385956695546859954138899184998169090157491045428218_thumb.jpg"
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/7059919_19584114314732593606878591672957099099573252056775179018405657453027979898643.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719043_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059919_19584114314732593606878591672957099099573252056775179018405657453027979898643_thumb.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/7059919_29438007722056732091303232282106929736097033905694841975607701835531048314168.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 0,
+          "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/7059919_29438007722056732091303232282106929736097033905694841975607701835531048314168.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7059919_29438007722056732091303232282106929736097033905694841975607701835531048314168_thumb.jpg"
@@ -19735,20 +19699,10 @@
           "image": "https://static.tokkobroker.com/pictures/7059919_38873795686036271697675571881794975521128530957604198399919323983322692941343.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 2,
           "original": "https://static.tokkobroker.com/original_pictures/7059919_38873795686036271697675571881794975521128530957604198399919323983322692941343.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7059919_38873795686036271697675571881794975521128530957604198399919323983322692941343_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059919_19584114314732593606878591672957099099573252056775179018405657453027979898643.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/7059919_19584114314732593606878591672957099099573252056775179018405657453027979898643.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059919_19584114314732593606878591672957099099573252056775179018405657453027979898643_thumb.jpg"
         },
         {
           "description": null,
@@ -19762,10 +19716,20 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059919_4855026485762725330166362703877202647866124509811498615676684682626974860286.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059919_12754934995499945368916749697861546188522283620742300196735949846682339297630.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/7059919_12754934995499945368916749697861546188522283620742300196735949846682339297630.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/7059919_12754934995499945368916749697861546188522283620742300196735949846682339297630_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059919_4855026485762725330166362703877202647866124509811498615676684682626974860286.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/7059919_4855026485762725330166362703877202647866124509811498615676684682626974860286.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7059919_4855026485762725330166362703877202647866124509811498615676684682626974860286_thumb.jpg"
@@ -19775,71 +19739,91 @@
           "image": "https://static.tokkobroker.com/pictures/7059919_5073760991876584082878150601873952151642154952958807795643693965517063105391.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/7059919_5073760991876584082878150601873952151642154952958807795643693965517063105391.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7059919_5073760991876584082878150601873952151642154952958807795643693965517063105391_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059919_95189974539032213475626076761009611177381101326920222320186196090027127486355.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/7059919_95189974539032213475626076761009611177381101326920222320186196090027127486355.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059919_95189974539032213475626076761009611177381101326920222320186196090027127486355_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059919_12754934995499945368916749697861546188522283620742300196735949846682339297630.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059919_17685776080497660288380527385956695546859954138899184998169090157491045428218.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/7059919_12754934995499945368916749697861546188522283620742300196735949846682339297630.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059919_12754934995499945368916749697861546188522283620742300196735949846682339297630_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7059919_17685776080497660288380527385956695546859954138899184998169090157491045428218.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_17685776080497660288380527385956695546859954138899184998169090157491045428218_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059919_17685776080497660288380527385956695546859954138899184998169090157491045428218_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059919_113490687993730715944102883457576470643987597718953883457381181773401944062167.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059919_67150644782113363454028187813167764045454697194123466920113744566490952508635.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/7059919_113490687993730715944102883457576470643987597718953883457381181773401944062167.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_113490687993730715944102883457576470643987597718953883457381181773401944062167_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7059919_113490687993730715944102883457576470643987597718953883457381181773401944062167_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7059919_6715064478211336345402818781316776404545469719412346692011374456649095.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_67150644782113363454028187813167764045454697194123466920113744566490952508635_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059919_67150644782113363454028187813167764045454697194123466920113744566490952508635_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059919_93945968774663225292268240022719248007803147420219710171211682195114363898108.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059919_56857567943981450078714468433591113575547222850352076289198201735886255132480.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/7059919_5685756794398145007871446843359111357554722285035207628919820173588625.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_56857567943981450078714468433591113575547222850352076289198201735886255132480_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059919_56857567943981450078714468433591113575547222850352076289198201735886255132480_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059919_7685419981554052787793122420190482736624557437153955448790284852447450372106.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 10,
-          "original": "https://static.tokkobroker.com/original_pictures/7059919_93945968774663225292268240022719248007803147420219710171211682195114363898108.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_93945968774663225292268240022719248007803147420219710171211682195114363898108_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7059919_93945968774663225292268240022719248007803147420219710171211682195114363898108_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7059919_7685419981554052787793122420190482736624557437153955448790284852447450.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_7685419981554052787793122420190482736624557437153955448790284852447450372106_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059919_7685419981554052787793122420190482736624557437153955448790284852447450372106_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059919_87537417945305416479492676707662777411642666461522462974302598856007565428726.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/7059919_8753741794530541647949267670766277741164266646152246297430259885600756.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_87537417945305416479492676707662777411642666461522462974302598856007565428726_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059919_87537417945305416479492676707662777411642666461522462974302598856007565428726_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059919_99215085581477702667570533095729051469694693609097613995058343259559417970806.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/7059919_9921508558147770266757053309572905146969469360909761399505834325955941.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059919_99215085581477702667570533095729051469694693609097613995058343259559417970806_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059919_99215085581477702667570533095729051469694693609097613995058343259559417970806_thu.jpg"
         }
       ],
       "portal_footer": "",
       "private_area": "0.00",
       "producer": {
-        "cellphone": "",
-        "email": "marketing@obrasdemar.com",
-        "id": 123159,
-        "name": "MARKETING",
-        "phone": "",
+        "cellphone": " 5491158510184",
+        "email": "obrasdemar@gmail.com",
+        "id": 122255,
+        "name": "Obras De Mar",
+        "phone": " 5491158510184",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
         "position": ""
       },
       "property_condition": "Excelente",
-      "public_url": "https://ficha.info/p/eDMLPdGcBoIrMa",
+      "public_url": "https://ficha.info/p/eDMLPdFX1oIy4a",
       "publication_title": "Punta de Arenas X - 3 amb. Piso 1 Frente con Balcón y Parrilla",
       "quality_level": null,
-      "real_address": "Punta de Arenas X - 3 amb.  Güemes  2224 1B",
+      "real_address": "3 ambientes | Güemes 2224 | Pisos 4 - 15, unidades A - B | Punta de Arenas X",
       "reference_code": "OAP7059919",
-      "rich_description": "            Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 107 m² totales, esta unidad al frente combina ambientes amplios con una distribución que fluye naturalmente. El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.            <br>        <div><br></div><div>Las habitaciones están bien separadas del área social, con ventilación natural y luz. Cada rincón fue diseñado para acompañarte en lo cotidiano: la calefacción por radiadores, la preinstalación para aire acondicionado y los detalles de terminación que resuelven, sin llamar la atención.</div><div><br></div><div>Entrega estimada: fin de 2028.</div><div><br></div><div>Una propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.</div>\r\n        ",
-      "roofed_surface": "90.70",
+      "rich_description": "Departamentos de 3 ambientes al frente, con 132,8 m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.<div><br></div><div>Una unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.</div><div><br></div><div>El living comedor y la cocina conforman un área social cómoda y funcional, con salida a un amplio balcón. Un espacio pensado para disfrutarlo de verdad.</div><div><br></div><div>El dormitorio se encuentra bien diferenciado del sector social, aportando mayor privacidad, ventilación natural y luminosidad.</div><div><br></div><div>La unidad cuenta además con calefacción por radiadores, preinstalación para aire acondicionado y terminaciones acordes a la categoría del emprendimiento.</div><div><br></div><div>Su ubicación al frente brinda una vista a la ciudad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.</div><div><br></div><div>Propuestas diferentes dentro de Punta de Arenas X: un 3 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.</div><div><br></div>        \r\n\r\n            ",
+      "roofed_surface": "115.80",
       "room_amount": 3,
       "semiroofed_surface": "16.90",
       "seo_description": "",
@@ -19967,16 +19951,26 @@
           "type": 3
         },
         {
+          "id": 1512,
+          "name": "Calefacción individual",
+          "type": 3
+        },
+        {
           "id": 1514,
           "name": "Calefacción por radiadores",
           "type": 3
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
         }
       ],
       "toilet_amount": 1,
       "total_area": "0.00",
       "total_suites": 1,
-      "total_surface": "107.60",
-      "transaction_requirements": "",
+      "total_surface": "132.80",
+      "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes.",
       "tv_rooms": 0,
       "type": {
         "code": "AP",
@@ -19984,19 +19978,19 @@
         "name": "Departamento"
       },
       "uncovered_parking_lot": 0,
-      "unroofed_surface": "0.00",
+      "unroofed_surface": "17.00",
       "videos": [],
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "enhanced_description": "<h3>Descripción General</h3>\n<p>Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 107 m² totales, esta unidad al frente combina ambientes amplios con una distribución que fluye naturalmente.</p>\n\n<h3>Ambientes</h3>\n<p>El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.</p>\n<p>Las habitaciones están bien separadas del área social, con ventilación natural y luz.</p>\n\n<h3>Características</h3>\n<ul>\n<li>107 m² totales</li>\n<li>Unidad al frente</li>\n<li>Balcón con parrilla individual</li>\n<li>Calefacción por radiadores</li>\n<li>Preinstalación para aire acondicionado</li>\n<li>Ambientes amplios con distribución natural</li>\n<li>Ventilación natural y luz en todas las habitaciones</li>\n</ul>\n\n<h3>Detalles de Terminación</h3>\n<p>Cada rincón fue diseñado para acompañarte en lo cotidiano con detalles de terminación que resuelven, sin llamar la atención.</p>\n\n<h3>Entrega</h3>\n<p>Estimada: fin de 2028.</p>\n\n<h3>Propuesta</h3>\n<p>Una propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.</p>"
+      "enhanced_description": "<h3>Descripción General</h3>\n<p>Departamentos de 3 ambientes al frente, con 132,8 m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.</p>\n<p>Una unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.</p>\n\n<h3>Espacios Sociales</h3>\n<p>El living comedor y la cocina conforman un área social cómoda y funcional, con salida a un amplio balcón. Un espacio pensado para disfrutarlo de verdad.</p>\n\n<h3>Dormitorio</h3>\n<p>El dormitorio se encuentra bien diferenciado del sector social, aportando mayor privacidad, ventilación natural y luminosidad.</p>\n\n<h3>Características y Amenidades</h3>\n<ul>\n<li>Calefacción por radiadores</li>\n<li>Preinstalación para aire acondicionado</li>\n<li>Terminaciones acordes a la categoría del emprendimiento</li>\n<li>Ubicación al frente con vista a la ciudad</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Su ubicación al frente brinda una vista a la ciudad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.</p>\n\n<h3>El Proyecto</h3>\n<p>Propuestas diferentes dentro de Punta de Arenas X: un 3 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.</p>"
     },
     {
       "address": "Güemes  al 2200",
       "address_complement": "",
       "age": -1,
-      "apartment_door": "",
-      "appartments_per_floor": 0,
+      "apartment_door": "C",
+      "appartments_per_floor": 4,
       "bathroom_amount": 1,
       "block_number": "",
       "branch": {
@@ -20030,12 +20024,12 @@
       "common_area": "0.00",
       "covered_parking_lot": 0,
       "created_at": "2025-06-10T02:03:30",
-      "credit_eligible": "Apto crédito",
+      "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-04T14:16:30",
+      "deleted_at": "2026-09-18T02:33:44",
       "depth_measure": "0.00",
-      "description": "            Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 84,8 m² totales, esta unidad al contrafrente combina ambientes amplios con una distribución que fluye naturalmente. El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.            \n        \nLa habitacion está bien separadas del área social, con ventilación natural y luz. Cada rincón fue diseñado para acompañarte en lo cotidiano: la calefacción por radiadores, la preinstalación para aire acondicionado y los detalles de terminación que resuelven, sin llamar la atención.\nEntrega estimada: fin de 2028.\nUna propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.\r\n        ",
+      "description": "Departamento de 2 ambientes al contrafrente, con 84,18 m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.\nUna unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.\nEl living comedor y la cocina conforman un área social cómoda y funcional, con salida a un amplio balcón. Un espacio pensado para disfrutarlo de verdad.\nEl dormitorio se encuentra bien diferenciado del sector social, aportando mayor privacidad, ventilación natural y luminosidad.\nLa unidad cuenta además con calefacción por radiadores, preinstalación para aire acondicionado y terminaciones acordes a la categoría del emprendimiento.\nSu ubicación al contrafrente brinda una mayor sensación de tranquilidad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.\nUna propuesta diferente dentro de Punta de Arenas X: un 2 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.\n        \r\n\r\n            ",
       "development": {
         "address": "GUEMES 2224",
         "branch": {
@@ -20072,7 +20066,14 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [],
+        "files": [
+          {
+            "file": "https://static.tokkobroker.com/development_files/206770989274145011965940329436413646797966275174643460260326/Video_Cafeteria.mp4"
+          },
+          {
+            "file": "https://static.tokkobroker.com/development_files/381865374222698197968713286424863371495039468301823618926619/Video_Project_3.mp4"
+          }
+        ],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-38.0105166",
         "geo_long": "-57.5372604",
@@ -20200,6 +20201,46 @@
             "original": "https://static.tokkobroker.com/dev_original_pictures/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528.jpg",
             "social_media_url": null,
             "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 11,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_16030862946212210491731508725769930582486903619441102932286847771710.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 12,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_90424177886855362252574407986511157142465410789109443614788357175231.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 13,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_57639337699525285466330638069122062284153524786396379720247406572700.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 14,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_42274261736179737261608757861555351741936133976365390189874951805332.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189_t.jpg"
           }
         ],
         "publication_title": "Edificio en Guemes",
@@ -20358,7 +20399,7 @@
       "fake_address": "Güemes  al 2200",
       "files": [],
       "fire_insurance_cost": "0.00",
-      "floor": "",
+      "floor": "1",
       "floors_amount": 0,
       "front_measure": "0.00",
       "geo_lat": "-38.0105166",
@@ -20380,20 +20421,20 @@
         "property_owners": [
           {
             "birthdate": null,
-            "cellphone": "",
-            "created_at": "2025-01-09T15:41:30",
+            "cellphone": " 54 9 2233 42-4988",
+            "created_at": "2026-09-16T11:41:14",
             "document_number": "",
-            "email": "",
-            "id": 49378961,
-            "name": "Grupo Dinal",
+            "email": "obrasdemar@gmail.com",
+            "id": 70610357,
+            "name": "Dinal",
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-01-19T14:18:54",
-            "work_email": ""
+            "updated_at": "2026-09-18T02:32:36",
+            "work_email": "obrasdemar@gmail.com"
           }
         ],
-        "transaction_requirements": ""
+        "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes."
       },
       "iptu": 0,
       "iptu_type": "No informado",
@@ -20425,7 +20466,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 170000
+              "price": 235704
             }
           ]
         }
@@ -20437,13 +20478,13 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059947_73376222939921940542565003288266538210095462666602586205374269239334680847821.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059947_62811612717659001570377662804057530931078416839823710107060471708752023398580.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/7059947_73376222939921940542565003288266538210095462666602586205374269239334680847821.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_73376222939921940542565003288266538210095462666602586205374269239334680847821_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7059947_73376222939921940542565003288266538210095462666602586205374269239334680847821_thumb.jpg"
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/7059947_62811612717659001570377662804057530931078416839823710107060471708752023398580.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/101719064_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059947_62811612717659001570377662804057530931078416839823710107060471708752023398580_thumb.jpg"
         },
         {
           "description": null,
@@ -20477,20 +20518,20 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059947_62811612717659001570377662804057530931078416839823710107060471708752023398580.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059947_74506033812356375894313868257274313775500414151772027125625355173683411777704.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/7059947_62811612717659001570377662804057530931078416839823710107060471708752023398580.jpg",
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/7059947_74506033812356375894313868257274313775500414151772027125625355173683411777704.jpg",
           "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059947_62811612717659001570377662804057530931078416839823710107060471708752023398580_thumb.jpg"
+          "thumb": "https://static.tokkobroker.com/thumbs/7059947_74506033812356375894313868257274313775500414151772027125625355173683411777704_thumb.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/7059947_62562688385012672929695749377912850202949249545075349056391233101515618089838.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/7059947_62562688385012672929695749377912850202949249545075349056391233101515618089838.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7059947_62562688385012672929695749377912850202949249545075349056391233101515618089838_thumb.jpg"
@@ -20500,70 +20541,90 @@
           "image": "https://static.tokkobroker.com/pictures/7059947_92355316149606066728355445415960783161641008375287482544668132923389298958672.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/7059947_92355316149606066728355445415960783161641008375287482544668132923389298958672.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7059947_92355316149606066728355445415960783161641008375287482544668132923389298958672_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059947_92204073496642682083896649522071723342536834287778384658314907533720341548648.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/7059947_92204073496642682083896649522071723342536834287778384658314907533720341548648.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059947_92204073496642682083896649522071723342536834287778384658314907533720341548648_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059947_74506033812356375894313868257274313775500414151772027125625355173683411777704.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059947_73376222939921940542565003288266538210095462666602586205374269239334680847821.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/7059947_74506033812356375894313868257274313775500414151772027125625355173683411777704.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059947_74506033812356375894313868257274313775500414151772027125625355173683411777704_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7059947_73376222939921940542565003288266538210095462666602586205374269239334680847821.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_73376222939921940542565003288266538210095462666602586205374269239334680847821_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059947_73376222939921940542565003288266538210095462666602586205374269239334680847821_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059947_46905420484382415434733539936750817706588383643435786060366972996874429394625.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059947_85293709335330101648954369608319459775845421442494168265505564678132759325573.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/7059947_46905420484382415434733539936750817706588383643435786060366972996874429394625.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_46905420484382415434733539936750817706588383643435786060366972996874429394625_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7059947_46905420484382415434733539936750817706588383643435786060366972996874429394625_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7059947_8529370933533010164895436960831945977584542144249416826550556467813275.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_85293709335330101648954369608319459775845421442494168265505564678132759325573_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059947_85293709335330101648954369608319459775845421442494168265505564678132759325573_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059947_61646546834534004865998529018880752023455770796728116993995133274581956362130.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059947_60352472422843581029455795081316513844442080316932676181053430732601799860822.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/7059947_6035247242284358102945579508131651384444208031693267618105343073260179.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_60352472422843581029455795081316513844442080316932676181053430732601799860822_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059947_60352472422843581029455795081316513844442080316932676181053430732601799860822_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059947_109599179683312666712611116451716676238939928337355161870646757958301086010127.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 10,
-          "original": "https://static.tokkobroker.com/original_pictures/7059947_61646546834534004865998529018880752023455770796728116993995133274581956362130.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_61646546834534004865998529018880752023455770796728116993995133274581956362130_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7059947_61646546834534004865998529018880752023455770796728116993995133274581956362130_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7059947_1095991796833126667126111164517166762389399283373551618706467579583010.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_109599179683312666712611116451716676238939928337355161870646757958301086010127_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059947_109599179683312666712611116451716676238939928337355161870646757958301086010127_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059947_43908060120811666783887096107330645558267264285636891631569368109369307377530.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/7059947_4390806012081166678388709610733064555826726428563689163156936810936930.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_43908060120811666783887096107330645558267264285636891631569368109369307377530_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059947_43908060120811666783887096107330645558267264285636891631569368109369307377530_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059947_6590597096333245487725945128102236879674193496875245556808791320773047807345.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/7059947_6590597096333245487725945128102236879674193496875245556808791320773047.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059947_6590597096333245487725945128102236879674193496875245556808791320773047807345_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059947_6590597096333245487725945128102236879674193496875245556808791320773047807345_thum.jpg"
         }
       ],
       "portal_footer": "",
       "private_area": "0.00",
       "producer": {
-        "cellphone": "",
-        "email": "marketing@obrasdemar.com",
-        "id": 123159,
-        "name": "MARKETING",
-        "phone": "",
+        "cellphone": " 5491158510184",
+        "email": "obrasdemar@gmail.com",
+        "id": 122255,
+        "name": "Obras De Mar",
+        "phone": " 5491158510184",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
         "position": ""
       },
       "property_condition": "Excelente",
-      "public_url": "https://ficha.info/p/eDMMhdGcBoIr0a",
+      "public_url": "https://ficha.info/p/eDMMhdFX1oIzia",
       "publication_title": "Punta de Arenas X - 2 amb. Piso 1 Contrafrente con Balcón y Parrilla",
       "quality_level": null,
-      "real_address": "Punta de Arenas X - 2 amb.  Güemes  2224 1C",
+      "real_address": "2 ambientes | Güemes 2224 | Pisos 1-3, unidades C - D | Punta de Arenas X",
       "reference_code": "OAP7059947",
-      "rich_description": "            Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 84,8 m² totales, esta unidad al contrafrente combina ambientes amplios con una distribución que fluye naturalmente. El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.            <br>        <div><br></div><div>La habitacion está bien separadas del área social, con ventilación natural y luz. Cada rincón fue diseñado para acompañarte en lo cotidiano: la calefacción por radiadores, la preinstalación para aire acondicionado y los detalles de terminación que resuelven, sin llamar la atención.</div><div><br></div><div>Entrega estimada: fin de 2028.</div><div><br></div><div>Una propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.</div>\r\n        ",
+      "rich_description": "Departamento de 2 ambientes al contrafrente, con 84,18 m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.<div><br></div><div>Una unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.</div><div><br></div><div>El living comedor y la cocina conforman un área social cómoda y funcional, con salida a un amplio balcón. Un espacio pensado para disfrutarlo de verdad.</div><div><br></div><div>El dormitorio se encuentra bien diferenciado del sector social, aportando mayor privacidad, ventilación natural y luminosidad.</div><div><br></div><div>La unidad cuenta además con calefacción por radiadores, preinstalación para aire acondicionado y terminaciones acordes a la categoría del emprendimiento.</div><div><br></div><div>Su ubicación al contrafrente brinda una mayor sensación de tranquilidad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.</div><div><br></div><div>Una propuesta diferente dentro de Punta de Arenas X: un 2 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.</div><div><br></div>        \r\n\r\n            ",
       "roofed_surface": "67.80",
       "room_amount": 2,
       "semiroofed_surface": "17.00",
@@ -20692,16 +20753,26 @@
           "type": 3
         },
         {
+          "id": 1512,
+          "name": "Calefacción individual",
+          "type": 3
+        },
+        {
           "id": 1514,
           "name": "Calefacción por radiadores",
           "type": 3
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
         }
       ],
       "toilet_amount": 1,
       "total_area": "0.00",
       "total_suites": 1,
       "total_surface": "84.80",
-      "transaction_requirements": "",
+      "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes.",
       "tv_rooms": 0,
       "type": {
         "code": "AP",
@@ -20709,18 +20780,18 @@
         "name": "Departamento"
       },
       "uncovered_parking_lot": 0,
-      "unroofed_surface": "0.00",
+      "unroofed_surface": "67.18",
       "videos": [],
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "enhanced_description": "<h3>Características del departamento</h3>\n<p>Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 84,8 m² totales, esta unidad al contrafrente combina ambientes amplios con una distribución que fluye naturalmente.</p>\n\n<h3>Espacios principales</h3>\n<p>El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.</p>\n\n<h3>Habitaciones y distribución</h3>\n<p>La habitación está bien separada del área social, con ventilación natural y luz. Cada rincón fue diseñado para acompañarte en lo cotidiano.</p>\n\n<h3>Instalaciones y terminaciones</h3>\n<ul>\n<li>Calefacción por radiadores</li>\n<li>Preinstalación para aire acondicionado</li>\n<li>Detalles de terminación de calidad</li>\n</ul>\n\n<h3>Entrega</h3>\n<p>Entrega estimada: fin de 2028.</p>\n\n<h3>Propuesta</h3>\n<p>Una propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.</p>"
+      "enhanced_description": "<h3>Descripción General</h3>\n<p>Departamento de 2 ambientes al contrafrente con 84,18 m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.</p>\n<p>Una unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.</p>\n\n<h3>Distribución y Espacios</h3>\n<p>El living comedor y la cocina conforman un área social cómoda y funcional, con salida a un amplio balcón. Un espacio pensado para disfrutarlo de verdad.</p>\n<p>El dormitorio se encuentra bien diferenciado del sector social, aportando mayor privacidad, ventilación natural y luminosidad.</p>\n\n<h3>Características y Terminaciones</h3>\n<ul>\n<li>Calefacción por radiadores</li>\n<li>Preinstalación para aire acondicionado</li>\n<li>Terminaciones acordes a la categoría del emprendimiento</li>\n<li>Ubicación al contrafrente que brinda mayor sensación de tranquilidad</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Su ubicación al contrafrente brinda una mayor sensación de tranquilidad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.</p>\n\n<h3>Propuesta</h3>\n<p>Una propuesta diferente dentro de Punta de Arenas X: un 2 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.</p>"
     },
     {
       "address": "Güemes  al 2200",
       "address_complement": "",
       "age": -1,
-      "apartment_door": "",
+      "apartment_door": "A",
       "appartments_per_floor": 4,
       "bathroom_amount": 1,
       "block_number": "",
@@ -20755,12 +20826,12 @@
       "common_area": "0.00",
       "covered_parking_lot": 0,
       "created_at": "2025-06-10T02:10:42",
-      "credit_eligible": "Apto crédito",
+      "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-05T14:45:00",
+      "deleted_at": "2026-09-18T02:41:59",
       "depth_measure": "0.00",
-      "description": "                            Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 84,8 m² totales, esta unidad al contrafrente combina ambientes amplios con una distribución que fluye naturalmente. El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.            \n        \nLa habitacion está bien separadas del área social, con ventilación natural y luz. Cada rincón fue diseñado para acompañarte en lo cotidiano: la calefacción por radiadores, la preinstalación para aire acondicionado y los detalles de terminación que resuelven, sin llamar la atención.\nUna propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.\n        \r\n\r\n            ",
+      "description": "                Departamento de 3 ambientes al contrafrente, con 112,09m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.\nUna unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.\nEl living comedor y la cocina conforman un área social cómoda y funcional, con salida a un amplio balcón. Un espacio pensado para disfrutarlo de verdad.\nEl dormitorio se encuentra bien diferenciado del sector social, aportando mayor privacidad, ventilación natural y luminosidad.\nLa unidad cuenta además con calefacción por radiadores, preinstalación para aire acondicionado y terminaciones acordes a la categoría del emprendimiento.\nSu ubicación al frente brinda una mayor vista a la ciudad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.\nUna propuesta diferente dentro de Punta de Arenas X: un 3 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.\n\n        \n\n            \n\n            \r\n\r\n            ",
       "development": {
         "address": "GUEMES 2224",
         "branch": {
@@ -20797,7 +20868,14 @@
         "display_on_web": true,
         "excel_extra_headers": "[]",
         "fake_address": "",
-        "files": [],
+        "files": [
+          {
+            "file": "https://static.tokkobroker.com/development_files/206770989274145011965940329436413646797966275174643460260326/Video_Cafeteria.mp4"
+          },
+          {
+            "file": "https://static.tokkobroker.com/development_files/381865374222698197968713286424863371495039468301823618926619/Video_Project_3.mp4"
+          }
+        ],
         "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
         "geo_lat": "-38.0105166",
         "geo_long": "-57.5372604",
@@ -20925,6 +21003,46 @@
             "original": "https://static.tokkobroker.com/dev_original_pictures/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528.jpg",
             "social_media_url": null,
             "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_113997422987687910593972094452527427758447912645782668310562781158404275623528_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 11,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_16030862946212210491731508725769930582486903619441102932286847771710.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_16030862946212210491731508725769930582486903619441102932286847771710729483980_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 12,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_90424177886855362252574407986511157142465410789109443614788357175231.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_90424177886855362252574407986511157142465410789109443614788357175231970310196_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 13,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_57639337699525285466330638069122062284153524786396379720247406572700.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_57639337699525285466330638069122062284153524786396379720247406572700827849413_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 14,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/69155_42274261736179737261608757861555351741936133976365390189874951805332.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/69155_42274261736179737261608757861555351741936133976365390189874951805332908257189_t.jpg"
           }
         ],
         "publication_title": "Edificio en Guemes",
@@ -21076,14 +21194,14 @@
       },
       "development_excel_extra_data": "[]",
       "dining_room": 0,
-      "disposition": "Contrafrente",
+      "disposition": "Frente",
       "down_payment": "0.00",
       "expenses": 0,
       "extra_attributes": [],
       "fake_address": "Güemes  al 2200",
       "files": [],
       "fire_insurance_cost": "0.00",
-      "floor": "",
+      "floor": "3",
       "floors_amount": 0,
       "front_measure": "0.00",
       "geo_lat": "-38.0105166",
@@ -21105,20 +21223,20 @@
         "property_owners": [
           {
             "birthdate": null,
-            "cellphone": "",
-            "created_at": "2025-01-09T15:41:30",
+            "cellphone": " 54 9 2233 42-4988",
+            "created_at": "2026-09-16T11:41:14",
             "document_number": "",
-            "email": "",
-            "id": 49378961,
-            "name": "Grupo Dinal",
+            "email": "obrasdemar@gmail.com",
+            "id": 70610357,
+            "name": "Dinal",
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-01-19T14:18:54",
-            "work_email": ""
+            "updated_at": "2026-09-18T02:32:36",
+            "work_email": "obrasdemar@gmail.com"
           }
         ],
-        "transaction_requirements": ""
+        "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes."
       },
       "iptu": 0,
       "iptu_type": "No informado",
@@ -21129,13 +21247,13 @@
       "living_amount": 0,
       "location": {
         "divisions": [],
-        "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Centro",
-        "id": 26641,
-        "name": "Centro",
+        "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Guemes",
+        "id": 81269,
+        "name": "Guemes",
         "parent_division": "/api/v1/location/26624/",
-        "short_location": "Costa Atlantica | Mar Del Plata | Centro",
+        "short_location": "Costa Atlantica | Mar Del Plata | Guemes",
         "state": null,
-        "weight": 3558,
+        "weight": 1349,
         "zip_code": null
       },
       "location_level": null,
@@ -21150,45 +21268,35 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 165000
+              "price": 313852
             }
           ]
         }
       ],
-      "orientation": "Sudeste",
+      "orientation": "Noroeste",
       "parking_lot_amount": 1,
       "parking_lot_condition": null,
       "parking_lot_type": null,
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059957_103888549003071821137226147492756157387332530956930104207427503387734342808271.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059957_76488103659772321076271014653771092704044723454579990418098019495493955461617.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 10,
-          "original": "https://static.tokkobroker.com/original_pictures/7059957_103888549003071821137226147492756157387332530956930104207427503387734342808271.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_103888549003071821137226147492756157387332530956930104207427503387734342808271_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7059957_103888549003071821137226147492756157387332530956930104207427503387734342808271_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059957_63794964008621808469341650789729148486299656155627605235179802723163292772764.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
           "order": 0,
-          "original": "https://static.tokkobroker.com/original_pictures/7059957_63794964008621808469341650789729148486299656155627605235179802723163292772764.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059957_63794964008621808469341650789729148486299656155627605235179802723163292772764_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7059957_76488103659772321076271014653771092704044723454579990418098019495493955461617.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_76488103659772321076271014653771092704044723454579990418098019495493955461617_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059957_76488103659772321076271014653771092704044723454579990418098019495493955461617_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059957_9446947799462203597594041305939003453117795295419755007827907344661605962071.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059957_50639476019743680468355416125339023180879611554584108534011646146452050049236.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/7059957_9446947799462203597594041305939003453117795295419755007827907344661605962071.jpg",
+          "original": "https://static.tokkobroker.com/original_pictures/7059957_50639476019743680468355416125339023180879611554584108534011646146452050049236.jpg",
           "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059957_9446947799462203597594041305939003453117795295419755007827907344661605962071_thumb.jpg"
+          "thumb": "https://static.tokkobroker.com/thumbs/7059957_50639476019743680468355416125339023180879611554584108534011646146452050049236_thumb.jpg"
         },
         {
           "description": null,
@@ -21202,20 +21310,10 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059957_50639476019743680468355416125339023180879611554584108534011646146452050049236.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/7059957_50639476019743680468355416125339023180879611554584108534011646146452050049236.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059957_50639476019743680468355416125339023180879611554584108534011646146452050049236_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/7059957_9971129088110828161414515218789889276012875974781389815310285970899498082272.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 3,
           "original": "https://static.tokkobroker.com/original_pictures/7059957_9971129088110828161414515218789889276012875974781389815310285970899498082272.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7059957_9971129088110828161414515218789889276012875974781389815310285970899498082272_thumb.jpg"
@@ -21225,82 +21323,112 @@
           "image": "https://static.tokkobroker.com/pictures/7059957_15808622952792160725107718761790985449328394499771691455099631898867117753242.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/7059957_15808622952792160725107718761790985449328394499771691455099631898867117753242.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7059957_15808622952792160725107718761790985449328394499771691455099631898867117753242_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059957_71407240518546327793979592417010700737286799808088263591035219201609922002049.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/7059957_71407240518546327793979592417010700737286799808088263591035219201609922002049.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059957_71407240518546327793979592417010700737286799808088263591035219201609922002049_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/7059957_115674169488261509692352161494048639739239050250326188607750133892976585489957.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/7059957_115674169488261509692352161494048639739239050250326188607750133892976585489957.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_115674169488261509692352161494048639739239050250326188607750133892976585489957_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059957_115674169488261509692352161494048639739239050250326188607750133892976585489957_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059957_41544086279491866123498342403957171513117595552370526162431852223528100428537.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059957_82525481628889354004565175907747346899377543036374216017990199375758089313241.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/7059957_41544086279491866123498342403957171513117595552370526162431852223528100428537.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7059957_41544086279491866123498342403957171513117595552370526162431852223528100428537_thumb.jpg"
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/7059957_8252548162888935400456517590774734689937754303637421601799019937575808.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_82525481628889354004565175907747346899377543036374216017990199375758089313241_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059957_82525481628889354004565175907747346899377543036374216017990199375758089313241_thu.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/7059957_63538320032238024971252269469160426053184693203723727995261551607834433546269.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 9,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7059957_63538320032238024971252269469160426053184693203723727995261551607834433546269.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_63538320032238024971252269469160426053184693203723727995261551607834433546269_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7059957_63538320032238024971252269469160426053184693203723727995261551607834433546269_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7059957_76488103659772321076271014653771092704044723454579990418098019495493955461617.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7059957_45261295606483844378628293248072159655676159410093884875578782253342404023535.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/7059957_4526129560648384437862829324807215965567615941009388487557878225334240.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_45261295606483844378628293248072159655676159410093884875578782253342404023535_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059957_45261295606483844378628293248072159655676159410093884875578782253342404023535_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059957_103888549003071821137226147492756157387332530956930104207427503387734342808271.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/7059957_76488103659772321076271014653771092704044723454579990418098019495493955461617.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_76488103659772321076271014653771092704044723454579990418098019495493955461617_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7059957_76488103659772321076271014653771092704044723454579990418098019495493955461617_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7059957_103888549003071821137226147492756157387332530956930104207427503387734342808271.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_103888549003071821137226147492756157387332530956930104207427503387734342808271_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059957_103888549003071821137226147492756157387332530956930104207427503387734342808271_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059957_42620503329963320064758508165177079220498082019283953523109207293800980183695.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/7059957_4262050332996332006475850816517707922049808201928395352310920729380098.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_42620503329963320064758508165177079220498082019283953523109207293800980183695_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059957_42620503329963320064758508165177079220498082019283953523109207293800980183695_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059957_38812126591620466448771829566380893182694145993060718332971773557703935145971.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/7059957_3881212659162046644877182956638089318269414599306071833297177355770393.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_38812126591620466448771829566380893182694145993060718332971773557703935145971_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059957_38812126591620466448771829566380893182694145993060718332971773557703935145971_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7059957_106645450765453161797833118694271153629199197998412407013928219519694829439583.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/7059957_1066454507654531617978331186942711536291991979984124070139282195196948.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7059957_106645450765453161797833118694271153629199197998412407013928219519694829439583_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7059957_106645450765453161797833118694271153629199197998412407013928219519694829439583_th.jpg"
         }
       ],
       "portal_footer": "",
       "private_area": "0.00",
       "producer": {
-        "cellphone": "",
-        "email": "marketing@obrasdemar.com",
-        "id": 123159,
-        "name": "MARKETING",
-        "phone": "",
+        "cellphone": " 5491158510184",
+        "email": "obrasdemar@gmail.com",
+        "id": 122255,
+        "name": "Obras De Mar",
+        "phone": " 5491158510184",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
         "position": ""
       },
       "property_condition": "Excelente",
-      "public_url": "https://ficha.info/p/eDMMrdGcBoIr5a",
+      "public_url": "https://ficha.info/p/eDMMrdFX1oIzna",
       "publication_title": "Punta de Arenas X - 2 amb. Piso 3 Contrafrente con Balcón y Parrilla",
       "quality_level": null,
-      "real_address": "Punta de Arenas X - 2 amb.  Güemes  2224 3D",
+      "real_address": "3 ambientes | Güemes 2224 | Pisos 1 - 3, unidades A - B | Punta de Arenas X",
       "reference_code": "OAP7059957",
-      "rich_description": "                            Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 84,8 m² totales, esta unidad al contrafrente combina ambientes amplios con una distribución que fluye naturalmente. El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.            <br>        <div><br></div><div>La habitacion está bien separadas del área social, con ventilación natural y luz. Cada rincón fue diseñado para acompañarte en lo cotidiano: la calefacción por radiadores, la preinstalación para aire acondicionado y los detalles de terminación que resuelven, sin llamar la atención.</div><div><br></div><div>Una propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.</div><br>        \r\n\r\n            ",
-      "roofed_surface": "67.80",
-      "room_amount": 2,
+      "rich_description": "                Departamento de 3 ambientes al contrafrente, con 112,09m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.<div><br></div><div>Una unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.</div><div><br></div><div>El living comedor y la cocina conforman un área social cómoda y funcional, con salida a un amplio balcón. Un espacio pensado para disfrutarlo de verdad.</div><div><br></div><div>El dormitorio se encuentra bien diferenciado del sector social, aportando mayor privacidad, ventilación natural y luminosidad.</div><div><br></div><div>La unidad cuenta además con calefacción por radiadores, preinstalación para aire acondicionado y terminaciones acordes a la categoría del emprendimiento.</div><div><br></div><div>Su ubicación al frente brinda una mayor vista a la ciudad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.</div><div><br></div><div>Una propuesta diferente dentro de Punta de Arenas X: un 3 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.</div><div><br></div><br>        <br><br>            <br><br>            \r\n\r\n            ",
+      "roofed_surface": "95.09",
+      "room_amount": 3,
       "semiroofed_surface": "17.00",
       "seo_description": "",
       "seo_keywords": "",
@@ -21427,16 +21555,26 @@
           "type": 3
         },
         {
+          "id": 1512,
+          "name": "Calefacción individual",
+          "type": 3
+        },
+        {
           "id": 1514,
           "name": "Calefacción por radiadores",
           "type": 3
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
         }
       ],
       "toilet_amount": 1,
       "total_area": "0.00",
       "total_suites": 1,
-      "total_surface": "84.80",
-      "transaction_requirements": "",
+      "total_surface": "112.09",
+      "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes.",
       "tv_rooms": 0,
       "type": {
         "code": "AP",
@@ -21444,12 +21582,12 @@
         "name": "Departamento"
       },
       "uncovered_parking_lot": 0,
-      "unroofed_surface": "0.00",
+      "unroofed_surface": "17.00",
       "videos": [],
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "enhanced_description": "<h3>Descripción General</h3>\n<p>Un departamento que invita a vivir cómodo, sin resignar ubicación ni tranquilidad. Con 84,8 m² totales, esta unidad al contrafrente combina ambientes amplios con una distribución que fluye naturalmente.</p>\n\n<h3>Ambientes Principales</h3>\n<p>El estar y la cocina se abren hacia un balcón generoso con parrilla individual, pensado para usarse de verdad: asados, charlas, plantas, momentos.</p>\n\n<h3>Habitación</h3>\n<p>La habitación está bien separada del área social, con ventilación natural y luz.</p>\n\n<h3>Características y Servicios</h3>\n<ul>\n<li>Calefacción por radiadores</li>\n<li>Preinstalación para aire acondicionado</li>\n<li>Balcón con parrilla individual</li>\n<li>Distribución que fluye naturalmente</li>\n<li>Detalles de terminación resolutivos</li>\n</ul>\n\n<h3>Propuesta</h3>\n<p>Una propuesta pensada para quienes eligen vivir con calma, pero en el centro de todo.</p>"
+      "enhanced_description": "<h3>Descripción General</h3>\n<p>Departamento de 3 ambientes al contrafrente, con 112,09 m² totales, ubicado en Punta de Arenas X – Güemes 2224, uno de nuestros desarrollos premium en una de las zonas más buscadas de Mar del Plata.</p>\n<p>Una unidad pensada para quienes valoran los espacios amplios, la tranquilidad y el confort, sin resignar ubicación.</p>\n\n<h3>Espacios Principales</h3>\n<ul>\n<li>Living comedor y cocina que conforman un área social cómoda y funcional</li>\n<li>Amplio balcón con salida desde el área social</li>\n<li>Dormitorio bien diferenciado del sector social, con mayor privacidad, ventilación natural y luminosidad</li>\n</ul>\n\n<h3>Características y Servicios</h3>\n<ul>\n<li>Calefacción por radiadores</li>\n<li>Preinstalación para aire acondicionado</li>\n<li>Terminaciones acordes a la categoría del emprendimiento</li>\n<li>Ubicación al contrafrente con mayor vista a la ciudad</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Su ubicación brinda una mayor vista a la ciudad, manteniendo al mismo tiempo todos los beneficios de vivir en pleno entorno Güemes, cerca del mar, comercios, gastronomía y servicios.</p>\n\n<h3>Propuesta</h3>\n<p>Una propuesta diferente dentro de Punta de Arenas X: un 3 ambientes con dimensiones poco habituales, pensado tanto para vivienda permanente como para quienes buscan una propiedad de categoría en una ubicación privilegiada de Mar del Plata.</p>"
     },
     {
       "address": "Güemes 2224 - 6 B",

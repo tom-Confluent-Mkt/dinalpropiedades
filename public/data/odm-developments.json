@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-09-17T10:44:14.767Z"
+    "lastSync": "2026-09-18T10:19:52.783Z"
   },
   "objects": [
     {
@@ -829,8 +829,8 @@
       "construction_date": null,
       "construction_status": 3,
       "custom_tags": [],
-      "deleted_at": "2026-09-17T03:27:04",
-      "description": "Punta de arenas XVII - Entre Rios 2650\n\nEs moderno edificio en pozo con características premium, ubicado en Entre Ríos 2650, una de las zonas más buscadas de Mar del Plata. A solo pocas cuadras de Plaza Colón y del Paseo Aldrey, con excelente conectividad, servicios y propuesta urbana.\n\nEl proyecto se desarrolla en 8 pisos y ofrece unidades de 1, 2 y 4 ambientes, con superficies que van desde 31 m² hasta 125 m², pensadas para vivienda permanente, inversión o renta temporaria.\n\nEntre sus principales características se destacan:\n\n* Departamentos con excelente distribución y terminaciones de calidad.\n* Todos los departamentos cuentan con balcon e instalación de parrilla individual\n* Cocheras.\n* Dos ascensores de última generación para mayor comodidad.\n* SUM ubicado en el último piso, completamente equipado para reuniones y eventos.\n\nDetalles constructivos de calidad premium y diseño contemporáneo, Una oportunidad ideal para invertir en pozo, combinando ubicación estratégica, diseño moderno y excelente proyección de valorización.",
+      "deleted_at": "2026-09-17T16:07:24",
+      "description": "Punta de Arenas XVII es un desarrollo residencial premium en pozo, ubicado en Entre Ríos 2650, en un sector estratégico y consolidado de Mar del Plata, próximo a Plaza Colón, Paseo Aldrey y algunos de los principales corredores comerciales, gastronómicos y de servicios de la ciudad.\n\nSu ubicación ofrece además una excelente conectividad y cercanía a instituciones educativas y universitarias, convirtiéndolo en una propuesta atractiva tanto para vivienda permanente como para quienes buscan una inversión con potencial de renta y valorización.\n\nEl proyecto se desarrolla en 8 pisos y contará con departamentos de 1, 2 y 4 ambientes, con superficies que van desde los 31 m² hasta los 125 m². Una variedad de tipologías pensada para adaptarse a diferentes necesidades, desde unidades compactas de inversión hasta departamentos de mayor amplitud para uso residencial.\n\nEntre sus principales características se destacan:\n\n* Departamentos con distribuciones funcionales y terminaciones de calidad premium.\n* Balcones con espacio e instalaciones previstas para parrilla individual.\n* Disponibilidad de cocheras.\n* Dos ascensores de última generación.\n* SUM, concebido como espacio de encuentro y uso común.\n\nCon una arquitectura contemporánea, una ubicación privilegiada y una propuesta orientada al confort y la calidad, Punta de Arenas XVII representa una oportunidad para invertir desde pozo en uno de los sectores con mayor dinámica urbana de Mar del Plata.\n",
       "display_on_web": true,
       "excel_extra_headers": "[]",
       "fake_address": "",
@@ -1810,6 +1810,11 @@
           "type": 3
         },
         {
+          "id": 36,
+          "name": "Quincho",
+          "type": 3
+        },
+        {
           "id": 41,
           "name": "SUM",
           "type": 3
@@ -1871,7 +1876,7 @@
       },
       "videos": [],
       "web_url": "http://www.dinal.com.ar",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Moderno edificio en pozo ubicado en Entre Ríos 2650, una de las zonas más buscadas de Mar del Plata. A solo pocas cuadras de Plaza Colón y del Paseo Aldrey, con excelente conectividad, servicios y propuesta urbana.</p>\n\n<h3>El Proyecto</h3>\n<p>Edificio de 8 pisos que ofrece unidades de 1, 2 y 4 ambientes, con superficies que van desde 31 m² hasta 125 m², pensadas para vivienda permanente, inversión o renta temporaria.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Departamentos con excelente distribución y terminaciones de calidad</li>\n<li>Todos los departamentos cuentan con balcón e instalación de parrilla individual</li>\n<li>Cocheras</li>\n<li>Dos ascensores de última generación para mayor comodidad</li>\n<li>SUM ubicado en el último piso, completamente equipado para reuniones y eventos</li>\n</ul>\n\n<h3>Detalles Constructivos</h3>\n<p>Detalles constructivos de calidad premium y diseño contemporáneo. Una oportunidad ideal para invertir en pozo, combinando ubicación estratégica, diseño moderno y excelente proyección de valorización.</p>"
+      "enhanced_description": "<h3>Sobre Punta de Arenas XVII</h3>\n<p>Punta de Arenas XVII es un desarrollo residencial premium en pozo, ubicado en Entre Ríos 2650, en un sector estratégico y consolidado de Mar del Plata, próximo a Plaza Colón, Paseo Aldrey y algunos de los principales corredores comerciales, gastronómicos y de servicios de la ciudad.</p>\n\n<h3>Ubicación y Conectividad</h3>\n<p>Su ubicación ofrece una excelente conectividad y cercanía a instituciones educativas y universitarias, convirtiéndolo en una propuesta atractiva tanto para vivienda permanente como para quienes buscan una inversión con potencial de renta y valorización.</p>\n\n<h3>El Proyecto</h3>\n<p>El proyecto se desarrolla en 8 pisos y contará con departamentos de 1, 2 y 4 ambientes, con superficies que van desde los 31 m² hasta los 125 m². Una variedad de tipologías pensada para adaptarse a diferentes necesidades, desde unidades compactas de inversión hasta departamentos de mayor amplitud para uso residencial.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Departamentos con distribuciones funcionales y terminaciones de calidad premium</li>\n<li>Balcones con espacio e instalaciones previstas para parrilla individual</li>\n<li>Disponibilidad de cocheras</li>\n<li>Dos ascensores de última generación</li>\n<li>SUM, concebido como espacio de encuentro y uso común</li>\n</ul>\n\n<h3>Propuesta de Inversión</h3>\n<p>Con una arquitectura contemporánea, una ubicación privilegiada y una propuesta orientada al confort y la calidad, Punta de Arenas XVII representa una oportunidad para invertir desde pozo en uno de los sectores con mayor dinámica urbana de Mar del Plata.</p>"
     },
     {
       "address": "GUEMES 2224",
