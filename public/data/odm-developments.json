@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-09-23T10:33:16.683Z"
+    "lastSync": "2026-09-24T10:51:31.313Z"
   },
   "objects": [
     {
@@ -4031,8 +4031,8 @@
       "construction_date": null,
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-09-16T02:42:47",
-      "description": "Punta de Arenas XI es un exclusivo edificio en construcción ubicado sobre Avenida de los Trabajadores 2001, Punta Mogotes en la privilegiada Zona Sur de Mar del Plata, frente al mar. Su entorno combina la tranquilidad de la costa con un excelente acceso a los principales servicios, espacios recreativos y puntos de interés de la ciudad.\n\nEl proyecto se desarrolla en un moderno edificio de 10 pisos, con departamentos de 2, 3 y 4 ambientes, cuyas superficies van desde **50 m² hasta 235 m²**, ofreciendo opciones para quienes buscan una primera vivienda, un hogar familiar o una inversión de gran proyección.\n\nTodas las unidades han sido diseñadas con ambientes amplios, funcionales y luminosos, y cuentan con balcón, permitiendo disfrutar del aire libre y de las vistas privilegiadas y despejadas del entorno.\n\nEntre sus principales características se destacan:\n\n* Departamentos de 2, 3 y 4 ambientes con excelente distribución.\n* Superficies desde 50 m² hasta 235 m².\n* Todas las unidades con balcón.\n* Cocheras.\n* Ascensores de última generación.\n* SUM ubicado en el último piso, ideal para reuniones y eventos.\n* Terminaciones de calidad y diseño contemporáneo.\n\nGracias a su ubicación estratégica, en primer linea frente al mar y en una de las zonas con mayor crecimiento de Mar del Plata, Punta de Arenas XI representa una excelente oportunidad para vivir con confort o invertir en un desarrollo con gran potencial de valorización.\n",
+      "deleted_at": "2026-09-23T21:35:05",
+      "description": "Punta de Arenas XI – Vivir frente al mar en Punta Mogotes\n\nPunta de Arenas XI es un edificio en construcción ubicado sobre  Avenida de los Trabajadores 2001, en Punta Mogotes, Mar del Plata , en primera línea frente al mar.\n\nSu ubicación permite disfrutar de un entorno abierto, con vistas privilegiadas y cercanía inmediata a las playas de Punta Mogotes, combinando la tranquilidad de la zona sur con buenos accesos y proximidad a servicios, propuestas gastronómicas y espacios recreativos.\n\nEl proyecto se desarrolla en  10 pisos residenciales más quincho/SUM en el último nivel , con departamentos de  2, 3 y 4 ambientes  y superficies que van desde  50 m² hasta 235 m² , ofreciendo distintas alternativas tanto para vivienda permanente como para inversión o uso vacacional.\n\nLas unidades fueron proyectadas priorizando la amplitud, la luminosidad y la relación con el entorno. Todas cuentan con  balcón , grandes superficies vidriadas y distribuciones funcionales que permiten aprovechar cada ambiente y disfrutar de la cercanía al mar.\n\nEntre sus principales características se destacan:\n\n* Departamentos de  2, 3 y 4 ambientes .\n* Superficies desde  50 m² hasta 235 m² .\n* Balcones en todas las unidades.\n* Cocheras.\n* Quincho/SUM en el último nivel.\n* Ascensores de última generación.\n* Aberturas con  doble vidrio hermético (DVH) .\n* Cerramientos exteriores con doble muro y cámara de aire.\n* Pisos de porcelanato y terminaciones de calidad.\n* Cocinas equipadas con muebles altos y bajos, mesadas y equipamiento previsto según cada unidad.\n* Cestos destinados a separación de residuos.\n* Ingreso accesible para personas con movilidad reducida. \n\nAcceso peatonal accesible mediante rampa desde planta baja, apto para personas con movilidad reducida, con conexión a los ascensores y a los niveles residenciales.\n\nPor su ubicación frente al mar, la variedad de tipologías y la calidad integral del proyecto, Punta de Arenas XI propone una forma diferente de vivir Mar del Plata, combinando confort, amplitud y una relación directa con uno de los sectores costeros más reconocidos de la ciudad.\n\nAvenida de los Trabajadores 2001 – Punta Mogotes, Mar del Plata.\n",
       "display_on_web": true,
       "excel_extra_headers": "[]",
       "fake_address": "",
@@ -4057,10 +4057,30 @@
       "photos": [
         {
           "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94568_86041304540038564921179805462815170835909123262799738810053759577554541575631.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94568_86041304540038564921179805462815170835909123262799738810053759577554541575631.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_86041304540038564921179805462815170835909123262799738810053759577554541575631_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_86041304540038564921179805462815170835909123262799738810053759577554541575631_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/dev_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/dev_original_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_og.jpg",
+          "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_thumb.jpg"
+        },
+        {
+          "description": null,
           "image": "https://static.tokkobroker.com/dev_pictures/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 0,
+          "order": 2,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401_thumb.jpg"
@@ -4070,7 +4090,7 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 3,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579_thumb.jpg"
@@ -4080,7 +4100,7 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
+          "order": 4,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253_thumb.jpg"
@@ -4090,7 +4110,7 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
+          "order": 5,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134_thumb.jpg"
@@ -4100,7 +4120,7 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 6,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422_thumb.jpg"
@@ -4110,30 +4130,10 @@
           "image": "https://static.tokkobroker.com/dev_pictures/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 7,
           "original": "https://static.tokkobroker.com/dev_original_pictures/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360_og.jpg",
           "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/dev_pictures/94568_86041304540038564921179805462815170835909123262799738810053759577554541575631.jpg",
-          "is_blueprint": false,
-          "is_front_cover": true,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/dev_original_pictures/94568_86041304540038564921179805462815170835909123262799738810053759577554541575631.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_86041304540038564921179805462815170835909123262799738810053759577554541575631_og.jpg",
-          "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_86041304540038564921179805462815170835909123262799738810053759577554541575631_thumb.jpg"
         },
         {
           "description": null,
@@ -4312,7 +4312,7 @@
       },
       "videos": [],
       "web_url": "http://www.dinal.com.ar",
-      "enhanced_description": "<h3>Punta de Arenas XI</h3>\n\n<p>Exclusivo edificio en construcción ubicado sobre Avenida de los Trabajadores 2001, Punta Mogotes en la privilegiada Zona Sur de Mar del Plata, frente al mar. Su entorno combina la tranquilidad de la costa con un excelente acceso a los principales servicios, espacios recreativos y puntos de interés de la ciudad.</p>\n\n<h3>El Proyecto</h3>\n\n<p>El proyecto se desarrolla en un moderno edificio de 10 pisos, con departamentos de 2, 3 y 4 ambientes, cuyas superficies van desde 50 m² hasta 235 m², ofreciendo opciones para quienes buscan una primera vivienda, un hogar familiar o una inversión de gran proyección.</p>\n\n<p>Todas las unidades han sido diseñadas con ambientes amplios, funcionales y luminosos, y cuentan con balcón, permitiendo disfrutar del aire libre y de las vistas privilegiadas y despejadas del entorno.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Departamentos de 2, 3 y 4 ambientes con excelente distribución</li>\n<li>Superficies desde 50 m² hasta 235 m²</li>\n<li>Todas las unidades con balcón</li>\n<li>Cocheras</li>\n<li>Ascensores de última generación</li>\n<li>SUM ubicado en el último piso, ideal para reuniones y eventos</li>\n<li>Terminaciones de calidad y diseño contemporáneo</li>\n</ul>\n\n<h3>Ubicación e Inversión</h3>\n\n<p>Gracias a su ubicación estratégica, en primer línea frente al mar y en una de las zonas con mayor crecimiento de Mar del Plata, Punta de Arenas XI representa una excelente oportunidad para vivir con confort o invertir en un desarrollo con gran potencial de valorización.</p>"
+      "enhanced_description": "<h3>Punta de Arenas XI – Vivir frente al mar en Punta Mogotes</h3>\n\n<p>Punta de Arenas XI es un edificio en construcción ubicado sobre Avenida de los Trabajadores 2001, en Punta Mogotes, Mar del Plata, en primera línea frente al mar.</p>\n\n<h3>Ubicación</h3>\n\n<p>Su ubicación permite disfrutar de un entorno abierto, con vistas privilegiadas y cercanía inmediata a las playas de Punta Mogotes, combinando la tranquilidad de la zona sur con buenos accesos y proximidad a servicios, propuestas gastronómicas y espacios recreativos.</p>\n\n<h3>El Proyecto</h3>\n\n<p>El proyecto se desarrolla en 10 pisos residenciales más quincho/SUM en el último nivel, con departamentos de 2, 3 y 4 ambientes y superficies que van desde 50 m² hasta 235 m², ofreciendo distintas alternativas tanto para vivienda permanente como para inversión o uso vacacional.</p>\n\n<h3>Diseño y Características</h3>\n\n<p>Las unidades fueron proyectadas priorizando la amplitud, la luminosidad y la relación con el entorno. Todas cuentan con balcón, grandes superficies vidriadas y distribuciones funcionales que permiten aprovechar cada ambiente y disfrutar de la cercanía al mar.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Departamentos de 2, 3 y 4 ambientes</li>\n<li>Superficies desde 50 m² hasta 235 m²</li>\n<li>Balcones en todas las unidades</li>\n<li>Cocheras</li>\n<li>Quincho/SUM en el último nivel</li>\n<li>Ascensores de última generación</li>\n<li>Aberturas con doble vidrio hermético (DVH)</li>\n<li>Cerramientos exteriores con doble muro y cámara de aire</li>\n<li>Pisos de porcelanato y terminaciones de calidad</li>\n<li>Cocinas equipadas con muebles altos y bajos, mesadas y equipamiento previsto según cada unidad</li>\n<li>Cestos destinados a separación de residuos</li>\n<li>Ingreso accesible para personas con movilidad reducida</li>\n</ul>\n\n<h3>Accesibilidad</h3>\n\n<p>Acceso peatonal accesible mediante rampa desde planta baja, apto para personas con movilidad reducida, con conexión a los ascensores y a los niveles residenciales.</p>\n\n<h3>Una Forma Diferente de Vivir</h3>\n\n<p>Por su ubicación frente al mar, la variedad de tipologías y la calidad integral del proyecto, Punta de Arenas XI propone una forma diferente de vivir Mar del Plata, combinando confort, amplitud y una relación directa con uno de los sectores costeros más reconocidos de la ciudad.</p>\n\n<p>Avenida de los Trabajadores 2001 – Punta Mogotes, Mar del Plata.</p>"
     }
   ]
 }
