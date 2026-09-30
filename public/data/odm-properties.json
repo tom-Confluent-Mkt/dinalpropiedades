@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-09-29T11:53:54.087Z"
+    "lastSync": "2026-09-30T11:41:05.754Z"
   },
   "objects": [
     {
@@ -34639,7 +34639,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-05T13:58:40",
+      "deleted_at": "2026-09-29T19:43:47",
       "depth_measure": "0.00",
       "description": "VI ART es un exclusivo desarrollo residencial ubicado sobre Independencia 2767, en una de las zonas con mayor crecimiento de Mar del Plata. Su ubicación estratégica permite acceder en pocos minutos al centro de la ciudad, las playas de La Perla y el corredor comercial de Avenida Independencia, rodeado de una amplia oferta de comercios, instituciones educativas, centros de salud y servicios. \nEl edificio contará con 17 pisos, combinando viviendas, oficinas, espacios comerciales y un exclusivo café cultural en planta baja, generando una propuesta moderna que integra calidad de vida, trabajo y entretenimiento en un mismo lugar. Ofrece departamentos de 1, 2 y 3 ambientes, con superficies de 65, 71, 101 y 138 m², diseñados para brindar amplitud, luminosidad y funcionalidad. \nTodas las unidades disponen de balcón con parrilla, amplios ventanales con DVH (doble vidrio hermético), pisos de porcelanato en áreas sociales, dormitorios con pisos de madera, muebles de cocina de diseño, bajo mesada y alacena completos, y ascensores de última generación. VI ART representa una excelente oportunidad tanto para quienes buscan una vivienda de categoría como para quienes desean realizar una inversión con gran potencial de valorización, en un desarrollo que combina diseño contemporáneo, excelentes terminaciones y una ubicación privilegiada en Mar del Plata.\n                \r\n\r\n            \n",
       "development": {
@@ -35019,12 +35019,12 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 150000
+              "price": 257000
             }
           ]
         }
       ],
-      "orientation": "Sudeste",
+      "orientation": "Este",
       "parking_lot_amount": 0,
       "parking_lot_condition": null,
       "parking_lot_type": null,
@@ -35289,6 +35289,11 @@
           "id": 1514,
           "name": "Calefacción por radiadores",
           "type": 3
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
         }
       ],
       "toilet_amount": 0,
