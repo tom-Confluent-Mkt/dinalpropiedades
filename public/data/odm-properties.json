@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-05T13:11:51.235Z"
+    "lastSync": "2026-10-06T12:31:42.035Z"
   },
   "objects": [
     {
@@ -22292,7 +22292,7 @@
       "credit_eligible": "Apto crédito",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-25T16:46:06",
+      "deleted_at": "2026-10-05T18:47:41",
       "depth_measure": "0.00",
       "description": "            Un ambiente único, pensado para aprovechar cada metro con lógica y comodidad. Esta unidad al contrafrente, ubicada en el cuarto piso, cuenta con 35 m² totales y una distribución que permite vivir con luz, aire y libertad de movimiento.\n        \nEl espacio principal es amplio y versátil, con salida directa a un balcón con parrilla individual, ideal para sumar aire libre a tu rutina diaria. La cocina se integra sin invadir y el baño completo, junto con los detalles de terminación, aportan practicidad sin complicaciones.\nEquipado con calefacción por radiadores, aberturas con DVH y preinstalación para aire acondicionado, todo está listo para que entres y vivas bien desde el primer día.\n\nUn departamento que resuelve, acompaña y se adapta a tu forma de habitar.\r\n        ",
       "development": {
@@ -22679,7 +22679,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 59500
+              "price": 70000
             }
           ]
         }
@@ -22919,6 +22919,11 @@
           "id": 1514,
           "name": "Calefacción por radiadores",
           "type": 3
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
         }
       ],
       "toilet_amount": 0,
@@ -29082,7 +29087,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-25T15:58:03",
+      "deleted_at": "2026-10-06T01:43:02",
       "depth_measure": "0.00",
       "description": "Departamento 2 ambientes – 59 m² – La Perla Norte, Mar del Plata\nEn edificio en construcción, te presentamos este amplio y luminoso departamento de 2 ambientes ubicado en un 6° piso, con diseño moderno y detalles pensados para el confort.\nLa unidad cuenta con:\nDormitorio con baño en suite\nToilette de cortesía\nCocina integrada de concepto abierto\nBalcón con parrilla individual\nExcelente luminosidad en todos sus ambientes\nEl edificio ofrece SUM para reuniones y encuentros sociales.\n???? Ubicación privilegiada: Gerónimo Rejón 3656, en el corazón del barrio La Perla Norte, a solo 40 metros del mar, una de las zonas más buscadas de Mar del Plata por su tranquilidad, cercanía a la costa y excelente conectividad.\nIdeal para vivir todo el año o como inversión segura en una de las áreas de mayor crecimiento de la ciudad\n                \r\n            ",
       "development": {
@@ -29450,7 +29455,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 108000
+              "price": 115000
             }
           ]
         }
@@ -29657,6 +29662,11 @@
           "type": 3
         },
         {
+          "id": 36,
+          "name": "Quincho",
+          "type": 3
+        },
+        {
           "id": 41,
           "name": "SUM",
           "type": 3
@@ -29669,6 +29679,11 @@
         {
           "id": 1248,
           "name": "En construcción",
+          "type": 3
+        },
+        {
+          "id": 1512,
+          "name": "Calefacción individual",
           "type": 3
         },
         {
