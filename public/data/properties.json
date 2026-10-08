@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-07T12:24:20.149Z"
+    "lastSync": "2026-10-08T12:33:47.944Z"
   },
   "objects": [
     {
@@ -16371,7 +16371,7 @@
       "common_area": "0.00",
       "covered_parking_lot": 0,
       "created_at": "2021-01-08T13:08:32",
-      "credit_eligible": "Apto crédito",
+      "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [
         {
@@ -16381,7 +16381,7 @@
           "public_name": "Nuevo Valor"
         }
       ],
-      "deleted_at": "2026-10-05T20:13:02",
+      "deleted_at": "2026-10-07T15:39:21",
       "depth_measure": "0.00",
       "description": "                            Departamento 2 Ambientes – \n Ubicación estratégica:\t•\tA 8 cuadras de la estación San Martín (Línea Mitre).\t•\tA pocas cuadras del centro comercial.\t•\tFácil salida a Av. 25 de Mayo y General Paz.\t•\tA 5 cuadras de Ruta 8.\n\n Características del departamento:\t•\tLiving comedor cómodo con pisos de madera.\t•\tCocina independiente con muebles altos y bajos.\t•\tLavadero independiente.\t•\tDormitorio con placard y pisos de madera.\t•\tBaño completo con bañera.\n\nCondiciones: \n- Alquiler por 2 años - Ajuste trimestral por ICL- Mascotas: No- Garantía: Fianza         \r\n\r\n            ",
       "development": null,
@@ -16389,7 +16389,7 @@
       "dining_room": 1,
       "disposition": "Lateral",
       "down_payment": "0.00",
-      "expenses": 100000,
+      "expenses": 150000,
       "extra_attributes": [],
       "fake_address": "Pellegrini al 1900 6 piso",
       "files": [],
@@ -16796,7 +16796,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2021-01-08T13:08:32",
+      "_last_changed": "2026-10-08T12:33:47.944Z",
       "enhanced_description": "<h3>Ubicación estratégica</h3>\n<ul>\n<li>A 8 cuadras de la estación San Martín (Línea Mitre)</li>\n<li>A pocas cuadras del centro comercial</li>\n<li>Fácil salida a Av. 25 de Mayo y General Paz</li>\n<li>A 5 cuadras de Ruta 8</li>\n</ul>\n\n<h3>Características del departamento</h3>\n<ul>\n<li>Living comedor cómodo con pisos de madera</li>\n<li>Cocina independiente con muebles altos y bajos</li>\n<li>Lavadero independiente</li>\n<li>Dormitorio con placard y pisos de madera</li>\n<li>Baño completo con bañera</li>\n</ul>\n\n<h3>Condiciones</h3>\n<ul>\n<li>Alquiler por 2 años</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Mascotas: No permitidas</li>\n<li>Garantía: Fianza</li>\n</ul>"
     },
     {
@@ -27853,9 +27853,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-06T20:17:05",
+      "deleted_at": "2026-10-07T19:20:58",
       "depth_measure": "0.00",
-      "description": "                                                Departamento de 3 ambientes con cochera y parrilla en Villa Ballester\n\nExcelente departamento tipo dúplex ubicado en un noveno piso, sobre la calle Balcarce, entre Belgrano y Artigas. Su ubicación es ideal, a solo tres cuadras de la estación Villa Ballester del Ferrocarril Mitre, a pocas cuadras del centro comercial de Villa Ballester y con rápido acceso al centro de General San Martín por Av. 25 de Mayo. La zona cuenta con múltiples líneas de colectivo (87, 237, 252 y 343).\nLa propiedad se desarrolla en dos plantas:\nPlanta baja\n* Amplio y luminoso living-comedor.* Cocina integrada con muebles bajo mesada y alacenas.* Gran balcón con parrilla, ideal para disfrutar al aire libre.* Toilette de recepción.\nPlanta alta\n* Dos dormitorios, ambos con excelente ventilación. El dormitorio principal cuenta con placard.* Baño completo con sector de ducha.\nAdemás, la unidad incluye cochera, brindando mayor comodidad y seguridad.\nUna excelente oportunidad para quienes buscan comodidad, buena distribución y una ubicación estratégica en Villa Ballester.\n\n\n            \n\n            \r\n\r\n            ",
+      "description": "                                                                Departamento de 3 ambientes con cochera y parrilla en Villa Ballester\n\nExcelente departamento tipo dúplex ubicado en un noveno piso, sobre la calle Balcarce, entre Belgrano y Artigas. Su ubicación es ideal, a solo tres cuadras de la estación Villa Ballester del Ferrocarril Mitre, a pocas cuadras del centro comercial de Villa Ballester y con rápido acceso al centro de General San Martín por Av. 25 de Mayo. La zona cuenta con múltiples líneas de colectivo (87, 237, 252 y 343).\nLa propiedad se desarrolla en dos plantas:\nPlanta baja\n* Amplio y luminoso living-comedor.* Cocina integrada con muebles bajo mesada y alacenas.* Gran balcón con parrilla, ideal para disfrutar al aire libre.* Toilette de recepción.\nPlanta alta\n* Dos dormitorios, ambos con excelente ventilación. El dormitorio principal cuenta con placard.* Baño completo con sector de ducha.\n\n\nCon posibilidad de cochera cubierta aparte \n\n\nUna excelente oportunidad para quienes buscan comodidad, buena distribución y una ubicación estratégica en Villa Ballester.\n\n\n            \n\n            \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -27949,7 +27949,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 192000
+              "price": 175000
             }
           ]
         }
@@ -27968,6 +27968,16 @@
           "original": "https://static.tokkobroker.com/original_pictures/95265480419798096733892939193343303957119500797328423216575590942942646782849.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/57925474_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/95265480419798096733892939193343303957119500797328423216575590942942646782849_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/85666931953401884302599940127352836615281580212083827128515327982664858003741.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/85666931953401884302599940127352836615281580212083827128515327982664858003741.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/57925471_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/85666931953401884302599940127352836615281580212083827128515327982664858003741_thumb.jpg"
         },
         {
           "description": null,
@@ -28016,18 +28026,8 @@
           "is_front_cover": false,
           "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/18369729550169305639985156617193318160908934061296885981350683242871876390635.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/57925473_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/18369729550169305639985156617193318160908934061296885981350683242871876390635_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/85666931953401884302599940127352836615281580212083827128515327982664858003741.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/85666931953401884302599940127352836615281580212083827128515327982664858003741.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/85666931953401884302599940127352836615281580212083827128515327982664858003741_thumb.jpg"
         },
         {
           "description": null,
@@ -28036,7 +28036,7 @@
           "is_front_cover": false,
           "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/5713686124427246880618854407435958956915333541254837423938463232830790339436.jpg",
-          "social_media_url": null,
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/57925485_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/5713686124427246880618854407435958956915333541254837423938463232830790339436_thumb.jpg"
         },
         {
@@ -28213,11 +28213,11 @@
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/euf0PddvTkbpDa",
-      "publication_title": "Departamento 3 ambientes - Balcarce 3168 9°B - Villa Ballester",
+      "publication_title": "Departamento 3 ambientes TIPO duplex - Balcarce 3168 9°B - Villa Ballester",
       "quality_level": null,
       "real_address": "Balcarce 3168 9°B - Villa Ballester",
       "reference_code": "DAP4789045",
-      "rich_description": "                                                <p><span style=\"font-weight: bold;\">Departamento de 3 ambientes con cochera y parrilla en Villa Ballester</span></p><div><br></div><div>Excelente departamento tipo dúplex ubicado en un noveno piso, sobre la calle Balcarce, entre Belgrano y Artigas. Su ubicación es ideal, a solo tres cuadras de la estación Villa Ballester del Ferrocarril Mitre, a pocas cuadras del centro comercial de Villa Ballester y con rápido acceso al centro de General San Martín por Av. 25 de Mayo. La zona cuenta con múltiples líneas de colectivo (87, 237, 252 y 343).</div><div><br></div><div>La propiedad se desarrolla en dos plantas:</div><div><br></div><div><span style=\"font-weight: bold;\">Planta baja</span></div><div><br></div><div>* Amplio y luminoso living-comedor.</div><div>* Cocina integrada con muebles bajo mesada y alacenas.</div><div>* Gran balcón con parrilla, ideal para disfrutar al aire libre.</div><div>* Toilette de recepción.</div><div><br></div><div><span style=\"font-weight: bold;\">Planta alta</span></div><div><br></div><div>* Dos dormitorios, ambos con excelente ventilación. El dormitorio principal cuenta con placard.</div><div>* Baño completo con sector de ducha.</div><div><br></div><div>Además, la unidad incluye cochera, brindando mayor comodidad y seguridad.</div><div><br></div><div>Una excelente oportunidad para quienes buscan comodidad, buena distribución y una ubicación estratégica en Villa Ballester.</div><div><br></div><br><br>            <br><br>            \r\n\r\n            ",
+      "rich_description": "                                                                <p><span style=\"font-weight: bold;\">Departamento de 3 ambientes con cochera y parrilla en Villa Ballester</span></p><div><br></div><div>Excelente departamento tipo dúplex ubicado en un noveno piso, sobre la calle Balcarce, entre Belgrano y Artigas. Su ubicación es ideal, a solo tres cuadras de la estación Villa Ballester del Ferrocarril Mitre, a pocas cuadras del centro comercial de Villa Ballester y con rápido acceso al centro de General San Martín por Av. 25 de Mayo. La zona cuenta con múltiples líneas de colectivo (87, 237, 252 y 343).</div><div><br></div><div>La propiedad se desarrolla en dos plantas:</div><div><br></div><div><span style=\"font-weight: bold;\">Planta baja</span></div><div><br></div><div>* Amplio y luminoso living-comedor.</div><div>* Cocina integrada con muebles bajo mesada y alacenas.</div><div>* Gran balcón con parrilla, ideal para disfrutar al aire libre.</div><div>* Toilette de recepción.</div><div><br></div><div><span style=\"font-weight: bold;\">Planta alta</span></div><div><br></div><div>* Dos dormitorios, ambos con excelente ventilación. El dormitorio principal cuenta con placard.</div><div>* Baño completo con sector de ducha.</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Con posibilidad de cochera cubierta aparte&nbsp;</span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div><br></div><div>Una excelente oportunidad para quienes buscan comodidad, buena distribución y una ubicación estratégica en Villa Ballester.</div><div><br></div><br><br>            <br><br>            <br><br>            \r\n\r\n            ",
       "roofed_surface": "85.00",
       "room_amount": 3,
       "semiroofed_surface": "0.00",
@@ -28360,8 +28360,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-07T12:24:20.149Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Excelente departamento tipo dúplex ubicado en un noveno piso, sobre la calle Balcarce, entre Belgrano y Artigas. Su ubicación es ideal, a solo tres cuadras de la estación Villa Ballester del Ferrocarril Mitre, a pocas cuadras del centro comercial de Villa Ballester y con rápido acceso al centro de General San Martín por Avenida 25 de Mayo. La zona cuenta con múltiples líneas de colectivo: 87, 237, 252 y 343.</p>\n\n<h3>Planta Baja</h3>\n<ul>\n<li>Amplio y luminoso living-comedor</li>\n<li>Cocina integrada con muebles bajo mesada y alacenas</li>\n<li>Gran balcón con parrilla, ideal para disfrutar al aire libre</li>\n<li>Toilette de recepción</li>\n</ul>\n\n<h3>Planta Alta</h3>\n<ul>\n<li>Dos dormitorios, ambos con excelente ventilación</li>\n<li>Dormitorio principal con placard</li>\n<li>Baño completo con sector de ducha</li>\n</ul>\n\n<h3>Características Adicionales</h3>\n<ul>\n<li>Cochera</li>\n</ul>\n\n<p>Una excelente oportunidad para quienes buscan comodidad, buena distribución y una ubicación estratégica en Villa Ballester.</p>"
+      "_last_changed": "2026-10-08T12:33:47.944Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Excelente departamento tipo dúplex ubicado en un noveno piso, sobre la calle Balcarce, entre Belgrano y Artigas. Su ubicación es ideal, a solo tres cuadras de la estación Villa Ballester del Ferrocarril Mitre, a pocas cuadras del centro comercial de Villa Ballester y con rápido acceso al centro de General San Martín por Av. 25 de Mayo. La zona cuenta con múltiples líneas de colectivo: 87, 237, 252 y 343.</p>\n\n<h3>Planta Baja</h3>\n<ul>\n<li>Amplio y luminoso living-comedor</li>\n<li>Cocina integrada con muebles bajo mesada y alacenas</li>\n<li>Gran balcón con parrilla, ideal para disfrutar al aire libre</li>\n<li>Toilette de recepción</li>\n</ul>\n\n<h3>Planta Alta</h3>\n<ul>\n<li>Dos dormitorios, ambos con excelente ventilación</li>\n<li>Dormitorio principal con placard</li>\n<li>Baño completo con sector de ducha</li>\n</ul>\n\n<h3>Características Adicionales</h3>\n<ul>\n<li>Posibilidad de cochera cubierta aparte</li>\n</ul>\n\n<p>Una excelente oportunidad para quienes buscan comodidad, buena distribución y una ubicación estratégica en Villa Ballester.</p>"
     },
     {
       "address": "Lincoln al 3900 5° B",
@@ -48887,9 +48887,9 @@
       "credit_eligible": "Apto crédito",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-04-24T16:06:39",
+      "deleted_at": "2026-10-07T14:38:21",
       "depth_measure": "45.00",
-      "description": "                            Amplio Dúplex de 5 ambientes con excelente distribución y fondo libre            \n        \nUbicada en un entorno tranquilo y con detalles de calidad, esta propiedad de 5 ambientes es ideal para quienes buscan confort y espacio.\nCaracterísticas principales:\nPlanta Baja:\nAmplio living comedor integrado, perfecto para reuniones y disfrutar en familia.\nToilette de cortesía.\nFondo libre con verde para disfrutar al aire libre.\nQuincho equipado para reuniones sociales.\nPlanta Alta:3 habitaciones con balcón al frente, luminosas y amplias.Baño completo con ducha.Suite principal con vestidor y baño privado.Playroom ideal para espacio de recreación o lugar de trabajo.\n\n¡No pierdas la oportunidad de vivir en hermoso Dúplex que lo tiene todo!\nAcepta propiedad de menor valor (departamento 2 o 3 ambientes en San Martín o CABA) como parte de pago.\nConsulta para más detalles y coordina tu visita.\n        \n        \r\n            ",
+      "description": "                                            Amplio Dúplex de 5 ambientes con excelente distribución y fondo libre            \n        \nUbicada en un entorno tranquilo y con detalles de calidad, esta propiedad de 5 ambientes es ideal para quienes buscan confort y espacio.\nCaracterísticas principales:\nPlanta Baja:\nAmplio living comedor integrado, perfecto para reuniones y disfrutar en familia.\nToilette de cortesía.\nFondo libre con verde para disfrutar al aire libre.\nQuincho equipado para reuniones sociales.\nPlanta Alta:3 habitaciones con balcón al frente, luminosas y amplias.Baño completo con ducha.Suite principal con vestidor y baño privado.Playroom ideal para espacio de recreación o lugar de trabajo.\n\n¡No pierdas la oportunidad de vivir en hermoso Dúplex que lo tiene todo!\nAcepta propiedad de menor valor (departamento 2 o 3 ambientes en CABA) como parte de pago.\nConsulta para más detalles y coordina tu visita.\n        \n        \n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -49541,7 +49541,7 @@
       "quality_level": null,
       "real_address": "Cochabamba 2456 - San Martin",
       "reference_code": "DHO6432100",
-      "rich_description": "                            Amplio Dúplex de 5 ambientes con excelente distribución y fondo libre            <br>        <div><br></div><div>Ubicada en un entorno tranquilo y con detalles de calidad, esta propiedad de 5 ambientes es ideal para quienes buscan confort y espacio.</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Características principales:</span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div><span style=\"font-weight: bold;\">Planta Baja</span>:<br></div><div>Amplio living comedor integrado, perfecto para reuniones y disfrutar en familia.<br></div><div>Toilette de cortesía.<br></div><div>Fondo libre con verde para disfrutar al aire libre.<br></div><div>Quincho equipado para reuniones sociales.</div><div><br></div><div><span style=\"font-weight: bold;\">Planta Alta</span>:</div><div>3 habitaciones con balcón al frente, luminosas y amplias.</div><div>Baño completo con ducha.</div><div>Suite principal con vestidor y baño privado.</div><div>Playroom ideal para espacio de recreación o lugar de trabajo.</div><div><br></div><div><br></div><div>¡No pierdas la oportunidad de vivir en hermoso Dúplex que lo tiene todo!</div><div><br></div><div><span style=\"font-weight: bold;\">Acepta propiedad de menor valor (departamento 2 o 3 ambientes en San Martín o CABA) como parte de pago.</span></div><div><br></div><div>Consulta para más detalles y coordina tu visita.</div><br>        <br>        \r\n            ",
+      "rich_description": "                                            Amplio Dúplex de 5 ambientes con excelente distribución y fondo libre            <br>        <div><br></div><div>Ubicada en un entorno tranquilo y con detalles de calidad, esta propiedad de 5 ambientes es ideal para quienes buscan confort y espacio.</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Características principales:</span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div><span style=\"font-weight: bold;\">Planta Baja</span>:<br></div><div>Amplio living comedor integrado, perfecto para reuniones y disfrutar en familia.<br></div><div>Toilette de cortesía.<br></div><div>Fondo libre con verde para disfrutar al aire libre.<br></div><div>Quincho equipado para reuniones sociales.</div><div><br></div><div><span style=\"font-weight: bold;\">Planta Alta</span>:</div><div>3 habitaciones con balcón al frente, luminosas y amplias.</div><div>Baño completo con ducha.</div><div>Suite principal con vestidor y baño privado.</div><div>Playroom ideal para espacio de recreación o lugar de trabajo.</div><div><br></div><div><br></div><div>¡No pierdas la oportunidad de vivir en hermoso Dúplex que lo tiene todo!</div><div><br></div><div><span style=\"font-weight: bold;\">Acepta propiedad de menor valor (departamento 2 o 3 ambientes en CABA) como parte de pago.</span></div><div><br></div><div>Consulta para más detalles y coordina tu visita.</div><br>        <br>        <br>            \r\n\r\n            ",
       "roofed_surface": "182.00",
       "room_amount": 5,
       "semiroofed_surface": "9.50",
@@ -49717,8 +49717,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
-      "enhanced_description": "<h3>Amplio Dúplex de 5 ambientes con excelente distribución y fondo libre</h3>\n\n<p>Ubicada en un entorno tranquilo y con detalles de calidad, esta propiedad de 5 ambientes es ideal para quienes buscan confort y espacio.</p>\n\n<h3>Características principales</h3>\n\n<h3>Planta Baja</h3>\n<ul>\n<li>Amplio living comedor integrado, perfecto para reuniones y disfrutar en familia</li>\n<li>Toilette de cortesía</li>\n<li>Fondo libre con verde para disfrutar al aire libre</li>\n<li>Quincho equipado para reuniones sociales</li>\n</ul>\n\n<h3>Planta Alta</h3>\n<ul>\n<li>3 habitaciones con balcón al frente, luminosas y amplias</li>\n<li>Baño completo con ducha</li>\n<li>Suite principal con vestidor y baño privado</li>\n<li>Playroom ideal para espacio de recreación o lugar de trabajo</li>\n</ul>\n\n<p>No pierdas la oportunidad de vivir en hermoso Dúplex que lo tiene todo.</p>\n\n<h3>Formas de pago</h3>\n<p>Acepta propiedad de menor valor (departamento 2 o 3 ambientes en San Martín o CABA) como parte de pago.</p>\n\n<p>Consulta para más detalles y coordina tu visita.</p>"
+      "_last_changed": "2026-10-08T12:33:47.944Z",
+      "enhanced_description": "<h3>Descripción General</h3>\n<p>Ubicada en un entorno tranquilo y con detalles de calidad, esta propiedad de 5 ambientes es ideal para quienes buscan confort y espacio.</p>\n\n<h3>Planta Baja</h3>\n<ul>\n<li>Amplio living comedor integrado, perfecto para reuniones y disfrutar en familia</li>\n<li>Toilette de cortesía</li>\n<li>Fondo libre con verde para disfrutar al aire libre</li>\n<li>Quincho equipado para reuniones sociales</li>\n</ul>\n\n<h3>Planta Alta</h3>\n<ul>\n<li>3 habitaciones con balcón al frente, luminosas y amplias</li>\n<li>Baño completo con ducha</li>\n<li>Suite principal con vestidor y baño privado</li>\n<li>Playroom ideal para espacio de recreación o lugar de trabajo</li>\n</ul>\n\n<h3>Observaciones</h3>\n<p>Acepta propiedad de menor valor (departamento 2 o 3 ambientes en CABA) como parte de pago.</p>"
     },
     {
       "address": "salguero al 3100",
@@ -112247,28 +112247,28 @@
       "bathroom_amount": 1,
       "block_number": "",
       "branch": {
-        "address": "B1650 San Martín",
-        "alternative_phone": "",
-        "alternative_phone_area": "",
-        "alternative_phone_country_code": "",
+        "address": "Mitre 3400",
+        "alternative_phone": "77176007",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
         "alternative_phone_extension": "",
-        "branch_type": null,
-        "contact_time": "-",
-        "created_date": "2025-10-20T16:06:07",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13 y de 14 a 18.30",
+        "created_date": "2018-11-15T19:39:03",
         "deleted_at": null,
-        "display_name": "Inactiva",
-        "email": "inactivo@dinalpropiedades.com",
-        "geo_lat": "-34.5757521",
-        "geo_long": "-58.53709649999999",
-        "gm_location_type": "APPROXIMATE",
-        "id": 97881,
-        "is_default": false,
-        "logo": "https://static.tokkobroker.com/logos/3790/px%20(1).jpg",
-        "name": "Inactiva",
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.57456194412727",
+        "geo_long": "-58.535525085815436",
+        "gm_location_type": "BY_HAND",
+        "id": 7731,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/branch_logos/7731/px%20(1).jpg",
+        "name": "Dinal San Martin",
         "pdf_footer_text": "",
-        "phone": "-",
-        "phone_area": "",
-        "phone_country_code": "",
+        "phone": "77176007",
+        "phone_area": "11",
+        "phone_country_code": "+54",
         "phone_extension": "",
         "use_pdf_footer": false
       },
@@ -112280,7 +112280,7 @@
       "credit_eligible": "Apto crédito",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-31T19:34:31",
+      "deleted_at": "2026-10-07T15:41:20",
       "depth_measure": "0.00",
       "description": "PH 3 AMBIENTES | 108 m² TOTALES | APTO CRÉDITO    \nExcelente PH de 3 ambientes, con 108 m² totales, distribuidos en 60 m² cubiertos, 8 m² semicubiertos y 40 m² descubiertos.\nLa propiedad cuenta con entrada independiente por pasillo y se desarrolla en dos plantas.\nEn planta baja, dispone de un amplio patio descubierto con parrilla, ideal para disfrutar al aire libre.\nEn primer piso, encontramos un cómodo living comedor, cocina semi integrada con muebles bajo mesada y barra desayunadora, dos dormitorios amplios —uno al frente y otro al contrafrente— y baño completo con ducha.\nTodos los servicios son independientes, excepto AYSA.\nUna propiedad cómoda, funcional y con excelentes espacios exteriores.\nAPTO CRÉDITO.\n                \r\n\r\n            \n",
       "development": null,
@@ -112304,7 +112304,17 @@
       "id": 9485442,
       "internal_data": {
         "commission": "",
-        "cotization_users": [],
+        "cotization_users": [
+          {
+            "cellphone": "",
+            "email": "Hernan@dinalpropiedades.com",
+            "id": 12882,
+            "name": "Hernán",
+            "phone": "",
+            "picture": "https://static.tokkobroker.com/static/img/user.png",
+            "position": ""
+          }
+        ],
         "internal_comments": "Tiene toda la documentación (Planos, Subdivisión , escritura  )",
         "key_location": "Unknown",
         "legally_checked": 3,
@@ -112739,7 +112749,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-01T10:52:59.247Z",
+      "_last_changed": "2026-10-08T12:33:47.944Z",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Excelente PH de 3 ambientes con 108 m² totales, distribuidos en 60 m² cubiertos, 8 m² semicubiertos y 40 m² descubiertos. La propiedad cuenta con entrada independiente por pasillo y se desarrolla en dos plantas.</p>\n\n<h3>Planta Baja</h3>\n<p>Amplio patio descubierto con parrilla, ideal para disfrutar al aire libre.</p>\n\n<h3>Primer Piso</h3>\n<ul>\n<li>Cómodo living comedor</li>\n<li>Cocina semi integrada con muebles bajo mesada y barra desayunadora</li>\n<li>Dos dormitorios amplios, uno al frente y otro al contrafrente</li>\n<li>Baño completo con ducha</li>\n</ul>\n\n<h3>Servicios</h3>\n<p>Todos los servicios son independientes, excepto AYSA.</p>\n\n<h3>Características</h3>\n<p>Propiedad cómoda y funcional con excelentes espacios exteriores. Apto crédito.</p>"
     },
     {
@@ -115843,7 +115853,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-09-24T20:15:31",
+            "updated_at": "2026-10-06T19:41:10",
             "work_email": ""
           }
         ],
@@ -116154,7 +116164,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-09-24T20:15:31",
+      "_last_changed": "2026-10-08T12:33:47.944Z",
       "enhanced_description": "<h3>Ayacucho 2168 – 2 Ambientes en San Martín</h3>\n\n<p>57 m² totales | Posibilidad de financiación</p>\n\n<p>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n\n<p>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>Una propiedad para disfrutar</h3>\n\n<ul>\n<li>2 ambientes</li>\n<li>1 habitación</li>\n<li>57 m² totales</li>\n<li>49 m² cubiertos</li>\n<li>8 m² semicubiertos</li>\n</ul>\n\n<h3>Calidad constructiva y terminaciones</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades de ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>3 habitaciones con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente y cocina eléctrica</li>\n<li>Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios</li>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito con bacha de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n<li>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Ayacucho 2168 – San Martín</p>\n\n<p>Consúltanos por disponibilidad, valores y condiciones de financiación.</p>"
     },
     {

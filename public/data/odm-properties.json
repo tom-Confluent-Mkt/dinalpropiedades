@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-07T12:24:59.057Z"
+    "lastSync": "2026-10-08T12:34:22.647Z"
   },
   "objects": [
     {
@@ -3272,7 +3272,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-09-25T17:03:47",
+            "updated_at": "2026-10-07T15:10:40",
             "work_email": "obrasdemar@gmail.com"
           }
         ],
@@ -7569,7 +7569,7 @@
       "credit_eligible": "Apto crédito",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-20T21:31:46",
+      "deleted_at": "2026-10-07T15:20:01",
       "depth_measure": "0.00",
       "description": "                                                                Departamento de 1 ambiente al contrafrente, ubicado en pisos altos, con una distribución cómoda, funcional y muy bien aprovechada.\nEl ambiente principal integra estar, sector de descanso y cocina en un espacio moderno y luminoso, con salida a un gran balcón que amplía el departamento y permite disfrutar de vistas abiertas hacia la playa y el mar.\nSu ubicación al contrafrente aporta mayor tranquilidad y privacidad, sumando además una perspectiva especialmente atractiva desde estas unidades de los pisos superiores.\nLas terminaciones y el equipamiento acompañan la calidad general del edificio, con materiales seleccionados y detalles pensados para brindar confort en el uso cotidiano.\nUna propuesta ideal tanto para vivienda como para inversión, combinando funcionalidad, buena ubicación y el valor adicional de disfrutar vistas hacia el mar.\nConsultanos por disponibilidad de unidades en pisos bajos.\n        \n        \r\n\r\n            ",
       "development": {
@@ -19513,7 +19513,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-10-06T19:49:42",
+            "updated_at": "2026-10-07T15:10:40",
             "work_email": "obrasdemar@gmail.com"
           }
         ],
@@ -20305,7 +20305,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-10-06T19:49:42",
+            "updated_at": "2026-10-07T15:10:40",
             "work_email": "obrasdemar@gmail.com"
           }
         ],
@@ -21097,7 +21097,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-10-06T19:49:42",
+            "updated_at": "2026-10-07T15:10:40",
             "work_email": "obrasdemar@gmail.com"
           }
         ],
@@ -35762,7 +35762,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-10-06T19:49:42",
+            "updated_at": "2026-10-07T15:10:40",
             "work_email": "obrasdemar@gmail.com"
           }
         ],
@@ -36509,7 +36509,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-10-06T19:49:42",
+            "updated_at": "2026-10-07T15:10:40",
             "work_email": "obrasdemar@gmail.com"
           }
         ],
@@ -37192,7 +37192,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-10-06T19:49:42",
+            "updated_at": "2026-10-07T15:10:40",
             "work_email": "obrasdemar@gmail.com"
           }
         ],
@@ -37438,6 +37438,1113 @@
       "zip_code": null,
       "zonification": "",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Departamento de 1 ambiente al contrafrente en Punta de Arenas XVII, ubicado sobre Entre Ríos 2650, en plena zona Aldrey, una de las áreas más buscadas de Mar del Plata.</p>\n\n<h3>Características del Inmueble</h3>\n<ul>\n<li>37,8 m² totales</li>\n<li>Distribución funcional con buena circulación</li>\n<li>Ambiente principal que integra estar, sector de descanso y cocina</li>\n<li>Espacio moderno y versátil</li>\n<li>Balcón con salida desde el ambiente principal</li>\n<li>Espacio previsto para parrilla individual en balcón</li>\n<li>Baño completo</li>\n<li>Terminaciones acordes a la calidad general del edificio</li>\n<li>Disponible en unidades ubicadas entre el 4.º y 7.º piso</li>\n</ul>\n\n<h3>Oportunidad de Inversión</h3>\n<p>Por su superficie, ubicación y características, resulta una excelente alternativa tanto para vivienda, uso ocasional como para inversión y renta.</p>\n\n<h3>Ubicación</h3>\n<p>Su ubicación permite disfrutar de la cercanía al Paseo Aldrey, Plaza Colón, el mar, comercios, gastronomía, servicios y algunos de los principales puntos de la ciudad.</p>"
+    },
+    {
+      "address": "Sarmiento al 2600",
+      "address_complement": "",
+      "age": 0,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 0,
+      "block_number": "",
+      "branch": {
+        "address": "Guemes 2305",
+        "alternative_phone": "3424988",
+        "alternative_phone_area": "223",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "9 am a 18 pm",
+        "created_date": "2024-11-25T18:36:01",
+        "deleted_at": null,
+        "display_name": "obras de mar",
+        "email": "ventas@obrasdemar.com",
+        "geo_lat": "-38.0109258",
+        "geo_long": "-57.53803889999999",
+        "gm_location_type": "ROOFTOP",
+        "id": 79172,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+        "name": "Guemes 2305",
+        "pdf_footer_text": "",
+        "phone": "3424988",
+        "phone_area": "223",
+        "phone_country_code": "+54",
+        "phone_extension": null,
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2026-10-06T19:49:42",
+      "credit_eligible": "Apto crédito",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-10-07T13:20:58",
+      "depth_measure": "0.00",
+      "description": "                En Punta de Arenas VII, en Sarmiento 2640, contamos con cocheras disponibles en una ubicación estratégica, frente a Paseo Aldrey, próxima a Güemes, y distintos puntos de interés de la ciudad. \nTener tu propia cochera significa llegar y estacionar.\nSin vueltas.Sin perder tiempo.Sin depender de encontrar lugar en la calle.\nY además, sumar un espacio que aporta comodidad y valor en una zona con alta demanda de estacionamiento.\nPunta de Arenas VII - Sarmiento 2640 · Mar del Plata\nCocheras disponibles:\nCubiertas\nDescubiertas\n\nConsultanos por disponibilidad y condiciones de pago.\nFinanciacion directa - Sin Bancos - Sin Financieras\n\n\n                \n\n            \r\n\r\n            ",
+      "development": {
+        "address": "Sarmiento 2640",
+        "branch": {
+          "address": "Guemes 2305",
+          "alternative_phone": "3424988",
+          "alternative_phone_area": "223",
+          "alternative_phone_country_code": "+549",
+          "alternative_phone_extension": "",
+          "branch_type": "Internal",
+          "contact_time": "9 am a 18 pm",
+          "created_date": "2024-11-25T18:36:01",
+          "deleted_at": null,
+          "display_name": "obras de mar",
+          "email": "ventas@obrasdemar.com",
+          "geo_lat": "-38.0109258",
+          "geo_long": "-57.53803889999999",
+          "gm_location_type": "ROOFTOP",
+          "id": 79172,
+          "is_default": true,
+          "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+          "name": "Guemes 2305",
+          "pdf_footer_text": "",
+          "phone": "3424988",
+          "phone_area": "223",
+          "phone_country_code": "+54",
+          "phone_extension": null,
+          "use_pdf_footer": false
+        },
+        "construction_date": null,
+        "construction_status": 4,
+        "custom_tags": [],
+        "deleted_at": "2026-09-16T03:30:27",
+        "description": "Punta de Arenas VII es un desarrollo residencial ubicado en Sarmiento 2640, en una excelente zona de Mar del Plata, en frente al Paseo Aldrey y con rápido acceso a las playas, el centro comercial, el corredor gastronómico de Güemes y los principales servicios de la ciudad.\n\nEl edificio se encuentra en **etapa final de construcción, con próxima entrega**, ofreciendo una excelente oportunidad para quienes buscan una propiedad nueva con la posibilidad de ingresar en un proyecto próximo a finalizar.\n\nCuenta con 8 pisos y departamentos de 2 y 3 ambientes, con superficies que van desde 54 m² hasta 110 m², diseñados con espacios amplios, funcionales y luminosos, tanto para vivienda permanente como para inversión.\n\nEntre sus principales características se destacan:\n\n* Departamentos con excelente distribución y terminaciones de calidad.\n* Todas las unidades cuentan con balcón e instalación para parrilla individual.\n* Cocheras.\n* Dos ascensores de última generación.\n* SUM ubicado en el último piso, para reuniones y eventos.\n* Excelente ubicación, frente al Paseo Aldrey, proximo a las playas, el centro comercial de Güemes y la zona gastronómica.\n\n**Punta de Arenas VII se encuentra transitando su etapa final de obra y próxima entrega**, combinando ubicación, calidad constructiva y la posibilidad de adquirir una unidad nueva en uno de los sectores más consolidados de Mar del Plata.\n",
+        "display_on_web": true,
+        "excel_extra_headers": "[]",
+        "fake_address": "",
+        "files": [
+          {
+            "file": "https://static.tokkobroker.com/development_files/348653523869896328184735079337592679597875992790322942164419/Recorrido_Sarmiento.mp4"
+          },
+          {
+            "file": "https://static.tokkobroker.com/development_files/1004726294949070051323322633483960132388147594600238799530707/rendair-image-to-video-24-08-2026-f4b8c629.mp4"
+          }
+        ],
+        "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
+        "geo_lat": "-38.0121033",
+        "geo_long": "-57.5429456",
+        "id": 94559,
+        "is_starred_on_web": false,
+        "location": {
+          "divisions": [],
+          "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Terminal Vieja",
+          "id": 102438,
+          "name": "Terminal Vieja",
+          "parent_division": "/api/v1/location/26624/",
+          "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
+          "state": null,
+          "weight": 311,
+          "zip_code": null
+        },
+        "name": "Punta de Arenas VII - Sarmiento 2640",
+        "photos": [
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774.jpg",
+            "is_blueprint": false,
+            "is_front_cover": true,
+            "order": 0,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_13446686536759759177848183866771776093871555441412091201995395978141.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 1,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 2,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_75828971695341574152016247483182602533549590387045081183757945345748.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980_th.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 3,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 4,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 5,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_78533466402467990922227234808307937838079799379169405994756540825828.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 6,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_13926627420277613546580811610511016670455672843017207303019363657322.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348_t.jpg"
+          }
+        ],
+        "publication_title": "Punta de Arenas VII - Frente al paseo Aldrey",
+        "reference_code": "OBU94559",
+        "resource_uri": "/api/v1/development/94559/",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Agua Corriente",
+            "type": 1
+          },
+          {
+            "id": 2,
+            "name": "Cloaca",
+            "type": 1
+          },
+          {
+            "id": 3,
+            "name": "Gas Natural",
+            "type": 1
+          },
+          {
+            "id": 4,
+            "name": "Internet",
+            "type": 1
+          },
+          {
+            "id": 5,
+            "name": "Electricidad",
+            "type": 1
+          },
+          {
+            "id": 6,
+            "name": "Pavimento",
+            "type": 1
+          },
+          {
+            "id": 7,
+            "name": "Teléfono",
+            "type": 1
+          },
+          {
+            "id": 8,
+            "name": "Cable",
+            "type": 1
+          },
+          {
+            "id": 31,
+            "name": "Calefacción",
+            "type": 3
+          },
+          {
+            "id": 36,
+            "name": "Quincho",
+            "type": 3
+          },
+          {
+            "id": 41,
+            "name": "SUM",
+            "type": 3
+          },
+          {
+            "id": 203,
+            "name": "Preinstalación de aire acondicionado",
+            "type": 3
+          },
+          {
+            "id": 931,
+            "name": "Potencial alto para alquilar",
+            "type": 9
+          },
+          {
+            "id": 1044,
+            "name": "Construcción reciente",
+            "type": 9
+          },
+          {
+            "id": 1248,
+            "name": "En construcción",
+            "type": 3
+          },
+          {
+            "id": 1390,
+            "name": "Luminoso",
+            "type": 3
+          },
+          {
+            "id": 1443,
+            "name": "Agua Potable",
+            "type": 1
+          },
+          {
+            "id": 1512,
+            "name": "Calefacción individual",
+            "type": 3
+          },
+          {
+            "id": 1514,
+            "name": "Calefacción por radiadores",
+            "type": 3
+          },
+          {
+            "id": 1529,
+            "name": "Venta Directa",
+            "type": 9
+          },
+          {
+            "id": 1573,
+            "name": "Alumbrado público",
+            "type": 1
+          }
+        ],
+        "type": {
+          "code": "BU",
+          "id": 2,
+          "name": "Edificio"
+        },
+        "users_in_charge": {
+          "cellphone": "",
+          "email": "laura@obrasdemar.com",
+          "id": 122960,
+          "name": "Laura Suarez",
+          "phone": "",
+          "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+          "position": ""
+        },
+        "videos": [],
+        "web_url": "http://www.dinal.com.ar"
+      },
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": null,
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [],
+      "fake_address": "Sarmiento al 2600",
+      "files": [
+        {
+          "file": "https://static.tokkobroker.com/files/87039686457233186257456753140792555267435738940191382727683203269233694275876/rendair-image-to-video-24-08-2026-f4b8c629.mp4"
+        },
+        {
+          "file": "https://static.tokkobroker.com/files/104913712779989982319795803280329667908204580091962585569504707741399383546644/Video_Project.mp4"
+        }
+      ],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-38.0121033",
+      "geo_long": "-57.5429456",
+      "gm_location_type": "ROOFTOP",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 11468795,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 54 9 2233 42-4988",
+            "created_at": "2026-09-16T11:41:14",
+            "document_number": "",
+            "email": "obrasdemar@gmail.com",
+            "id": 70610357,
+            "name": "Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-10-06T19:49:42",
+            "work_email": "obrasdemar@gmail.com"
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [],
+        "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Terminal Vieja",
+        "id": 102438,
+        "name": "Terminal Vieja",
+        "parent_division": "/api/v1/location/26624/",
+        "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
+        "state": null,
+        "weight": 311,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Venta",
+          "prices": [
+            {
+              "currency": "USD",
+              "is_promotional": false,
+              "period": 0,
+              "price": 25000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11468795_54265912525599634916754077047177016169881113692963341273982809107931344512693.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/11468795_542659125255996349167540770471770161698811136929633412739828091079313.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11468795_54265912525599634916754077047177016169881113692963341273982809107931344512693_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11468795_54265912525599634916754077047177016169881113692963341273982809107931344512693_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11468795_59688811794622324858837987901248155363858690951052469571011699737628456816418.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/11468795_596888117946223248588379879012481553638586909510524695710116997376284.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11468795_59688811794622324858837987901248155363858690951052469571011699737628456816418_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11468795_59688811794622324858837987901248155363858690951052469571011699737628456816418_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11468795_54238828891217284274951855837185663731034535624060834150293161305963087019037.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/11468795_542388288912172842749518558371856637310345356240608341502931613059630.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11468795_54238828891217284274951855837185663731034535624060834150293161305963087019037_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11468795_54238828891217284274951855837185663731034535624060834150293161305963087019037_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11468795_58856713723149227556588248954072902395802915713421767538267744531962289792865.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/11468795_588567137231492275565882489540729023958029157134217675382677445319622.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11468795_58856713723149227556588248954072902395802915713421767538267744531962289792865_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11468795_58856713723149227556588248954072902395802915713421767538267744531962289792865_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11468795_30401700707623092804826704893860546790423103175733757019093819804746614442698.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/11468795_304017007076230928048267048938605467904231031757337570190938198047466.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11468795_30401700707623092804826704893860546790423103175733757019093819804746614442698_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11468795_30401700707623092804826704893860546790423103175733757019093819804746614442698_th.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": " 5491158510184",
+        "email": "obrasdemar@gmail.com",
+        "id": 122255,
+        "name": "Obras De Mar",
+        "phone": " 5491158510184",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "property_condition": "---",
+      "public_url": "https://ficha.info/p/eWhIJdFX1xX2wa",
+      "publication_title": "Cocheras frente al aldrey - Punta de Arenas VII - Sarmiento 2640",
+      "quality_level": null,
+      "real_address": "Sarmiento 2640",
+      "reference_code": "OBU94559 GA11468795",
+      "rich_description": "                En Punta de Arenas VII, en Sarmiento 2640, contamos con cocheras disponibles en una ubicación estratégica, frente a Paseo Aldrey,&nbsp;próxima a Güemes, y distintos puntos de interés de la ciudad.&nbsp;<div><br></div><div>Tener tu propia cochera significa llegar y estacionar.</div><div><br></div><div>Sin vueltas.</div><div>Sin perder tiempo.</div><div>Sin depender de encontrar lugar en la calle.</div><div><br></div><div>Y además, sumar un espacio que aporta comodidad y valor en una zona con alta demanda de estacionamiento.</div><div><br></div><div>Punta de Arenas VII -&nbsp;<span style=\"font-size: 14px;\">Sarmiento 2640 · Mar del Plata</span></div><div><br></div><div>Cocheras disponibles:</div><div><br></div><div>Cubiertas</div><div><br></div><div>Descubiertas</div><div><br></div><div><br></div><div>Consultanos por disponibilidad y condiciones de pago.</div><div><br></div><div>Financiacion directa - Sin Bancos - Sin Financieras</div><div><br></div><div><br></div><div><br></div>                <br><br>            \r\n\r\n            ",
+      "roofed_surface": "0.00",
+      "room_amount": 0,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 0,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "0.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "GA",
+        "id": 10,
+        "name": "Cochera"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [],
+      "web_price": false,
+      "zip_code": null,
+      "zonification": "",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Punta de Arenas VII, Sarmiento 2640, Mar del Plata. Ubicación estratégica frente a Paseo Aldrey, próxima a Güemes y distintos puntos de interés de la ciudad.</p>\n\n<h3>Características</h3>\n<p>Tener tu propia cochera significa llegar y estacionar sin vueltas, sin perder tiempo y sin depender de encontrar lugar en la calle. Suma un espacio que aporta comodidad y valor en una zona con alta demanda de estacionamiento.</p>\n\n<h3>Cocheras Disponibles</h3>\n<ul>\n<li>Cubiertas</li>\n<li>Descubiertas</li>\n</ul>\n\n<h3>Financiación</h3>\n<p>Financiación directa sin bancos ni financieras.</p>\n\n<p>Consultanos por disponibilidad y condiciones de pago.</p>"
+    },
+    {
+      "address": "Sarmiento  al 2600",
+      "address_complement": "",
+      "age": 0,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 0,
+      "block_number": "",
+      "branch": {
+        "address": "Guemes 2305",
+        "alternative_phone": "3424988",
+        "alternative_phone_area": "223",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "9 am a 18 pm",
+        "created_date": "2024-11-25T18:36:01",
+        "deleted_at": null,
+        "display_name": "obras de mar",
+        "email": "ventas@obrasdemar.com",
+        "geo_lat": "-38.0109258",
+        "geo_long": "-57.53803889999999",
+        "gm_location_type": "ROOFTOP",
+        "id": 79172,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+        "name": "Guemes 2305",
+        "pdf_footer_text": "",
+        "phone": "3424988",
+        "phone_area": "223",
+        "phone_country_code": "+54",
+        "phone_extension": null,
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2026-10-07T15:10:40",
+      "credit_eligible": "Apto crédito",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-10-07T15:57:48",
+      "depth_measure": "0.00",
+      "description": "                2 ambientes para vivir en Mar del Plata frente al Aldrey\nEn Punta de Arenas VII, sobre la calle Sarmiento 2640, contamos con unidades de 2 ambientes disponibles del 1° al 6° piso.\nUna ubicación que permite disfrutar la ciudad de otra manera: cerca de Güemes, del Paseo Aldrey, de propuestas gastronómicas, comercios y distintos puntos de interés, con todo al alcance de una caminata.\nUn departamento pensado para quienes buscan vivir, invertir o tener su lugar en Mar del Plata en una zona consolidada y con movimiento durante todo el año.\nPunta de Arenas VIISarmiento 2640 · Mar del Plata\n2 ambientesDisponibles del 1° al 6° piso\nConsultanos por unidades disponibles y condiciones comerciales.\nConsultanos por la financiacion directa - Sin Bancos - Sin Financieras                \n\n            \r\n\r\n            ",
+      "development": {
+        "address": "Sarmiento 2640",
+        "branch": {
+          "address": "Guemes 2305",
+          "alternative_phone": "3424988",
+          "alternative_phone_area": "223",
+          "alternative_phone_country_code": "+549",
+          "alternative_phone_extension": "",
+          "branch_type": "Internal",
+          "contact_time": "9 am a 18 pm",
+          "created_date": "2024-11-25T18:36:01",
+          "deleted_at": null,
+          "display_name": "obras de mar",
+          "email": "ventas@obrasdemar.com",
+          "geo_lat": "-38.0109258",
+          "geo_long": "-57.53803889999999",
+          "gm_location_type": "ROOFTOP",
+          "id": 79172,
+          "is_default": true,
+          "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+          "name": "Guemes 2305",
+          "pdf_footer_text": "",
+          "phone": "3424988",
+          "phone_area": "223",
+          "phone_country_code": "+54",
+          "phone_extension": null,
+          "use_pdf_footer": false
+        },
+        "construction_date": null,
+        "construction_status": 4,
+        "custom_tags": [],
+        "deleted_at": "2026-09-16T03:30:27",
+        "description": "Punta de Arenas VII es un desarrollo residencial ubicado en Sarmiento 2640, en una excelente zona de Mar del Plata, en frente al Paseo Aldrey y con rápido acceso a las playas, el centro comercial, el corredor gastronómico de Güemes y los principales servicios de la ciudad.\n\nEl edificio se encuentra en **etapa final de construcción, con próxima entrega**, ofreciendo una excelente oportunidad para quienes buscan una propiedad nueva con la posibilidad de ingresar en un proyecto próximo a finalizar.\n\nCuenta con 8 pisos y departamentos de 2 y 3 ambientes, con superficies que van desde 54 m² hasta 110 m², diseñados con espacios amplios, funcionales y luminosos, tanto para vivienda permanente como para inversión.\n\nEntre sus principales características se destacan:\n\n* Departamentos con excelente distribución y terminaciones de calidad.\n* Todas las unidades cuentan con balcón e instalación para parrilla individual.\n* Cocheras.\n* Dos ascensores de última generación.\n* SUM ubicado en el último piso, para reuniones y eventos.\n* Excelente ubicación, frente al Paseo Aldrey, proximo a las playas, el centro comercial de Güemes y la zona gastronómica.\n\n**Punta de Arenas VII se encuentra transitando su etapa final de obra y próxima entrega**, combinando ubicación, calidad constructiva y la posibilidad de adquirir una unidad nueva en uno de los sectores más consolidados de Mar del Plata.\n",
+        "display_on_web": true,
+        "excel_extra_headers": "[]",
+        "fake_address": "",
+        "files": [
+          {
+            "file": "https://static.tokkobroker.com/development_files/348653523869896328184735079337592679597875992790322942164419/Recorrido_Sarmiento.mp4"
+          },
+          {
+            "file": "https://static.tokkobroker.com/development_files/1004726294949070051323322633483960132388147594600238799530707/rendair-image-to-video-24-08-2026-f4b8c629.mp4"
+          }
+        ],
+        "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
+        "geo_lat": "-38.0121033",
+        "geo_long": "-57.5429456",
+        "id": 94559,
+        "is_starred_on_web": false,
+        "location": {
+          "divisions": [],
+          "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Terminal Vieja",
+          "id": 102438,
+          "name": "Terminal Vieja",
+          "parent_division": "/api/v1/location/26624/",
+          "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
+          "state": null,
+          "weight": 311,
+          "zip_code": null
+        },
+        "name": "Punta de Arenas VII - Sarmiento 2640",
+        "photos": [
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774.jpg",
+            "is_blueprint": false,
+            "is_front_cover": true,
+            "order": 0,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_13446686536759759177848183866771776093871555441412091201995395978141.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_13446686536759759177848183866771776093871555441412091201995395978141827738774_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 1,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_79171072692536970985358623826544898345683599861700782799408467551096122032401_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 2,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_75828971695341574152016247483182602533549590387045081183757945345748.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_7582897169534157415201624748318260253354959038704508118375794534574822736980_th.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 3,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_19327342682007568607208416009370865127627794697101071671319903873447025665898_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 4,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_80695091715905028512761811873225122275211342818088626406697910402086640535410_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 5,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_78533466402467990922227234808307937838079799379169405994756540825828.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_78533466402467990922227234808307937838079799379169405994756540825828560101275_t.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 6,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94559_13926627420277613546580811610511016670455672843017207303019363657322.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94559_13926627420277613546580811610511016670455672843017207303019363657322804802348_t.jpg"
+          }
+        ],
+        "publication_title": "Punta de Arenas VII - Frente al paseo Aldrey",
+        "reference_code": "OBU94559",
+        "resource_uri": "/api/v1/development/94559/",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Agua Corriente",
+            "type": 1
+          },
+          {
+            "id": 2,
+            "name": "Cloaca",
+            "type": 1
+          },
+          {
+            "id": 3,
+            "name": "Gas Natural",
+            "type": 1
+          },
+          {
+            "id": 4,
+            "name": "Internet",
+            "type": 1
+          },
+          {
+            "id": 5,
+            "name": "Electricidad",
+            "type": 1
+          },
+          {
+            "id": 6,
+            "name": "Pavimento",
+            "type": 1
+          },
+          {
+            "id": 7,
+            "name": "Teléfono",
+            "type": 1
+          },
+          {
+            "id": 8,
+            "name": "Cable",
+            "type": 1
+          },
+          {
+            "id": 31,
+            "name": "Calefacción",
+            "type": 3
+          },
+          {
+            "id": 36,
+            "name": "Quincho",
+            "type": 3
+          },
+          {
+            "id": 41,
+            "name": "SUM",
+            "type": 3
+          },
+          {
+            "id": 203,
+            "name": "Preinstalación de aire acondicionado",
+            "type": 3
+          },
+          {
+            "id": 931,
+            "name": "Potencial alto para alquilar",
+            "type": 9
+          },
+          {
+            "id": 1044,
+            "name": "Construcción reciente",
+            "type": 9
+          },
+          {
+            "id": 1248,
+            "name": "En construcción",
+            "type": 3
+          },
+          {
+            "id": 1390,
+            "name": "Luminoso",
+            "type": 3
+          },
+          {
+            "id": 1443,
+            "name": "Agua Potable",
+            "type": 1
+          },
+          {
+            "id": 1512,
+            "name": "Calefacción individual",
+            "type": 3
+          },
+          {
+            "id": 1514,
+            "name": "Calefacción por radiadores",
+            "type": 3
+          },
+          {
+            "id": 1529,
+            "name": "Venta Directa",
+            "type": 9
+          },
+          {
+            "id": 1573,
+            "name": "Alumbrado público",
+            "type": 1
+          }
+        ],
+        "type": {
+          "code": "BU",
+          "id": 2,
+          "name": "Edificio"
+        },
+        "users_in_charge": {
+          "cellphone": "",
+          "email": "laura@obrasdemar.com",
+          "id": 122960,
+          "name": "Laura Suarez",
+          "phone": "",
+          "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+          "position": ""
+        },
+        "videos": [],
+        "web_url": "http://www.dinal.com.ar"
+      },
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": null,
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [
+        {
+          "is_expenditure": false,
+          "is_measure": true,
+          "name": "Ambientes",
+          "value": ""
+        },
+        {
+          "is_expenditure": true,
+          "is_measure": false,
+          "name": "Piso",
+          "value": ""
+        },
+        {
+          "is_expenditure": true,
+          "is_measure": false,
+          "name": "Unidad",
+          "value": ""
+        }
+      ],
+      "fake_address": "Sarmiento  al 2600",
+      "files": [
+        {
+          "file": "https://static.tokkobroker.com/files/101865370019818437185099430304306952489965520058296382832849355930351733291483/Video_Project.mp4"
+        },
+        {
+          "file": "https://static.tokkobroker.com/files/105247817567003284752966317511216945856802160818397672992176461810313741430116/Recorrido_Sarmiento.mp4"
+        }
+      ],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-38.0121033",
+      "geo_long": "-57.5429456",
+      "gm_location_type": "ROOFTOP",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 11681976,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 54 9 2233 42-4988",
+            "created_at": "2026-09-16T11:41:14",
+            "document_number": "",
+            "email": "obrasdemar@gmail.com",
+            "id": 70610357,
+            "name": "Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-10-07T15:10:40",
+            "work_email": "obrasdemar@gmail.com"
+          }
+        ],
+        "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes."
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [],
+        "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Terminal Vieja",
+        "id": 102438,
+        "name": "Terminal Vieja",
+        "parent_division": "/api/v1/location/26624/",
+        "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
+        "state": null,
+        "weight": 311,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Venta",
+          "prices": [
+            {
+              "currency": "USD",
+              "is_promotional": false,
+              "period": 0,
+              "price": 150000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11681976_72887932299593001882606653665224591953517760804416271266902622930402372471616.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/11681976_728879322995930018826066536652245919535177608044162712669026229304023.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11681976_72887932299593001882606653665224591953517760804416271266902622930402372471616_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11681976_72887932299593001882606653665224591953517760804416271266902622930402372471616_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11681976_47855922620887236152638051876977277475052850239547963289797002237857991847827.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/11681976_478559226208872361526380518769772774750528502395479632897970022378579.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11681976_47855922620887236152638051876977277475052850239547963289797002237857991847827_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11681976_47855922620887236152638051876977277475052850239547963289797002237857991847827_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11681976_99716585658565761195777511568241154335812773832977146320419988906053723366732.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/11681976_997165856585657611957775115682411543358127738329771463204199889060537.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11681976_99716585658565761195777511568241154335812773832977146320419988906053723366732_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11681976_99716585658565761195777511568241154335812773832977146320419988906053723366732_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11681976_57040603774812678527946599034622516025731859250736035215211771269806743898732.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/11681976_570406037748126785279465990346225160257318592507360352152117712698067.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11681976_57040603774812678527946599034622516025731859250736035215211771269806743898732_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11681976_57040603774812678527946599034622516025731859250736035215211771269806743898732_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11681976_71243981559267795673232724252489627023136939236186936259373233711583841975501.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/11681976_712439815592677956732327242524896270231369392361869362593732337115838.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11681976_71243981559267795673232724252489627023136939236186936259373233711583841975501_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11681976_71243981559267795673232724252489627023136939236186936259373233711583841975501_th.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": " 5491158510184",
+        "email": "obrasdemar@gmail.com",
+        "id": 122255,
+        "name": "Obras De Mar",
+        "phone": " 5491158510184",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "property_condition": "---",
+      "public_url": "https://ficha.info/p/eXba8dFX1ypLIa",
+      "publication_title": "2 ambientes | Sarmiento 2640 | Piso 1 a 6 | Unidades A a D | Punta de Arenas XVII",
+      "quality_level": null,
+      "real_address": "Sarmiento 2640",
+      "reference_code": "OBU94559 AP11681976",
+      "rich_description": "                2 ambientes para vivir en Mar del Plata frente al Aldrey<div><br></div><div>En Punta de Arenas VII, sobre la calle Sarmiento 2640, contamos con unidades de 2 ambientes disponibles del 1° al 6° piso.</div><div><br></div><div>Una ubicación que permite disfrutar la ciudad de otra manera: cerca de Güemes, del Paseo Aldrey, de propuestas gastronómicas, comercios y distintos puntos de interés, con todo al alcance de una caminata.</div><div><br></div><div>Un departamento pensado para quienes buscan vivir, invertir o tener su lugar en Mar del Plata en una zona consolidada y con movimiento durante todo el año.</div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">Punta de Arenas VII</span></div><div>Sarmiento 2640 · Mar del Plata</div><div><br></div><div>2 ambientes</div><div>Disponibles del 1° al 6° piso</div><div><br></div><div>Consultanos por unidades disponibles y condiciones comerciales.</div><div><br></div><div>Consultanos por la financiacion directa - Sin Bancos - Sin Financieras</div>                <br><br>            \r\n\r\n            ",
+      "roofed_surface": "7.00",
+      "room_amount": 2,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 0,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 4,
+          "name": "Internet",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 7,
+          "name": "Teléfono",
+          "type": 1
+        },
+        {
+          "id": 8,
+          "name": "Cable",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcón",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Cocina",
+          "type": 2
+        },
+        {
+          "id": 14,
+          "name": "Comedor diario",
+          "type": 2
+        },
+        {
+          "id": 36,
+          "name": "Quincho",
+          "type": 3
+        },
+        {
+          "id": 41,
+          "name": "SUM",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 1512,
+          "name": "Calefacción individual",
+          "type": 3
+        },
+        {
+          "id": 1839,
+          "name": "Financiado",
+          "type": 9
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "54.00",
+      "transaction_requirements": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nCondiciones especiales para operaciones de contado, adelanto de cuotas y planes cortos.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.\n\nSujeto a disponibilidad y condiciones comerciales vigentes.",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "47.00",
+      "videos": [],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "enhanced_description": "<h3>2 ambientes para vivir en Mar del Plata frente al Aldrey</h3>\n\n<p>En Punta de Arenas VII, sobre la calle Sarmiento 2640, contamos con unidades de 2 ambientes disponibles del 1° al 6° piso.</p>\n\n<h3>Ubicación</h3>\n\n<p>Una ubicación que permite disfrutar la ciudad de otra manera: cerca de Güemes, del Paseo Aldrey, de propuestas gastronómicas, comercios y distintos puntos de interés, con todo al alcance de una caminata.</p>\n\n<h3>El Proyecto</h3>\n\n<p>Un departamento pensado para quienes buscan vivir, invertir o tener su lugar en Mar del Plata en una zona consolidada y con movimiento durante todo el año.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>2 ambientes</li>\n<li>Disponibles del 1° al 6° piso</li>\n<li>Ubicación: Sarmiento 2640, Mar del Plata</li>\n</ul>\n\n<h3>Consultas</h3>\n\n<p>Consultanos por unidades disponibles y condiciones comerciales.</p>\n\n<p>Consultanos por la financiación directa - Sin Bancos - Sin Financieras</p>"
     }
   ]
 }
