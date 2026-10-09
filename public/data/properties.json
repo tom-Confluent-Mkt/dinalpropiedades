@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-08T12:33:47.944Z"
+    "lastSync": "2026-10-09T12:21:43.791Z"
   },
   "objects": [
     {
@@ -25753,441 +25753,6 @@
       "zonification": "",
       "_last_changed": "2026-09-01T10:52:59.247Z",
       "enhanced_description": "<h3>Casa 3 Ambientes con Patio, Terraza y Quincho – Villa Ballester</h3>\n\n<h3>Ubicación</h3>\n<p>Ubicada a pocas cuadras de Av. Ricardo Balbín (ex Ruta 8), con fácil acceso al centro comercial de Villa Ballester y a la estación del tren línea Mitre.</p>\n\n<h3>Distribución de la propiedad</h3>\n<ul>\n<li>Ingreso por pasillo con acceso al primer patio</li>\n<li>Living de entrada</li>\n<li>Dormitorio principal</li>\n<li>Segundo dormitorio</li>\n<li>Baño completo</li>\n<li>Cocina comedor amplia con ventana al patio</li>\n<li>Lavadero cubierto con toilette y salida al segundo patio</li>\n<li>Patio amplio, con escalera de acceso a la terraza</li>\n<li>En el fondo: galpón/quincho ideal para reuniones o espacio de guardado</li>\n</ul>\n\n<h3>Características</h3>\n<p>Una propiedad cómoda, con múltiples espacios al aire libre y excelente potencial de uso familiar.</p>"
-    },
-    {
-      "address": "Pueyrredon al 3400  4 \"B\"",
-      "address_complement": "",
-      "age": 4,
-      "apartment_door": "B",
-      "appartments_per_floor": 0,
-      "bathroom_amount": 1,
-      "block_number": "",
-      "branch": {
-        "address": "Alte Brown 3295",
-        "alternative_phone": "77170405",
-        "alternative_phone_area": "11",
-        "alternative_phone_country_code": "+549",
-        "alternative_phone_extension": "",
-        "branch_type": "Internal",
-        "contact_time": "De Lun a Vie de 10 a 13  y de 14 a 18.30",
-        "created_date": "2018-11-23T15:14:30",
-        "deleted_at": null,
-        "display_name": "Dinal",
-        "email": "info@dinalpropiedades.com",
-        "geo_lat": "-34.554152901810376",
-        "geo_long": "-58.56033015478516",
-        "gm_location_type": "BY_HAND",
-        "id": 7883,
-        "is_default": false,
-        "logo": "https://static.tokkobroker.com/branch_logos/7883/px%20(1).jpg",
-        "name": "Villa Ballester",
-        "pdf_footer_text": "",
-        "phone": "77170405",
-        "phone_area": "011",
-        "phone_country_code": "",
-        "phone_extension": "",
-        "use_pdf_footer": false
-      },
-      "building": "",
-      "cleaning_tax": "0.00",
-      "common_area": "0.00",
-      "covered_parking_lot": 0,
-      "created_at": "2022-09-26T16:10:16",
-      "credit_eligible": "No especificado",
-      "custom1": "0.00",
-      "custom_tags": [],
-      "deleted_at": "2026-09-24T18:14:16",
-      "depth_measure": "0.00",
-      "description": "                                                                    ¡Departamento de Monoambiente en alquiler!\n\n\n\n\n\nDistribución y detalles:\n\nAmplio liviving comedor muy luminoso.\n\nCocina integrada con muebles sobre y bajo mesada, y barra que otorga un concepto abierto.\n\nSalida al balcón.\nBaño completo con bañera\n\nEste cómodo departamento es la opción para tu próximo alquiler.\n\nCoordina una visita.\n\n\nREQUISITOS :\n\n- Contrato por dos años con ajuste trimestral por ICL .-\n- Demostración de ingresos \n\n- Fianza\n- NO se aceptan mascotas \n\n\n\n        \n        \n            \r\n\r\n            ",
-      "development": null,
-      "development_excel_extra_data": "[]",
-      "dining_room": 0,
-      "disposition": "Contrafrente",
-      "down_payment": "0.00",
-      "expenses": 0,
-      "extra_attributes": [],
-      "fake_address": "Pueyrredon al 3400  4 \"B\"",
-      "files": [],
-      "fire_insurance_cost": "0.00",
-      "floor": "4",
-      "floors_amount": 0,
-      "front_measure": "0.00",
-      "geo_lat": "-34.5729380643",
-      "geo_long": "-58.5380811264",
-      "gm_location_type": "BY_HAND",
-      "guests_amount": 0,
-      "has_temporary_rent": false,
-      "id": 4617418,
-      "internal_data": {
-        "commission": "",
-        "cotization_users": [
-          {
-            "cellphone": "5491124012673",
-            "email": "belenvitale89@gmail.com",
-            "id": 114098,
-            "name": "Belen Vitale",
-            "phone": "",
-            "picture": "https://static.tokkobroker.com/static/img/user.png",
-            "position": ""
-          }
-        ],
-        "internal_comments": "",
-        "key_location": "Unknown",
-        "legally_checked": 3,
-        "legally_checked_text": "",
-        "maintenance_user": "",
-        "network_information": "",
-        "producer_comision": "0.00",
-        "property_owners": [
-          {
-            "birthdate": null,
-            "cellphone": " 541140815354",
-            "created_at": "2026-03-11T15:50:45",
-            "document_number": "",
-            "email": "",
-            "id": 61306773,
-            "name": "Hilda Konz",
-            "other_email": "",
-            "other_phone": "",
-            "phone": "",
-            "updated_at": "2026-04-13T17:58:46",
-            "work_email": ""
-          }
-        ],
-        "transaction_requirements": ""
-      },
-      "iptu": 0,
-      "iptu_type": "No informado",
-      "is_denounced": false,
-      "is_starred_on_web": false,
-      "legally_checked": "Desconocido",
-      "livable_area": "0.00",
-      "living_amount": 0,
-      "location": {
-        "divisions": [
-          {
-            "id": 25015,
-            "name": "B.San Martin",
-            "resource_uri": "/api/v1/location/25015/"
-          },
-          {
-            "id": 25016,
-            "name": "Billinghurst",
-            "resource_uri": "/api/v1/location/25016/"
-          },
-          {
-            "id": 25017,
-            "name": "L.Hermosa",
-            "resource_uri": "/api/v1/location/25017/"
-          },
-          {
-            "id": 25018,
-            "name": "Lourdes",
-            "resource_uri": "/api/v1/location/25018/"
-          },
-          {
-            "id": 25019,
-            "name": "Migueletes",
-            "resource_uri": "/api/v1/location/25019/"
-          },
-          {
-            "id": 25020,
-            "name": "P.Suhr Horeis",
-            "resource_uri": "/api/v1/location/25020/"
-          },
-          {
-            "id": 25021,
-            "name": "S.Andres",
-            "resource_uri": "/api/v1/location/25021/"
-          },
-          {
-            "id": 25022,
-            "name": "S.Martin(Ctro)",
-            "resource_uri": "/api/v1/location/25022/"
-          },
-          {
-            "id": 25023,
-            "name": "Tropezon",
-            "resource_uri": "/api/v1/location/25023/"
-          },
-          {
-            "id": 25024,
-            "name": "V.Bonich",
-            "resource_uri": "/api/v1/location/25024/"
-          },
-          {
-            "id": 25025,
-            "name": "Villa Libertad",
-            "resource_uri": "/api/v1/location/25025/"
-          },
-          {
-            "id": 25026,
-            "name": "V.Lynch",
-            "resource_uri": "/api/v1/location/25026/"
-          },
-          {
-            "id": 25027,
-            "name": "V.Maipu",
-            "resource_uri": "/api/v1/location/25027/"
-          },
-          {
-            "id": 25028,
-            "name": "V.Piaggio",
-            "resource_uri": "/api/v1/location/25028/"
-          },
-          {
-            "id": 25029,
-            "name": "V.Progreso",
-            "resource_uri": "/api/v1/location/25029/"
-          }
-        ],
-        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | San Martin",
-        "id": 25014,
-        "name": "San Martin",
-        "parent_division": "/api/v1/location/25013/",
-        "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
-        "state": null,
-        "weight": 1624,
-        "zip_code": null
-      },
-      "location_level": null,
-      "lot_number": "",
-      "occupation": [],
-      "operations": [
-        {
-          "operation_id": 2,
-          "operation_type": "Alquiler",
-          "prices": [
-            {
-              "currency": "ARS",
-              "is_promotional": false,
-              "period": 0,
-              "price": 550000
-            }
-          ]
-        }
-      ],
-      "orientation": null,
-      "parking_lot_amount": 0,
-      "parking_lot_condition": null,
-      "parking_lot_type": null,
-      "photos": [
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/41684905634853120089793828174714467463923380868771642564587616283188902564080.jpg",
-          "is_blueprint": false,
-          "is_front_cover": true,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/41684905634853120089793828174714467463923380868771642564587616283188902564080.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697086_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/41684905634853120089793828174714467463923380868771642564587616283188902564080_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/43703224141381607529245069847705502879774407012721403345051831476137666655925.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 0,
-          "original": "https://static.tokkobroker.com/original_pictures/43703224141381607529245069847705502879774407012721403345051831476137666655925.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54740503_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/43703224141381607529245069847705502879774407012721403345051831476137666655925_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6461494923269806155495357166506400487819729520601116522525120225588040645904.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/6461494923269806155495357166506400487819729520601116522525120225588040645904.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697090_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6461494923269806155495357166506400487819729520601116522525120225588040645904_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/46457199354723907199191711234258135517563610846495126808616052510339321482280.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/46457199354723907199191711234258135517563610846495126808616052510339321482280.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697087_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/46457199354723907199191711234258135517563610846495126808616052510339321482280_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/52862154825729252188134412561460070453112260267343403544439173850180616721490.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/52862154825729252188134412561460070453112260267343403544439173850180616721490.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697095_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/52862154825729252188134412561460070453112260267343403544439173850180616721490_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/103284593866753963924211544497753529591127874521311275099024664423472494082816.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/103284593866753963924211544497753529591127874521311275099024664423472494082816.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697088_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/103284593866753963924211544497753529591127874521311275099024664423472494082816_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/36948097134053755575707244776764887084676624141068928470833926077796942994983.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/36948097134053755575707244776764887084676624141068928470833926077796942994983.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697089_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/36948097134053755575707244776764887084676624141068928470833926077796942994983_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/83858015721114764155564705981374449882301238125259544849502940482610280077962.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/83858015721114764155564705981374449882301238125259544849502940482610280077962.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697091_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/83858015721114764155564705981374449882301238125259544849502940482610280077962_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/34460611021787659598962603519068794149536233364543231510089098970656803081935.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/34460611021787659598962603519068794149536233364543231510089098970656803081935.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697092_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/34460611021787659598962603519068794149536233364543231510089098970656803081935_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/76709622081960118842343897149986952264793646910117639122759384821777618609904.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/76709622081960118842343897149986952264793646910117639122759384821777618609904.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697094_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/76709622081960118842343897149986952264793646910117639122759384821777618609904_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/98316824892534779987887240577750164561353544877447529530316696407130269231708.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 10,
-          "original": "https://static.tokkobroker.com/original_pictures/98316824892534779987887240577750164561353544877447529530316696407130269231708.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/54697093_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/98316824892534779987887240577750164561353544877447529530316696407130269231708_thumb.jpg"
-        }
-      ],
-      "portal_footer": "",
-      "private_area": "0.00",
-      "producer": {
-        "cellphone": "",
-        "email": "estefania@lenerconstructora.com",
-        "id": 12863,
-        "name": "Estefanía Ruiz",
-        "phone": "5491164361021",
-        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
-        "position": ""
-      },
-      "property_condition": "Excelente",
-      "public_url": "https://ficha.info/p/etxmEddvDjO5Fa",
-      "publication_title": "Departamento Monoambiente en alquiler  - San Martin",
-      "quality_level": null,
-      "real_address": "ALQUILER - Pueyrredon 3445  4 \"B\" -",
-      "reference_code": "DAP4617418",
-      "rich_description": "                                                                    <p><span style=\"font-weight: bold;\">¡Departamento de Monoambiente en alquiler!</span><br></p><p><br></p><p><br></p><p><span style=\"font-weight: bold;\">Distribución y detalles:</span><br></p><p>Amplio liviving comedor muy luminoso.<br></p><p>Cocina integrada con muebles sobre y bajo mesada, y barra que otorga un concepto abierto.<br></p><p><span style=\"font-size: 14px;\">Salida al balcón.</span></p><p>Baño completo con bañera<br></p><p>Este cómodo departamento es la opción para tu próximo alquiler.<br></p><p>Coordina una visita.</p><p><br></p><p><span style=\"font-weight: bold; text-decoration-line: underline;\">REQUISITOS :</span></p><p><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span><span style=\"font-size: 14px;\">- </span><span style=\"font-size: 14px;\">Contrato por dos años con ajuste trimestral por ICL .-</span></p><p><span style=\"font-size: 14px;\">- Demostración de ingresos</span><span style=\"font-size: 14px;\"> <br></span></p><p><span style=\"font-size: 14px;\">- Fianza</span></p><p><span style=\"font-size: 14px;\">- NO se aceptan mascotas&nbsp;</span></p><div><br></div><br><div><br></div><div>        <br>        </div><br>            \r\n\r\n            ",
-      "roofed_surface": "41.95",
-      "room_amount": 1,
-      "semiroofed_surface": "4.35",
-      "seo_description": "",
-      "seo_keywords": "",
-      "situation": "Vacía ",
-      "status": 2,
-      "suite_amount": 0,
-      "suites_with_closets": 0,
-      "surface": "0.00",
-      "surface_measurement": "M2",
-      "tags": [
-        {
-          "id": 1,
-          "name": "Agua Corriente",
-          "type": 1
-        },
-        {
-          "id": 2,
-          "name": "Cloaca",
-          "type": 1
-        },
-        {
-          "id": 5,
-          "name": "Electricidad",
-          "type": 1
-        },
-        {
-          "id": 6,
-          "name": "Pavimento",
-          "type": 1
-        },
-        {
-          "id": 10,
-          "name": "Balcón",
-          "type": 2
-        },
-        {
-          "id": 12,
-          "name": "Cocina",
-          "type": 2
-        },
-        {
-          "id": 22,
-          "name": "Living comedor",
-          "type": 2
-        },
-        {
-          "id": 25,
-          "name": "Terraza",
-          "type": 2
-        },
-        {
-          "id": 35,
-          "name": "Parrilla",
-          "type": 3
-        },
-        {
-          "id": 203,
-          "name": "Preinstalación de aire acondicionado",
-          "type": 3
-        },
-        {
-          "id": 1390,
-          "name": "Luminoso",
-          "type": 3
-        }
-      ],
-      "toilet_amount": 0,
-      "total_area": "0.00",
-      "total_suites": 0,
-      "total_surface": "46.00",
-      "transaction_requirements": "",
-      "tv_rooms": 0,
-      "type": {
-        "code": "AP",
-        "id": 2,
-        "name": "Departamento"
-      },
-      "uncovered_parking_lot": 0,
-      "unroofed_surface": "0.00",
-      "videos": [],
-      "web_price": true,
-      "zip_code": null,
-      "zonification": "",
-      "_last_changed": "2022-09-26T16:10:16",
-      "enhanced_description": "<h3>Distribución y detalles</h3>\n<ul>\n<li>Amplio living comedor muy luminoso</li>\n<li>Cocina integrada con muebles sobre y bajo mesada y barra con concepto abierto</li>\n<li>Salida al balcón</li>\n<li>Baño completo con bañera</li>\n</ul>\n\n<p>Este cómodo departamento de monoambiente es la opción para tu próximo alquiler.</p>\n\n<h3>Requisitos</h3>\n<ul>\n<li>Contrato por dos años con ajuste trimestral por ICL</li>\n<li>Demostración de ingresos</li>\n<li>Fianza</li>\n<li>No se aceptan mascotas</li>\n</ul>"
     },
     {
       "address": "ALQUILER - Pueyrredon 3445 Piso 5 \"C\"",
@@ -76171,7 +75736,7 @@
       "enhanced_description": "<h3>Nuevo Emprendimiento en San Martín – Mitre 4052</h3>\n<p>Ubicado en pleno corazón de San Martín, este edificio en construcción se desarrolla en 8 pisos de departamentos modernos, pensados para que disfrutes confort, diseño y la mejor financiación del mercado.</p>\n\n<h3>Tu oportunidad de ser dueño</h3>\n<ul>\n<li>Anticipo + cuotas en pesos ajustadas por CAC</li>\n<li>Elegí el departamento que más te guste y hacelo tuyo</li>\n<li>Planes de pago personalizados</li>\n</ul>\n\n<h3>Detalles de los departamentos</h3>\n<ul>\n<li>Amplias cocinas con muebles completos</li>\n<li>Living comedor luminoso</li>\n<li>Baños totalmente equipados con mampara de vidrio y griferías de primera marca</li>\n<li>Balcones con piso de porcelanato</li>\n<li>Dormitorios con frente de placard y pisos símil madera</li>\n</ul>\n\n<h3>Calidad constructiva</h3>\n<ul>\n<li>Estructura en hormigón armado</li>\n<li>Muros dobles de ladrillo hueco para mayor aislación</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Cielorrasos y paredes interiores en yeso</li>\n<li>Cocinas con mesada de granito, pileta de acero inoxidable y herrajes de cierre suave</li>\n<li>Instalación preparada para aire acondicionado, cable TV y portero eléctrico con visor</li>\n</ul>\n\n<h3>Especificaciones técnicas del proyecto</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco con estructura hormigón armado</li>\n<li>Terminaciones exteriores revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio DVH en ambientes principales</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termotanque eléctrico para distribución de agua caliente</li>\n<li>Cocina eléctrica</li>\n<li>Baño con mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo en melanina de primera marca, con guardacantos de PVC y herrajes cierre suave</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando primera marca</li>\n<li>Instalación para la colocación de Aire Acondicionado en estar y dormitorio</li>\n<li>Cañerías para instalación de cable TV</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<h3>Unidades disponibles</h3>\n<p>Con la financiación de siempre, pero mejorada para vos. Hacete dueño y enamórate de tu primer hogar en San Martín.</p>"
     },
     {
-      "address": "Tucuman  al 2100",
+      "address": "Tucuman  2138 3°C - San Martin",
       "address_complement": "",
       "age": -1,
       "apartment_door": "",
@@ -76212,7 +75777,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-05T14:31:24",
+      "deleted_at": "2026-10-08T15:37:07",
       "depth_measure": "0.00",
       "description": "Nuevo proyecto en San Martín, TUCUMAN 2138 .-\n\r\n            \r\n        \r\nContará con 9 pisos , con 4 departamentos cada uno , al frente y contrafrente de 2 ambientes con balcón muy luminosos.\r\nSon departamentos de 2 ambientes de 52 m2 y 55 m2 .-\n\r\nOfrecemos una financiación personalizada\r\n\nSan Martín se consolida como una zona en pleno crecimiento, ideal para quienes buscan combinar comodidad, conectividad y calidad de vida.Su ubicación estratégica, con acceso rápido a la Ciudad de Buenos Aires y una amplia red de transporte público, lo convierte en un lugar ideal para vivir, trabajar o emprender.Además, cuenta con una destacada oferta educativa y servicios de salud, tanto públicos como privados, que aportan tranquilidad y bienestar a las familias.Un entorno urbano moderno que sigue creciendo para quienes buscan un hogar con todo al alcance.\n\n\r\nNuestras unidades están diseñadas pensando en tu confort y estilo de vida. Cada espacio cuenta con:\n\r\n* Balcones , ideales para disfrutar momentos al aire libre.\r\n* Baño y cocina equipados con muebles modernos y funcionales.\r\n* Amplios espacios integrados en el living-comedor para maximizar comodidad y luminosidad.\r\n* Dormitorios con placares de diseño, con frentes de piso a techo que optimizan el espacio y el almacenamiento.\n\r\nUn diseño moderno, funcional y pensado para vos\nDetalles que marcan la diferencia:\n- Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGÓN ARMADO.- Terminaciones exteriores revoque pintado con recubrimiento acrílico de primera calidad.- Aberturas de aluminio DVH (Doble Vidrio Hermético) en ambientes principales.- Pisos porcelanato rectificado de primera calidad.- Dormitorio con piso porcelanato símil madera y frente placard 2 puertas.- Cielorrasos en yeso armado o aplicado según corresponda.- Paredes interiores con terminación en yeso.- Puertas interiores placa MDF.- Instalación de agua fría y caliente en termofusión.- Termotanque eléctrico para distribución de agua caliente, cocina eléctrica. - En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo.- Equipamiento de cocina completo en melanina de primera marca, con guardacantos de PVC y herrajes cierre suave.- Mesada cocina en granito, pileta acero inoxidable y grifería monocomando primera marca.- Instalación para la colocación de Aire Acondicionado en estar y dormitorio.- Cañerías (vacías) para instalación de cable TV- Portero eléctrico con cámara visor.\n\n\n¡UNIDADES DISPONIBLES!\nCon la financiación de siempre, pero mejorada para vos.\nHacete dueño y enamórate de tu primer hogar en San Martín.-\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n",
       "development": {
@@ -76615,7 +76180,7 @@
       "down_payment": "0.00",
       "expenses": 0,
       "extra_attributes": [],
-      "fake_address": "Tucuman  al 2100",
+      "fake_address": "Tucuman  2138 3°C - San Martin",
       "files": [],
       "fire_insurance_cost": "0.00",
       "floor": "",
@@ -76987,7 +76552,7 @@
       "public_url": "https://ficha.info/p/eEKCedDQspdx3a",
       "publication_title": "Departamento en General San Martin",
       "quality_level": null,
-      "real_address": "Tucuman  2138 3°C ",
+      "real_address": "Tucuman  2138 3°C - San Martin",
       "reference_code": "DAP7289964",
       "rich_description": "<p><span style=\"font-weight: bold;\">Nuevo proyecto en San Martín, TUCUMAN 2138 .-</span></p><p><span style=\"font-weight: bold;\">\r\n</span>            \r\n        <div>\r\n</div><div>Contará con 9 pisos , con 4 departamentos cada uno , al frente y contrafrente de 2 ambientes con balcón muy luminosos.\r\n</div><div>Son departamentos de 2 ambientes de 52 m2 y 55 m2 .-</div><div><br></div><div>\r\n</div><div><span style=\"font-weight: bold;\">Ofrecemos una financiación personalizada\r\n</span></div><div><br></div><div>San Martín se consolida como una zona en pleno crecimiento, ideal para quienes buscan combinar comodidad, conectividad y calidad de vida.<span style=\"font-size: 14px;\">Su ubicación estratégica, con acceso rápido a la Ciudad de Buenos Aires y una amplia red de transporte público, lo convierte en un lugar ideal para vivir, trabajar o emprender.</span><span style=\"font-size: 14px;\">Además, cuenta con una destacada oferta educativa y servicios de salud, tanto públicos como privados, que aportan tranquilidad y bienestar a las familias.</span></div><div>Un entorno urbano moderno que sigue creciendo para quienes buscan un hogar con todo al alcance.</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">\r\n</span></div><div>Nuestras unidades están diseñadas pensando en tu confort y estilo de vida. Cada espacio cuenta con:</div><div><br></div><div>\r\n</div><div>* Balcones , ideales para disfrutar momentos al aire libre.\r\n</div><div>* Baño y cocina equipados con muebles modernos y funcionales.\r\n</div><div>* Amplios espacios integrados en el living-comedor para maximizar comodidad y luminosidad.\r\n</div><div>* Dormitorios con placares de diseño, con frentes de piso a techo que optimizan el espacio y el almacenamiento.</div><div><br></div><div>\r\n</div><div>U<span style=\"font-size: 14px;\">n diseño moderno, funcional y pensado para vos</span></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Detalles que marcan la diferencia:</span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div>- Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGÓN ARMADO.</div><div><span style=\"font-size: 14px;\">- Terminaciones exteriores revoque pintado con recubrimiento acrílico de primera calidad.</span></div><div><span style=\"font-size: 14px;\">- Aberturas de aluminio DVH (Doble Vidrio Hermético) en ambientes principales.</span></div><div><span style=\"font-size: 14px;\">- Pisos porcelanato rectificado de primera calidad.</span></div><div><span style=\"font-size: 14px;\">- Dormitorio con piso porcelanato símil madera y frente placard 2 puertas.</span></div><div><span style=\"font-size: 14px;\">- Cielorrasos en yeso armado o aplicado según corresponda.</span></div><div><span style=\"font-size: 14px;\">- Paredes interiores con terminación en yeso.</span></div><div><span style=\"font-size: 14px;\">- Puertas interiores placa MDF.</span></div><div><span style=\"font-size: 14px;\">- Instalación de agua fría y caliente en termofusión.</span></div><div><span style=\"font-size: 14px;\">- Termotanque eléctrico para distribución de agua caliente, cocina eléctrica.&nbsp;</span></div><div><span style=\"font-size: 14px;\">- En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo.</span></div><div><span style=\"font-size: 14px;\">- Equipamiento de cocina completo en melanina de primera marca, con guardacantos de PVC y herrajes cierre suave.</span></div><div><span style=\"font-size: 14px;\">- Mesada cocina en granito, pileta acero inoxidable y grifería monocomando primera marca.</span></div><div><span style=\"font-size: 14px;\">- Instalación para la colocación de Aire Acondicionado en estar y dormitorio.</span></div><div><span style=\"font-size: 14px;\">- Cañerías (vacías) para instalación de cable TV</span></div><div><span style=\"font-size: 14px;\">- Portero eléctrico con cámara visor.</span></div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">¡UNIDADES DISPONIBLES!</span></div><div><br></div><div>Con la financiación de siempre, pero mejorada para vos.</div><div><br></div><div>Hacete dueño y enamórate de tu primer hogar en San Martín.-</div><div><br></div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div></p>",
       "roofed_surface": "47.82",
@@ -77019,7 +76584,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-07T12:24:20.149Z",
+      "_last_changed": "2026-10-09T12:21:43.791Z",
       "enhanced_description": "<h3>El Proyecto</h3>\n<p>Nuevo proyecto en San Martín, Tucumán 2138. Contará con 9 pisos con 4 departamentos cada uno, al frente y contrafrente de 2 ambientes con balcón muy luminosos. Departamentos de 2 ambientes de 52 m2 y 55 m2.</p>\n\n<h3>Ubicación</h3>\n<p>San Martín se consolida como una zona en pleno crecimiento, ideal para quienes buscan combinar comodidad, conectividad y calidad de vida. Su ubicación estratégica, con acceso rápido a la Ciudad de Buenos Aires y una amplia red de transporte público, lo convierte en un lugar ideal para vivir, trabajar o emprender. Además, cuenta con una destacada oferta educativa y servicios de salud, tanto públicos como privados, que aportan tranquilidad y bienestar a las familias. Un entorno urbano moderno que sigue creciendo para quienes buscan un hogar con todo al alcance.</p>\n\n<h3>Características de las Unidades</h3>\n<ul>\n<li>Balcones ideales para disfrutar momentos al aire libre</li>\n<li>Baño y cocina equipados con muebles modernos y funcionales</li>\n<li>Amplios espacios integrados en el living-comedor para maximizar comodidad y luminosidad</li>\n<li>Dormitorios con placares de diseño, con frentes de piso a techo que optimizan el espacio y el almacenamiento</li>\n</ul>\n\n<h3>Detalles Constructivos y Terminaciones</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco con estructura hormigón armado</li>\n<li>Terminaciones exteriores revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético) en ambientes principales</li>\n<li>Pisos porcelanato rectificado de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termotanque eléctrico para distribución de agua caliente y cocina eléctrica</li>\n<li>Baño con mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo en melanina de primera marca con guardacantos de PVC y herrajes cierre suave</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando primera marca</li>\n<li>Instalación para la colocación de aire acondicionado en estar y dormitorio</li>\n<li>Cañerías (vacías) para instalación de cable TV</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<h3>Financiación</h3>\n<p>Ofrecemos una financiación personalizada. Unidades disponibles con financiación mejorada. Hacete dueño y enamórate de tu primer hogar en San Martín.</p>"
     },
     {
@@ -113819,9 +113384,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-24T15:32:56",
+      "deleted_at": "2026-10-08T18:29:31",
       "depth_measure": "0.00",
-      "description": "                AYACUCHO 2168 – DEPARTAMENTO 3 AMBIENTES\n\n71 m² cubiertos + 17 m² semicubiertos | 88 m² totales\nExcelente departamento de 3 ambientes, amplio, moderno y funcional, ubicado sobre calle Ayacucho 2138, en una zona de muy buena conectividad.\n\nUna propuesta ideal para quienes buscan espacio, comodidad y calidad, tanto para vivienda permanente como para inversión.\n\nCaracterísticas destacadas:\n* Departamento de 3 ambientes.* 88 m² totales.* Ambientes amplios y funcionales.* Excelente aprovechamiento de los espacios.* Ubicación estratégica.* Proyecto pensado para disfrutar de confort y calidad.\nUna excelente oportunidad para vivir o invertir en San Martín.\n\n\n CALIDAD CONSTRUCTIVA Y TERMINACIONES\n\n* Mampostería divisoria entre unidades de ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* Dormitorios con frente de placard.* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente y cocina eléctrica.** Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito con bacha de acero inoxidable y grifería monocomando.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\nPOSIBILIDAD DE FINANCIACIÓN.\n Consultanos y coordiná una visita.\n                \n\n            \n\r\n\r\n            ",
+      "description": "                                AYACUCHO 2168 – DEPARTAMENTO 3 AMBIENTES\n\n71 m² cubiertos + 17 m² semicubiertos | 88 m² totales\nExcelente departamento de 3 ambientes, amplio, moderno y funcional, ubicado sobre calle Ayacucho 2138, en una zona de muy buena conectividad.\n\nUna propuesta ideal para quienes buscan espacio, comodidad y calidad, tanto para vivienda permanente como para inversión.\n\nCaracterísticas destacadas:\n* Departamento de 3 ambientes.* 88 m² totales.* Ambientes amplios y funcionales.* Excelente aprovechamiento de los espacios.* Ubicación estratégica.* Proyecto pensado para disfrutar de confort y calidad.\nUna excelente oportunidad para vivir o invertir en San Martín.\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\nESTRUCTURA Y AISLACIÓN\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\nABERTURAS Y TERMINACIONES\n* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* Dormitorios con frente de placard.* Cielorrasos de yeso armado o aplicado.* Paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.\nCOCINA\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito.* Bacha de acero inoxidable y grifería monocomando.* Cocina eléctrica.\nBAÑOS\n* Baños completos con revestimiento de piso a techo.* Vanitory, espejo, griferías y accesorios.\nINSTALACIONES Y CONFORT\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.\nIMPORTANTEEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\nPOSIBILIDAD DE FINANCIACIÓN.\n Consultanos y coordiná una visita.\n                \n\n            \n\n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -114103,7 +113668,7 @@
       "quality_level": null,
       "real_address": "Ayacucho 2168 4° A - San Martin",
       "reference_code": "DAP10481683",
-      "rich_description": "                <p><span style=\"font-weight: bold;\">AYACUCHO 2168 – DEPARTAMENTO 3 AMBIENTES</span></p><div><br></div><div>71 m² cubiertos + 17 m² semicubiertos | 88 m² totales</div><div><br></div><div>Excelente departamento de 3 ambientes, amplio, moderno y funcional, ubicado sobre calle Ayacucho 2138, en una zona de muy buena conectividad.</div><div><br></div><div><br></div><div>Una propuesta ideal para quienes buscan espacio, comodidad y calidad, tanto para vivienda permanente como para inversión.</div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características destacadas:</span></div><div><br></div><div>* Departamento de 3 ambientes.</div><div>* 88 m² totales.</div><div>* Ambientes amplios y funcionales.</div><div>* Excelente aprovechamiento de los espacios.</div><div>* Ubicación estratégica.</div><div>* Proyecto pensado para disfrutar de confort y calidad.</div><div><br></div><div>Una excelente oportunidad para vivir o invertir en San Martín.</div><div><br></div><p><br></p><p><span style=\"font-weight: bold;\">&nbsp;CALIDAD CONSTRUCTIVA Y TERMINACIONES</span></p><div><br></div><div>* Mampostería divisoria entre unidades de ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* Dormitorios con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente y cocina eléctrica.*</div><div>* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.</div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito con bacha de acero inoxidable y grifería monocomando.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div>* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">POSIBILIDAD DE FINANCIACIÓN<span style=\"font-size: 14px;\">.</span></span></div><div><br></div><div> Consultanos y coordiná una visita.</div><div><br></div>                <br><br>            <p></p>\r\n\r\n            ",
+      "rich_description": "                                <p><span style=\"font-weight: bold;\">AYACUCHO 2168 – DEPARTAMENTO 3 AMBIENTES</span></p><div><br></div><div>71 m² cubiertos + 17 m² semicubiertos | 88 m² totales</div><div><br></div><div>Excelente departamento de 3 ambientes, amplio, moderno y funcional, ubicado sobre calle Ayacucho 2138, en una zona de muy buena conectividad.</div><div><br></div><div><br></div><div>Una propuesta ideal para quienes buscan espacio, comodidad y calidad, tanto para vivienda permanente como para inversión.</div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características destacadas:</span></div><div><br></div><div>* Departamento de 3 ambientes.</div><div>* 88 m² totales.</div><div>* Ambientes amplios y funcionales.</div><div>* Excelente aprovechamiento de los espacios.</div><div>* Ubicación estratégica.</div><div>* Proyecto pensado para disfrutar de confort y calidad.</div><div><br></div><div>Una excelente oportunidad para vivir o invertir en San Martín.</div><div><br></div><p><br></p><p><span style=\"font-weight: bold;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span></p><div><br></div><div>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</div><div><br></div><div>ESTRUCTURA Y AISLACIÓN</div><div><br></div><div>* Mampostería divisoria entre unidades en ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div><br></div><div>ABERTURAS Y TERMINACIONES</div><div><br></div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* Dormitorios con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado.</div><div>* Paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div><br></div><div>COCINA</div><div><br></div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito.</div><div>* Bacha de acero inoxidable y grifería monocomando.</div><div>* Cocina eléctrica.</div><div><br></div><div>BAÑOS</div><div><br></div><div>* Baños completos con revestimiento de piso a techo.</div><div>* Vanitory, espejo, griferías y accesorios.</div><div><br></div><div>INSTALACIONES Y CONFORT</div><div><br></div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div><br></div><div>IMPORTANTE</div><div>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">POSIBILIDAD DE FINANCIACIÓN<span style=\"font-size: 14px;\">.</span></span></div><div><br></div><div> Consultanos y coordiná una visita.</div><div><br></div>                <br><br>            <p></p><br><br>            \r\n\r\n            ",
       "roofed_surface": "71.00",
       "room_amount": 3,
       "semiroofed_surface": "17.00",
@@ -114174,8 +113739,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-07T12:24:20.149Z",
-      "enhanced_description": "<h3>Ayacucho 2168 – Departamento 3 Ambientes</h3>\n\n<p>71 m² cubiertos + 17 m² semicubiertos | 88 m² totales</p>\n\n<p>Excelente departamento de 3 ambientes, amplio, moderno y funcional, ubicado sobre calle Ayacucho 2138, en una zona de muy buena conectividad.</p>\n\n<p>Una propuesta ideal para quienes buscan espacio, comodidad y calidad, tanto para vivienda permanente como para inversión.</p>\n\n<h3>Características Destacadas</h3>\n\n<ul>\n<li>Departamento de 3 ambientes</li>\n<li>88 m² totales</li>\n<li>Ambientes amplios y funcionales</li>\n<li>Excelente aprovechamiento de los espacios</li>\n<li>Ubicación estratégica</li>\n<li>Proyecto pensado para disfrutar de confort y calidad</li>\n</ul>\n\n<p>Una excelente oportunidad para vivir o invertir en San Martín.</p>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades de ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>Dormitorios con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente y cocina eléctrica</li>\n<li>Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios</li>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito con bacha de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n<li>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto</li>\n</ul>\n\n<h3>Financiación</h3>\n\n<p>Posibilidad de financiación. Consultanos y coordiná una visita.</p>"
+      "_last_changed": "2026-10-09T12:21:43.791Z",
+      "enhanced_description": "<h3>Descripción General</h3>\n<p>Excelente departamento de 3 ambientes, amplio, moderno y funcional, ubicado sobre calle Ayacucho 2168, en una zona de muy buena conectividad.</p>\n<p>71 m² cubiertos + 17 m² semicubiertos | 88 m² totales</p>\n<p>Una propuesta ideal para quienes buscan espacio, comodidad y calidad, tanto para vivienda permanente como para inversión.</p>\n\n<h3>Características Destacadas</h3>\n<ul>\n<li>Departamento de 3 ambientes</li>\n<li>88 m² totales</li>\n<li>Ambientes amplios y funcionales</li>\n<li>Excelente aprovechamiento de los espacios</li>\n<li>Ubicación estratégica</li>\n<li>Proyecto pensado para disfrutar de confort y calidad</li>\n</ul>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n<p>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</p>\n\n<h3>Estructura y Aislación</h3>\n<ul>\n<li>Mampostería divisoria entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n</ul>\n\n<h3>Aberturas y Terminaciones</h3>\n<ul>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>Dormitorios con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n</ul>\n\n<h3>Cocina</h3>\n<ul>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito</li>\n<li>Bacha de acero inoxidable y grifería monocomando</li>\n<li>Cocina eléctrica</li>\n</ul>\n\n<h3>Baños</h3>\n<ul>\n<li>Baños completos con revestimiento de piso a techo</li>\n<li>Vanitory, espejo, griferías y accesorios</li>\n</ul>\n\n<h3>Instalaciones y Confort</h3>\n<ul>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n</ul>\n\n<h3>Nota Importante</h3>\n<p>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</p>\n\n<h3>Financiación</h3>\n<p>Posibilidad de financiación. Consultanos y coordiná una visita.</p>"
     },
     {
       "address": "Ayacucho al 2100",
@@ -114219,9 +113784,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-24T15:37:22",
+      "deleted_at": "2026-10-08T18:27:51",
       "depth_measure": "0.00",
-      "description": "AYACUCHO 2168 – 4 AMBIENTES EN SAN MARTÍN\n3 habitaciones | 115 m² totales | Posibilidad de financiación\nExcelente departamento de 4 ambientes con 3 habitaciones, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.\nCuenta con 115 m² totales, distribuidos en 93 m² cubiertos y 22 m² semicubiertos, ofreciendo ambientes amplios, cómodos y funcionales.\nUna propuesta ideal para quienes buscan espacio, confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n* Mampostería divisoria entre unidades de ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* 3 habitaciones con frente de placard.* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente y cocina eléctrica.* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito con bacha de acero inoxidable y grifería monocomando.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\nUNA PROPIEDAD PARA DISFRUTAR\n4 ambientes | 3 habitaciones | 115 m² totales | 93 m² cubiertos | 22 m² semicubiertos\n\n\n Ayacucho 2168 – San Martín\nConsultanos por disponibilidad, valores y condiciones de financiación.\n                \r\n\r\n            ",
+      "description": "                AYACUCHO 2168 – 4 AMBIENTES EN SAN MARTÍN\n3 habitaciones | 115 m² totales | Posibilidad de financiación\nExcelente departamento de 4 ambientes con 3 habitaciones, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.\nCuenta con 115 m² totales, distribuidos en 93 m² cubiertos y 22 m² semicubiertos, ofreciendo ambientes amplios, cómodos y funcionales.\nUna propuesta ideal para quienes buscan espacio, confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.\n\n\nUNA PROPIEDAD PARA DISFRUTAR\n4 ambientes | 3 habitaciones | 115 m² totales | 93 m² cubiertos | 22 m² semicubiertos\n\n\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\nESTRUCTURA Y AISLACIÓN\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\nABERTURAS Y TERMINACIONES\n* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* Dormitorios con frente de placard.* Cielorrasos de yeso armado o aplicado.* Paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.\nCOCINA\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito.* Bacha de acero inoxidable y grifería monocomando.* Cocina eléctrica.\nBAÑOS\n* Baños completos con revestimiento de piso a techo.* Vanitory, espejo, griferías y accesorios.\nINSTALACIONES Y CONFORT\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.\nIMPORTANTEEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\n\n\n\n Ayacucho 2168 – San Martín\nConsultanos por disponibilidad, valores y condiciones de financiación.\n                \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -114523,7 +114088,7 @@
       "quality_level": null,
       "real_address": "Ayacucho 2168 10° A - San Martin",
       "reference_code": "DAP10488800",
-      "rich_description": "<div><span style=\"font-weight: bold;\">AYACUCHO 2168 – 4 AMBIENTES EN SAN MARTÍN</span><div><br></div><div>3 habitaciones | 115 m² totales | <span style=\"font-weight: bold;\">Posibilidad de financiación</span></div><div><br></div><div>Excelente departamento de 4 ambientes con 3 habitaciones, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</div><div><br></div><div>Cuenta con 115 m² totales, distribuidos en 93 m² cubiertos y 22 m² semicubiertos, ofreciendo ambientes amplios, cómodos y funcionales.</div><div><br></div><div>Una propuesta ideal para quienes buscan espacio, confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span></div><div><br></div><div>* Mampostería divisoria entre unidades de ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* 3 habitaciones con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente y cocina eléctrica.</div><div>* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.</div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito con bacha de acero inoxidable y grifería monocomando.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div>* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">UNA PROPIEDAD PARA DISFRUTAR</span></div><div><br></div><div>4 ambientes | 3 habitaciones | 115 m² totales | 93 m² cubiertos | 22 m² semicubiertos</div><div><br></div><div><br></div><div><br></div><div>&nbsp;Ayacucho 2168 – San Martín</div><div><br></div><div><span style=\"font-weight: bold;\">Consultanos por disponibilidad, valores y condiciones de financiación.</span></div><div><br></div></div>                \r\n\r\n            ",
+      "rich_description": "                <div><span style=\"font-weight: bold;\">AYACUCHO 2168 – 4 AMBIENTES EN SAN MARTÍN</span><div><br></div><div>3 habitaciones | 115 m² totales | <span style=\"font-weight: bold;\">Posibilidad de financiación</span></div><div><br></div><div>Excelente departamento de 4 ambientes con 3 habitaciones, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</div><div><br></div><div>Cuenta con 115 m² totales, distribuidos en 93 m² cubiertos y 22 m² semicubiertos, ofreciendo ambientes amplios, cómodos y funcionales.</div><div><br></div><div>Una propuesta ideal para quienes buscan espacio, confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">UNA PROPIEDAD PARA DISFRUTAR</span><div><br></div><div>4 ambientes | 3 habitaciones | 115 m² totales | 93 m² cubiertos | 22 m² semicubiertos</div><div><br></div></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span><div><br></div><div>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</div><div><br></div><div>ESTRUCTURA Y AISLACIÓN</div><div><br></div><div>* Mampostería divisoria entre unidades en ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div><br></div><div>ABERTURAS Y TERMINACIONES</div><div><br></div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* Dormitorios con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado.</div><div>* Paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div><br></div><div>COCINA</div><div><br></div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito.</div><div>* Bacha de acero inoxidable y grifería monocomando.</div><div>* Cocina eléctrica.</div><div><br></div><div>BAÑOS</div><div><br></div><div>* Baños completos con revestimiento de piso a techo.</div><div>* Vanitory, espejo, griferías y accesorios.</div><div><br></div><div>INSTALACIONES Y CONFORT</div><div><br></div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div><br></div><div>IMPORTANTE</div><div>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><br></div><div>&nbsp;Ayacucho 2168 – San Martín</div><div><br></div><div><span style=\"font-weight: bold;\">Consultanos por disponibilidad, valores y condiciones de financiación.</span></div><div><br></div></div>                <br><br>            \r\n\r\n            ",
       "roofed_surface": "93.00",
       "room_amount": 4,
       "semiroofed_surface": "0.00",
@@ -114599,8 +114164,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-07T12:24:20.149Z",
-      "enhanced_description": "<h3>Descripción General</h3>\n<p>Excelente departamento de 4 ambientes con 3 habitaciones, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n<p>Cuenta con 115 m² totales, distribuidos en 93 m² cubiertos y 22 m² semicubiertos, ofreciendo ambientes amplios, cómodos y funcionales.</p>\n<p>Una propuesta ideal para quienes buscan espacio, confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>Características de la Propiedad</h3>\n<ul>\n<li>4 ambientes</li>\n<li>3 habitaciones</li>\n<li>115 m² totales</li>\n<li>93 m² cubiertos</li>\n<li>22 m² semicubiertos</li>\n<li>Posibilidad de financiación</li>\n</ul>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n<ul>\n<li>Mampostería divisoria entre unidades de ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>3 habitaciones con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente y cocina eléctrica</li>\n<li>Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios</li>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito con bacha de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n<li>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Ayacucho 2168 – San Martín</p>"
+      "_last_changed": "2026-10-09T12:21:43.791Z",
+      "enhanced_description": "<h3>Ayacucho 2168 – 4 Ambientes en San Martín</h3>\n\n<p>Excelente departamento de 4 ambientes con 3 habitaciones, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n\n<p>Cuenta con 115 m² totales, distribuidos en 93 m² cubiertos y 22 m² semicubiertos, ofreciendo ambientes amplios, cómodos y funcionales.</p>\n\n<p>Una propuesta ideal para quienes buscan espacio, confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>4 ambientes</li>\n<li>3 habitaciones</li>\n<li>115 m² totales</li>\n<li>93 m² cubiertos</li>\n<li>22 m² semicubiertos</li>\n<li>Posibilidad de financiación</li>\n</ul>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n\n<p>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</p>\n\n<h3>Estructura y Aislación</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n</ul>\n\n<h3>Aberturas y Terminaciones</h3>\n\n<ul>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>Dormitorios con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n</ul>\n\n<h3>Cocina</h3>\n\n<ul>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito</li>\n<li>Bacha de acero inoxidable y grifería monocomando</li>\n<li>Cocina eléctrica</li>\n</ul>\n\n<h3>Baños</h3>\n\n<ul>\n<li>Baños completos con revestimiento de piso a techo</li>\n<li>Vanitory, espejo, griferías y accesorios</li>\n</ul>\n\n<h3>Instalaciones y Confort</h3>\n\n<ul>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n</ul>\n\n<p>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</p>\n\n<h3>Ubicación</h3>\n\n<p>Ayacucho 2168 – San Martín</p>\n\n<p>Consultanos por disponibilidad, valores y condiciones de financiación.</p>"
     },
     {
       "address": "Ayacucho  al 2100",
@@ -114644,9 +114209,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-24T18:53:30",
+      "deleted_at": "2026-10-08T18:28:48",
       "depth_measure": "0.00",
-      "description": "AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN\n53 m² totales | Posibilidad de financiación\nExcelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.\n\n\nUna propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n* Mampostería divisoria entre unidades de ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* 3 habitaciones con frente de placard.* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente y cocina eléctrica.* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito con bacha de acero inoxidable y grifería monocomando.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\nUNA PROPIEDAD PARA DISFRUTAR\n2 ambientes | 1 habitación | 53,50 m² totales | 43,20 m² cubiertos | 10,30 m² semicubiertos\n\n\n Ayacucho 2168 – San Martín\nConsúltanos por disponibilidad, valores y condiciones de financiación.\n                \r\n\r\n            ",
+      "description": "                AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN\n53 m² totales | Posibilidad de financiación\nExcelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.\n\n\nUna propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.\n\n\nUNA PROPIEDAD PARA DISFRUTAR\n2 ambientes | 1 habitación | 53,50 m² totales | 43,20 m² cubiertos | 10,30 m² semicubiertos\n\n\n\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\nESTRUCTURA Y AISLACIÓN\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\nABERTURAS Y TERMINACIONES\n* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* Dormitorios con frente de placard.* Cielorrasos de yeso armado o aplicado.* Paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.\nCOCINA\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito.* Bacha de acero inoxidable y grifería monocomando.* Cocina eléctrica.\nBAÑOS\n* Baños completos con revestimiento de piso a techo.* Vanitory, espejo, griferías y accesorios.\nINSTALACIONES Y CONFORT\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.\nIMPORTANTEEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\n\n\n\n Ayacucho 2168 – San Martín\nConsúltanos por disponibilidad, valores y condiciones de financiación.\n                \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -114928,7 +114493,7 @@
       "quality_level": null,
       "real_address": "Ayacucho 2168 2° E - San Martin",
       "reference_code": "DAP10489853",
-      "rich_description": "AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN<div><br></div><div>53 m² totales | <span style=\"font-weight: bold;\">Posibilidad de financiación</span></div><div><br></div><div>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</div><div><br></div><div><br></div><div><br></div><div>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span></div><div><br></div><div>* Mampostería divisoria entre unidades de ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* 3 habitaciones con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente y cocina eléctrica.</div><div>* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.</div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito con bacha de acero inoxidable y grifería monocomando.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div>* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div><div><br></div><div><br></div><div>UNA PROPIEDAD PARA DISFRUTAR</div><div><br></div><div>2 ambientes | 1 habitación | 53,50 m² totales | 43,20 m² cubiertos | 10,30 m² semicubiertos</div><div><br></div><div><br></div><div><br></div><div> Ayacucho 2168 – San Martín</div><div><br></div><div><span style=\"font-weight: bold;\">Consúltanos por disponibilidad, valores y condiciones de financiación.</span></div><div><br></div>                \r\n\r\n            ",
+      "rich_description": "                AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN<div><br></div><div>53 m² totales | <span style=\"font-weight: bold;\">Posibilidad de financiación</span></div><div><br></div><div>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</div><div><br></div><div><br></div><div><br></div><div>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">UNA PROPIEDAD PARA DISFRUTAR</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">2 ambientes | 1 habitación | 53,50 m² totales | 43,20 m² cubiertos | 10,30 m² semicubiertos</span></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>CALIDAD CONSTRUCTIVA Y TERMINACIONES<div><br></div><div>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</div><div><br></div><div>ESTRUCTURA Y AISLACIÓN</div><div><br></div><div>* Mampostería divisoria entre unidades en ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div><br></div><div>ABERTURAS Y TERMINACIONES</div><div><br></div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* Dormitorios con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado.</div><div>* Paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div><br></div><div>COCINA</div><div><br></div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito.</div><div>* Bacha de acero inoxidable y grifería monocomando.</div><div>* Cocina eléctrica.</div><div><br></div><div>BAÑOS</div><div><br></div><div>* Baños completos con revestimiento de piso a techo.</div><div>* Vanitory, espejo, griferías y accesorios.</div><div><br></div><div>INSTALACIONES Y CONFORT</div><div><br></div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div><br></div><div>IMPORTANTE</div><div>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div></div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><br></div><div><br></div><div> Ayacucho 2168 – San Martín</div><div><br></div><div><span style=\"font-weight: bold;\">Consúltanos por disponibilidad, valores y condiciones de financiación.</span></div><div><br></div>                <br><br>            \r\n\r\n            ",
       "roofed_surface": "43.20",
       "room_amount": 2,
       "semiroofed_surface": "0.00",
@@ -114994,8 +114559,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-07T12:24:20.149Z",
-      "enhanced_description": "<h3>Ayacucho 2168 – 2 Ambientes en San Martín</h3>\n\n<p>53 m² totales | Posibilidad de financiación</p>\n\n<p>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n\n<p>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades de ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>3 habitaciones con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente y cocina eléctrica</li>\n<li>Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios</li>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito con bacha de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n<li>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto</li>\n</ul>\n\n<h3>Una Propiedad para Disfrutar</h3>\n\n<ul>\n<li>2 ambientes</li>\n<li>1 habitación</li>\n<li>53,50 m² totales</li>\n<li>43,20 m² cubiertos</li>\n<li>10,30 m² semicubiertos</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Ayacucho 2168 – San Martín</p>\n\n<p>Consúltanos por disponibilidad, valores y condiciones de financiación.</p>"
+      "_last_changed": "2026-10-09T12:21:43.791Z",
+      "enhanced_description": "<h3>AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN</h3>\n\n<p>53 m² totales | Posibilidad de financiación</p>\n\n<p>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n\n<p>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>UNA PROPIEDAD PARA DISFRUTAR</h3>\n\n<ul>\n<li>2 ambientes</li>\n<li>1 habitación</li>\n<li>53,50 m² totales</li>\n<li>43,20 m² cubiertos</li>\n<li>10,30 m² semicubiertos</li>\n</ul>\n\n<h3>CALIDAD CONSTRUCTIVA Y TERMINACIONES</h3>\n\n<p>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</p>\n\n<h3>ESTRUCTURA Y AISLACIÓN</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades en ladrillo cerámico hueco.</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro.</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</li>\n</ul>\n\n<h3>ABERTURAS Y TERMINACIONES</h3>\n\n<ul>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH).</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente.</li>\n<li>Dormitorios con frente de placard.</li>\n<li>Cielorrasos de yeso armado o aplicado.</li>\n<li>Paredes interiores con terminación en yeso.</li>\n<li>Puertas interiores tipo placa de MDF.</li>\n</ul>\n\n<h3>COCINA</h3>\n\n<ul>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</li>\n<li>Mesada de granito.</li>\n<li>Bacha de acero inoxidable y grifería monocomando.</li>\n<li>Cocina eléctrica.</li>\n</ul>\n\n<h3>BAÑOS</h3>\n\n<ul>\n<li>Baños completos con revestimiento de piso a techo.</li>\n<li>Vanitory, espejo, griferías y accesorios.</li>\n</ul>\n\n<h3>INSTALACIONES Y CONFORT</h3>\n\n<ul>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión.</li>\n<li>Termotanque eléctrico para agua caliente.</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio.</li>\n<li>Canalizaciones previstas para TV por cable.</li>\n<li>Portero eléctrico.</li>\n</ul>\n\n<p>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</p>\n\n<h3>UBICACIÓN</h3>\n\n<p>Ayacucho 2168 – San Martín</p>\n\n<p>Consulta por disponibilidad, valores y condiciones de financiación.</p>"
     },
     {
       "address": "Ayacucho al 2100",
@@ -115039,9 +114604,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-24T19:17:28",
+      "deleted_at": "2026-10-08T18:30:07",
       "depth_measure": "0.00",
-      "description": "AYACUCHO 2168 – EXCELENTE DEPARTAMENTO 3 AMBIENTES | 84 M² TOTALES\nAmplio, moderno y funcional. Una propiedad pensada para disfrutar de cada ambiente.\nExcelente departamento de 3 ambientes, ubicado en una zona privilegiada de San Martín, sobre Ayacucho 2168, con fácil acceso, cercanía a comercios, medios de transporte, colegios y todos los servicios.\nLa unidad cuenta con 84 m² totales, distribuidos en 67 m² cubiertos y 17 m² semicubiertos, ofreciendo muy buenos espacios y una distribución cómoda.\nCaracterísticas\n* 2 dormitorios* 2 baños* Amplio living comedor* Cocina funcional* 17 m² semicubiertos* Excelente distribución* Ambientes amplios y confortables\nUna propuesta ideal para quienes buscan comodidad, amplitud y una excelente ubicación, tanto para vivienda permanente como para inversión.\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n* Mampostería divisoria entre unidades de ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* 3 habitaciones con frente de placard.* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente y cocina eléctrica.* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito con bacha de acero inoxidable y grifería monocomando.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\nConsultanos para recibir más información y coordinar una visita.\n                \r\n\r\n            ",
+      "description": "                AYACUCHO 2168 – EXCELENTE DEPARTAMENTO 3 AMBIENTES | 84 M² TOTALES\nAmplio, moderno y funcional. Una propiedad pensada para disfrutar de cada ambiente.\nExcelente departamento de 3 ambientes, ubicado en una zona privilegiada de San Martín, sobre Ayacucho 2168, con fácil acceso, cercanía a comercios, medios de transporte, colegios y todos los servicios.\nLa unidad cuenta con 84 m² totales, distribuidos en 67 m² cubiertos y 17 m² semicubiertos, ofreciendo muy buenos espacios y una distribución cómoda.\nCaracterísticas\n* 2 dormitorios* 2 baños* Amplio living comedor* Cocina funcional* 17 m² semicubiertos* Excelente distribución* Ambientes amplios y confortables\nUna propuesta ideal para quienes buscan comodidad, amplitud y una excelente ubicación, tanto para vivienda permanente como para inversión.\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\nESTRUCTURA Y AISLACIÓN\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\nABERTURAS Y TERMINACIONES\n* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* Dormitorios con frente de placard.* Cielorrasos de yeso armado o aplicado.* Paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.\nCOCINA\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito.* Bacha de acero inoxidable y grifería monocomando.* Cocina eléctrica.\nBAÑOS\n* Baños completos con revestimiento de piso a techo.* Vanitory, espejo, griferías y accesorios.\nINSTALACIONES Y CONFORT\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.\nIMPORTANTEEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\n\nConsultanos para recibir más información y coordinar una visita.\n                \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -115273,7 +114838,7 @@
       "quality_level": null,
       "real_address": "Ayacucho 2168 5° C - San Martin",
       "reference_code": "DAP10490118",
-      "rich_description": "<span style=\"font-weight: bold;\">AYACUCHO 2168 – EXCELENTE DEPARTAMENTO 3 AMBIENTES | 84 M² TOTALES</span><div><br></div><div>Amplio, moderno y funcional. Una propiedad pensada para disfrutar de cada ambiente.</div><div><br></div><div>Excelente departamento de 3 ambientes, ubicado en una zona privilegiada de San Martín, sobre Ayacucho 2168, con fácil acceso, cercanía a comercios, medios de transporte, colegios y todos los servicios.</div><div><br></div><div>La unidad cuenta con 84 m² totales, distribuidos en 67 m² cubiertos y 17 m² semicubiertos, ofreciendo muy buenos espacios y una distribución cómoda.</div><div><br></div><div><span style=\"font-weight: bold;\">Características</span></div><div><br></div><div>* 2 dormitorios</div><div>* 2 baños</div><div>* Amplio living comedor</div><div>* Cocina funcional</div><div>* 17 m² semicubiertos</div><div>* Excelente distribución</div><div>* Ambientes amplios y confortables</div><div><br></div><div>Una propuesta ideal para quienes buscan comodidad, amplitud y una excelente ubicación, tanto para vivienda permanente como para inversión.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span><div><br></div><div>* Mampostería divisoria entre unidades de ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* 3 habitaciones con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente y cocina eléctrica.</div><div>* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.</div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito con bacha de acero inoxidable y grifería monocomando.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div>* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Consultanos para recibir más información y coordinar una visita.</span></div><div><br></div></div>                \r\n\r\n            ",
+      "rich_description": "                <span style=\"font-weight: bold;\">AYACUCHO 2168 – EXCELENTE DEPARTAMENTO 3 AMBIENTES | 84 M² TOTALES</span><div><br></div><div>Amplio, moderno y funcional. Una propiedad pensada para disfrutar de cada ambiente.</div><div><br></div><div>Excelente departamento de 3 ambientes, ubicado en una zona privilegiada de San Martín, sobre Ayacucho 2168, con fácil acceso, cercanía a comercios, medios de transporte, colegios y todos los servicios.</div><div><br></div><div>La unidad cuenta con 84 m² totales, distribuidos en 67 m² cubiertos y 17 m² semicubiertos, ofreciendo muy buenos espacios y una distribución cómoda.</div><div><br></div><div><span style=\"font-weight: bold;\">Características</span></div><div><br></div><div>* 2 dormitorios</div><div>* 2 baños</div><div>* Amplio living comedor</div><div>* Cocina funcional</div><div>* 17 m² semicubiertos</div><div>* Excelente distribución</div><div>* Ambientes amplios y confortables</div><div><br></div><div>Una propuesta ideal para quienes buscan comodidad, amplitud y una excelente ubicación, tanto para vivienda permanente como para inversión.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span><div><br></div><div>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</div><div><br></div><div>ESTRUCTURA Y AISLACIÓN</div><div><br></div><div>* Mampostería divisoria entre unidades en ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div><br></div><div>ABERTURAS Y TERMINACIONES</div><div><br></div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* Dormitorios con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado.</div><div>* Paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div><br></div><div>COCINA</div><div><br></div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito.</div><div>* Bacha de acero inoxidable y grifería monocomando.</div><div>* Cocina eléctrica.</div><div><br></div><div>BAÑOS</div><div><br></div><div>* Baños completos con revestimiento de piso a techo.</div><div>* Vanitory, espejo, griferías y accesorios.</div><div><br></div><div>INSTALACIONES Y CONFORT</div><div><br></div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div><br></div><div>IMPORTANTE</div><div>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Consultanos para recibir más información y coordinar una visita.</span></div><div><br></div></div>                <br><br>            \r\n\r\n            ",
       "roofed_surface": "67.00",
       "room_amount": 3,
       "semiroofed_surface": "0.00",
@@ -115354,8 +114919,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-07T12:24:20.149Z",
-      "enhanced_description": "<h3>Departamento 3 Ambientes - Ayacucho 2168</h3>\n\n<p>Amplio, moderno y funcional. Una propiedad pensada para disfrutar de cada ambiente.</p>\n\n<p>Excelente departamento de 3 ambientes, ubicado en una zona privilegiada de San Martín, sobre Ayacucho 2168, con fácil acceso, cercanía a comercios, medios de transporte, colegios y todos los servicios.</p>\n\n<p>La unidad cuenta con 84 m² totales, distribuidos en 67 m² cubiertos y 17 m² semicubiertos, ofreciendo muy buenos espacios y una distribución cómoda.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>2 dormitorios</li>\n<li>2 baños</li>\n<li>Amplio living comedor</li>\n<li>Cocina funcional</li>\n<li>17 m² semicubiertos</li>\n<li>Excelente distribución</li>\n<li>Ambientes amplios y confortables</li>\n</ul>\n\n<p>Una propuesta ideal para quienes buscan comodidad, amplitud y una excelente ubicación, tanto para vivienda permanente como para inversión.</p>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades de ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>3 habitaciones con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente y cocina eléctrica</li>\n<li>Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios</li>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito con bacha de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n<li>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto</li>\n</ul>\n\n<p>Consultanos para recibir más información y coordinar una visita.</p>"
+      "_last_changed": "2026-10-09T12:21:43.791Z",
+      "enhanced_description": "<h3>Ayacucho 2168 – Excelente Departamento 3 Ambientes</h3>\n\n<p>Amplio, moderno y funcional. Una propiedad pensada para disfrutar de cada ambiente.</p>\n\n<p>Excelente departamento de 3 ambientes, ubicado en una zona privilegiada de San Martín, sobre Ayacucho 2168, con fácil acceso, cercanía a comercios, medios de transporte, colegios y todos los servicios.</p>\n\n<p>La unidad cuenta con 84 m² totales, distribuidos en 67 m² cubiertos y 17 m² semicubiertos, ofreciendo muy buenos espacios y una distribución cómoda.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>2 dormitorios</li>\n<li>2 baños</li>\n<li>Amplio living comedor</li>\n<li>Cocina funcional</li>\n<li>17 m² semicubiertos</li>\n<li>Excelente distribución</li>\n<li>Ambientes amplios y confortables</li>\n</ul>\n\n<p>Una propuesta ideal para quienes buscan comodidad, amplitud y una excelente ubicación, tanto para vivienda permanente como para inversión.</p>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n\n<p>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</p>\n\n<h3>Estructura y Aislación</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n</ul>\n\n<h3>Aberturas y Terminaciones</h3>\n\n<ul>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>Dormitorios con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n</ul>\n\n<h3>Cocina</h3>\n\n<ul>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito</li>\n<li>Bacha de acero inoxidable y grifería monocomando</li>\n<li>Cocina eléctrica</li>\n</ul>\n\n<h3>Baños</h3>\n\n<ul>\n<li>Baños completos con revestimiento de piso a techo</li>\n<li>Vanitory, espejo, griferías y accesorios</li>\n</ul>\n\n<h3>Instalaciones y Confort</h3>\n\n<ul>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n</ul>\n\n<p>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</p>\n\n<p>Consultanos para recibir más información y coordinar una visita."
     },
     {
       "address": "Ayacucho 2168 9° D - San Martin",
@@ -115399,9 +114964,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-24T19:45:25",
+      "deleted_at": "2026-10-08T18:31:26",
       "depth_measure": "0.00",
-      "description": "AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN\n54 m² totales | Posibilidad de financiación\nExcelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.\n\n\nUna propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.\n\nUNA PROPIEDAD PARA DISFRUTAR\n2 ambientes | 1 habitación | 54 m² totales | 46 m² cubiertos | 8 m² semicubiertos\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n* Mampostería divisoria entre unidades de ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* 3 habitaciones con frente de placard.* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente y cocina eléctrica.* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito con bacha de acero inoxidable y grifería monocomando.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\n\n\nAyacucho 2168 – San Martín\nConsúltanos por disponibilidad, valores y condiciones de financiación.\n                \r\n\r\n            ",
+      "description": "                AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN\n54 m² totales | Posibilidad de financiación\nExcelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.\n\n\nUna propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.\n\nUNA PROPIEDAD PARA DISFRUTAR\n2 ambientes | 1 habitación | 54 m² totales | 46 m² cubiertos | 8 m² semicubiertos\n\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\nESTRUCTURA Y AISLACIÓN\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\nABERTURAS Y TERMINACIONES\n* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* Dormitorios con frente de placard.* Cielorrasos de yeso armado o aplicado.* Paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.\nCOCINA\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito.* Bacha de acero inoxidable y grifería monocomando.* Cocina eléctrica.\nBAÑOS\n* Baños completos con revestimiento de piso a techo.* Vanitory, espejo, griferías y accesorios.\nINSTALACIONES Y CONFORT\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.\nIMPORTANTEEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\nAyacucho 2168 – San Martín\nConsúltanos por disponibilidad, valores y condiciones de financiación.\n                \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -115683,7 +115248,7 @@
       "quality_level": null,
       "real_address": "Ayacucho 2168 9° D - San Martin",
       "reference_code": "DAP10490279",
-      "rich_description": "<span style=\"font-weight: bold;\">AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN</span><div><br></div><div>54 m² totales | Posibilidad de financiación</div><div><br></div><div>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</span></div><div><br></div><div><br></div><div>UNA PROPIEDAD PARA DISFRUTAR<div><br></div><div>2 ambientes | 1 habitación | 54 m² totales | 46 m² cubiertos | 8 m² semicubiertos</div><div><br></div></div><div><br></div><div><span style=\"text-decoration-line: underline;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span></div><div><br></div><div>* Mampostería divisoria entre unidades de ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* 3 habitaciones con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente y cocina eléctrica.</div><div>* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.</div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito con bacha de acero inoxidable y grifería monocomando.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div>* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Ayacucho 2168 – San Martín</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">Consúltanos por disponibilidad, valores y condiciones de financiación.</span></div><div><br></div>                \r\n\r\n            ",
+      "rich_description": "                <span style=\"font-weight: bold;\">AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN</span><div><br></div><div>54 m² totales | Posibilidad de financiación</div><div><br></div><div>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</span></div><div><br></div><div><br></div><div>UNA PROPIEDAD PARA DISFRUTAR<div><br></div><div>2 ambientes | 1 habitación | 54 m² totales | 46 m² cubiertos | 8 m² semicubiertos</div><div><br></div></div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span><div><br></div><div>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</div><div><br></div><div>ESTRUCTURA Y AISLACIÓN</div><div><br></div><div>* Mampostería divisoria entre unidades en ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div><br></div><div>ABERTURAS Y TERMINACIONES</div><div><br></div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* Dormitorios con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado.</div><div>* Paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div><br></div><div>COCINA</div><div><br></div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito.</div><div>* Bacha de acero inoxidable y grifería monocomando.</div><div>* Cocina eléctrica.</div><div><br></div><div>BAÑOS</div><div><br></div><div>* Baños completos con revestimiento de piso a techo.</div><div>* Vanitory, espejo, griferías y accesorios.</div><div><br></div><div>INSTALACIONES Y CONFORT</div><div><br></div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div><br></div><div>IMPORTANTE</div><div>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Ayacucho 2168 – San Martín</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">Consúltanos por disponibilidad, valores y condiciones de financiación.</span></div><div><br></div>                <br><br>            \r\n\r\n            ",
       "roofed_surface": "46.00",
       "room_amount": 2,
       "semiroofed_surface": "0.00",
@@ -115764,8 +115329,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-07T12:24:20.149Z",
-      "enhanced_description": "<h3>Ayacucho 2168 – 2 Ambientes en San Martín</h3>\n\n<p>54 m² totales | Posibilidad de financiación</p>\n\n<p>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n\n<p>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>Una Propiedad para Disfrutar</h3>\n\n<ul>\n<li>2 ambientes</li>\n<li>1 habitación</li>\n<li>54 m² totales</li>\n<li>46 m² cubiertos</li>\n<li>8 m² semicubiertos</li>\n</ul>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades de ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>3 habitaciones con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente y cocina eléctrica</li>\n<li>Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios</li>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito con bacha de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n<li>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Ayacucho 2168 – San Martín</p>\n\n<p>Consulte por disponibilidad, valores y condiciones de financiación.</p>"
+      "_last_changed": "2026-10-09T12:21:43.791Z",
+      "enhanced_description": "<h3>Ayacucho 2168 - 2 Ambientes en San Martín</h3>\n\n<p>54 m² totales | Posibilidad de financiación</p>\n\n<p>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n\n<p>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>Una Propiedad para Disfrutar</h3>\n\n<ul>\n<li>2 ambientes</li>\n<li>1 habitación</li>\n<li>54 m² totales</li>\n<li>46 m² cubiertos</li>\n<li>8 m² semicubiertos</li>\n</ul>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n\n<p>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</p>\n\n<h3>Estructura y Aislación</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n</ul>\n\n<h3>Aberturas y Terminaciones</h3>\n\n<ul>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>Dormitorios con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n</ul>\n\n<h3>Cocina</h3>\n\n<ul>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito</li>\n<li>Bacha de acero inoxidable y grifería monocomando</li>\n<li>Cocina eléctrica</li>\n</ul>\n\n<h3>Baños</h3>\n\n<ul>\n<li>Baños completos con revestimiento de piso a techo</li>\n<li>Vanitory, espejo, griferías y accesorios</li>\n</ul>\n\n<h3>Instalaciones y Confort</h3>\n\n<ul>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n</ul>\n\n<h3>Importante</h3>\n\n<p>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</p>\n\n<h3>Ubicación</h3>\n\n<p>Ayacucho 2168 - San Martín</p>\n\n<p>Consúltanos por disponibilidad, valores y condiciones de financiación.</p>"
     },
     {
       "address": "Ayacucho 2168 6° F  - San Martin",
@@ -115809,9 +115374,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-24T20:21:39",
+      "deleted_at": "2026-10-08T18:30:54",
       "depth_measure": "0.00",
-      "description": "AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN\n57 m² totales | Posibilidad de financiación\nExcelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.\n\n\nUna propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.\n\nUNA PROPIEDAD PARA DISFRUTAR\n2 ambientes | 1 habitación | 57 m² totales | 49 m² cubiertos | 8 m² semicubiertos\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n* Mampostería divisoria entre unidades de ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* 3 habitaciones con frente de placard.* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente y cocina eléctrica.* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito con bacha de acero inoxidable y grifería monocomando.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\n\n\nAyacucho 2168 – San Martín\nConsúltanos por disponibilidad, valores y condiciones de financiación.\n                \r\n\r\n            ",
+      "description": "                AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN\n57 m² totales | Posibilidad de financiación\nExcelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.\nUna propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.\n\n\n\nUNA PROPIEDAD PARA DISFRUTAR\n2 ambientes | 1 habitación | 57 m² totales | 49 m² cubiertos | 8 m² semicubiertos\n\n\n\r\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\nESTRUCTURA Y AISLACIÓN\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\nABERTURAS Y TERMINACIONES\n* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* Dormitorios con frente de placard.* Cielorrasos de yeso armado o aplicado.* Paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.\nCOCINA\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito.* Bacha de acero inoxidable y grifería monocomando.* Cocina eléctrica.\nBAÑOS\n* Baños completos con revestimiento de piso a techo.* Vanitory, espejo, griferías y accesorios.\nINSTALACIONES Y CONFORT\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.\nIMPORTANTEEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\nAyacucho 2168 – San Martín\nConsúltanos por disponibilidad, valores y condiciones de financiación.\n                \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -116093,7 +115658,7 @@
       "quality_level": null,
       "real_address": "Ayacucho 2168 6° F  - San Martin",
       "reference_code": "DAP10490463",
-      "rich_description": "<span style=\"font-weight: bold;\">AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN</span><div><br></div><div>57 m² totales | Posibilidad de financiación</div><div><br></div><div>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</div><div><br></div><div><br></div><div><br></div><div>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</div><div><br></div><div><br></div><div>UNA PROPIEDAD PARA DISFRUTAR</div><div><br></div><div>2 ambientes | 1 habitación | 57 m² totales | 49 m² cubiertos | 8 m² semicubiertos</div><div><br></div><div><br></div><div>CALIDAD CONSTRUCTIVA Y TERMINACIONES</div><div><br></div><div>* Mampostería divisoria entre unidades de ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* 3 habitaciones con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente y cocina eléctrica.</div><div>* Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios.</div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito con bacha de acero inoxidable y grifería monocomando.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div>* En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>Ayacucho 2168 – San Martín</div><div><br></div><div>Consúltanos por disponibilidad, valores y condiciones de financiación.</div><div><br></div>                \r\n\r\n            ",
+      "rich_description": "                <span style=\"font-weight: bold;\">AYACUCHO 2168 – 2 AMBIENTES EN SAN MARTÍN</span><div><br></div><div>57 m² totales | Posibilidad de financiación</div><div><br></div><div>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</div><div><br></div><div><span style=\"font-size: 14px;\">Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</span></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">UNA PROPIEDAD PARA DISFRUTAR</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">2 ambientes | 1 habitación | 57 m² totales | 49 m² cubiertos | 8 m² semicubiertos</span></div><div><br></div><div><br></div><div><br>\r\n<br class=\"Apple-interchange-newline\"></div><div><span style=\"font-weight: bold;\">CALIDAD CONSTRUCTIVA Y TERMINACIONES</span><div><br></div><div>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</div><div><br></div><div>ESTRUCTURA Y AISLACIÓN</div><div><br></div><div>* Mampostería divisoria entre unidades en ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div><br></div><div>ABERTURAS Y TERMINACIONES</div><div><br></div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* Dormitorios con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado.</div><div>* Paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div><br></div><div>COCINA</div><div><br></div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito.</div><div>* Bacha de acero inoxidable y grifería monocomando.</div><div>* Cocina eléctrica.</div><div><br></div><div>BAÑOS</div><div><br></div><div>* Baños completos con revestimiento de piso a techo.</div><div>* Vanitory, espejo, griferías y accesorios.</div><div><br></div><div>INSTALACIONES Y CONFORT</div><div><br></div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div><br></div><div>IMPORTANTE</div><div>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div></div><div><br></div><div><br></div><div>Ayacucho 2168 – San Martín</div><div><br></div><div>Consúltanos por disponibilidad, valores y condiciones de financiación.</div><div><br></div>                <br><br>            \r\n\r\n            ",
       "roofed_surface": "49.00",
       "room_amount": 2,
       "semiroofed_surface": "0.00",
@@ -116164,8 +115729,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-08T12:33:47.944Z",
-      "enhanced_description": "<h3>Ayacucho 2168 – 2 Ambientes en San Martín</h3>\n\n<p>57 m² totales | Posibilidad de financiación</p>\n\n<p>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n\n<p>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>Una propiedad para disfrutar</h3>\n\n<ul>\n<li>2 ambientes</li>\n<li>1 habitación</li>\n<li>57 m² totales</li>\n<li>49 m² cubiertos</li>\n<li>8 m² semicubiertos</li>\n</ul>\n\n<h3>Calidad constructiva y terminaciones</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades de ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>3 habitaciones con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado y paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente y cocina eléctrica</li>\n<li>Baños completos, revestidos de piso a techo, equipados con vanitory, espejo, griferías y accesorios</li>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito con bacha de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n<li>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Ayacucho 2168 – San Martín</p>\n\n<p>Consúltanos por disponibilidad, valores y condiciones de financiación.</p>"
+      "_last_changed": "2026-10-09T12:21:43.791Z",
+      "enhanced_description": "<h3>Ayacucho 2168 – 2 Ambientes en San Martín</h3>\n\n<p>57 m² totales | Posibilidad de financiación</p>\n\n<p>Excelente departamento de 2 ambientes con 1 habitación, ubicado sobre Ayacucho 2168, San Martín, en una zona estratégica, cerca de todo y con excelente conectividad.</p>\n\n<p>Una propuesta ideal para quienes buscan confort, excelente ubicación y calidad constructiva, tanto para vivienda como para inversión.</p>\n\n<h3>Una Propiedad para Disfrutar</h3>\n\n<ul>\n<li>2 ambientes</li>\n<li>1 habitación</li>\n<li>57 m² totales</li>\n<li>49 m² cubiertos</li>\n<li>8 m² semicubiertos</li>\n</ul>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n\n<p>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</p>\n\n<h3>Estructura y Aislación</h3>\n\n<ul>\n<li>Mampostería divisoria entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n</ul>\n\n<h3>Aberturas y Terminaciones</h3>\n\n<ul>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>Dormitorios con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n</ul>\n\n<h3>Cocina</h3>\n\n<ul>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito</li>\n<li>Bacha de acero inoxidable y grifería monocomando</li>\n<li>Cocina eléctrica</li>\n</ul>\n\n<h3>Baños</h3>\n\n<ul>\n<li>Baños completos con revestimiento de piso a techo</li>\n<li>Vanitory, espejo, griferías y accesorios</li>\n</ul>\n\n<h3>Instalaciones y Confort</h3>\n\n<ul>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>Portero eléctrico</li>\n</ul>\n\n<p>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</p>\n\n<h3>Ubicación</h3>\n\n<p>Ayacucho 2168 – San Martín</p>\n\n<p>Consúltanos por disponibilidad, valores y condiciones de financiación.</p>"
     },
     {
       "address": "ALQUILER - Yapeyu 1972  4°A",
@@ -116606,6 +116171,446 @@
       "zonification": "",
       "_last_changed": "2026-10-06T19:41:09",
       "enhanced_description": "<h3>Características principales</h3>\n<ul>\n<li>2 Dormitorios con placard</li>\n<li>Cocina completamente equipada</li>\n<li>Living-comedor amplio y luminoso</li>\n<li>Balcón propio con parrilla</li>\n<li>Baño moderno y funcional</li>\n</ul>\n\n<h3>Requisitos</h3>\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Garantía: Propietaria o Fianza</li>\n<li>Mascotas: No se permite</li>\n</ul>\n\n<p>Este departamento combina confort, estilo y funcionalidad en una ubicación inmejorable. Tu próximo hogar te espera.</p>"
+    },
+    {
+      "address": "ALQUILER GALPON  - Mitre 4545 - San Martin",
+      "address_complement": "",
+      "age": 30,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 0,
+      "block_number": "",
+      "branch": {
+        "address": "B1650 San Martín",
+        "alternative_phone": "",
+        "alternative_phone_area": "",
+        "alternative_phone_country_code": "",
+        "alternative_phone_extension": "",
+        "branch_type": null,
+        "contact_time": "-",
+        "created_date": "2025-10-20T16:06:07",
+        "deleted_at": null,
+        "display_name": "Inactiva",
+        "email": "inactivo@dinalpropiedades.com",
+        "geo_lat": "-34.5757521",
+        "geo_long": "-58.53709649999999",
+        "gm_location_type": "APPROXIMATE",
+        "id": 97881,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/logos/3790/px%20(1).jpg",
+        "name": "Inactiva",
+        "pdf_footer_text": "",
+        "phone": "-",
+        "phone_area": "",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2026-10-08T17:32:16",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-10-08T17:41:01",
+      "depth_measure": "0.00",
+      "description": "IMPORTANTE GALPÓN EN ZONA INDUSTRIAL (ID)\n Excelente oportunidad para uso industrial \r\n\nGalpón de 600 m², distribuido en dos plantas, con amplios espacios y excelente funcionalidad.\nPLANTA BAJA – 450 m².\n* Entrada para vehículos.* Amplio espacio de trabajo.* Dos grandes sectores sin divisiones, con aproximadamente 360 m².* Vestuario.\nPLANTA ALTA – 150 m²\n* Amplio espacio de trabajo o almacenamiento.* Acceso mediante montacarga.\nINSTALACIONES\n* Instalación eléctrica trifásica.\n\nCONDICIONES:  \n*- Contrato por 24 meses.*- Incremento trimestral según ICL.\n                \r\n\r\n            ",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": null,
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [],
+      "fake_address": "ALQUILER GALPON  - Mitre 4545 - San Martin",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5819197",
+      "geo_long": "-58.5446233",
+      "gm_location_type": "ROOFTOP",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 11823048,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 541133901867",
+            "created_at": "2026-10-08T17:31:45",
+            "document_number": "",
+            "email": "",
+            "id": 74104265,
+            "name": "Daniela",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-10-08T17:32:16",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25014,
+            "name": "San Martin",
+            "resource_uri": "/api/v1/location/25014/"
+          },
+          {
+            "id": 25030,
+            "name": "Jose León Suarez",
+            "resource_uri": "/api/v1/location/25030/"
+          },
+          {
+            "id": 25033,
+            "name": "San Andrés",
+            "resource_uri": "/api/v1/location/25033/"
+          },
+          {
+            "id": 25034,
+            "name": "Villa Ballester",
+            "resource_uri": "/api/v1/location/25034/"
+          },
+          {
+            "id": 25038,
+            "name": "Villa Lynch",
+            "resource_uri": "/api/v1/location/25038/"
+          },
+          {
+            "id": 51870,
+            "name": "Ciudad Jardín El Libertador",
+            "resource_uri": "/api/v1/location/51870/"
+          },
+          {
+            "id": 51871,
+            "name": "Villa Ayacucho",
+            "resource_uri": "/api/v1/location/51871/"
+          },
+          {
+            "id": 51872,
+            "name": "Villa Bernardo Monteagudo",
+            "resource_uri": "/api/v1/location/51872/"
+          },
+          {
+            "id": 51873,
+            "name": "Villa Chacabuco",
+            "resource_uri": "/api/v1/location/51873/"
+          },
+          {
+            "id": 51874,
+            "name": "Villa Coronel José M. Zapiola",
+            "resource_uri": "/api/v1/location/51874/"
+          },
+          {
+            "id": 51875,
+            "name": "Villa General Antonio J. de Sucre",
+            "resource_uri": "/api/v1/location/51875/"
+          },
+          {
+            "id": 51876,
+            "name": "Villa General Eugenio Necochea",
+            "resource_uri": "/api/v1/location/51876/"
+          },
+          {
+            "id": 51877,
+            "name": "Villa General José Tomás Guido",
+            "resource_uri": "/api/v1/location/51877/"
+          },
+          {
+            "id": 51878,
+            "name": "Villa General Juan G. Las Heras",
+            "resource_uri": "/api/v1/location/51878/"
+          },
+          {
+            "id": 51879,
+            "name": "Villa Godoy Cruz",
+            "resource_uri": "/api/v1/location/51879/"
+          },
+          {
+            "id": 51880,
+            "name": "Villa Granaderos de San Martín",
+            "resource_uri": "/api/v1/location/51880/"
+          },
+          {
+            "id": 51881,
+            "name": "Villa Gregoria Matorras",
+            "resource_uri": "/api/v1/location/51881/"
+          },
+          {
+            "id": 51882,
+            "name": "Villa Juan Martín de Pueyrredón",
+            "resource_uri": "/api/v1/location/51882/"
+          },
+          {
+            "id": 51883,
+            "name": "Villa Marqués Alejandro María de Aguado",
+            "resource_uri": "/api/v1/location/51883/"
+          },
+          {
+            "id": 51884,
+            "name": "Villa María Irene de los Remedios de Escalada",
+            "resource_uri": "/api/v1/location/51884/"
+          },
+          {
+            "id": 51885,
+            "name": "Villa Parque Presidente Figueroa Alcorta",
+            "resource_uri": "/api/v1/location/51885/"
+          },
+          {
+            "id": 51886,
+            "name": "Villa Parque San Lorenzo",
+            "resource_uri": "/api/v1/location/51886/"
+          },
+          {
+            "id": 51887,
+            "name": "Villa Yapeyú",
+            "resource_uri": "/api/v1/location/51887/"
+          },
+          {
+            "id": 254227,
+            "name": "Loma Hermosa",
+            "resource_uri": "/api/v1/location/254227/"
+          },
+          {
+            "id": 254580,
+            "name": "Villa Bonich",
+            "resource_uri": "/api/v1/location/254580/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
+        "id": 25013,
+        "name": "General San Martin",
+        "parent_division": null,
+        "short_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
+        "state": "/api/v1/state/147/",
+        "weight": 2250,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 2,
+          "operation_type": "Alquiler",
+          "prices": [
+            {
+              "currency": "ARS",
+              "is_promotional": false,
+              "period": 0,
+              "price": 3000000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_24452956794296818183907682218632705477669722761728443989883615522045451856845.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_244529567942968181839076822186327054776697227617284439898836155220454.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_24452956794296818183907682218632705477669722761728443989883615522045451856845_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_24452956794296818183907682218632705477669722761728443989883615522045451856845_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_72784171286226105153798303668154436830131065408010145505891913112045858100002.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_727841712862261051537983036681544368301310654080101455058919131120458.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_72784171286226105153798303668154436830131065408010145505891913112045858100002_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_72784171286226105153798303668154436830131065408010145505891913112045858100002_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_112935829407650569808374589876917422387427594226121211691687106443570865346295.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_112935829407650569808374589876917422387427594226121211691687106443570.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_112935829407650569808374589876917422387427594226121211691687106443570865346295_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_112935829407650569808374589876917422387427594226121211691687106443570865346295_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_101062950734969084868685409607465445265069808847431196086114337076948242009720.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_101062950734969084868685409607465445265069808847431196086114337076948.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_101062950734969084868685409607465445265069808847431196086114337076948242009720_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_101062950734969084868685409607465445265069808847431196086114337076948242009720_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_19571008367952793517118783377779616176005280864062988814188965612582387364078.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_195710083679527935171187833777796161760052808640629888141889656125823.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_19571008367952793517118783377779616176005280864062988814188965612582387364078_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_19571008367952793517118783377779616176005280864062988814188965612582387364078_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_6433945333924829634392239867023234492693901962073452709213314398236786282607.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_643394533392482963439223986702323449269390196207345270921331439823678.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_6433945333924829634392239867023234492693901962073452709213314398236786282607_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_6433945333924829634392239867023234492693901962073452709213314398236786282607_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_74589606916245154542596205891021068169442822784126933773966914757074592447698.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_745896069162451545425962058910210681694428227841269337739669147570745.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_74589606916245154542596205891021068169442822784126933773966914757074592447698_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_74589606916245154542596205891021068169442822784126933773966914757074592447698_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_112884613397992215211156931661420062254633776046868102640379589779124224826733.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_112884613397992215211156931661420062254633776046868102640379589779124.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_112884613397992215211156931661420062254633776046868102640379589779124224826733_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_112884613397992215211156931661420062254633776046868102640379589779124224826733_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_112136513950412168722081680945101804930989767502383101728476858709836857780509.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_112136513950412168722081680945101804930989767502383101728476858709836.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_112136513950412168722081680945101804930989767502383101728476858709836857780509_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_112136513950412168722081680945101804930989767502383101728476858709836857780509_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_3812526516012357315688560809520629174401437054404630393214026248496257420632.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_381252651601235731568856080952062917440143705440463039321402624849625.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_3812526516012357315688560809520629174401437054404630393214026248496257420632_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_3812526516012357315688560809520629174401437054404630393214026248496257420632_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/11823048_115693773344881035780994553087509022352599744602824955595478396728936434956402.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/11823048_115693773344881035780994553087509022352599744602824955595478396728936.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/11823048_115693773344881035780994553087509022352599744602824955595478396728936434956402_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/11823048_115693773344881035780994553087509022352599744602824955595478396728936434956402_t.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "5491124012673",
+        "email": "belenvitale89@gmail.com",
+        "id": 114098,
+        "name": "Belen Vitale",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "property_condition": "---",
+      "public_url": "https://ficha.info/p/eXLSudDQsyJbba",
+      "publication_title": "Galpón en General San Martin",
+      "quality_level": null,
+      "real_address": "ALQUILER GALPON  - Mitre 4545 - San Martin",
+      "reference_code": "DGL11823048",
+      "rich_description": "IMPORTANTE GALPÓN EN ZONA INDUSTRIAL (ID)<div><br></div><div><span style=\"font-weight: bold;\">&nbsp;Excelente oportunidad para uso industrial&nbsp;</span>\r\n<br class=\"Apple-interchange-newline\"></div><div><br></div><div>Galpón de 600 m², distribuido en dos plantas, con amplios espacios y excelente funcionalidad.</div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">PLANTA BAJA – 450 m².</span></div><div><br></div><div>* Entrada para vehículos.</div><div>* Amplio espacio de trabajo.</div><div>* Dos grandes sectores sin divisiones, con aproximadamente 360 m².</div><div>* Vestuario.</div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">PLANTA ALTA – 150 m²</span></div><div><br></div><div>* Amplio espacio de trabajo o almacenamiento.</div><div>* Acceso mediante montacarga.</div><div><br></div><div>INSTALACIONES</div><div><br></div><div>* Instalación eléctrica trifásica.</div><div><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">CONDICIONES:&nbsp;&nbsp;</span></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div><div>*- Contrato por 24 meses.</div><div>*- Incremento trimestral según ICL.</div><div><br></div>                \r\n\r\n            ",
+      "roofed_surface": "0.00",
+      "room_amount": 0,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 0,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 1494,
+          "name": "Montacargas",
+          "type": 3
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "600.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "GL",
+        "id": 24,
+        "name": "Galpón"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2026-10-08T17:32:16",
+      "enhanced_description": "<h3>Descripción del Inmueble</h3>\n<p>Galpón de 600 m² distribuido en dos plantas, con amplios espacios y excelente funcionalidad. Excelente oportunidad para uso industrial.</p>\n\n<h3>Planta Baja</h3>\n<ul>\n<li>450 m²</li>\n<li>Entrada para vehículos</li>\n<li>Amplio espacio de trabajo</li>\n<li>Dos grandes sectores sin divisiones, aproximadamente 360 m²</li>\n<li>Vestuario</li>\n</ul>\n\n<h3>Planta Alta</h3>\n<ul>\n<li>150 m²</li>\n<li>Amplio espacio de trabajo o almacenamiento</li>\n<li>Acceso mediante montacarga</li>\n</ul>\n\n<h3>Instalaciones</h3>\n<ul>\n<li>Instalación eléctrica trifásica</li>\n</ul>\n\n<h3>Condiciones</h3>\n<ul>\n<li>Contrato por 24 meses</li>\n<li>Incremento trimestral según ICL</li>\n</ul>"
     }
   ]
 }
