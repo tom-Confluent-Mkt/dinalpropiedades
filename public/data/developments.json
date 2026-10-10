@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-09T12:21:43.791Z"
+    "lastSync": "2026-10-10T11:40:25.610Z"
   },
   "objects": [
     {
@@ -31,10 +31,10 @@
         "phone_extension": "",
         "use_pdf_footer": false
       },
-      "construction_date": "2026-07-01",
+      "construction_date": "2026-10-01",
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-06-23T15:16:08",
+      "deleted_at": "2026-10-09T15:03:33",
       "description": "YAPEYÚ 1972 – SAN MARTÍN\n\nViví donde todo te queda cerca\n\nEdificio en construcción ubicado en una de las mejores zonas de San Martín, con excelente conectividad y cercanía a los principales puntos de interés de la ciudad.\n\n* A media cuadra de la peatonal Belgrano \n* A 2 cuadras de Av. 25 de Mayo.\n* Rápido acceso a General Paz y Autopista 25 de Mayo.\n* A 4 cuadras de la Estación San Martín del Ferrocarril Mitre.\n* Cercano a centros comerciales, colegios, Universidad Nacional de San Martín (UNSAM) y Tribunales.\n\nUn proyecto pensado para disfrutar\n\nDepartamentos de 2, 3 y 4 ambientes con superficies desde 51 m² hasta 113 m², con opciones de hasta 116 m² según tipología.\n\n* Amplias unidades.\n* Excelente distribución.\n* Ambientes luminosos.\n* Balcones con deck y parrilla exclusiva.\n\nAdemás, el edificio contará con terrazas de uso común para disfrutar al aire libre.\n\nCalidad constructiva\n\n* Estructura de hormigón armado.\n* Mampostería en ladrillo cerámico hueco.\n* Muros exteriores con doble pared.\n* Terminaciones exteriores tipo Tarquini o revoque pintado.\n* Aberturas de aluminio con DVH (Doble Vidrio Hermético).\n\nTerminaciones interiores\n\n* Pisos de porcelanato de primera calidad.\n* Dormitorios con porcelanato simil madera.\n* Placares con frente de piso a techo.\n* Paredes terminadas en yeso.\n* Cielorrasos de yeso.\n* Puertas interiores tipo placa.\n\nCocina equipada\n\n* Muebles bajo mesada y alacena en melamina.\n* Mesada de granito.\n* Pileta de acero inoxidable.\n* Grifería monocomando FV.\n* Cocina eléctrica (opción a gas según provisión del servicio).\n\nBaños completos\n\n* Revestimientos de piso a techo.\n* Vanitory y accesorios.\n* Mampara de vidrio.\n* Griferías de primera marca.\n\nInstalaciones\n\n* Agua fría y caliente por termofusión.\n* Termotanque eléctrico (o a gas según corresponda).\n* Preinstalación para aire acondicionado.\n* Cañerías para cable e internet.\n* Portero eléctrico con visor.\n\nConsultanos y conocé tu próximo hogar en San Martín.\n\nUna excelente oportunidad para vivir o invertir en una ubicación estratégica con el respaldo y la calidad de Dinal Propiedades.",
       "display_on_web": true,
       "excel_extra_headers": "[]",
@@ -53,6 +53,7 @@
         "parent_division": "/api/v1/location/25014/",
         "short_location": "General San Martin | General San Martin | S.Martin(Ctro)",
         "state": null,
+        "type": "Barrio",
         "weight": 802,
         "zip_code": null
       },
@@ -531,6 +532,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
@@ -998,6 +1000,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
@@ -1430,6 +1433,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
@@ -1883,6 +1887,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
@@ -2208,6 +2213,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
@@ -2488,6 +2494,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
@@ -2664,10 +2671,10 @@
         "phone_extension": "",
         "use_pdf_footer": false
       },
-      "construction_date": "2027-05-01",
+      "construction_date": "2027-07-01",
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-10-01T18:38:03",
+      "deleted_at": "2026-10-09T15:04:04",
       "description": "25 DE MAYO 2036 – SAN MARTÍN\n\nNuevo edificio en construcción, ubicado en el corazón de San Martín, en una zona estratégica y de fácil acceso.\n\n A 5 cuadras de Av. Perón\n A 8 cuadras de Av. Balbín y Metrobus\n Salida directa a General Paz y Av. 25 de Mayo\n A 4 cuadras de la Estación Mitre\n Cercano a Centro Comercial, Colegios, UNSAM y Tribunales\n\nDepartamentos desde 48 m² hasta 97 m², diseñados para brindar comodidad, funcionalidad y calidad.\n\n Cocina amplia con muebles completos\n Living comedor luminoso\n Baños completos\n Terminaciones de categoría\n\n\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\n\nESTRUCTURA Y AISLACIÓN\n\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.\n* Muros exteriores con aislación térmica equivalente a doble muro.\n* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\n\nABERTURAS Y TERMINACIONES\n\n* Aberturas de aluminio con doble vidriado hermético (DVH).\n* Pisos de porcelanato rectificado o de calidad equivalente.\n* Dormitorios con frente de placard.\n* Cielorrasos de yeso armado o aplicado.\n* Paredes interiores con terminación en yeso.\n* Puertas interiores tipo placa de MDF.\n\nCOCINA\n\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.\n* Mesada de granito.\n* Bacha de acero inoxidable y grifería monocomando.\n* Cocina eléctrica.\n\nBAÑOS\n\n* Baños completos con revestimiento de piso a techo.\n* Vanitory, espejo, griferías y accesorios.\n\nINSTALACIONES Y CONFORT\n\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.\n* Termotanque eléctrico para agua caliente.\n* Preinstalación para aire acondicionado en estar y dormitorio.\n* Canalizaciones previstas para TV por cable.\n* Portero eléctrico.\n\nIMPORTANTE\nEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\n Consultanos y conocé más sobre este proyecto",
       "display_on_web": true,
       "excel_extra_headers": "[]",
@@ -2686,6 +2693,7 @@
         "parent_division": "/api/v1/location/25014/",
         "short_location": "General San Martin | General San Martin | B.San Martin",
         "state": null,
+        "type": "Barrio",
         "weight": 244,
         "zip_code": null
       },
@@ -2913,10 +2921,10 @@
         "phone_extension": "",
         "use_pdf_footer": false
       },
-      "construction_date": "2026-10-01",
+      "construction_date": "2026-12-01",
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-10-01T18:36:56",
+      "deleted_at": "2026-10-09T15:04:21",
       "description": "RIVADAVIA 3880 – SAN MARTÍN\n\nEdificio en construcción, ubicado en el corazón de San Martín. Un proyecto pensado para vivir con confort, diseño, calidad y excelentes terminaciones.\n\nEl emprendimiento cuenta con 8 pisos y unidades de 2 y 3 ambientes, con superficies desde 56 m² hasta 90 m², todas pensadas para ofrecer ambientes funcionales, excelente distribución y espacios exteriores.\n\nLas unidades cuentan con balcón y parrilla, ideales para disfrutar y aprovechar al máximo cada ambiente.\n\nSE DUEÑO Y ENAMORATE DE TU PRIMER HOGAR\n\nNuestro objetivo: cumplir tus sueños.\nNuestro método: anticipo + cuotas en pesos.\n\n* Anticipo + cuotas en pesos, ajustadas por CAC.\n* Planes de financiación personalizados.\n* Unidades de 2 y 3 ambientes.\n* Superficies desde 56 m² hasta 90 m².\n* Balcón y parrilla.\n\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\n\nESTRUCTURA Y AISLACIÓN\n\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.\n* Muros exteriores con aislación térmica equivalente a doble muro.\n* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\n\nABERTURAS Y TERMINACIONES\n\n* Aberturas de aluminio con doble vidriado hermético (DVH).\n* Pisos de porcelanato rectificado o de calidad equivalente.\n* Dormitorios con frente de placard.\n* Cielorrasos de yeso armado o aplicado.\n* Paredes interiores con terminación en yeso.\n* Puertas interiores tipo placa de MDF.\n\nCOCINA\n\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.\n* Mesada de granito.\n* Bacha de acero inoxidable con grifería monocomando.\n* Cocina eléctrica.\n\nBAÑOS\n\n* Baños completos con revestimiento de piso a techo.\n* Vanitory, espejo, griferías y accesorios.\n\nINSTALACIONES Y CONFORT\n\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.\n* Termotanque eléctrico para agua caliente.\n* Preinstalación para aire acondicionado en estar y dormitorio.\n* Canalizaciones previstas para TV por cable.\n* Portero eléctrico.\n\nIMPORTANTE\n\nEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\n\n¡ÚLTIMAS UNIDADES DISPONIBLES!\n\nConsultanos y asegurá tu lugar en Rivadavia 3880, San Martín.",
       "display_on_web": true,
       "excel_extra_headers": "[]",
@@ -3061,6 +3069,7 @@
         "parent_division": null,
         "short_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
         "state": "/api/v1/state/147/",
+        "type": "Área",
         "weight": 2250,
         "zip_code": null
       },
@@ -3338,10 +3347,10 @@
         "phone_extension": "",
         "use_pdf_footer": false
       },
-      "construction_date": "2026-10-01",
+      "construction_date": "2026-12-01",
       "construction_status": 4,
       "custom_tags": [],
-      "deleted_at": "2026-10-01T18:31:44",
+      "deleted_at": "2026-10-09T15:04:36",
       "description": "25 DE MAYO 1761 – SAN MARTÍN\n\nPresentamos este edificio en construcción, ubicado en el corazón de San Martín.\n\n Nuestro objetivo: cumplir tus sueños\n Nuestro método: anticipo + cuotas en pesos\n\n¡El departamento que elegís es tuyo!\n\n\n \nCALIDAD CONSTRUCTIVA Y TERMINACIONES\n\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\n\nESTRUCTURA Y AISLACIÓN\n\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.\n* Muros exteriores con aislación térmica equivalente a doble muro.\n* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\n\nABERTURAS Y TERMINACIONES\n\n* Aberturas de aluminio con doble vidriado hermético (DVH).\n* Pisos de porcelanato rectificado o de calidad equivalente.\n* Dormitorios con frente de placard.\n* Cielorrasos de yeso armado o aplicado.\n* Paredes interiores con terminación en yeso.\n* Puertas interiores tipo placa de MDF.\n\nCOCINA\n\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.\n* Mesada de granito.\n* Bacha de acero inoxidable y grifería monocomando.\n* Cocina eléctrica.\n\nBAÑOS\n\n* Baños completos con revestimiento de piso a techo.\n* Vanitory, espejo, griferías y accesorios.\n\nINSTALACIONES Y CONFORT\n\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.\n* Termotanque eléctrico para agua caliente.\n* Preinstalación para aire acondicionado en estar y dormitorio.\n* Canalizaciones previstas para TV por cable.\n* Portero eléctrico.\n\nIMPORTANTE\nEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n\n\nSE DUEÑO Y ENAMORATE DE TU PRIMER HOGAR\nCon la financiación de siempre y calidad PREMIUM .-\nFINANCIACIÓN FLEXIBLE\n\n\n Anticipo + cuotas en pesos (ajustadas por índice CAC)\n Planes personalizados según tu necesidad\n\n Consultanos y accedé a tu próximo hogar",
       "display_on_web": true,
       "excel_extra_headers": "[]",
@@ -3436,6 +3445,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
@@ -3841,6 +3851,7 @@
         "parent_division": null,
         "short_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
         "state": "/api/v1/state/147/",
+        "type": "Área",
         "weight": 2250,
         "zip_code": null
       },
@@ -4166,6 +4177,7 @@
         "parent_division": null,
         "short_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
         "state": "/api/v1/state/147/",
+        "type": "Área",
         "weight": 2250,
         "zip_code": null
       },
@@ -4435,6 +4447,7 @@
         "parent_division": "/api/v1/location/25014/",
         "short_location": "General San Martin | General San Martin | S.Martin(Ctro)",
         "state": null,
+        "type": "Barrio",
         "weight": 802,
         "zip_code": null
       },
@@ -4780,6 +4793,7 @@
         "parent_division": null,
         "short_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
         "state": "/api/v1/state/147/",
+        "type": "Área",
         "weight": 2250,
         "zip_code": null
       },
@@ -5150,6 +5164,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
@@ -5575,6 +5590,7 @@
         "parent_division": "/api/v1/location/25013/",
         "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
         "state": null,
+        "type": "Localidad",
         "weight": 1624,
         "zip_code": null
       },
