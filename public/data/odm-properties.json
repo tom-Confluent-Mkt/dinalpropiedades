@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-10T11:40:48.788Z"
+    "lastSync": "2026-10-11T11:53:55.067Z"
   },
   "objects": [
     {
@@ -183,6 +183,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -584,6 +585,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
           "state": null,
+          "type": "Barrio",
           "weight": 289,
           "zip_code": null
         },
@@ -981,6 +983,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -1498,6 +1501,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Stella Maris",
         "state": null,
+        "type": "Barrio",
         "weight": 291,
         "zip_code": null
       },
@@ -1899,6 +1903,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
           "state": null,
+          "type": "Barrio",
           "weight": 289,
           "zip_code": null
         },
@@ -2230,6 +2235,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -2653,6 +2659,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -2999,6 +3006,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
           "state": null,
+          "type": "Barrio",
           "weight": 559,
           "zip_code": null
         },
@@ -3293,6 +3301,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
         "state": null,
+        "type": "Barrio",
         "weight": 559,
         "zip_code": null
       },
@@ -3664,6 +3673,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
           "state": null,
+          "type": "Barrio",
           "weight": 489,
           "zip_code": null
         },
@@ -4110,6 +4120,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
         "state": null,
+        "type": "Barrio",
         "weight": 489,
         "zip_code": null
       },
@@ -4661,6 +4672,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
           "state": null,
+          "type": "Barrio",
           "weight": 489,
           "zip_code": null
         },
@@ -5107,6 +5119,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
         "state": null,
+        "type": "Barrio",
         "weight": 489,
         "zip_code": null
       },
@@ -5718,6 +5731,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
           "state": null,
+          "type": "Barrio",
           "weight": 489,
           "zip_code": null
         },
@@ -6164,6 +6178,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
         "state": null,
+        "type": "Barrio",
         "weight": 489,
         "zip_code": null
       },
@@ -6675,6 +6690,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
           "state": null,
+          "type": "Barrio",
           "weight": 489,
           "zip_code": null
         },
@@ -7121,6 +7137,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
         "state": null,
+        "type": "Barrio",
         "weight": 489,
         "zip_code": null
       },
@@ -7622,6 +7639,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
           "state": null,
+          "type": "Barrio",
           "weight": 489,
           "zip_code": null
         },
@@ -8068,6 +8086,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
         "state": null,
+        "type": "Barrio",
         "weight": 489,
         "zip_code": null
       },
@@ -8579,6 +8598,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
           "state": null,
+          "type": "Barrio",
           "weight": 489,
           "zip_code": null
         },
@@ -9025,6 +9045,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Constitución",
         "state": null,
+        "type": "Barrio",
         "weight": 489,
         "zip_code": null
       },
@@ -9651,6 +9672,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
           "state": null,
+          "type": "Barrio",
           "weight": 289,
           "zip_code": null
         },
@@ -10034,6 +10056,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -10670,6 +10693,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
           "state": null,
+          "type": "Barrio",
           "weight": 289,
           "zip_code": null
         },
@@ -11053,6 +11077,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -11609,6 +11634,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
           "state": null,
+          "type": "Barrio",
           "weight": 289,
           "zip_code": null
         },
@@ -11992,6 +12018,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -12628,6 +12655,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
           "state": null,
+          "type": "Barrio",
           "weight": 289,
           "zip_code": null
         },
@@ -13011,6 +13039,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -13647,6 +13676,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
           "state": null,
+          "type": "Barrio",
           "weight": 289,
           "zip_code": null
         },
@@ -14030,6 +14060,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -14586,6 +14617,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
           "state": null,
+          "type": "Barrio",
           "weight": 559,
           "zip_code": null
         },
@@ -14855,6 +14887,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
         "state": null,
+        "type": "Barrio",
         "weight": 559,
         "zip_code": null
       },
@@ -15220,6 +15253,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Macrocentro",
           "state": null,
+          "type": "Barrio",
           "weight": 557,
           "zip_code": null
         },
@@ -15509,6 +15543,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -15875,6 +15910,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
           "state": null,
+          "type": "Barrio",
           "weight": 559,
           "zip_code": null
         },
@@ -16151,6 +16187,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
         "state": null,
+        "type": "Barrio",
         "weight": 559,
         "zip_code": null
       },
@@ -16521,6 +16558,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Macrocentro",
           "state": null,
+          "type": "Barrio",
           "weight": 557,
           "zip_code": null
         },
@@ -16810,6 +16848,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -17180,6 +17219,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Macrocentro",
           "state": null,
+          "type": "Barrio",
           "weight": 557,
           "zip_code": null
         },
@@ -17469,6 +17509,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -17839,6 +17880,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Macrocentro",
           "state": null,
+          "type": "Barrio",
           "weight": 557,
           "zip_code": null
         },
@@ -18128,6 +18170,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -18498,6 +18541,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Macrocentro",
           "state": null,
+          "type": "Barrio",
           "weight": 557,
           "zip_code": null
         },
@@ -18787,6 +18831,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -19170,6 +19215,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Guemes",
           "state": null,
+          "type": "Barrio",
           "weight": 1349,
           "zip_code": null
         },
@@ -19534,6 +19580,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -19962,6 +20009,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Guemes",
           "state": null,
+          "type": "Barrio",
           "weight": 1349,
           "zip_code": null
         },
@@ -20326,6 +20374,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -20754,6 +20803,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Guemes",
           "state": null,
+          "type": "Barrio",
           "weight": 1349,
           "zip_code": null
         },
@@ -21118,6 +21168,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Guemes",
         "state": null,
+        "type": "Barrio",
         "weight": 1349,
         "zip_code": null
       },
@@ -21551,6 +21602,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -21979,6 +22031,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -22345,6 +22398,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -22664,6 +22718,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -23040,6 +23095,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -23359,6 +23415,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -23725,6 +23782,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -24044,6 +24102,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -24410,6 +24469,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -24729,6 +24789,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -25095,6 +25156,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -25414,6 +25476,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -25780,6 +25843,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -26099,6 +26163,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -26465,6 +26530,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -26784,6 +26850,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -27150,6 +27217,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -27469,6 +27537,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -27835,6 +27904,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Centro",
           "state": null,
+          "type": "Barrio",
           "weight": 3558,
           "zip_code": null
         },
@@ -28154,6 +28224,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -28520,6 +28591,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
           "state": null,
+          "type": "Barrio",
           "weight": 559,
           "zip_code": null
         },
@@ -28789,6 +28861,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
         "state": null,
+        "type": "Barrio",
         "weight": 559,
         "zip_code": null
       },
@@ -29144,6 +29217,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | La Perla Norte",
           "state": null,
+          "type": "Barrio",
           "weight": 363,
           "zip_code": null
         },
@@ -29440,6 +29514,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | La Perla Norte",
         "state": null,
+        "type": "Barrio",
         "weight": 363,
         "zip_code": null
       },
@@ -29825,6 +29900,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Terminal",
         "state": null,
+        "type": "Barrio",
         "weight": 117,
         "zip_code": null
       },
@@ -30190,6 +30266,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | La Perla Norte",
           "state": null,
+          "type": "Barrio",
           "weight": 363,
           "zip_code": null
         },
@@ -30486,6 +30563,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | La Perla Norte",
         "state": null,
+        "type": "Barrio",
         "weight": 363,
         "zip_code": null
       },
@@ -30861,6 +30939,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Macrocentro",
           "state": null,
+          "type": "Barrio",
           "weight": 557,
           "zip_code": null
         },
@@ -31150,6 +31229,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Centro",
         "state": null,
+        "type": "Barrio",
         "weight": 3558,
         "zip_code": null
       },
@@ -31526,6 +31606,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
           "state": null,
+          "type": "Barrio",
           "weight": 559,
           "zip_code": null
         },
@@ -31795,6 +31876,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | La Perla",
         "state": null,
+        "type": "Barrio",
         "weight": 559,
         "zip_code": null
       },
@@ -32176,6 +32258,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
           "state": null,
+          "type": "Barrio",
           "weight": 289,
           "zip_code": null
         },
@@ -32573,6 +32656,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Punta Mogotes",
         "state": null,
+        "type": "Barrio",
         "weight": 289,
         "zip_code": null
       },
@@ -33787,6 +33871,7 @@
         "parent_division": null,
         "short_location": "Argentina | Costa Atlantica | Mar Del Plata ",
         "state": "/api/v1/state/150/",
+        "type": "Localidad",
         "weight": 3688,
         "zip_code": ""
       },
@@ -34048,6 +34133,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Guemes",
           "state": null,
+          "type": "Barrio",
           "weight": 1349,
           "zip_code": null
         },
@@ -34326,6 +34412,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
         "state": null,
+        "type": "Barrio",
         "weight": 311,
         "zip_code": null
       },
@@ -34711,6 +34798,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Macrocentro",
           "state": null,
+          "type": "Barrio",
           "weight": 557,
           "zip_code": null
         },
@@ -35019,6 +35107,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Macrocentro",
         "state": null,
+        "type": "Barrio",
         "weight": 557,
         "zip_code": null
       },
@@ -35432,6 +35521,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
           "state": null,
+          "type": "Barrio",
           "weight": 311,
           "zip_code": null
         },
@@ -35783,6 +35873,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
         "state": null,
+        "type": "Barrio",
         "weight": 311,
         "zip_code": null
       },
@@ -36167,6 +36258,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
           "state": null,
+          "type": "Barrio",
           "weight": 311,
           "zip_code": null
         },
@@ -36530,6 +36622,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
         "state": null,
+        "type": "Barrio",
         "weight": 311,
         "zip_code": null
       },
@@ -36843,6 +36936,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
           "state": null,
+          "type": "Barrio",
           "weight": 311,
           "zip_code": null
         },
@@ -37213,6 +37307,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
         "state": null,
+        "type": "Barrio",
         "weight": 311,
         "zip_code": null
       },
@@ -37541,6 +37636,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
           "state": null,
+          "type": "Barrio",
           "weight": 311,
           "zip_code": null
         },
@@ -37812,6 +37908,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
         "state": null,
+        "type": "Barrio",
         "weight": 311,
         "zip_code": null
       },
@@ -38050,6 +38147,7 @@
           "parent_division": "/api/v1/location/26624/",
           "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
           "state": null,
+          "type": "Barrio",
           "weight": 311,
           "zip_code": null
         },
@@ -38340,6 +38438,7 @@
         "parent_division": "/api/v1/location/26624/",
         "short_location": "Costa Atlantica | Mar Del Plata | Terminal Vieja",
         "state": null,
+        "type": "Barrio",
         "weight": 311,
         "zip_code": null
       },
