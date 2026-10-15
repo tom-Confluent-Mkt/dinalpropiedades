@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-14T10:57:09.595Z"
+    "lastSync": "2026-10-15T10:38:40.576Z"
   },
   "objects": [
     {
@@ -603,20 +603,40 @@
           },
           {
             "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
             "order": 1,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 2,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_thumb.jpg"
           },
           {
             "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 3,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_thumb.jpg"
+          },
+          {
+            "description": null,
             "image": "https://static.tokkobroker.com/dev_pictures/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 2,
+            "order": 4,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401_thumb.jpg"
@@ -626,7 +646,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 3,
+            "order": 5,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579_thumb.jpg"
@@ -636,7 +656,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 4,
+            "order": 6,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253_thumb.jpg"
@@ -646,7 +666,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 5,
+            "order": 7,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134_thumb.jpg"
@@ -656,7 +676,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 6,
+            "order": 8,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422_thumb.jpg"
@@ -666,27 +686,17 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 7,
+            "order": 9,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360_thumb.jpg"
           },
           {
             "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
-            "is_blueprint": false,
-            "is_front_cover": false,
-            "order": 8,
-            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
-            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_og.jpg",
-            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_thumb.jpg"
-          },
-          {
-            "description": null,
             "image": "https://static.tokkobroker.com/dev_pictures/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 9,
+            "order": 10,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572_thumb.jpg"
@@ -696,20 +706,10 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 10,
+            "order": 11,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338_thumb.jpg"
-          },
-          {
-            "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
-            "is_blueprint": false,
-            "is_front_cover": false,
-            "order": 11,
-            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
-            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_og.jpg",
-            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_thumb.jpg"
           }
         ],
         "publication_title": "Edificio en Punta Mogotes",
@@ -777,6 +777,11 @@
             "type": 3
           },
           {
+            "id": 46,
+            "name": "Apto mascotas",
+            "type": 3
+          },
+          {
             "id": 147,
             "name": "Caldera",
             "type": 3
@@ -820,6 +825,11 @@
             "id": 1514,
             "name": "Calefacción por radiadores",
             "type": 3
+          },
+          {
+            "id": 1529,
+            "name": "Venta Directa",
+            "type": 9
           },
           {
             "id": 1573,
@@ -1921,20 +1931,40 @@
           },
           {
             "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
             "order": 1,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 2,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_thumb.jpg"
           },
           {
             "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 3,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_thumb.jpg"
+          },
+          {
+            "description": null,
             "image": "https://static.tokkobroker.com/dev_pictures/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 2,
+            "order": 4,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401_thumb.jpg"
@@ -1944,7 +1974,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 3,
+            "order": 5,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579_thumb.jpg"
@@ -1954,7 +1984,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 4,
+            "order": 6,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253_thumb.jpg"
@@ -1964,7 +1994,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 5,
+            "order": 7,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134_thumb.jpg"
@@ -1974,7 +2004,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 6,
+            "order": 8,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422_thumb.jpg"
@@ -1984,27 +2014,17 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 7,
+            "order": 9,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360_thumb.jpg"
           },
           {
             "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
-            "is_blueprint": false,
-            "is_front_cover": false,
-            "order": 8,
-            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
-            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_og.jpg",
-            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_thumb.jpg"
-          },
-          {
-            "description": null,
             "image": "https://static.tokkobroker.com/dev_pictures/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 9,
+            "order": 10,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572_thumb.jpg"
@@ -2014,20 +2034,10 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 10,
+            "order": 11,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338_thumb.jpg"
-          },
-          {
-            "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
-            "is_blueprint": false,
-            "is_front_cover": false,
-            "order": 11,
-            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
-            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_og.jpg",
-            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_thumb.jpg"
           }
         ],
         "publication_title": "Edificio en Punta Mogotes",
@@ -2095,6 +2105,11 @@
             "type": 3
           },
           {
+            "id": 46,
+            "name": "Apto mascotas",
+            "type": 3
+          },
+          {
             "id": 147,
             "name": "Caldera",
             "type": 3
@@ -2138,6 +2153,11 @@
             "id": 1514,
             "name": "Calefacción por radiadores",
             "type": 3
+          },
+          {
+            "id": 1529,
+            "name": "Venta Directa",
+            "type": 9
           },
           {
             "id": 1573,
@@ -32276,20 +32296,40 @@
           },
           {
             "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
             "order": 1,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_thumb.jpg"
+          },
+          {
+            "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 2,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_24889674972250431448858807474889270112861426922692324838011878149398544206543_thumb.jpg"
           },
           {
             "description": null,
+            "image": "https://static.tokkobroker.com/dev_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
+            "is_blueprint": false,
+            "is_front_cover": false,
+            "order": 3,
+            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
+            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_og.jpg",
+            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_thumb.jpg"
+          },
+          {
+            "description": null,
             "image": "https://static.tokkobroker.com/dev_pictures/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 2,
+            "order": 4,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_63739169963158954602737874749140977211993270040130768440447607551475524792401_thumb.jpg"
@@ -32299,7 +32339,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 3,
+            "order": 5,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_33044134014700098390422610065544265946620824853627672533029224788689152973579_thumb.jpg"
@@ -32309,7 +32349,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 4,
+            "order": 6,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_88425279846815114678201482782224554512464963459635117401171641734611120501253_thumb.jpg"
@@ -32319,7 +32359,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 5,
+            "order": 7,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_107919641411630261294748549111838854991530943047834649070526331056062133218134_thumb.jpg"
@@ -32329,7 +32369,7 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 6,
+            "order": 8,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_16982201784602604192823415317218860621727342333815690044963544031559829305422_thumb.jpg"
@@ -32339,27 +32379,17 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 7,
+            "order": 9,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_111138006069966597757617712528925477184367243867695360842163748113397422283360_thumb.jpg"
           },
           {
             "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
-            "is_blueprint": false,
-            "is_front_cover": false,
-            "order": 8,
-            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449.jpg",
-            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_og.jpg",
-            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_94920235335362041117181041810837647031510930535355760102355637803931084358449_thumb.jpg"
-          },
-          {
-            "description": null,
             "image": "https://static.tokkobroker.com/dev_pictures/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 9,
+            "order": 10,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_115254537180400439979329335929060458200149939524570509192382793030615163119572_thumb.jpg"
@@ -32369,20 +32399,10 @@
             "image": "https://static.tokkobroker.com/dev_pictures/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338.jpg",
             "is_blueprint": false,
             "is_front_cover": false,
-            "order": 10,
+            "order": 11,
             "original": "https://static.tokkobroker.com/dev_original_pictures/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338.jpg",
             "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338_og.jpg",
             "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_25733420644011635471820236719013746634075959294400677650235299462094818060338_thumb.jpg"
-          },
-          {
-            "description": null,
-            "image": "https://static.tokkobroker.com/dev_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
-            "is_blueprint": false,
-            "is_front_cover": false,
-            "order": 11,
-            "original": "https://static.tokkobroker.com/dev_original_pictures/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107.jpg",
-            "social_media_url": "https://static.tokkobroker.com/sm_pics/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_og.jpg",
-            "thumb": "https://static.tokkobroker.com/dev_thumbs/94568_108231896341817287031182760307468653244072730640377639693880085725682863794107_thumb.jpg"
           }
         ],
         "publication_title": "Edificio en Punta Mogotes",
@@ -32450,6 +32470,11 @@
             "type": 3
           },
           {
+            "id": 46,
+            "name": "Apto mascotas",
+            "type": 3
+          },
+          {
             "id": 147,
             "name": "Caldera",
             "type": 3
@@ -32493,6 +32518,11 @@
             "id": 1514,
             "name": "Calefacción por radiadores",
             "type": 3
+          },
+          {
+            "id": 1529,
+            "name": "Venta Directa",
+            "type": 9
           },
           {
             "id": 1573,

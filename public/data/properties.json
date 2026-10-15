@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-14T10:56:30.491Z"
+    "lastSync": "2026-10-15T10:38:01.648Z"
   },
   "objects": [
     {
@@ -9283,7 +9283,7 @@
     {
       "address": "Yapeyú al 1900 1°",
       "address_complement": "",
-      "age": -1,
+      "age": 0,
       "apartment_door": "",
       "appartments_per_floor": 5,
       "bathroom_amount": 2,
@@ -9322,9 +9322,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-03T20:39:28",
+      "deleted_at": "2026-10-14T15:17:55",
       "depth_measure": "0.00",
-      "description": "                            Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n*Moderno Departamento de 3 Ambientes con Balcón y Parrilla\n\n¡Descubre tu nuevo hogar!\n\nEste departamento de 3 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\nCaracterísticas Principales:\n\n* Dormitorios: un dormitorio en suite con vestidor y  segundo dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.\n* Lavadero: Independiente para mayor comodidad.\n* Baños: 2 (incluyendo el baño en suite), modernos y funcionales.\n\nVentajas Adicionales:\n\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.\n* Edificio con Amenities: Disfruta de las comodidades del SUM y la terraza verde sin salir de casa.\n* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con \nposibilidad de un segundo dormitorio, y personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \r\n            ",
+      "description": "YAPEYÚ 1972 – MODERNO DEPARTAMENTO DE 3 AMBIENTES CON BALCÓN Y PARRILLA\nExcelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.\nA tan solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y el Metrobus, 2 cuadras de Av. 25 de Mayo y 4 cuadras de la estación de tren de la línea Mitre. Además, se encuentra próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales.\nCARACTERÍSTICAS DEL DEPARTAMENTO\nModerno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.\n* Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos.* Cocina: completamente equipada y funcional.* Dormitorio principal: en suite, con vestidor.* Segundo dormitorio: con placard.* Baños: 2 baños completos, incluido el de la suite.* Balcón: propio, equipado con parrilla.* Lavadero: independiente, para mayor comodidad.\nUna excelente opción para quienes buscan comodidad, diseño y una ubicación estratégica en San Martín.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n            \r\n\r\n            ",
       "development": {
         "address": "Yapeyú  1972 - San Martin",
         "branch": {
@@ -9942,120 +9942,40 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770.jpg",
+          "image": "https://static.tokkobroker.com/pictures/2435164_104344502085004703991557497471135752766472293301029426378655425998866454778340.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/2435164_9621777073058750175461727608732412081367075393301406935784032593753598.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770_thu.jpg"
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/2435164_1043445020850047039915574974711357527664722933010294263786554259988664.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_104344502085004703991557497471135752766472293301029426378655425998866454778340_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2435164_104344502085004703991557497471135752766472293301029426378655425998866454778340_th.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/2435164_63989027871374520008028496653016262297145465902930156175521942107005596670426.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 0,
+          "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_6398902787137452000802849665301626229714546590293015617552194210700559.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_22174284575661907257354743763511769284342453600404600374656821004035341687436_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_63989027871374520008028496653016262297145465902930156175521942107005596670426_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/13462242358605255844625867507571495064795878764972944325848143683024142364862.jpg",
+          "image": "https://static.tokkobroker.com/pictures/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/13462242358605255844625867507571495064795878764972944325848143683024142364862.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/29094997_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/13462242358605255844625867507571495064795878764972944325848143683024142364862_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/54515942921608356363587170411822525308606023768254786692150201497313458342358.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/54515942921608356363587170411822525308606023768254786692150201497313458342358.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/54515942921608356363587170411822525308606023768254786692150201497313458342358_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/64150806210007495942319360571842526846840893025867947380477933881599542412165.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/64150806210007495942319360571842526846840893025867947380477933881599542412165.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/23247608_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/64150806210007495942319360571842526846840893025867947380477933881599542412165_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/2435164_6511935480739570679426785189084469676893135199847811549199792769043150492102.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/2435164_6511935480739570679426785189084469676893135199847811549199792769043150492102.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/2435164_6511935480739570679426785189084469676893135199847811549199792769043150492102_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/2435164_16464502775620192285624364254976775171334464094236561630918138859782397274472.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/2435164_16464502775620192285624364254976775171334464094236561630918138859782397274472.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/2435164_16464502775620192285624364254976775171334464094236561630918138859782397274472_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10354135861055210750374904739434768587482438997678669759682655606947268829680.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/10354135861055210750374904739434768587482438997678669759682655606947268829680.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/10354135861055210750374904739434768587482438997678669759682655606947268829680_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/103369492379399064051470097172106254858315162192000026178795943382639956667501.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/103369492379399064051470097172106254858315162192000026178795943382639956667501.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/103369492379399064051470097172106254858315162192000026178795943382639956667501_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/47631096713590909514496719727976903855686702799953984174255842944406181611670.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 10,
-          "original": "https://static.tokkobroker.com/original_pictures/47631096713590909514496719727976903855686702799953984174255842944406181611670.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/47631096713590909514496719727976903855686702799953984174255842944406181611670_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/2435164_66275060944356712270379687891628123905129646368113953589783134073600254284238.jpg",
-          "is_blueprint": true,
-          "is_front_cover": false,
-          "order": 11,
-          "original": "https://static.tokkobroker.com/original_pictures/2435164_66275060944356712270379687891628123905129646368113953589783134073600254284238.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/2435164_66275060944356712270379687891628123905129646368113953589783134073600254284238_thumb.jpg"
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/2435164_9621777073058750175461727608732412081367075393301406935784032593753598.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770_thu.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/2435164_30134450853949765119010910832189966415044567919992209760533206686250709231582.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 12,
+          "order": 3,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_30134450853949765119010910832189966415044567919992209760533206686250709231582.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_30134450853949765119010910832189966415044567919992209760533206686250709231582_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_30134450853949765119010910832189966415044567919992209760533206686250709231582_thumb.jpg"
@@ -10065,7 +9985,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_18773218719271416606773379141799530908809323794335784767324659225281521685762.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 13,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_18773218719271416606773379141799530908809323794335784767324659225281521685762.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_18773218719271416606773379141799530908809323794335784767324659225281521685762_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_18773218719271416606773379141799530908809323794335784767324659225281521685762_thumb.jpg"
@@ -10075,7 +9995,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_41187896708478333295640800360617807147842077612199274472656831176072670613343.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 14,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_41187896708478333295640800360617807147842077612199274472656831176072670613343.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_41187896708478333295640800360617807147842077612199274472656831176072670613343_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_41187896708478333295640800360617807147842077612199274472656831176072670613343_thumb.jpg"
@@ -10085,7 +10005,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_69014734288186883763932086192328836162873503244118319688609587581259696048480.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 15,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_69014734288186883763932086192328836162873503244118319688609587581259696048480.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_69014734288186883763932086192328836162873503244118319688609587581259696048480_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_69014734288186883763932086192328836162873503244118319688609587581259696048480_thumb.jpg"
@@ -10095,7 +10015,7 @@
           "image": "https://static.tokkobroker.com/pictures/2435164_78782298133310454490072258703255890923391433119265109859390354310128630386132.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 16,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/2435164_78782298133310454490072258703255890923391433119265109859390354310128630386132.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_78782298133310454490072258703255890923391433119265109859390354310128630386132_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_78782298133310454490072258703255890923391433119265109859390354310128630386132_thumb.jpg"
@@ -10118,13 +10038,13 @@
       "quality_level": null,
       "real_address": "Yapeyú 1972 1°B - San Martin",
       "reference_code": "DAP2435164",
-      "rich_description": "                            Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<br><div><br></div><div><br></div><div>*Moderno Departamento de 3 Ambientes con Balcón y Parrilla<br></div><div><br></div><div>¡Descubre tu nuevo hogar!<br></div><div><br></div><div>Este departamento de 3 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.<br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características Principales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Dormitorios: un dormitorio en suite con vestidor y  segundo dormitorio con placard.<br></div><div>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.<br></div><div>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.<br></div><div>* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.<br></div><div>* Lavadero: Independiente para mayor comodidad.<br></div><div>* Baños: 2 (incluyendo el baño en suite), modernos y funcionales.</div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Ventajas Adicionales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.<br></div><div>* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.<br></div><div>* Edificio con Amenities: Disfruta de las comodidades del SUM y la terraza verde sin salir de casa.<br></div><div>* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con </div><div><br></div><div>posibilidad de un segundo dormitorio, y personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.<br></div><div><br></div><div>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><br>        \r\n            ",
+      "rich_description": "<div>YAPEYÚ 1972 – MODERNO DEPARTAMENTO DE 3 AMBIENTES CON BALCÓN Y PARRILLA<div><br></div><div>Excelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.</div><div><br></div><div>A tan solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y el Metrobus, 2 cuadras de Av. 25 de Mayo y 4 cuadras de la estación de tren de la línea Mitre. Además, se encuentra próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales.</div><div><br></div><div>CARACTERÍSTICAS DEL DEPARTAMENTO</div><div><br></div><div>Moderno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.</div><div><br></div><div>* Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos.</div><div>* Cocina: completamente equipada y funcional.</div><div>* Dormitorio principal: en suite, con vestidor.</div><div>* Segundo dormitorio: con placard.</div><div>* Baños: 2 baños completos, incluido el de la suite.</div><div>* Balcón: propio, equipado con parrilla.</div><div>* Lavadero: independiente, para mayor comodidad.</div><div><br></div><div>Una excelente opción para quienes buscan comodidad, diseño y una ubicación estratégica en San Martín.</div><div><br></div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><br>        <br>            \r\n\r\n            ",
       "roofed_surface": "75.25",
       "room_amount": 3,
       "semiroofed_surface": "18.30",
       "seo_description": "",
       "seo_keywords": "",
-      "situation": "---",
+      "situation": "Vacía ",
       "status": 2,
       "suite_amount": 2,
       "suites_with_closets": 0,
@@ -10272,8 +10192,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-10T11:40:25.610Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio en construcción sobre calle Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción del Departamento</h3>\n<p>Moderno departamento de 3 ambientes con balcón y parrilla. Descubre tu nuevo hogar. Este departamento de 3 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorios: un dormitorio en suite con vestidor y segundo dormitorio con placard</li>\n<li>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Lavadero: Independiente para mayor comodidad</li>\n<li>Baños: 2 (incluyendo el baño en suite), modernos y funcionales</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios modernos y funcionales: Diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n\n</ul>\n\n<h3>Ideal Para</h3>\n<p>Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con posibilidad de un segundo dormitorio, y personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.</p>"
+      "_last_changed": "2026-10-15T10:38:01.648Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Excelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.</p>\n<p>A tan solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y el Metrobus, 2 cuadras de Av. 25 de Mayo y 4 cuadras de la estación de tren de la línea Mitre. Además, se encuentra próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales.</p>\n\n<h3>Características del departamento</h3>\n<p>Moderno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.</p>\n<ul>\n<li>Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos</li>\n<li>Cocina: completamente equipada y funcional</li>\n<li>Dormitorio principal: en suite, con vestidor</li>\n<li>Segundo dormitorio: con placard</li>\n<li>Baños: 2 baños completos, incluido el de la suite</li>\n<li>Balcón: propio, equipado con parrilla</li>\n<li>Lavadero: independiente, para mayor comodidad</li>\n</ul>\n\n<p>Una excelente opción para quienes buscan comodidad, diseño y una ubicación estratégica en San Martín.</p>"
     },
     {
       "address": "Caseros al 2300 6°",
@@ -49391,9 +49311,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-28T14:57:54",
+      "deleted_at": "2026-10-14T15:26:52",
       "depth_measure": "0.00",
-      "description": "                                        Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n\n*Moderno Departamento de 2 Ambientes con Balcón y Parrilla\n\n¡Descubre tu nuevo hogar!\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\nCaracterísticas Principales:\n\n* Dormitorios: 1 dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.* Baño:  moderno y funcional.\n\nVentajas Adicionales:\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.\n* Edificio con Amenities: Disfruta de las comodidades de la terraza sin salir de casa.\n* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con \nPara personas que valoran las comodidades de un edificio moderno.\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n        \r\n            ",
+      "description": " Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n\n*- Moderno Departamento de 2 Ambientes con Balcón y Parrilla\n\n\n\nCaracterísticas Principales:\n\n* Dormitorios: 1 dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.* Baño:  moderno y funcional.\n\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n        \n            \r\n\r\n            ",
       "development": {
         "address": "Yapeyú  1972 - San Martin",
         "branch": {
@@ -50028,13 +49948,13 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_15668499198286762020043535242510761757364149413279109673883934605521901543649.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6592488_44079577685389723273087450767068699235329864062622428572788498913978080892440.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 15,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_15668499198286762020043535242510761757364149413279109673883934605521901543649.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_15668499198286762020043535242510761757364149413279109673883934605521901543649_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_15668499198286762020043535242510761757364149413279109673883934605521901543649_thumb.jpg"
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/6592488_4407957768538972327308745076706869923532986406262242857278849891397808.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_44079577685389723273087450767068699235329864062622428572788498913978080892440_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6592488_44079577685389723273087450767068699235329864062622428572788498913978080892440_thu.jpg"
         },
         {
           "description": null,
@@ -50048,100 +49968,10 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_11012042627639792002016724288301235235305717320248741711384703541656279606812.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_11012042627639792002016724288301235235305717320248741711384703541656279606812.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_11012042627639792002016724288301235235305717320248741711384703541656279606812_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_11012042627639792002016724288301235235305717320248741711384703541656279606812_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_97888807205923066686941074162360401745397666260903764692077929530291382935276.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_97888807205923066686941074162360401745397666260903764692077929530291382935276.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_97888807205923066686941074162360401745397666260903764692077929530291382935276_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_20939585120100669776607994155981026169093520734745221339648761462854465542790.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_20939585120100669776607994155981026169093520734745221339648761462854465542790.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_20939585120100669776607994155981026169093520734745221339648761462854465542790_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_56502988761444888761676937509227831854952164867996138983835584195772106373469.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_56502988761444888761676937509227831854952164867996138983835584195772106373469.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/91047337_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_56502988761444888761676937509227831854952164867996138983835584195772106373469_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_72277459465894558346009432375166700477742764725709780538645215400063230528490.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_72277459465894558346009432375166700477742764725709780538645215400063230528490.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_72277459465894558346009432375166700477742764725709780538645215400063230528490_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_107276067760298355843211811633179821457340392372833758422462764070042144547257.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_107276067760298355843211811633179821457340392372833758422462764070042144547257.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_107276067760298355843211811633179821457340392372833758422462764070042144547257_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_77507127386693233433845234848750682743744251267154010999736107017614708025318.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_77507127386693233433845234848750682743744251267154010999736107017614708025318.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_77507127386693233433845234848750682743744251267154010999736107017614708025318_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_48763335165315736178757570134521818231213113017135844164475432400761732699335.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_48763335165315736178757570134521818231213113017135844164475432400761732699335.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_48763335165315736178757570134521818231213113017135844164475432400761732699335_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592488_55135790761753950206536992455240275594526467857055800791804434396115896265754.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/6592488_55135790761753950206536992455240275594526467857055800791804434396115896265754.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6592488_55135790761753950206536992455240275594526467857055800791804434396115896265754_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6592488_38703432944967406504770077797165490013021390961487598299140887660401777466143.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 10,
+          "order": 3,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_38703432944967406504770077797165490013021390961487598299140887660401777466143.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_38703432944967406504770077797165490013021390961487598299140887660401777466143_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_38703432944967406504770077797165490013021390961487598299140887660401777466143_thumb.jpg"
@@ -50151,7 +49981,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_112394502417208595380287482585675676511817865044665816254362638883882556731805.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 11,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_112394502417208595380287482585675676511817865044665816254362638883882556731805.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_112394502417208595380287482585675676511817865044665816254362638883882556731805_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_112394502417208595380287482585675676511817865044665816254362638883882556731805_thumb.jpg"
@@ -50161,7 +49991,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_73113838407947283342181669787167514314048952312567339009060008943413172304163.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 12,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_73113838407947283342181669787167514314048952312567339009060008943413172304163.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_73113838407947283342181669787167514314048952312567339009060008943413172304163_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_73113838407947283342181669787167514314048952312567339009060008943413172304163_thumb.jpg"
@@ -50171,7 +50001,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_88887533709035887925165999109160325583717676307839599102606450130086235116133.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 13,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_88887533709035887925165999109160325583717676307839599102606450130086235116133.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_88887533709035887925165999109160325583717676307839599102606450130086235116133_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_88887533709035887925165999109160325583717676307839599102606450130086235116133_thumb.jpg"
@@ -50181,17 +50011,27 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_105308386228708052485152106076545001631290616616760140741193104698218707971015.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 14,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_105308386228708052485152106076545001631290616616760140741193104698218707971015.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_105308386228708052485152106076545001631290616616760140741193104698218707971015_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_105308386228708052485152106076545001631290616616760140741193104698218707971015_thumb.jpg"
         },
         {
           "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6592488_15668499198286762020043535242510761757364149413279109673883934605521901543649.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6592488_15668499198286762020043535242510761757364149413279109673883934605521901543649.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_15668499198286762020043535242510761757364149413279109673883934605521901543649_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6592488_15668499198286762020043535242510761757364149413279109673883934605521901543649_thumb.jpg"
+        },
+        {
+          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6592488_16746583738414224616816816651912574023530431347418855176805440515567831987260.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 16,
+          "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_16746583738414224616816816651912574023530431347418855176805440515567831987260.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_16746583738414224616816816651912574023530431347418855176805440515567831987260_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_16746583738414224616816816651912574023530431347418855176805440515567831987260_thumb.jpg"
@@ -50201,7 +50041,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_75225184942416909270596599014774130501520781954297778050300166255743543113525.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 17,
+          "order": 10,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_75225184942416909270596599014774130501520781954297778050300166255743543113525.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_75225184942416909270596599014774130501520781954297778050300166255743543113525_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_75225184942416909270596599014774130501520781954297778050300166255743543113525_thumb.jpg"
@@ -50211,7 +50051,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_42727019828927093125992739392718271774982296015364552402205549778971402260467.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 18,
+          "order": 11,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_42727019828927093125992739392718271774982296015364552402205549778971402260467.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_42727019828927093125992739392718271774982296015364552402205549778971402260467_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_42727019828927093125992739392718271774982296015364552402205549778971402260467_thumb.jpg"
@@ -50221,7 +50061,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_87380267465762583736338412673664239761310622064604939739942508868397122164507.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 19,
+          "order": 12,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_87380267465762583736338412673664239761310622064604939739942508868397122164507.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_87380267465762583736338412673664239761310622064604939739942508868397122164507_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_87380267465762583736338412673664239761310622064604939739942508868397122164507_thumb.jpg"
@@ -50231,7 +50071,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_90670223223061797380113148714177632251551087866439931406668645503654224966888.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 20,
+          "order": 13,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_90670223223061797380113148714177632251551087866439931406668645503654224966888.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_90670223223061797380113148714177632251551087866439931406668645503654224966888_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_90670223223061797380113148714177632251551087866439931406668645503654224966888_thumb.jpg"
@@ -50241,7 +50081,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_37703001168674446435822483789198811195509985823764366284222302200870095511253.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 21,
+          "order": 14,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_37703001168674446435822483789198811195509985823764366284222302200870095511253.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_37703001168674446435822483789198811195509985823764366284222302200870095511253_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_37703001168674446435822483789198811195509985823764366284222302200870095511253_thumb.jpg"
@@ -50251,7 +50091,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_74356558460370858106862283385353588861048438189243509199869105536465904972352.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 22,
+          "order": 15,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_74356558460370858106862283385353588861048438189243509199869105536465904972352.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592488_74356558460370858106862283385353588861048438189243509199869105536465904972352_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_74356558460370858106862283385353588861048438189243509199869105536465904972352_thumb.jpg"
@@ -50261,7 +50101,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592488_67957724105529864612940718358253355421320600428002216808778805609178276566585.jpg",
           "is_blueprint": true,
           "is_front_cover": false,
-          "order": 23,
+          "order": 16,
           "original": "https://static.tokkobroker.com/original_pictures/6592488_67957724105529864612940718358253355421320600428002216808778805609178276566585.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/91047377_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592488_67957724105529864612940718358253355421320600428002216808778805609178276566585_thumb.jpg"
@@ -50284,7 +50124,7 @@
       "quality_level": null,
       "real_address": "Yapeyú 1972  1°E - San Martin",
       "reference_code": "DAP6592488",
-      "rich_description": "                                        Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<br><div><br></div><div><br></div><div><br></div><div>*Moderno Departamento de 2 Ambientes con Balcón y Parrilla<br></div><div><br></div><div>¡Descubre tu nuevo hogar!<br></div><div><br></div><div>Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.<br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características Principales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Dormitorios: 1 dormitorio con placard.<br></div><div>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.<br></div><div>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.<br></div><div>* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.</div><div>* Baño:&nbsp; moderno y funcional.</div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Ventajas Adicionales:</span></div><div><br></div><div>* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.<br></div><div>* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.<br></div><div>* Edificio con Amenities: Disfruta de las comodidades de la terraza sin salir de casa.<br></div><div>* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con </div><div><br></div><div>Para personas que valoran las comodidades de un edificio moderno.<br></div><div><br></div><div>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><br>        <br>        \r\n            ",
+      "rich_description": "<span style=\"font-weight: bold;\">&nbsp;Yapeyú 1972</span>, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<br><div><br></div><div><br></div><div><br></div><div>*- Moderno Departamento de 2 Ambientes con Balcón y Parrilla<br></div><div><br></div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características Principales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Dormitorios: 1 dormitorio con placard.<br></div><div>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.<br></div><div>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.<br></div><div>* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.</div><div>* Baño:&nbsp; moderno y funcional.</div><div><br></div><div><br></div><div><br></div><div>¡<span style=\"font-weight: bold;\">No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.<br></span></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><br>        <br>        <br>            \r\n\r\n            ",
       "roofed_surface": "42.00",
       "room_amount": 2,
       "semiroofed_surface": "10.00",
@@ -50438,13 +50278,13 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-10T11:40:25.610Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio en construcción sobre calle Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción del Departamento</h3>\n<p>Moderno departamento de 2 ambientes con balcón y parrilla. Este departamento ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 dormitorio con placard</li>\n<li>Cocina completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living comedor integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón propio con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Baño moderno y funcional</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios modernos y funcionales diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente ubicación cercana a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n<li>Edificio con amenities para disfrutar de las comodidades de la terraza sin salir de casa</li>\n</ul>\n\n<p>Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno y personas que valoran las comodidades de un edificio moderno. Contáctanos para más información y coordinar una visita.</p>"
+      "_last_changed": "2026-10-15T10:38:01.648Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción</h3>\n<p>Moderno Departamento de 2 Ambientes con Balcón y Parrilla</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 dormitorio con placard</li>\n<li>Cocina completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón propio con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Baño moderno y funcional</li>\n</ul>"
     },
     {
       "address": "Yapeyú al 1900 7°A",
       "address_complement": "",
-      "age": -1,
+      "age": 0,
       "apartment_door": "",
       "appartments_per_floor": 0,
       "bathroom_amount": 1,
@@ -50483,9 +50323,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-28T21:08:39",
+      "deleted_at": "2026-10-14T15:35:13",
       "depth_measure": "0.00",
-      "description": "                                    Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren linea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n*Moderno Departamento de 2 Ambientes con Terraza.\n¡Descubre tu nuevo hogar!\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\nCaracterísticas Principales:\n\n* Dormitorios: 1 dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Terraza Propio.* Baño:  moderno y funcional.\n\nCaracterísticas del edificio:\n\nTerraza Verde: Espacio comunitario para disfrutar de la naturaleza y el aire libre.\n\nVentajas Adicionales:\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.\n* Edificio con Amenities: Disfruta de las comodidades de la terraza verde sin salir de casa.\n* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con \nPara personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n        \n        \r\n        ",
+      "description": "Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren linea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n¡Descubre tu nuevo hogar!\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\n\n\n\n\nCaracterísticas Principales:\n\n* Dormitorios: 1 dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Terraza Propio.* Baño:  moderno y funcional.\n\nVentajas Adicionales:\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado.\n\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n        \n        \n        \r\n\r\n            ",
       "development": {
         "address": "Yapeyú  1972 - San Martin",
         "branch": {
@@ -51113,13 +50953,13 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592516_43873817880635037141635244146320351877149525393009597774636755027774713785175.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6592516_32787826389986579148457245589879089589895542651738585055717088677182330447708.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/6592516_43873817880635037141635244146320351877149525393009597774636755027774713785175.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_43873817880635037141635244146320351877149525393009597774636755027774713785175_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6592516_43873817880635037141635244146320351877149525393009597774636755027774713785175_thumb.jpg"
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/6592516_32787826389986579148457245589879089589895542651738585055717088677182330447708.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_32787826389986579148457245589879089589895542651738585055717088677182330447708_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6592516_32787826389986579148457245589879089589895542651738585055717088677182330447708_thumb.jpg"
         },
         {
           "description": null,
@@ -51133,50 +50973,50 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592516_32101777413672705865537712709310408617785109958071524706232851480021771009995.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6592516_21307574540271852853100719448142981506224456764194548387119451085265030762953.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/6592516_32101777413672705865537712709310408617785109958071524706232851480021771009995.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_32101777413672705865537712709310408617785109958071524706232851480021771009995_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6592516_32101777413672705865537712709310408617785109958071524706232851480021771009995_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/6592516_2130757454027185285310071944814298150622445676419454838711945108526503.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_21307574540271852853100719448142981506224456764194548387119451085265030762953_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6592516_21307574540271852853100719448142981506224456764194548387119451085265030762953_thu.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/6592516_31446505548290383955124603304986863564072218517104191099871760680316004578855.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
+          "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_31446505548290383955124603304986863564072218517104191099871760680316004578855.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_31446505548290383955124603304986863564072218517104191099871760680316004578855_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_31446505548290383955124603304986863564072218517104191099871760680316004578855_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6592516_32787826389986579148457245589879089589895542651738585055717088677182330447708.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/6592516_32787826389986579148457245589879089589895542651738585055717088677182330447708.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_32787826389986579148457245589879089589895542651738585055717088677182330447708_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6592516_32787826389986579148457245589879089589895542651738585055717088677182330447708_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6592516_72926699954795460867519337352166539089113836859320240360244273866046041214929.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 2,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_72926699954795460867519337352166539089113836859320240360244273866046041214929.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_72926699954795460867519337352166539089113836859320240360244273866046041214929_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_72926699954795460867519337352166539089113836859320240360244273866046041214929_thumb.jpg"
         },
         {
           "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6592516_43873817880635037141635244146320351877149525393009597774636755027774713785175.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/6592516_43873817880635037141635244146320351877149525393009597774636755027774713785175.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_43873817880635037141635244146320351877149525393009597774636755027774713785175_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6592516_43873817880635037141635244146320351877149525393009597774636755027774713785175_thumb.jpg"
+        },
+        {
+          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6592516_18130171960397419963549787509840040007983810053414164145814526443132418019202.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_18130171960397419963549787509840040007983810053414164145814526443132418019202.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_18130171960397419963549787509840040007983810053414164145814526443132418019202_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_18130171960397419963549787509840040007983810053414164145814526443132418019202_thumb.jpg"
@@ -51186,7 +51026,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_85232872232620717842199994436049377090827640620204278462096168286325780256841.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_85232872232620717842199994436049377090827640620204278462096168286325780256841.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_85232872232620717842199994436049377090827640620204278462096168286325780256841_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_85232872232620717842199994436049377090827640620204278462096168286325780256841_thumb.jpg"
@@ -51196,7 +51036,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_44462037288935342567014718836756866313916667060213840955886344784960883734281.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 8,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_44462037288935342567014718836756866313916667060213840955886344784960883734281.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_44462037288935342567014718836756866313916667060213840955886344784960883734281_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_44462037288935342567014718836756866313916667060213840955886344784960883734281_thumb.jpg"
@@ -51206,7 +51046,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_51753483929693837488841616044627531474440822313263567829096070157928642578219.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 9,
+          "order": 8,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_51753483929693837488841616044627531474440822313263567829096070157928642578219.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_51753483929693837488841616044627531474440822313263567829096070157928642578219_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_51753483929693837488841616044627531474440822313263567829096070157928642578219_thumb.jpg"
@@ -51216,7 +51056,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_20842836048153616728689932388810126390914828510275736855069540457299516444663.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 10,
+          "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_20842836048153616728689932388810126390914828510275736855069540457299516444663.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_20842836048153616728689932388810126390914828510275736855069540457299516444663_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_20842836048153616728689932388810126390914828510275736855069540457299516444663_thumb.jpg"
@@ -51226,7 +51066,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_17056526196988908360736442422729124363753482102101570807530531382180737973908.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 11,
+          "order": 10,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_17056526196988908360736442422729124363753482102101570807530531382180737973908.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_17056526196988908360736442422729124363753482102101570807530531382180737973908_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_17056526196988908360736442422729124363753482102101570807530531382180737973908_thumb.jpg"
@@ -51236,7 +51076,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_91844377135880268165641911081415374876338933111444523583618843103811070064832.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 12,
+          "order": 11,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_91844377135880268165641911081415374876338933111444523583618843103811070064832.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_91844377135880268165641911081415374876338933111444523583618843103811070064832_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_91844377135880268165641911081415374876338933111444523583618843103811070064832_thumb.jpg"
@@ -51246,7 +51086,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_37587085803035393795902617748809880389993325005060476861005077593705171591621.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 13,
+          "order": 12,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_37587085803035393795902617748809880389993325005060476861005077593705171591621.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_37587085803035393795902617748809880389993325005060476861005077593705171591621_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_37587085803035393795902617748809880389993325005060476861005077593705171591621_thumb.jpg"
@@ -51256,7 +51096,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_102937035546722764809579347174154102104145954229966605832023449403148376955974.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 14,
+          "order": 13,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_102937035546722764809579347174154102104145954229966605832023449403148376955974.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_102937035546722764809579347174154102104145954229966605832023449403148376955974_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_102937035546722764809579347174154102104145954229966605832023449403148376955974_thumb.jpg"
@@ -51266,7 +51106,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_73975730149923689203990568339552072738943094716341836602704048222314082575921.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 15,
+          "order": 14,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_73975730149923689203990568339552072738943094716341836602704048222314082575921.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_73975730149923689203990568339552072738943094716341836602704048222314082575921_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_73975730149923689203990568339552072738943094716341836602704048222314082575921_thumb.jpg"
@@ -51276,7 +51116,7 @@
           "image": "https://static.tokkobroker.com/pictures/6592516_20168771270661008723287206864029198990402706281136199651620646372936435086508.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 16,
+          "order": 15,
           "original": "https://static.tokkobroker.com/original_pictures/6592516_20168771270661008723287206864029198990402706281136199651620646372936435086508.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6592516_20168771270661008723287206864029198990402706281136199651620646372936435086508_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6592516_20168771270661008723287206864029198990402706281136199651620646372936435086508_thumb.jpg"
@@ -51299,7 +51139,7 @@
       "quality_level": null,
       "real_address": "Yapeyú 1972 - 7°A - San Martin",
       "reference_code": "DAP6592516",
-      "rich_description": "                                    Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren linea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<br><div><br></div><div><br></div><div><span style=\"font-size: 14px; font-weight: bold;\">*Moderno Departamento de 2 Ambientes con Terraza.</span></div><div><br></div><div><span style=\"text-decoration-line: underline;\">¡Descubre tu nuevo hogar!</span><br></div><div><br></div><div>Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.<br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características Principales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Dormitorios: 1 dormitorio con placard.<br></div><div>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.<br></div><div>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.<br></div><div>* Terraza Propio.</div><div>* Baño:&nbsp; moderno y funcional.</div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características del edificio:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><br></div><div>Terraza Verde: Espacio comunitario para disfrutar de la naturaleza y el aire libre.<br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Ventajas Adicionales:</span></div><div><br></div><div>* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.<br></div><div>* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.<br></div><div>* Edificio con Amenities: Disfruta de las comodidades de la terraza verde sin salir de casa.<br></div><div>* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno con </div><div><br></div><div>Para personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.<br></div><div><br></div><div>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.<br></div><div><br></div>        <br>        \r\n        ",
+      "rich_description": "<span style=\"font-weight: bold;\">Yapeyú 1972</span>, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren linea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<br><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">¡Descubre tu nuevo hogar!</span><br></div><div><br></div><div>Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.<br></div><div><br></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\">Características Principales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Dormitorios: 1 dormitorio con placard.<br></div><div>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.<br></div><div>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.<br></div><div>* Terraza Propio.</div><div>* Baño:&nbsp; moderno y funcional.</div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Ventajas Adicionales:</span></div><div><br></div><div>* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.<br></div><div>* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.</div><div>* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado.</div><div><br></div><div><br></div><div><br></div><div>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.<br></div><div><br></div>        <br>        <br>        \r\n\r\n            ",
       "roofed_surface": "49.20",
       "room_amount": 2,
       "semiroofed_surface": "17.70",
@@ -51448,8 +51288,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-10T11:40:25.610Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio en construcción sobre calle Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren línea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>El Departamento</h3>\n<p>Moderno departamento de 2 ambientes con terraza. Este departamento ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 dormitorio con placard</li>\n<li>Cocina completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living comedor integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Terraza propia</li>\n<li>Baño moderno y funcional</li>\n</ul>\n\n<h3>Características del Edificio</h3>\n<ul>\n\n<li>Espacios modernos y funcionales diseñados para maximizar el confort y la practicidad</li>\n<li>Amenities disponibles</li>\n</ul>\n\n<h3>Ideal Para</h3>\n<p>Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado, parejas que desean un espacio moderno, y personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.</p>\n\n<p>Contáctanos para más información y coordinar una visita.</p>"
+      "_last_changed": "2026-10-15T10:38:01.648Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren línea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorios: 1 dormitorio con placard</li>\n<li>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Terraza propia</li>\n<li>Baño: moderno y funcional</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n<li>Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Contáctanos para más información y coordinar una visita.</p>"
     },
     {
       "address": "RIVADAVIA  al 5500",
@@ -54271,9 +54111,9 @@
     {
       "address": "Yapeyú al 1900 6°",
       "address_complement": "",
-      "age": -1,
+      "age": 0,
       "apartment_door": "",
-      "appartments_per_floor": 0,
+      "appartments_per_floor": 5,
       "bathroom_amount": 1,
       "block_number": "",
       "branch": {
@@ -54310,9 +54150,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-28T14:28:00",
+      "deleted_at": "2026-10-14T15:33:26",
       "depth_measure": "0.00",
-      "description": "                                                                            Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso. A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n*Moderno Departamento de 2 Ambientes con Balcón y Parrilla\n\n¡Descubre tu nuevo hogar!\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\nCaracterísticas Principales:\n\n* Dormitorios: 1 dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.* Baño:  moderno y funcional.\n\nVentajas Adicionales:\n\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.\n* Disfruta de las comodidades de la terraza verde sin salir de casa.\n* Este departamento es ideal para familias que buscan un hogar cómodo.-\nPara personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita..\n\n        \n        \n        \n        \n        \r\n            ",
+      "description": " Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso. A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\n\n\n\nCaracterísticas Principales:\n\n* Dormitorios: 1 dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.* Baño:  moderno y funcional.\n\nVentajas Adicionales:\n\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.\n* Disfruta de las comodidades de la terraza verde sin salir de casa.\n* Este departamento es ideal para familias que buscan un hogar cómodo.-\n\n\n¡Descubrí tu nuevo hogar!\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita..\n\n        \n        \n        \n        \n        \n            \r\n\r\n            ",
       "development": {
         "address": "Yapeyú  1972 - San Martin",
         "branch": {
@@ -54940,13 +54780,13 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_87695333278966673709502335279123310431877901279343741428521249461522792635002.jpg",
+          "image": "https://static.tokkobroker.com/pictures/6701400_101005325861034663649938720007341021256197779079599714273791548456323976863062.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 11,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_87695333278966673709502335279123310431877901279343741428521249461522792635002.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_87695333278966673709502335279123310431877901279343741428521249461522792635002_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_87695333278966673709502335279123310431877901279343741428521249461522792635002_thumb.jpg"
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/6701400_1010053258610346636499387200073410212561977790795997142737915484563239.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_101005325861034663649938720007341021256197779079599714273791548456323976863062_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6701400_101005325861034663649938720007341021256197779079599714273791548456323976863062_th.jpg"
         },
         {
           "description": null,
@@ -54963,107 +54803,37 @@
           "image": "https://static.tokkobroker.com/pictures/6701400_70845101088333579519018730604162428993310636415397679914691186669391960754427.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 2,
           "original": "https://static.tokkobroker.com/original_pictures/6701400_70845101088333579519018730604162428993310636415397679914691186669391960754427.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_70845101088333579519018730604162428993310636415397679914691186669391960754427_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6701400_70845101088333579519018730604162428993310636415397679914691186669391960754427_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_77420803197147948263036093655608735775948167607525930670787247047625477615364.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_77420803197147948263036093655608735775948167607525930670787247047625477615364.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_77420803197147948263036093655608735775948167607525930670787247047625477615364_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_77420803197147948263036093655608735775948167607525930670787247047625477615364_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_76843785181164429680023363669249974596115757139112625431880796904599497908449.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_76843785181164429680023363669249974596115757139112625431880796904599497908449.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_76843785181164429680023363669249974596115757139112625431880796904599497908449_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_28645267117289191741120016984449720283965123210026012607360216427629215223949.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_28645267117289191741120016984449720283965123210026012607360216427629215223949.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_28645267117289191741120016984449720283965123210026012607360216427629215223949_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_97524695198030063624687071237956890375130723407450686324975715942464428345091.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_97524695198030063624687071237956890375130723407450686324975715942464428345091.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_97524695198030063624687071237956890375130723407450686324975715942464428345091_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_41550560492931995618943196610425136795483358345798906971889059327176378602358.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 6,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_41550560492931995618943196610425136795483358345798906971889059327176378602358.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_41550560492931995618943196610425136795483358345798906971889059327176378602358_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_104029498769535170609172445102962892641937448264856195076512544307298253021573.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_104029498769535170609172445102962892641937448264856195076512544307298253021573.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_104029498769535170609172445102962892641937448264856195076512544307298253021573_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_58468649854544047935327808342067571841219359159823015509890976835632317600817.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_58468649854544047935327808342067571841219359159823015509890976835632317600817.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_58468649854544047935327808342067571841219359159823015509890976835632317600817_thumb.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/6701400_21939846656946292795023869862948992239409650926392153416392661905546516832600.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 9,
-          "original": "https://static.tokkobroker.com/original_pictures/6701400_21939846656946292795023869862948992239409650926392153416392661905546516832600.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/6701400_21939846656946292795023869862948992239409650926392153416392661905546516832600_thumb.jpg"
-        },
-        {
-          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6701400_93486181802377591123449560553085232011841493437547778887736105104778049248296.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 10,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/6701400_93486181802377591123449560553085232011841493437547778887736105104778049248296.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/6701400_93486181802377591123449560553085232011841493437547778887736105104778049248296_thumb.jpg"
         },
         {
           "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6701400_87695333278966673709502335279123310431877901279343741428521249461522792635002.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/6701400_87695333278966673709502335279123310431877901279343741428521249461522792635002.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_87695333278966673709502335279123310431877901279343741428521249461522792635002_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6701400_87695333278966673709502335279123310431877901279343741428521249461522792635002_thumb.jpg"
+        },
+        {
+          "description": null,
           "image": "https://static.tokkobroker.com/pictures/6701400_61878436910291338970091766098877538974496874082676493532271637051425793762863.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 12,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/6701400_61878436910291338970091766098877538974496874082676493532271637051425793762863.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_61878436910291338970091766098877538974496874082676493532271637051425793762863_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6701400_61878436910291338970091766098877538974496874082676493532271637051425793762863_thumb.jpg"
@@ -55073,7 +54843,7 @@
           "image": "https://static.tokkobroker.com/pictures/6701400_81734862823773436641986490684007309821248863751335437570625837719317706240311.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 13,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/6701400_81734862823773436641986490684007309821248863751335437570625837719317706240311.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_81734862823773436641986490684007309821248863751335437570625837719317706240311_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6701400_81734862823773436641986490684007309821248863751335437570625837719317706240311_thumb.jpg"
@@ -55083,7 +54853,7 @@
           "image": "https://static.tokkobroker.com/pictures/6701400_87085560425482492439016700935153530554561228344347552287304814842711560623316.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 14,
+          "order": 8,
           "original": "https://static.tokkobroker.com/original_pictures/6701400_87085560425482492439016700935153530554561228344347552287304814842711560623316.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_87085560425482492439016700935153530554561228344347552287304814842711560623316_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6701400_87085560425482492439016700935153530554561228344347552287304814842711560623316_thumb.jpg"
@@ -55093,7 +54863,7 @@
           "image": "https://static.tokkobroker.com/pictures/6701400_35624269909110884650523737706660171280280070385544390426578030337798940787069.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 15,
+          "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/6701400_35624269909110884650523737706660171280280070385544390426578030337798940787069.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/6701400_35624269909110884650523737706660171280280070385544390426578030337798940787069_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/6701400_35624269909110884650523737706660171280280070385544390426578030337798940787069_thumb.jpg"
@@ -55116,7 +54886,7 @@
       "quality_level": null,
       "real_address": "Yapeyú 1972 - 6° C - San Martin",
       "reference_code": "DAP6701400",
-      "rich_description": "                                                                            Edificio en  construcción sobre calle Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso. A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<br><div><br></div><div><br></div><div>*Moderno Departamento de 2 Ambientes con Balcón y Parrilla<br></div><div><br></div><div>¡Descubre tu nuevo hogar!<br></div><div><br></div><div>Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.<br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características Principales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Dormitorios: 1 dormitorio con placard.<br></div><div>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.<br></div><div>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.<br></div><div>* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.</div><div>* Baño:&nbsp; moderno y funcional.</div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Ventajas Adicionales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.<br></div><div>* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.<br></div><div>* Disfruta de las comodidades de la terraza verde sin salir de casa.<br></div><div>* Este departamento es ideal para familias que buscan un hogar cómodo.-</div><div><br></div><div>Para personas que valoran los espacios al aire libre y las comodidades de un edificio moderno.<br></div><div><br></div><div>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita..<br></div><div><br></div>        <br>        <br>        <br>        <br>        \r\n            ",
+      "rich_description": "<span style=\"font-weight: bold;\">&nbsp;Yapeyú 1972</span>, Ubicado en el corazón de San Martín. Zona de fácil acceso. A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<br><div><br></div><div><br></div><div><span style=\"font-size: 14px;\">Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</span></div><div><br></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\">Características Principales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Dormitorios: 1 dormitorio con placard.<br></div><div>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.<br></div><div>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.<br></div><div>* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.</div><div>* Baño:&nbsp; moderno y funcional.</div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Ventajas Adicionales:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.<br></div><div>* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.<br></div><div>* Disfruta de las comodidades de la terraza verde sin salir de casa.<br></div><div>* Este departamento es ideal para familias que buscan un hogar cómodo.-</div><div><br></div><div><br></div><div><br></div><div>¡Descubrí tu nuevo hogar!</div><div><br></div><div><span style=\"font-weight: bold;\">¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita..</span><br></div><div><br></div>        <br>        <br>        <br>        <br>        <br>            \r\n\r\n            ",
       "roofed_surface": "47.00",
       "room_amount": 2,
       "semiroofed_surface": "6.20",
@@ -55260,8 +55030,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-10T11:40:25.610Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio en construcción sobre calle Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso. A 4 cuadras de Estación de Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Moderno departamento de 2 ambientes con balcón y parrilla. Este departamento ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 dormitorio con placard</li>\n<li>Cocina completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living comedor integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón propio con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Baño moderno y funcional</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios modernos y funcionales, diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente ubicación cercana a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n\n<li>Ideal para familias que buscan un hogar cómodo</li>\n<li>Perfecto para personas que valoran los espacios al aire libre y las comodidades de un edificio moderno</li>\n</ul>"
+      "_last_changed": "2026-10-15T10:38:01.648Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso. A 4 cuadras de Estación de Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 dormitorio con placard</li>\n<li>Cocina completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón propio con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Baño moderno y funcional</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios modernos y funcionales diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente ubicación cercana a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n<li>Disfruta de las comodidades de la terraza verde sin salir de casa</li>\n<li>Ideal para familias que buscan un hogar cómodo</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Contáctanos para más información y coordinar una visita.</p>"
     },
     {
       "address": "25 de mayo al 2000 9°",
@@ -111943,7 +111713,7 @@
       "age": 0,
       "apartment_door": "A",
       "appartments_per_floor": 5,
-      "bathroom_amount": 0,
+      "bathroom_amount": 2,
       "block_number": "",
       "branch": {
         "address": "B1650 San Martín",
@@ -111979,13 +111749,13 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-22T17:44:35",
+      "deleted_at": "2026-10-14T15:16:20",
       "depth_measure": "0.00",
-      "description": "Ubicación\n Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\nDescripción del DepartamentoModerno departamento de 3 ambientes con balcón y parrilla. Descubre tu nuevo hogar. Este departamento de 3 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\nCaracterísticas PrincipalesDormitorios: un dormitorio en suite con vestidor y segundo dormitorio con placardCocina: Completamente equipada, ideal para preparar deliciosas comidasLiving Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigosBalcón Propio: Con parrillaLavadero: Independiente para mayor comodidadBaños: 2 (incluyendo el baño en suite), modernos y funcionales\nVentajas AdicionalesEspacios modernos y funcionales: Diseñados para maximizar el confort y la practicidadExcelente ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés\n\n                \r\n\r\n            \n",
+      "description": "                YAPEYÚ 1972 – MODERNO DEPARTAMENTO DE 3 AMBIENTES CON BALCÓN Y PARRILLA\n\nExcelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.\nA tan solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y el Metrobus, 2 cuadras de Av. 25 de Mayo y 4 cuadras de la estación de tren de la línea Mitre. Además, se encuentra próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales.\nCARACTERÍSTICAS DEL DEPARTAMENTO\nModerno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.\n* Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos.* Cocina: completamente equipada y funcional.* Dormitorio principal: en suite, con vestidor.* Segundo dormitorio: con placard.* Baños: 2 baños completos, incluido el de la suite.* Balcón: propio, equipado con parrilla.* Lavadero: independiente, para mayor comodidad.\nUna excelente opción para quienes buscan comodidad, diseño y una ubicación estratégica en San Martín.\n\n\n\n\n\nCALIDAD CONSTRUCTIVA Y TERMINACIONES\nLa propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.\nESTRUCTURA Y AISLACIÓN\n* Mampostería divisoria entre unidades en ladrillo cerámico hueco.* Muros exteriores con aislación térmica equivalente a doble muro.* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.\nABERTURAS Y TERMINACIONES\n* Aberturas de aluminio con doble vidriado hermético (DVH).* Pisos de porcelanato rectificado o de calidad equivalente.* Dormitorios con frente de placard.* Cielorrasos de yeso armado o aplicado.* Paredes interiores con terminación en yeso.* Puertas interiores tipo placa de MDF.\nCOCINA\n* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.* Mesada de granito.* Bacha de acero inoxidable y grifería monocomando.* Cocina eléctrica.\nBAÑOS\n* Baños completos con revestimiento de piso a techo.* Vanitory, espejo, griferías y accesorios.\nINSTALACIONES Y CONFORT\n* Instalaciones de agua fría y caliente mediante sistema de termofusión.* Termotanque eléctrico para agua caliente.* Preinstalación para aire acondicionado en estar y dormitorio.* Canalizaciones previstas para TV por cable.* Portero eléctrico.\nIMPORTANTEEn caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.\n                \n\n            \n\r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
-      "disposition": null,
+      "disposition": "Frente",
       "down_payment": "0.00",
       "expenses": 0,
       "extra_attributes": [],
@@ -112198,93 +111968,193 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10336871_94966835831963999701402891945630240665883840009378503823009223946911854727271.jpg",
+          "image": "https://static.tokkobroker.com/pictures/10336871_104850389102638670176650966547003040436590377452458814772717617301177544874303.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/10336871_949668358319639997014028919456302406658838400093785038230092239469118.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_94966835831963999701402891945630240665883840009378503823009223946911854727271_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/10336871_94966835831963999701402891945630240665883840009378503823009223946911854727271_th.jpg"
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_104850389102638670176650966547003040436590377452458814772717617301177.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_104850389102638670176650966547003040436590377452458814772717617301177544874303_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_104850389102638670176650966547003040436590377452458814772717617301177544874303_t.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10336871_2401013928574984346764843486640793278286165073831126306905025454417016512868.jpg",
+          "image": "https://static.tokkobroker.com/pictures/10336871_67162076189675989142366762429754161024273151906114331043077797610034632723208.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 0,
-          "original": "https://static.tokkobroker.com/original_pictures/10336871_240101392857498434676484348664079327828616507383112630690502545441701.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_2401013928574984346764843486640793278286165073831126306905025454417016512868_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/10336871_2401013928574984346764843486640793278286165073831126306905025454417016512868_thu.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_671620761896759891423667624297541610242731519061143310430777976100346.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_67162076189675989142366762429754161024273151906114331043077797610034632723208_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_67162076189675989142366762429754161024273151906114331043077797610034632723208_th.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10336871_6309837643142286564132426755280818244449835795823579077252329296747753517030.jpg",
+          "image": "https://static.tokkobroker.com/pictures/10336871_27065062998460980923780426703831686531814094781229166887492964490184120928950.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_270650629984609809237804267038316865318140947812291668874929644901841.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_27065062998460980923780426703831686531814094781229166887492964490184120928950_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_27065062998460980923780426703831686531814094781229166887492964490184120928950_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_71552236835980583256967361403581640727837005507122440383838983218230674444559.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/10336871_630983764314228656413242675528081824444983579582357907725232929674775.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_6309837643142286564132426755280818244449835795823579077252329296747753517030_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/10336871_6309837643142286564132426755280818244449835795823579077252329296747753517030_thu.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_715522368359805832569673614035816407278370055071224403838389832182306.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_71552236835980583256967361403581640727837005507122440383838983218230674444559_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_71552236835980583256967361403581640727837005507122440383838983218230674444559_th.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10336871_3170639803596086388005790433156704035603431711064078046597616547073599119953.jpg",
+          "image": "https://static.tokkobroker.com/pictures/10336871_27132674431037941982338281158776520900548251811858857945377934032233607178474.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 3,
-          "original": "https://static.tokkobroker.com/original_pictures/10336871_317063980359608638800579043315670403560343171106407804659761654707359.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_3170639803596086388005790433156704035603431711064078046597616547073599119953_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/10336871_3170639803596086388005790433156704035603431711064078046597616547073599119953_thu.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10336871_56985493709331642744036419650222010171240312420685292877673159694072997675360.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 4,
-          "original": "https://static.tokkobroker.com/original_pictures/10336871_569854937093316427440364196502220101712403124206852928776731596940729.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_56985493709331642744036419650222010171240312420685292877673159694072997675360_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/10336871_56985493709331642744036419650222010171240312420685292877673159694072997675360_th.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10336871_107022963693865220563788090648413831725393666086230281415976572321259628059421.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 5,
-          "original": "https://static.tokkobroker.com/original_pictures/10336871_107022963693865220563788090648413831725393666086230281415976572321259.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_107022963693865220563788090648413831725393666086230281415976572321259628059421_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/10336871_107022963693865220563788090648413831725393666086230281415976572321259628059421_t.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_271326744310379419823382811587765209005482518118588579453779340322336.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_27132674431037941982338281158776520900548251811858857945377934032233607178474_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_27132674431037941982338281158776520900548251811858857945377934032233607178474_th.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/10336871_1917281394533221398951454001437596968543646114345956616288965483591128428127.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/10336871_191728139453322139895145400143759696854364611434595661628896548359112.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_1917281394533221398951454001437596968543646114345956616288965483591128428127_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/10336871_1917281394533221398951454001437596968543646114345956616288965483591128428127_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10336871_74701916460079495028436270839494569764427937176020627080828027359649280020527.jpg",
+          "image": "https://static.tokkobroker.com/pictures/10336871_3170639803596086388005790433156704035603431711064078046597616547073599119953.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
-          "original": "https://static.tokkobroker.com/original_pictures/10336871_747019164600794950284362708394945697644279371760206270808280273596492.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_74701916460079495028436270839494569764427937176020627080828027359649280020527_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/10336871_74701916460079495028436270839494569764427937176020627080828027359649280020527_th.jpg"
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_317063980359608638800579043315670403560343171106407804659761654707359.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_3170639803596086388005790433156704035603431711064078046597616547073599119953_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_3170639803596086388005790433156704035603431711064078046597616547073599119953_thu.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/10336871_11164904783550871627175442615582256176428225780469830097616233757406227050117.jpg",
+          "image": "https://static.tokkobroker.com/pictures/10336871_22095363958336171384933504734068476376831451029903163321664226122003881895864.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_220953639583361713849335047340684763768314510299031633216642261220038.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_22095363958336171384933504734068476376831451029903163321664226122003881895864_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_22095363958336171384933504734068476376831451029903163321664226122003881895864_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_56985493709331642744036419650222010171240312420685292877673159694072997675360.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 8,
-          "original": "https://static.tokkobroker.com/original_pictures/10336871_111649047835508716271754426155822561764282257804698300976162337574062.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_11164904783550871627175442615582256176428225780469830097616233757406227050117_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/10336871_11164904783550871627175442615582256176428225780469830097616233757406227050117_th.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_569854937093316427440364196502220101712403124206852928776731596940729.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_56985493709331642744036419650222010171240312420685292877673159694072997675360_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_56985493709331642744036419650222010171240312420685292877673159694072997675360_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_93036221553554512102470577320880577168412152953021173605066124011248733395566.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_930362215535545121024705773208805771684121529530211736050661240112487.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_93036221553554512102470577320880577168412152953021173605066124011248733395566_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_93036221553554512102470577320880577168412152953021173605066124011248733395566_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_26101997976283243417991227893539135610621602949865907697945107084233176003142.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_261019979762832434179912278935391356106216029498659076979451070842331.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_26101997976283243417991227893539135610621602949865907697945107084233176003142_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_26101997976283243417991227893539135610621602949865907697945107084233176003142_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_36532904361123077756534928705256762937105582556013052277966735340501802684554.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_365329043611230777565349287052567629371055825560130522779667353405018.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_36532904361123077756534928705256762937105582556013052277966735340501802684554_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_36532904361123077756534928705256762937105582556013052277966735340501802684554_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_115480101219623490357100586900111555844117893031525562606550866272346331990770.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_115480101219623490357100586900111555844117893031525562606550866272346.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_115480101219623490357100586900111555844117893031525562606550866272346331990770_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_115480101219623490357100586900111555844117893031525562606550866272346331990770_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_23079057111846698295613456416558885848316746940047146424497023483299166847191.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 14,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_230790571118466982956134564165588858483167469400471464244970234832991.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_23079057111846698295613456416558885848316746940047146424497023483299166847191_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_23079057111846698295613456416558885848316746940047146424497023483299166847191_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_112065258946878989738788471765693960740512607240759053674142022474241013607459.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 15,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_112065258946878989738788471765693960740512607240759053674142022474241.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_112065258946878989738788471765693960740512607240759053674142022474241013607459_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_112065258946878989738788471765693960740512607240759053674142022474241013607459_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_72867730972492898753234408009004084460335486735182334723611528734991926222407.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 16,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_728677309724928987532344080090040844603354867351823347236115287349919.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_72867730972492898753234408009004084460335486735182334723611528734991926222407_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_72867730972492898753234408009004084460335486735182334723611528734991926222407_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_77457351685638116361430258771605874704665958436354419960814922589436269980471.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 17,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_774573516856381163614302587716058747046659584363544199608149225894362.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_77457351685638116361430258771605874704665958436354419960814922589436269980471_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_77457351685638116361430258771605874704665958436354419960814922589436269980471_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_20058385716328753404578703087367965654847738664162577777281652062576912760009.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 18,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_200583857163287534045787030873679656548477386641625777772816520625769.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_20058385716328753404578703087367965654847738664162577777281652062576912760009_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_20058385716328753404578703087367965654847738664162577777281652062576912760009_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/10336871_28430071737106657877236221418185396757116043372531978417244170951710516571276.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 20,
+          "original": "https://static.tokkobroker.com/original_pictures/10336871_284300717371066578772362214181853967571160433725319784172441709517105.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/10336871_28430071737106657877236221418185396757116043372531978417244170951710516571276_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/10336871_28430071737106657877236221418185396757116043372531978417244170951710516571276_th.jpg"
         }
       ],
       "portal_footer": "",
@@ -112304,7 +112174,7 @@
       "quality_level": null,
       "real_address": "Yapeyu 1972 3° A - San Martin",
       "reference_code": "DAP10336871",
-      "rich_description": "<p><span style=\"font-weight: bold;\">Ubicación</span></p><p><div><span style=\"font-weight: bold;\">&nbsp;Yapeyú 1972</span>, ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</div><div><br></div><div><span style=\"font-weight: bold;\">Descripción del Departamento</span></div><div>Moderno departamento de 3 ambientes con balcón y parrilla. Descubre tu nuevo hogar. Este departamento de 3 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</div><div><br></div><div><span style=\"font-weight: bold;\">Características Principales</span></div><div>Dormitorios: un dormitorio en suite con vestidor y segundo dormitorio con placard</div><div>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</div><div>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</div><div>Balcón Propio: Con parrilla</div><div>Lavadero: Independiente para mayor comodidad</div><div>Baños: 2 (incluyendo el baño en suite), modernos y funcionales</div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">Ventajas Adicionales</span></div><div>Espacios modernos y funcionales: Diseñados para maximizar el confort y la practicidad</div><div>Excelente ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés</div><div><br></div><div><br></div>                \r\n\r\n            </p>",
+      "rich_description": "                <p><span style=\"font-weight: bold;\">YAPEYÚ 1972 – MODERNO DEPARTAMENTO DE 3 AMBIENTES CON BALCÓN Y PARRILLA</span></p><div><br></div><div>Excelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.</div><div><br></div><div>A tan solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y el Metrobus, 2 cuadras de Av. 25 de Mayo y 4 cuadras de la estación de tren de la línea Mitre. Además, se encuentra próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales.</div><div><br></div><div><span style=\"text-decoration-line: underline;\">CARACTERÍSTICAS DEL DEPARTAMENTO</span></div><div><br></div><div>Moderno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.</div><div><br></div><div>* Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos.</div><div>* Cocina: completamente equipada y funcional.</div><div>* Dormitorio principal: en suite, con vestidor.</div><div>* Segundo dormitorio: con placard.</div><div>* Baños: 2 baños completos, incluido el de la suite.</div><div>* Balcón: propio, equipado con parrilla.</div><div>* Lavadero: independiente, para mayor comodidad.</div><div><br></div><div>Una excelente opción para quienes buscan comodidad, diseño y una ubicación estratégica en San Martín.</div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div>CALIDAD CONSTRUCTIVA Y TERMINACIONES<div><br></div><div>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</div><div><br></div><div>ESTRUCTURA Y AISLACIÓN</div><div><br></div><div>* Mampostería divisoria entre unidades en ladrillo cerámico hueco.</div><div>* Muros exteriores con aislación térmica equivalente a doble muro.</div><div>* Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad.</div><div><br></div><div>ABERTURAS Y TERMINACIONES</div><div><br></div><div>* Aberturas de aluminio con doble vidriado hermético (DVH).</div><div>* Pisos de porcelanato rectificado o de calidad equivalente.</div><div>* Dormitorios con frente de placard.</div><div>* Cielorrasos de yeso armado o aplicado.</div><div>* Paredes interiores con terminación en yeso.</div><div>* Puertas interiores tipo placa de MDF.</div><div><br></div><div>COCINA</div><div><br></div><div>* Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave.</div><div>* Mesada de granito.</div><div>* Bacha de acero inoxidable y grifería monocomando.</div><div>* Cocina eléctrica.</div><div><br></div><div>BAÑOS</div><div><br></div><div>* Baños completos con revestimiento de piso a techo.</div><div>* Vanitory, espejo, griferías y accesorios.</div><div><br></div><div>INSTALACIONES Y CONFORT</div><div><br></div><div>* Instalaciones de agua fría y caliente mediante sistema de termofusión.</div><div>* Termotanque eléctrico para agua caliente.</div><div>* Preinstalación para aire acondicionado en estar y dormitorio.</div><div>* Canalizaciones previstas para TV por cable.</div><div>* Portero eléctrico.</div><div><br></div><div>IMPORTANTE</div><div>En caso de contar con suministro de gas natural, los artefactos eléctricos podrán reemplazarse por sus equivalentes a gas, según las condiciones técnicas del proyecto.</div><div><br></div></div>                <br><br>            <p></p>\r\n\r\n            ",
       "roofed_surface": "0.00",
       "room_amount": 3,
       "semiroofed_surface": "0.00",
@@ -112375,8 +112245,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-10T11:40:25.610Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción del Departamento</h3>\n<p>Moderno departamento de 3 ambientes con balcón y parrilla. Este departamento ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorios: un dormitorio en suite con vestidor y segundo dormitorio con placard</li>\n<li>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón Propio: Con parrilla</li>\n<li>Lavadero: Independiente para mayor comodidad</li>\n<li>Baños: 2 (incluyendo el baño en suite), modernos y funcionales</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios modernos y funcionales: Diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n</ul>"
+      "_last_changed": "2026-10-15T10:38:01.648Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Excelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.</p>\n<ul>\n<li>A 6 cuadras de Av. Perón</li>\n<li>A 8 cuadras de Av. Balbín y el Metrobus</li>\n<li>A 2 cuadras de Av. 25 de Mayo</li>\n<li>A 4 cuadras de la estación de tren de la línea Mitre</li>\n<li>Próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales</li>\n</ul>\n\n<h3>Características del Departamento</h3>\n<p>Moderno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.</p>\n<ul>\n<li>Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos</li>\n<li>Cocina: completamente equipada y funcional</li>\n<li>Dormitorio principal: en suite, con vestidor</li>\n<li>Segundo dormitorio: con placard</li>\n<li>Baños: 2 baños completos, incluido el de la suite</li>\n<li>Balcón: propio, equipado con parrilla</li>\n<li>Lavadero: independiente, para mayor comodidad</li>\n</ul>\n\n<h3>Calidad Constructiva y Terminaciones</h3>\n<p>La propiedad se desarrolla con materiales de primera calidad, priorizando el confort, la durabilidad y la eficiencia.</p>\n\n<h3>Estructura y Aislación</h3>\n<ul>\n<li>Mampostería divisoria entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con aislación térmica equivalente a doble muro</li>\n<li>Fachadas con terminación en revoque pintado y revestimiento acrílico de primera calidad</li>\n</ul>\n\n<h3>Aberturas y Terminaciones</h3>\n<ul>\n<li>Aberturas de aluminio con doble vidriado hermético (DVH)</li>\n<li>Pisos de porcelanato rectificado o de calidad equivalente</li>\n<li>Dormitorios con frente de placard</li>\n<li>Cielorrasos de yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores tipo placa de MDF</li>\n</ul>\n\n<h3>Cocina</h3>\n<ul>\n<li>Muebles de cocina en melamina de primera calidad, con cantos de PVC y herrajes de cierre suave</li>\n<li>Mesada de granito</li>\n<li>Bacha de acero inoxidable y grifería monocomando</li>\n<li>Cocina eléctrica</li>\n</ul>\n\n<h3>Baños</h3>\n<ul>\n<li>Baños completos con revestimiento de piso a techo</li>\n<li>Vanitory, espejo, griferías y accesorios</li>\n</ul>\n\n<h3>Instalaciones y Confort</h3>\n<ul>\n<li>Instalaciones de agua fría y caliente mediante sistema de termofusión</li>\n<li>Termotanque eléctrico para agua caliente</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Canalizaciones previstas para TV por cable</li>\n<li>"
     },
     {
       "address": "Ayacucho  al 2100",
@@ -115257,9 +115127,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-09T18:22:27",
+      "deleted_at": "2026-10-14T19:47:57",
       "depth_measure": "0.00",
-      "description": "Departamento de 3 ambientes con cochera cubierta – Cochabamba 2156, 1° A\nExcelente departamento de 3 ambientes con cochera cubierta.\nLa propiedad cuenta con amplio living comedor con cocina integrada, dos dormitorios con placard y dos baños completos con ducha, uno de ellos en suite.\nAdemás, dispone de balcón al frente, que aporta luminosidad y ventilación natural.\nUbicación: Cochabamba 2156, 1° A.\nCondiciones de alquiler:\n* Contrato por 24 meses.* Incremento trimestral por IPC.* Garantía: Fianza* Mascotas: No                \r\n\r\n            ",
+      "description": "                Departamento de 3 ambientes con cochera cubierta – Cochabamba 2156, 1° A\nExcelente departamento de 3 ambientes con cochera cubierta.\nLa propiedad cuenta con amplio living comedor con cocina integrada, dos dormitorios con placard y dos baños completos con ducha, uno de ellos en suite.\nAdemás, dispone de balcón al frente, que aporta luminosidad y ventilación natural.\nUbicación: Cochabamba 2156, 1° A.\nCondiciones de alquiler:\n* Contrato por 24 meses.* Incremento trimestral por IPC.* Garantía: Fianza* Mascotas: SI                \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -115702,7 +115572,7 @@
       "quality_level": null,
       "real_address": "ALQUILER - Cochabamba 2156 1°A - San Martin",
       "reference_code": "DAP11827325",
-      "rich_description": "Departamento de 3 ambientes con cochera cubierta – Cochabamba 2156, 1° A<div><br></div><div>Excelente departamento de 3 ambientes con cochera cubierta.</div><div><br></div><div>La propiedad cuenta con amplio living comedor con cocina integrada, dos dormitorios con placard y dos baños completos con ducha, uno de ellos en suite.</div><div><br></div><div>Además, dispone de balcón al frente, que aporta luminosidad y ventilación natural.</div><div><br></div><div>Ubicación: Cochabamba 2156, 1° A.</div><div><br></div><div>Condiciones de alquiler:</div><div><br></div><div>* Contrato por 24 meses.</div><div>* Incremento trimestral por IPC.</div><div>* Garantía: Fianza</div><div>* Mascotas: No</div>                \r\n\r\n            ",
+      "rich_description": "                Departamento de 3 ambientes con cochera cubierta – Cochabamba 2156, 1° A<div><br></div><div>Excelente departamento de 3 ambientes con cochera cubierta.</div><div><br></div><div>La propiedad cuenta con amplio living comedor con cocina integrada, dos dormitorios con placard y dos baños completos con ducha, uno de ellos en suite.</div><div><br></div><div>Además, dispone de balcón al frente, que aporta luminosidad y ventilación natural.</div><div><br></div><div>Ubicación: Cochabamba 2156, 1° A.</div><div><br></div><div>Condiciones de alquiler:</div><div><br></div><div>* Contrato por 24 meses.</div><div>* Incremento trimestral por IPC.</div><div>* Garantía: Fianza</div><div>* Mascotas: SI</div>                <br><br>            \r\n\r\n            ",
       "roofed_surface": "0.00",
       "room_amount": 3,
       "semiroofed_surface": "0.00",
@@ -115732,8 +115602,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-09T18:15:07",
-      "enhanced_description": "<h3>Descripción</h3>\n<p>Excelente departamento de 3 ambientes con cochera cubierta.</p>\n\n<h3>Características de la Propiedad</h3>\n<ul>\n<li>Amplio living comedor con cocina integrada</li>\n<li>Dos dormitorios con placard</li>\n<li>Dos baños completos con ducha</li>\n<li>Baño en suite</li>\n<li>Balcón al frente con luminosidad y ventilación natural</li>\n<li>Cochera cubierta</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Cochabamba 2156, 1° A</p>\n\n<h3>Condiciones de Alquiler</h3>\n<ul>\n<li>Contrato por 24 meses</li>\n<li>Incremento trimestral por IPC</li>\n<li>Garantía: Fianza</li>\n<li>Mascotas: No permitidas</li>\n</ul>"
+      "_last_changed": "2026-10-15T10:38:01.648Z",
+      "enhanced_description": "<h3>Descripción del Departamento</h3>\n<p>Excelente departamento de 3 ambientes con cochera cubierta.</p>\n<p>La propiedad cuenta con amplio living comedor con cocina integrada, dos dormitorios con placard y dos baños completos con ducha, uno de ellos en suite. Además, dispone de balcón al frente, que aporta luminosidad y ventilación natural.</p>\n\n<h3>Ubicación</h3>\n<p>Cochabamba 2156, 1° A</p>\n\n<h3>Características</h3>\n<ul>\n<li>3 ambientes</li>\n<li>Cochera cubierta</li>\n<li>Living comedor con cocina integrada</li>\n<li>2 dormitorios con placard</li>\n<li>2 baños completos con ducha</li>\n<li>1 baño en suite</li>\n<li>Balcón al frente</li>\n</ul>\n\n<h3>Condiciones de Alquiler</h3>\n<ul>\n<li>Contrato por 24 meses</li>\n<li>Incremento trimestral por IPC</li>\n<li>Garantía: Fianza</li>\n<li>Mascotas: Sí</li>\n</ul>"
     },
     {
       "address": "25 de Mayo 1761 1°A - San Martin",
