@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-16T10:25:18.978Z"
+    "lastSync": "2026-10-17T09:57:28.232Z"
   },
   "objects": [
     {
@@ -2271,6 +2271,15 @@
       "iptu_type": "No informado",
       "is_denounced": false,
       "is_starred_on_web": false,
+      "lead_receiver_user": {
+        "cellphone": "",
+        "email": "laura@obrasdemar.com",
+        "id": 122960,
+        "name": "Laura Suarez",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
       "legally_checked": "Desconocido",
       "livable_area": "0.00",
       "living_amount": 0,
@@ -33062,6 +33071,15 @@
       "iptu_type": "No informado",
       "is_denounced": false,
       "is_starred_on_web": false,
+      "lead_receiver_user": {
+        "cellphone": " 5491158510184",
+        "email": "obrasdemar@gmail.com",
+        "id": 122255,
+        "name": "Obras De Mar",
+        "phone": " 5491158510184",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
       "legally_checked": "Desconocido",
       "livable_area": "0.00",
       "living_amount": 1,
