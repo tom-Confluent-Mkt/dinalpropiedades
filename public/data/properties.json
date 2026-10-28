@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-27T11:20:22.672Z"
+    "lastSync": "2026-10-28T11:54:17.498Z"
   },
   "objects": [
     {
@@ -7119,6 +7119,578 @@
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Excelente ubicación, a 1 cuadra de Av. Perón, 4 cuadras de Av. Balbín y muy cerca del centro comercial de San Martín, la estación del Ferrocarril Mitre y la UNSAM.</p>\n\n<h3>Características del Departamento</h3>\n<p>Luminoso departamento de 2 ambientes, ubicado en un 5° piso, con una superficie aproximada de 45 m². Se encuentra en impecable estado y ofrece:</p>\n<ul>\n<li>Living comedor</li>\n<li>Cocina independiente totalmente equipada, con muebles bajo mesada y alacenas</li>\n<li>Dormitorio con placard</li>\n<li>Baño completo con bañera</li>\n<li>Balcón con espacio para lavarropas</li>\n<li>Excelente ingreso de luz natural</li>\n</ul>\n<p>Impecable estado, listo para mudarse.</p>\n\n<h3>Condiciones de Alquiler</h3>\n<ul>\n<li>Contrato por 2 años</li>\n<li>Ajuste trimestral por índice ICL</li>\n<li>Garantía propietaria o fianza</li>\n<li>No se aceptan mascotas</li>\n<li>Disponible a partir del 01/11/2026</li>\n</ul>"
     },
     {
+      "address": "Alte. Brown 3295 3°A - Villa Ballester",
+      "address_complement": "",
+      "age": 10,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 2,
+      "block_number": "",
+      "branch": {
+        "address": "Alte Brown 3295",
+        "alternative_phone": "77170405",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13  y de 14 a 18.30",
+        "created_date": "2018-11-23T15:14:30",
+        "deleted_at": null,
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.554152901810376",
+        "geo_long": "-58.56033015478516",
+        "gm_location_type": "BY_HAND",
+        "id": 7883,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/branch_logos/7883/px%20(1).jpg",
+        "name": "Villa Ballester",
+        "pdf_footer_text": "",
+        "phone": "77170405",
+        "phone_area": "011",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2020-03-02T14:19:21",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [
+        {
+          "group_name": null,
+          "id": 18472,
+          "name": "Usados",
+          "public_name": ""
+        }
+      ],
+      "deleted_at": "2026-10-27T18:18:32",
+      "depth_measure": "0.00",
+      "description": "                                            Excelente Departamento 3 Ambientes con cochera descubierta   – Villa Ballester\n\n Ubicación estratégica:\n\t•\tA 3 cuadras de la Estación Villa Ballester (Línea Mitre).\t•\tVarias líneas de colectivos en la zona.\t•\tCercano al centro comercial de Villa Ballester y al centro de San Martín.\t•\tFácil acceso a Capital Federal.\n Características del departamento – 3° piso al frente\n\t•\tAmplio living comedor.\t•\tCocina totalmente independiente con muebles altos y bajos.\t• 2 Dormitorios \t•\tBaño completo con bañera + toilette.\t•\tBalcón al contrafrente con lavadero.\t•\tBalcón al frente con parrilla.\t•\tCochera descubierta incluida.\n\n\n Departamento luminoso, con excelente distribución y comodidades.\n Ideal tanto para vivienda como para inversión.\n\n        \n            \r\n\r\n            ",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": "Frente",
+      "down_payment": "0.00",
+      "expenses": 90000,
+      "extra_attributes": [],
+      "fake_address": "Alte. Brown 3295 3°A - Villa Ballester",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 1,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5530282749",
+      "geo_long": "-58.5590691562",
+      "gm_location_type": "BY_HAND",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 2384385,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [
+          {
+            "cellphone": "5491164806385",
+            "email": "Carmen@dinalpropiedades.com",
+            "id": 12880,
+            "name": "María Del Carmen Turlá",
+            "phone": "",
+            "picture": "https://static.tokkobroker.com/userprofile/pictures/profile_picture-12880-253cba9c7d493433e8af1b720df66db9.jpeg",
+            "position": ""
+          }
+        ],
+        "internal_comments": "Es de Marcelo Simeone, Tiene 2 cocheras descubiertas ( 2 y 7 ) la 2 esta alquilada seguro con nosotros la 7 no sabemos. OJO debe mucho de expensas cochera.- \nLa publicación es 120.000 con una cochera desc. ",
+        "key_location": "In our posession",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 5492235283845",
+            "created_at": "2025-05-21T20:48:39",
+            "document_number": "",
+            "email": "",
+            "id": 53166796,
+            "name": "Marcelo Simione",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-10-27T18:10:17",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": true,
+      "lead_receiver_user": {
+        "cellphone": "1145744134",
+        "email": "matias@dinalpropiedades.com",
+        "id": 70093,
+        "name": "Matias Ensinas",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25035,
+            "name": "Chilavert",
+            "resource_uri": "/api/v1/location/25035/"
+          },
+          {
+            "id": 25036,
+            "name": "Malaver",
+            "resource_uri": "/api/v1/location/25036/"
+          },
+          {
+            "id": 25037,
+            "name": "V.Zagala",
+            "resource_uri": "/api/v1/location/25037/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | Villa Ballester",
+        "id": 25034,
+        "name": "Villa Ballester",
+        "parent_division": "/api/v1/location/25013/",
+        "short_location": "G.B.A. Zona Norte | General San Martin | Villa Ballester",
+        "state": null,
+        "type": "Localidad",
+        "weight": 7615,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Venta",
+          "prices": [
+            {
+              "currency": "USD",
+              "is_promotional": false,
+              "period": 0,
+              "price": 120000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 1,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_30047167997391907927032453683736575766908402408915027478945804073241302375242.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_3004716799739190792703245368373657576690840240891502747894580407324130.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_30047167997391907927032453683736575766908402408915027478945804073241302375242_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_30047167997391907927032453683736575766908402408915027478945804073241302375242_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_65330888869342213527677700490224404102154505855661067090404784904511084504274.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_65330888869342213527677700490224404102154505855661067090404784904511084504274.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_65330888869342213527677700490224404102154505855661067090404784904511084504274_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_6110073022739651276824418078644998910546897820178194810522855916117686472237.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_6110073022739651276824418078644998910546897820178194810522855916117686.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_6110073022739651276824418078644998910546897820178194810522855916117686472237_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_6110073022739651276824418078644998910546897820178194810522855916117686472237_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_61814865656835694441699367366150892888856910503755512376088962484866759270865.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_6181486565683569444169936736615089288885691050375551237608896248486675.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_61814865656835694441699367366150892888856910503755512376088962484866759270865_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_61814865656835694441699367366150892888856910503755512376088962484866759270865_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_114377619422533926536556528401289090913741984008924334515741803996426778020898.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_1143776194225339265365565284012890909137419840089243345157418039964267.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_114377619422533926536556528401289090913741984008924334515741803996426778020898_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_114377619422533926536556528401289090913741984008924334515741803996426778020898_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_58059674111384587623136865469924797931115088703121140342874007175822052421419.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_5805967411138458762313686546992479793111508870312114034287400717582205.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_58059674111384587623136865469924797931115088703121140342874007175822052421419_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_58059674111384587623136865469924797931115088703121140342874007175822052421419_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_65296632630141651421244904534136666094285750456718332757952725353501927048657.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_6529663263014165142124490453413666609428575045671833275795272535350192.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_65296632630141651421244904534136666094285750456718332757952725353501927048657_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_65296632630141651421244904534136666094285750456718332757952725353501927048657_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_76710630387639657809270451382659857919578467041529975004495705287886991875107.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_7671063038763965780927045138265985791957846704152997500449570528788699.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_76710630387639657809270451382659857919578467041529975004495705287886991875107_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_76710630387639657809270451382659857919578467041529975004495705287886991875107_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_70559974784857979066981704470728204054972976070895073190857036304546548557415.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_7055997478485797906698170447072820405497297607089507319085703630454654.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_70559974784857979066981704470728204054972976070895073190857036304546548557415_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_70559974784857979066981704470728204054972976070895073190857036304546548557415_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_42207446908010249029711485175109817721786713637850269169740830675058558710697.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_4220744690801024902971148517510981772178671363785026916974083067505855.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_42207446908010249029711485175109817721786713637850269169740830675058558710697_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_42207446908010249029711485175109817721786713637850269169740830675058558710697_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_15302279719207098496750591358205782340266329632969787702826589948060969914932.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_1530227971920709849675059135820578234026632963296978770282658994806096.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_15302279719207098496750591358205782340266329632969787702826589948060969914932_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_15302279719207098496750591358205782340266329632969787702826589948060969914932_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_24675991851915828417369634342472796601244756782629931938862987586689518517614.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_2467599185191582841736963434247279660124475678262993193886298758668951.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_24675991851915828417369634342472796601244756782629931938862987586689518517614_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_24675991851915828417369634342472796601244756782629931938862987586689518517614_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_112104947915648469108311625605851391722744984854523131713017304762710230067757.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_1121049479156484691083116256058513917227449848545231317130173047627102.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_112104947915648469108311625605851391722744984854523131713017304762710230067757_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_112104947915648469108311625605851391722744984854523131713017304762710230067757_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_110187908424837027328405057134194244920845939065452463443349388018256806230096.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 13,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_1101879084248370273284050571341942449208459390654524634433493880182568.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_110187908424837027328405057134194244920845939065452463443349388018256806230096_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_110187908424837027328405057134194244920845939065452463443349388018256806230096_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_25958943365941165531892825996920965746862324056342502270273556354621429070317.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 14,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_2595894336594116553189282599692096574686232405634250227027355635462142.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_25958943365941165531892825996920965746862324056342502270273556354621429070317_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_25958943365941165531892825996920965746862324056342502270273556354621429070317_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_105144142581101141032531682941400213057632171669262103149998965157816380038242.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 15,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_1051441425811011410325316829414002130576321716692621031499989651578163.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_105144142581101141032531682941400213057632171669262103149998965157816380038242_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_105144142581101141032531682941400213057632171669262103149998965157816380038242_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_24037237972436258378976994181233097743341060360586436973680703702350767297159.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 16,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_2403723797243625837897699418123309774334106036058643697368070370235076.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_24037237972436258378976994181233097743341060360586436973680703702350767297159_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_24037237972436258378976994181233097743341060360586436973680703702350767297159_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_5403699297134437146888165954820129224304732060537322979888021103247885542479.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 17,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_5403699297134437146888165954820129224304732060537322979888021103247885.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_5403699297134437146888165954820129224304732060537322979888021103247885542479_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_5403699297134437146888165954820129224304732060537322979888021103247885542479_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_3933469190913292321908156262869639130850699950171943913546574623954205302511.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 18,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_3933469190913292321908156262869639130850699950171943913546574623954205.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_3933469190913292321908156262869639130850699950171943913546574623954205302511_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_3933469190913292321908156262869639130850699950171943913546574623954205302511_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_31442479584521248746818302235085682610799699133446039036723114562735121069817.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 19,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_3144247958452124874681830223508568261079969913344603903672311456273512.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_31442479584521248746818302235085682610799699133446039036723114562735121069817_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_31442479584521248746818302235085682610799699133446039036723114562735121069817_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_110846940982189292103802852135817404910466050119915789790537714682395247469128.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 20,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_1108469409821892921038028521358174049104660501199157897905377146823952.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_110846940982189292103802852135817404910466050119915789790537714682395247469128_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_110846940982189292103802852135817404910466050119915789790537714682395247469128_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_40696077717802792805400994410855596813661010484532086166386129449836547609923.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 21,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_4069607771780279280540099441085559681366101048453208616638612944983654.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_40696077717802792805400994410855596813661010484532086166386129449836547609923_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_40696077717802792805400994410855596813661010484532086166386129449836547609923_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_86945695897292118861508568780018755218996657026575108817100700223240744543219.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 22,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_8694569589729211886150856878001875521899665702657510881710070022324074.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_86945695897292118861508568780018755218996657026575108817100700223240744543219_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_86945695897292118861508568780018755218996657026575108817100700223240744543219_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_39878654341175146318567666300893586706925984751955865677191694332492403023210.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 23,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_3987865434117514631856766630089358670692598475195586567719169433249240.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_39878654341175146318567666300893586706925984751955865677191694332492403023210_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_39878654341175146318567666300893586706925984751955865677191694332492403023210_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_105021545799416153009853794222081430238783855819272486029885092279456555452601.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 24,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_1050215457994161530098537942220814302387838558192724860298850922794565.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_105021545799416153009853794222081430238783855819272486029885092279456555452601_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_105021545799416153009853794222081430238783855819272486029885092279456555452601_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_17324645316950105885453376064972868429044022440506433088385892072867985100985.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 25,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_1732464531695010588545337606497286842904402244050643308838589207286798.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_17324645316950105885453376064972868429044022440506433088385892072867985100985_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_17324645316950105885453376064972868429044022440506433088385892072867985100985_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/2384385_97498279966584185462359080834130761499169803659692433923036451876324275178444.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 26,
+          "original": "https://static.tokkobroker.com/original_pictures/2384385_9749827996658418546235908083413076149916980365969243392303645187632427.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/2384385_97498279966584185462359080834130761499169803659692433923036451876324275178444_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/2384385_97498279966584185462359080834130761499169803659692433923036451876324275178444_thu.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "1145744134",
+        "email": "matias@dinalpropiedades.com",
+        "id": 70093,
+        "name": "Matias Ensinas",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "property_condition": "Excelente",
+      "public_url": "https://ficha.info/p/ekarZdsoHe1bOa",
+      "publication_title": "Departamento en venta 3 ambientes en Villa Ballester",
+      "quality_level": null,
+      "real_address": "Alte. Brown 3295 3 °A Con Cochera - Villa Ballester",
+      "reference_code": "DAP2384385",
+      "rich_description": "                                            <p>Excelente Departamento 3 Ambientes con cochera descubierta&nbsp;&nbsp;<span style=\"font-weight: bold;\">&nbsp;</span>– Villa Ballester</p><div><br></div><div>&nbsp;<span style=\"text-decoration-line: underline;\">Ubicación estratégica:</span></div><div><span style=\"text-decoration-line: underline;\"><br></span></div><div>\t•\tA 3 cuadras de la Estación Villa Ballester (Línea Mitre).</div><div>\t•\tVarias líneas de colectivos en la zona.</div><div>\t•\tCercano al centro comercial de Villa Ballester y al centro de San Martín.</div><div>\t•\tFácil acceso a Capital Federal.</div><div><br></div><div><span style=\"font-size: 14px; font-weight: bold;\">&nbsp;Características del departamento – 3° piso al frente</span><br><br class=\"Apple-interchange-newline\"></div><div>\t•\tAmplio living comedor.</div><div>\t•\tCocina totalmente independiente con muebles altos y bajos.</div><div>\t• 2 Dormitorios&nbsp;</div><div>\t•\tBaño completo con bañera + toilette.</div><div>\t•\tBalcón al contrafrente con lavadero.</div><div>\t•\tBalcón al frente con parrilla.</div><div>\t•\tCochera descubierta incluida.</div><div><br></div><div><br></div><div><br></div><div>&nbsp;<span style=\"font-weight: bold;\">Departamento luminoso, con excelente distribución y comodidades.</span></div><div><span style=\"font-weight: bold;\"><br></span></div><div>&nbsp;Ideal tanto para vivienda como para inversión.</div><div><br></div><br>        <br>            \r\n\r\n            ",
+      "roofed_surface": "55.00",
+      "room_amount": 3,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "Vacía ",
+      "status": 2,
+      "suite_amount": 2,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 8,
+          "name": "Cable",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcón",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Cocina",
+          "type": 2
+        },
+        {
+          "id": 22,
+          "name": "Living comedor",
+          "type": 2
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 46,
+          "name": "Apto mascotas",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
+        },
+        {
+          "id": 1322,
+          "name": "Portones eléctricos",
+          "type": 3
+        },
+        {
+          "id": 1443,
+          "name": "Agua Potable",
+          "type": 1
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
+        },
+        {
+          "id": 1583,
+          "name": "Termotanque Individual",
+          "type": 3
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "68.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "13.00",
+      "videos": [],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2020-03-02T14:19:21",
+      "enhanced_description": "<h3>Ubicación estratégica</h3>\n<ul>\n<li>A 3 cuadras de la Estación Villa Ballester (Línea Mitre)</li>\n<li>Varias líneas de colectivos en la zona</li>\n<li>Cercano al centro comercial de Villa Ballester y al centro de San Martín</li>\n<li>Fácil acceso a Capital Federal</li>\n</ul>\n\n<h3>Características del departamento</h3>\n<ul>\n<li>3º piso al frente</li>\n<li>Amplio living comedor</li>\n<li>Cocina totalmente independiente con muebles altos y bajos</li>\n<li>2 Dormitorios</li>\n<li>Baño completo con bañera</li>\n<li>Toilette</li>\n<li>Balcón al contrafrente con lavadero</li>\n<li>Balcón al frente con parrilla</li>\n<li>Cochera descubierta incluida</li>\n</ul>\n\n<p>Departamento luminoso, con excelente distribución y comodidades. Ideal tanto para vivienda como para inversión.</p>"
+    },
+    {
       "address": "Pueyrredón al 3500 2°",
       "address_complement": "",
       "age": 8,
@@ -11625,7 +12197,7 @@
       "enhanced_description": "<h3>Ubicación estratégica</h3>\n<ul>\n<li>A pocas cuadras del centro comercial de San Martín</li>\n<li>A 10 cuadras de la estación de tren (Línea Mitre)</li>\n<li>Varias líneas de colectivo en la zona</li>\n<li>A 2 cuadras de Ruta 8, con fácil acceso a Capital Federal</li>\n</ul>\n\n<h3>Características del departamento</h3>\n<p>5° piso al frente</p>\n<ul>\n<li>Living comedor</li>\n<li>Cocina independiente con muebles altos y bajos</li>\n<li>Salida a balcón con parrilla y lavadero</li>\n<li>Dormitorio con placard de piso a techo</li>\n<li>Baño completo con bañera</li>\n<li>Segundo balcón al frente</li>\n<li>Cochera incluida</li>\n</ul>\n\n<p>Departamento luminoso, en excelentes condiciones y con renta vigente, ideal para inversores.</p>"
     },
     {
-      "address": "Santiago del Estero al 6800",
+      "address": "APTO CREDITO - Santiago del Estero 6856 4°F - José Leon Suarez",
       "address_complement": "",
       "age": 3,
       "apartment_door": "",
@@ -11673,9 +12245,9 @@
           "public_name": ""
         }
       ],
-      "deleted_at": "2026-10-19T15:47:46",
+      "deleted_at": "2026-10-27T14:28:35",
       "depth_measure": "0.00",
-      "description": "                Excelente departamento de 2 ambientes ubicado en el 4° piso al contrafrente, con vista abierta y excelente ubicación en Jose Leon Suarez .- APTO CREDITO \nA solo 5 cuadras de la estación de tren Línea Mitre y a 2 cuadras de Av. Márquez, con cercanía al centro comercial de Villa Ballester\nLa unidad cuenta con:* Cocina comedor integrada con muebles altos y bajo mesada* Dormitorio con placard empotrado* Baño completo con bañera* Balcón con vista abierta* Muy buena luminosidad\nPosibilidad de cochera (USD 10.000.-)\nSe escuchan ofertas razonables.\n\n            \r\n            ",
+      "description": "                                Excelente departamento de 2 ambientes ubicado en el 4° piso al contrafrente, con vista abierta y excelente ubicación en Jose Leon Suarez .- APTO CREDITO \nA solo 5 cuadras de la estación de tren Línea Mitre y a 2 cuadras de Av. Márquez, con cercanía al centro comercial de Villa Ballester\nLa unidad cuenta con:* Cocina comedor integrada con muebles altos y bajo mesada* Dormitorio con placard empotrado* Baño completo con bañera* Balcón con vista abierta* Muy buena luminosidad\nPosibilidad de cochera (USD 10.000.-)\n\n\nSe escuchan ofertas razonables.\n\n            \n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -11683,7 +12255,7 @@
       "down_payment": "0.00",
       "expenses": 0,
       "extra_attributes": [],
-      "fake_address": "Santiago del Estero al 6800",
+      "fake_address": "APTO CREDITO - Santiago del Estero 6856 4°F - José Leon Suarez",
       "files": [],
       "fire_insurance_cost": "0.00",
       "floor": "",
@@ -11930,9 +12502,9 @@
       "public_url": "https://ficha.info/p/enD1kddvTgSpSa",
       "publication_title": "APTO CREDITO - Departamento con cochera en Jose Leon Suarez",
       "quality_level": null,
-      "real_address": "APTO CREDITO - Santiago del Estero 6856 - José Leon Suarez",
+      "real_address": "APTO CREDITO - Santiago del Estero 6856 4°F - José Leon Suarez",
       "reference_code": "DAP3213036",
-      "rich_description": "                Excelente departamento de 2 ambientes ubicado en el 4° piso al contrafrente, con vista abierta y excelente ubicación en Jose Leon Suarez .- <span style=\"font-weight: bold;\">APTO CREDITO&nbsp;</span><div><br></div><div>A solo 5 cuadras de la estación de tren Línea Mitre y a 2 cuadras de Av. Márquez, con cercanía al centro comercial de Villa Ballester</div><div><br></div><div><span style=\"font-weight: bold;\">La unidad cuenta con:</span></div><div>* Cocina comedor integrada con muebles altos y bajo mesada</div><div>* Dormitorio con placard empotrado</div><div>* Baño completo con bañera</div><div>* Balcón con vista abierta</div><div>* Muy buena luminosidad</div><div><br></div><div><span style=\"font-weight: bold;\">Posibilidad de cochera (USD 10.000.-)</span></div><div><br></div><div>Se escuchan ofertas razonables.</div><div><br></div><br>            \r\n            ",
+      "rich_description": "                                Excelente departamento de 2 ambientes ubicado en el 4° piso al contrafrente, con vista abierta y excelente ubicación en Jose Leon Suarez .- <span style=\"font-weight: bold;\">APTO CREDITO&nbsp;</span><div><br></div><div>A solo 5 cuadras de la estación de tren Línea Mitre y a 2 cuadras de Av. Márquez, con cercanía al centro comercial de Villa Ballester</div><div><br></div><div><span style=\"font-weight: bold;\">La unidad cuenta con:</span></div><div>* Cocina comedor integrada con muebles altos y bajo mesada</div><div>* Dormitorio con placard empotrado</div><div>* Baño completo con bañera</div><div>* Balcón con vista abierta</div><div>* Muy buena luminosidad</div><div><br></div><div><span style=\"font-weight: bold;\">Posibilidad de cochera (USD 10.000.-)</span></div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">Se escuchan ofertas razonables.</span></div><div><br></div><br>            <br>            \r\n\r\n            ",
       "roofed_surface": "0.00",
       "room_amount": 2,
       "semiroofed_surface": "0.00",
@@ -12003,8 +12575,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "0",
-      "_last_changed": "2026-10-20T10:44:26.450Z",
-      "enhanced_description": "<h3>Descripción del Departamento</h3>\n<p>Excelente departamento de 2 ambientes ubicado en el 4° piso al contrafrente, con vista abierta y excelente ubicación en Jose Leon Suarez. Apto crédito.</p>\n\n<h3>Ubicación</h3>\n<p>A solo 5 cuadras de la estación de tren Línea Mitre y a 2 cuadras de Av. Márquez, con cercanía al centro comercial de Villa Ballester.</p>\n\n<h3>Características</h3>\n<ul>\n<li>Cocina comedor integrada con muebles altos y bajo mesada</li>\n<li>Dormitorio con placard empotrado</li>\n<li>Baño completo con bañera</li>\n<li>Balcón con vista abierta</li>\n<li>Muy buena luminosidad</li>\n</ul>\n\n<h3>Adicionales</h3>\n<p>Posibilidad de cochera (USD 10.000)</p>\n\n<h3>Observaciones</h3>\n<p>Se escuchan ofertas razonables.</p>"
+      "_last_changed": "2026-10-28T11:54:17.498Z",
+      "enhanced_description": "<h3>Descripción General</h3>\n<p>Excelente departamento de 2 ambientes ubicado en el 4° piso al contrafrente, con vista abierta y excelente ubicación en Jose Leon Suarez. Apto crédito.</p>\n\n<h3>Ubicación</h3>\n<p>A solo 5 cuadras de la estación de tren Línea Mitre y a 2 cuadras de Av. Márquez, con cercanía al centro comercial de Villa Ballester.</p>\n\n<h3>Características de la Unidad</h3>\n<ul>\n<li>Cocina comedor integrada con muebles altos y bajo mesada</li>\n<li>Dormitorio con placard empotrado</li>\n<li>Baño completo con bañera</li>\n<li>Balcón con vista abierta</li>\n<li>Muy buena luminosidad</li>\n</ul>\n\n<h3>Cochera</h3>\n<p>Posibilidad de cochera (USD 10.000)</p>\n\n<h3>Observaciones</h3>\n<p>Se escuchan ofertas razonables.</p>"
     },
     {
       "address": "Carrera al 2800",
@@ -38458,7 +39030,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-26T14:44:58",
+      "deleted_at": "2026-10-27T18:16:13",
       "depth_measure": "0.00",
       "description": "                                                                                                                                            Departamento 2 ambientes en alquiler – Centro de San Martín\n\nExcelente departamento de 2 ambientes, ubicado en un 8.º piso al frente, con terminaciones de calidad premium y una excelente distribución.\nCaracterísticas\n* Cocina independiente, equipada con muebles altos y bajos de primera calidad, moderna y funcional.* Dormitorio con frente de placard empotrado.* Baño completo con mampara.* Amplio balcón al frente con parrilla propia.\nUbicación\nUbicado en una zona estratégica del Centro de San Martín, a pocas cuadras del centro comercial, con fácil acceso a diversas líneas de colectivos y rápida conexión con Avenida General Paz.\nCondiciones\n* Contrato por 24 meses.* Ajuste trimestral por ICL.* Garantía: fianza.* No se aceptan mascotas.\n\n\n\n\n\n\n\n\n\n\n\n        \n        \n        \n        \n        \n\n            \r\n\r\n            ",
       "development": null,
@@ -38466,7 +39038,7 @@
       "dining_room": 0,
       "disposition": "Frente",
       "down_payment": "0.00",
-      "expenses": 95000,
+      "expenses": 116000,
       "extra_attributes": [],
       "fake_address": "Rivadavia al 3800 8°",
       "files": [],
@@ -39050,7 +39622,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-27T11:20:22.672Z",
+      "_last_changed": "2026-10-28T11:54:17.498Z",
       "enhanced_description": "<h3>Departamento 2 ambientes en alquiler – Centro de San Martín</h3>\n\n<p>Excelente departamento de 2 ambientes, ubicado en un 8º piso al frente, con terminaciones de calidad premium y una excelente distribución.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>Cocina independiente, equipada con muebles altos y bajos de primera calidad, moderna y funcional</li>\n<li>Dormitorio con frente de placard empotrado</li>\n<li>Baño completo con mampara</li>\n<li>Amplio balcón al frente con parrilla propia</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Ubicado en una zona estratégica del Centro de San Martín, a pocas cuadras del centro comercial, con fácil acceso a diversas líneas de colectivos y rápida conexión con Avenida General Paz.</p>\n\n<h3>Condiciones</h3>\n\n<ul>\n<li>Contrato por 24 meses</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Garantía: fianza</li>\n<li>No se aceptan mascotas</li>\n</ul>"
     },
     {
@@ -47957,7 +48529,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-26T20:30:24",
+      "deleted_at": "2026-10-27T18:30:54",
       "depth_measure": "0.00",
       "description": "                                                                            DEPARTAMENTO DE 2 AMBIENTES EN ALQUILER\n\n¡Tu próximo hogar te espera!\nModerno y funcional departamento de 2 ambientes, ideal para quienes buscan comodidad, practicidad y un espacio bien distribuido para disfrutar todos los días.\n Características principales:\n* Cocina independiente, equipada con muebles bajo mesada y alacenas.* Amplio living comedor, luminoso y confortable, ideal para relajarse y compartir momentos.* Dormitorio con placard, con práctico espacio de guardado.* Baño completo, funcional y cómodo.* Balcón,* Lavadero integrado, que aporta practicidad al día a día.\nUna excelente opción para quienes buscan un departamento cómodo, moderno y funcional.\n\nREQUISITOS :\n*- Ajuste Trimestral por ICL *- Contrato por 2 años*- NO se permiten Mascotas *- Garantía: Propietaria o Fianza  \n\n¡No dejes pasar esta oportunidad! Contactanos para recibir más información y coordinar una visita.\n\n\n        \n        \r\n\r\n            ",
       "development": null,
@@ -48537,7 +49109,7 @@
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/eByCBddvUnPIva",
-      "publication_title": "Departamento en alquiler a estrenar en  San Martín",
+      "publication_title": "Departamento en alquiler - San Martín",
       "quality_level": null,
       "real_address": "ALQUILER - San Lorenzo 2550   1° B",
       "reference_code": "DAP6528875",
@@ -48659,7 +49231,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2024-10-29T12:38:38",
+      "_last_changed": "2026-10-28T11:54:17.498Z",
       "enhanced_description": "<h3>Departamento de 2 Ambientes en Alquiler</h3>\n\n<p>Moderno y funcional departamento de 2 ambientes, ideal para quienes buscan comodidad, practicidad y un espacio bien distribuido para disfrutar todos los días.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Cocina independiente, equipada con muebles bajo mesada y alacenas</li>\n<li>Amplio living comedor, luminoso y confortable, ideal para relajarse y compartir momentos</li>\n<li>Dormitorio con placard, con práctico espacio de guardado</li>\n<li>Baño completo, funcional y cómodo</li>\n<li>Balcón</li>\n<li>Lavadero integrado, que aporta practicidad al día a día</li>\n</ul>\n\n<h3>Requisitos</h3>\n\n<ul>\n<li>Ajuste trimestral por ICL</li>\n<li>Contrato por 2 años</li>\n<li>No se permiten mascotas</li>\n<li>Garantía: Propietaria o Fianza</li>\n</ul>\n\n<p>Una excelente opción para quienes buscan un departamento cómodo, moderno y funcional. No dejes pasar esta oportunidad. Contactanos para recibir más información y coordinar una visita.</p>"
     },
     {
@@ -73470,7 +74042,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-23T15:43:03",
+      "deleted_at": "2026-10-27T13:46:37",
       "depth_measure": "0.00",
       "description": "                                                                Yapeyú 1972, San Martín\nUbicado en el corazón de San Martín, en una zona de fácil acceso: a solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y del Metrobus, 2 cuadras de Av. 25 de Mayo (con salida directa a Gral. Paz y Autopista 25 de Mayo) y a 4 cuadras de la estación de tren Mitre. Rodeado de comercios, colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.\nModerno Departamento de 2 Ambientes con Balcón y Parrilla\n¡Tu próximo hogar te espera!\nEste departamento combina confort, estilo y funcionalidad en una ubicación inmejorable.\n\n\nCaracterísticas principales:\n •\tDormitorio: con placard empotrado y A/A frio calor. •\tCocina independiente, equipada con muebles sobre y bajo mesada + spar. •\tLiving-comedor: Con A/A frio calor •\tBalcón propio: con parrilla. •\tBaño: moderno y funcional.\n\n¡No pierdas la oportunidad!Contáctanos para más información y coordinar una visita.\n\nREQUISITOS:\nContrato por dos añosAjuste trimestral por ICL Garantía: Propietaria o Fianza Mascotas: No se permite \nPOSESION DE LA UNIDAD A PARTIR DE NOVIEMBRE 2026 .-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n            \n\n            \n\n            \r\n\r\n            ",
       "development": null,
@@ -73505,16 +74077,16 @@
         "property_owners": [
           {
             "birthdate": null,
-            "cellphone": " 541131274127",
-            "created_at": "2026-09-09T16:04:10",
+            "cellphone": "1567824972",
+            "created_at": "2026-10-27T13:46:35",
             "document_number": "",
             "email": "",
-            "id": 69421030,
-            "name": "Barzola Souta",
+            "id": 76454545,
+            "name": "Perez Medina",
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-09-09T16:04:10",
+            "updated_at": "2026-10-27T13:46:36",
             "work_email": ""
           }
         ],
@@ -73930,7 +74502,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2025-08-13T17:52:45",
+      "_last_changed": "2026-10-28T11:54:17.498Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Ubicado en el corazón de San Martín, en una zona de fácil acceso: a solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y del Metrobus, 2 cuadras de Av. 25 de Mayo (con salida directa a Gral. Paz y Autopista 25 de Mayo) y a 4 cuadras de la estación de tren Mitre. Rodeado de comercios, colegios, clínicas, hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Moderno departamento de 2 ambientes con balcón y parrilla. Este departamento combina confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorio: con placard empotrado y A/A frío calor</li>\n<li>Cocina independiente, equipada con muebles sobre y bajo mesada + spar</li>\n<li>Living-comedor: con A/A frío calor</li>\n<li>Balcón propio: con parrilla</li>\n<li>Baño: moderno y funcional</li>\n</ul>\n\n<h3>Requisitos</h3>\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Garantía: Propietaria o Fianza</li>\n<li>Mascotas: No se permite</li>\n</ul>\n\n<h3>Posesión</h3>\n<p>A partir de noviembre 2026</p>"
     },
     {
@@ -88085,9 +88657,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2025-12-09T14:32:58",
+      "deleted_at": "2026-10-27T18:31:09",
       "depth_measure": "0.00",
-      "description": "Casa de 5 ambientes en dos plantas — Excelente propiedad familiar\nPropiedad de amplios y luminosos ambientes, diseñada para brindar comodidad, funcionalidad y muy buena circulación en ambos niveles. Ubicada en zona residencial, cuenta con todos los espacios necesarios para disfrutar tanto del interior como del exterior de la casa.\n\n???? Planta Baja\nAl ingresar encontramos un gran living comedor, con ventanales que aportan luminosidad natural y vistas abiertas al jardín. Su distribución permite sectorizar fácilmente living y comedor.\nLa cocina comedor es amplia, cómoda y está equipada con muebles sobre y bajo mesada, brindando gran capacidad de guardado. \nEn este nivel se encuentra un dormitorio en suite, espacioso y funcional, perfecto para huéspedes.-\nAdemás, la planta baja cuenta con:\t•\tBaño completo adicional\t•\tCochera cubierta\t•\tPatio con jardín, ideal para disfrutar al aire libre\t•\tPileta.\t•\tBaño de servicio.\n\n???? Planta Alta\nAccedemos por una escalera hacia un hall de distribución / sala de estar, que funciona como espacio multifunción (escritorio, playroom o sala de TV).\nLa planta alta cuenta con tres dormitorios, todos con muy buena luz natural y ventilación. Uno de ellos dispone de baño en suite, ofreciendo privacidad y confort.\nAdemás, se suma un baño completo con antebaño, equipado con hidromasaje.\n?\n???? Valor: U$S 300.000\nUna propiedad sólida, cómoda y con una excelente distribución, pensada para una vida en familia con espacios amplios tanto interiores como exteriores.\n                \r\n            ",
+      "description": "                Casa de 5 ambientes en dos plantas — Excelente propiedad familiar. ACEPTA DEPARTAMENTO 3 AMBIENTES EN PARTE DE PAGO.\nPropiedad de amplios y luminosos ambientes, diseñada para brindar comodidad, funcionalidad y muy buena circulación en ambos niveles. Ubicada en zona residencial, cuenta con todos los espacios necesarios para disfrutar tanto del interior como del exterior de la casa.\n\nPlanta Baja\nAl ingresar encontramos un gran living comedor, con ventanales que aportan luminosidad natural y vistas abiertas al jardín. Su distribución permite sectorizar fácilmente living y comedor.\nLa cocina comedor es amplia, cómoda y está equipada con muebles sobre y bajo mesada, brindando gran capacidad de guardado. \nEn este nivel se encuentra un dormitorio en suite, espacioso y funcional, perfecto para huéspedes.-\nAdemás, la planta baja cuenta con:\t•\tBaño completo adicional\t•\tCochera cubierta\t•\tPatio con jardín, ideal para disfrutar al aire libre\t•\tPileta.\t•\tBaño de servicio.\n\nPlanta Alta\nAccedemos por una escalera hacia un hall de distribución / sala de estar, que funciona como espacio multifunción (escritorio, playroom o sala de TV).\nLa planta alta cuenta con tres dormitorios, todos con muy buena luz natural y ventilación. Uno de ellos dispone de baño en suite, ofreciendo privacidad y confort.\nAdemás, se suma un baño completo con antebaño, equipado con hidromasaje.\nValor: U$S250.000\nUna propiedad sólida, cómoda y con una excelente distribución, pensada para una vida en familia con espacios amplios tanto interiores como exteriores.\n                \n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -88301,7 +88873,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 300000
+              "price": 250000
             }
           ]
         }
@@ -88519,7 +89091,7 @@
       "quality_level": null,
       "real_address": "Alvear 2280  - San Martin",
       "reference_code": "DHO7573346",
-      "rich_description": "Casa de 5 ambientes en dos plantas — Excelente propiedad familiar<div><br></div><div>Propiedad de amplios y luminosos ambientes, diseñada para brindar comodidad, funcionalidad y muy buena circulación en ambos niveles. Ubicada en zona residencial, cuenta con todos los espacios necesarios para disfrutar tanto del interior como del exterior de la casa.</div><div><br></div><div><br></div><div>???? Planta Baja</div><div><br></div><div>Al ingresar encontramos un gran living comedor, con ventanales que aportan luminosidad natural y vistas abiertas al jardín. Su distribución permite sectorizar fácilmente living y comedor.</div><div><br></div><div>La cocina comedor es amplia, cómoda y está equipada con muebles sobre y bajo mesada, brindando gran capacidad de guardado.&nbsp;</div><div><br></div><div>En este nivel se encuentra un dormitorio en suite, espacioso y funcional, perfecto para huéspedes.-</div><div><br></div><div>Además, la planta baja cuenta con:</div><div>\t•\tBaño completo adicional</div><div>\t•\tCochera cubierta</div><div>\t•\tPatio con jardín, ideal para disfrutar al aire libre</div><div>\t•\tPileta.</div><div>\t•\tBaño de servicio.</div><div><br></div><div><br></div><div>???? Planta Alta</div><div><br></div><div>Accedemos por una escalera hacia un hall de distribución / sala de estar, que funciona como espacio multifunción (escritorio, playroom o sala de TV).</div><div><br></div><div>La planta alta cuenta con tres dormitorios, todos con muy buena luz natural y ventilación. Uno de ellos dispone de baño en suite, ofreciendo privacidad y confort.</div><div><br></div><div>Además, se suma un baño completo con antebaño, equipado con hidromasaje.</div><div><br></div><div>?</div><div><br></div><div>???? Valor: U$S 300.000</div><div><br></div><div>Una propiedad sólida, cómoda y con una excelente distribución, pensada para una vida en familia con espacios amplios tanto interiores como exteriores.</div><div><br></div>                \r\n            ",
+      "rich_description": "                Casa de 5 ambientes en dos plantas — Excelente propiedad familiar. ACEPTA DEPARTAMENTO 3 AMBIENTES EN PARTE DE PAGO.<div><br></div><div>Propiedad de amplios y luminosos ambientes, diseñada para brindar comodidad, funcionalidad y muy buena circulación en ambos niveles. Ubicada en zona residencial, cuenta con todos los espacios necesarios para disfrutar tanto del interior como del exterior de la casa.</div><div><br></div><div><br></div><div>Planta Baja</div><div><br></div><div>Al ingresar encontramos un gran living comedor, con ventanales que aportan luminosidad natural y vistas abiertas al jardín. Su distribución permite sectorizar fácilmente living y comedor.</div><div><br></div><div>La cocina comedor es amplia, cómoda y está equipada con muebles sobre y bajo mesada, brindando gran capacidad de guardado.&nbsp;</div><div><br></div><div>En este nivel se encuentra un dormitorio en suite, espacioso y funcional, perfecto para huéspedes.-</div><div><br></div><div>Además, la planta baja cuenta con:</div><div>\t•\tBaño completo adicional</div><div>\t•\tCochera cubierta</div><div>\t•\tPatio con jardín, ideal para disfrutar al aire libre</div><div>\t•\tPileta.</div><div>\t•\tBaño de servicio.</div><div><br></div><div><br></div><div>Planta Alta</div><div><br></div><div>Accedemos por una escalera hacia un hall de distribución / sala de estar, que funciona como espacio multifunción (escritorio, playroom o sala de TV).</div><div><br></div><div>La planta alta cuenta con tres dormitorios, todos con muy buena luz natural y ventilación. Uno de ellos dispone de baño en suite, ofreciendo privacidad y confort.</div><div><br></div><div>Además, se suma un baño completo con antebaño, equipado con hidromasaje.</div><div><br></div><div><span style=\"font-size: 14px;\">Valor: U$S250.000</span></div><div><br></div><div>Una propiedad sólida, cómoda y con una excelente distribución, pensada para una vida en familia con espacios amplios tanto interiores como exteriores.</div><div><br></div>                <br>            \r\n\r\n            ",
       "roofed_surface": "330.00",
       "room_amount": 5,
       "semiroofed_surface": "0.00",
@@ -88585,8 +89157,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-16T10:24:52.469Z",
-      "enhanced_description": "<h3>Descripción General</h3>\n<p>Propiedad de amplios y luminosos ambientes, diseñada para brindar comodidad, funcionalidad y muy buena circulación en ambos niveles. Ubicada en zona residencial, cuenta con todos los espacios necesarios para disfrutar tanto del interior como del exterior de la casa.</p>\n\n<h3>Planta Baja</h3>\n<p>Al ingresar encontramos un gran living comedor, con ventanales que aportan luminosidad natural y vistas abiertas al jardín. Su distribución permite sectorizar fácilmente living y comedor.</p>\n<p>La cocina comedor es amplia, cómoda y está equipada con muebles sobre y bajo mesada, brindando gran capacidad de guardado.</p>\n<p>En este nivel se encuentra un dormitorio en suite, espacioso y funcional, perfecto para huéspedes.</p>\n<ul>\n<li>Baño completo adicional</li>\n<li>Cochera cubierta</li>\n<li>Patio con jardín, ideal para disfrutar al aire libre</li>\n<li>Pileta</li>\n<li>Baño de servicio</li>\n</ul>\n\n<h3>Planta Alta</h3>\n<p>Accedemos por una escalera hacia un hall de distribución / sala de estar, que funciona como espacio multifunción (escritorio, playroom o sala de TV).</p>\n<p>La planta alta cuenta con tres dormitorios, todos con muy buena luz natural y ventilación. Uno de ellos dispone de baño en suite, ofreciendo privacidad y confort.</p>\n<p>Además, se suma un baño completo con antebaño, equipado con hidromasaje.</p>\n\n<h3>Valor</h3>\n<p>U$S 300.000</p>\n\n<h3>Características Finales</h3>\n<p>Una propiedad sólida, cómoda y con una excelente distribución, pensada para una vida en familia con espacios amplios tanto interiores como exteriores.</p>"
+      "_last_changed": "2026-10-28T11:54:17.498Z",
+      "enhanced_description": "<h3>Descripción General</h3>\n<p>Casa de 5 ambientes en dos plantas. Excelente propiedad familiar. Acepta departamento 3 ambientes en parte de pago.</p>\n<p>Propiedad de amplios y luminosos ambientes, diseñada para brindar comodidad, funcionalidad y muy buena circulación en ambos niveles. Ubicada en zona residencial, cuenta con todos los espacios necesarios para disfrutar tanto del interior como del exterior de la casa.</p>\n\n<h3>Planta Baja</h3>\n<p>Al ingresar encontramos un gran living comedor, con ventanales que aportan luminosidad natural y vistas abiertas al jardín. Su distribución permite sectorizar fácilmente living y comedor.</p>\n<p>La cocina comedor es amplia, cómoda y está equipada con muebles sobre y bajo mesada, brindando gran capacidad de guardado.</p>\n<p>En este nivel se encuentra un dormitorio en suite, espacioso y funcional, perfecto para huéspedes.</p>\n<ul>\n<li>Baño completo adicional</li>\n<li>Cochera cubierta</li>\n<li>Patio con jardín, ideal para disfrutar al aire libre</li>\n<li>Pileta</li>\n<li>Baño de servicio</li>\n</ul>\n\n<h3>Planta Alta</h3>\n<p>Accedemos por una escalera hacia un hall de distribución / sala de estar, que funciona como espacio multifunción (escritorio, playroom o sala de TV).</p>\n<p>La planta alta cuenta con tres dormitorios, todos con muy buena luz natural y ventilación. Uno de ellos dispone de baño en suite, ofreciendo privacidad y confort.</p>\n<p>Además, se suma un baño completo con antebaño, equipado con hidromasaje.</p>\n\n<h3>Valor</h3>\n<p>U$S 250.000</p>\n\n<h3>Observaciones</h3>\n<p>Una propiedad sólida, cómoda y con una excelente distribución, pensada para una vida en familia con espacios amplios tanto interiores como exteriores.</p>"
     },
     {
       "address": "Neuquen  al 3600 - Villa Ballester",
@@ -109965,7 +110537,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-07-30T19:32:21",
+            "updated_at": "2026-10-27T18:10:17",
             "work_email": ""
           }
         ],
@@ -110175,7 +110747,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-16T10:24:52.469Z",
+      "_last_changed": "2026-10-28T11:54:17.498Z",
       "enhanced_description": "<h3>Cochera en San Martín</h3>\n\n<p>Excelente oportunidad de inversión o uso propio en San Martín.</p>\n\n<h3>Descripción</h3>\n\n<p>Cochera descubierta ubicada en Ayacucho 2236, en una de las zonas con mayor crecimiento y demanda de San Martín.</p>\n\n<p>Con solo un año de antigüedad, ofrece una solución práctica, segura y cómoda para resguardar tu vehículo. Su excelente ubicación permite un rápido acceso a las principales avenidas, medios de transporte, comercios y servicios de la zona.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>Cochera descubierta</li>\n<li>Un año de antigüedad</li>\n<li>Ubicación estratégica</li>\n<li>Acceso a principales avenidas</li>\n<li>Cercana a medios de transporte</li>\n<li>Próxima a comercios y servicios</li>\n</ul>\n\n<h3>Ideal para</h3>\n\n<ul>\n<li>Uso diario</li>\n<li>Inversión y obtención de renta</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Consultanos para más información y coordiná tu visita.</p>"
     },
     {
@@ -117149,7 +117721,7 @@
     {
       "address": "Pueyrredon 4824 - San Martin",
       "address_complement": "",
-      "age": 0,
+      "age": 40,
       "apartment_door": "",
       "appartments_per_floor": 0,
       "bathroom_amount": 1,
@@ -117188,7 +117760,7 @@
       "credit_eligible": "Apto crédito",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-23T18:28:40",
+      "deleted_at": "2026-10-27T13:57:39",
       "depth_measure": "34.64",
       "description": "",
       "development": null,
@@ -117578,7 +118150,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-10-23T18:10:03",
+      "_last_changed": "2026-10-28T11:54:17.498Z",
       "enhanced_description": ""
     }
   ]
