@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-10-29T12:01:44.502Z"
+    "lastSync": "2026-10-30T11:55:43.586Z"
   },
   "objects": [
     {
@@ -3757,6 +3757,347 @@
       "zonification": "",
       "_last_changed": "2026-10-16T10:24:52.469Z",
       "enhanced_description": "<h3>Impecable Monoambiente – 2° Piso por Escalera</h3>\n\n<h3>Ubicación</h3>\n<ul>\n<li>A pocas cuadras de la estación de tren Línea Urquiza</li>\n<li>Varias líneas de colectivos en la zona</li>\n<li>Cercano a espacios verdes para disfrutar al aire libre</li>\n</ul>\n\n<h3>Características del Departamento</h3>\n<ul>\n<li>Cocina comedor con muebles bajo y alto mesada</li>\n<li>Baño completo con ducha</li>\n<li>Ambiente cómodo, súper luminoso</li>\n<li>Techos altos con posibilidad de entrepiso</li>\n</ul>\n\n<h3>Permutas</h3>\n<p>Se acepta permuta por propiedad en la Costa, especialmente en Mar del Plata.</p>\n\n<h3>Requisitos de Alquiler</h3>\n<ul>\n<li>Ajuste trimestral del 10%</li>\n<li>Garantía: Fianza - Recibos de sueldos</li>\n<li>Contrato: 2 años</li>\n<li>Mascotas: NO</li>\n</ul>"
+    },
+    {
+      "address": "Caseros al 2300 1°A",
+      "address_complement": "",
+      "age": 8,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 1,
+      "block_number": "",
+      "branch": {
+        "address": "Mitre 3400",
+        "alternative_phone": "77176007",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13 y de 14 a 18.30",
+        "created_date": "2018-11-15T19:39:03",
+        "deleted_at": null,
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.57456194412727",
+        "geo_long": "-58.535525085815436",
+        "gm_location_type": "BY_HAND",
+        "id": 7731,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/branch_logos/7731/px%20(1).jpg",
+        "name": "Dinal San Martin",
+        "pdf_footer_text": "",
+        "phone": "77176007",
+        "phone_area": "11",
+        "phone_country_code": "+54",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2019-04-26T19:10:40",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-10-29T20:23:38",
+      "depth_measure": "0.00",
+      "description": "                DEPARTAMENTO DE 2 AMBIENTES EN ALQUILER – SAN MARTÍN\n\n Ubicación: Caseros 2371, 1° A, San Martín.\nExcelente oportunidad para quienes buscan comodidad y funcionalidad en una ubicación práctica.\n Características:\n* Departamento de 2 ambientes.* 48 m² totales.* Living comedor.* Cocina.* 1 dormitorio.* Baño completo.\n Condiciones de alquiler:\n* Contrato por 2 años.* Ajuste trimestral por IPC.* Garantía propietaria o fianza.\n ¡Consultanos para más información y coordiná tu visita!\nEncontrá tu próximo hogar con nosotros. \n\r\n\r\n            ",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": "Frente",
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [],
+      "fake_address": "Caseros al 2300 1°A",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 1,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5760053",
+      "geo_long": "-58.5429527",
+      "gm_location_type": "ROOFTOP",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 1927478,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "ES DE NESTOR PEREZ EL DEPARTAMENTO \n\n\nPARA MOSTRAR HABLAR CON LESLEY ELLA NOS ABRE, Y SOLO EL 1° A ESTA DISPONIBLE - FALTA PAGAR LA POSESION U$S 2430( GASTOS DE SUBDIVISION ARBA Y MUNICIPAL, DCI (CERTIFICADO QUE SE PIDE PARA QUE LAS BOLETAS VENGAN A NOMBRE DE LAPERSONA QUE TOMA POSESION) FONDO DE RESEERVA,, REVALUOS, CONEXION GRAL, MONTANTES  ETC.-",
+        "key_location": "In our posession",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "",
+            "created_at": "2019-04-26T18:56:58",
+            "document_number": "",
+            "email": "",
+            "id": 11006601,
+            "name": "Novas Lorenzo",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2025-02-11T17:42:26",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "lead_receiver_user": {
+        "cellphone": "",
+        "email": "estefania@lenerconstructora.com",
+        "id": 12863,
+        "name": "Estefanía Ruiz",
+        "phone": "5491164361021",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | General San Martin | S.Martin(Ctro)",
+        "id": 25022,
+        "name": "S.Martin(Ctro)",
+        "parent_division": "/api/v1/location/25014/",
+        "short_location": "General San Martin | General San Martin | S.Martin(Ctro)",
+        "state": null,
+        "type": "Barrio",
+        "weight": 802,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 2,
+          "operation_type": "Alquiler",
+          "prices": [
+            {
+              "currency": "ARS",
+              "is_promotional": false,
+              "period": 0,
+              "price": 550000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/59413230187913764750726343141943992000387853805948616597770998660255146688485.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/59413230187913764750726343141943992000387853805948616597770998660255146688485.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/17778153_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/59413230187913764750726343141943992000387853805948616597770998660255146688485_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/21866498089629854852075519619258158985400275221739582949940016218501649340654.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/21866498089629854852075519619258158985400275221739582949940016218501649340654.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/21866498089629854852075519619258158985400275221739582949940016218501649340654_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/16125902927745292731257701002703927052926654328123580707662984328587710487603.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/16125902927745292731257701002703927052926654328123580707662984328587710487603.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/16125902927745292731257701002703927052926654328123580707662984328587710487603_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/339362566552126946642275525717810233979548894397890657049909288153673788148.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/339362566552126946642275525717810233979548894397890657049909288153673788148.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/339362566552126946642275525717810233979548894397890657049909288153673788148_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/48736230013122110878482865105447744866469253279253654475655522936953379334003.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/48736230013122110878482865105447744866469253279253654475655522936953379334003.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/48736230013122110878482865105447744866469253279253654475655522936953379334003_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/55043004592197069653815052032884586451507405507350089528820836509386910997490.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/55043004592197069653815052032884586451507405507350089528820836509386910997490.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/55043004592197069653815052032884586451507405507350089528820836509386910997490_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/58137362903722426572901417376896107482130265818883439581900890942797824116055.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/58137362903722426572901417376896107482130265818883439581900890942797824116055.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/58137362903722426572901417376896107482130265818883439581900890942797824116055_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/89819327617271509238177464122955781940165577248946790767959818692913328965401.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/89819327617271509238177464122955781940165577248946790767959818692913328965401.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/89819327617271509238177464122955781940165577248946790767959818692913328965401_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/45620686998899306403930672439420894321621621407123189680606478821134677324912.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/45620686998899306403930672439420894321621621407123189680606478821134677324912.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/45620686998899306403930672439420894321621621407123189680606478821134677324912_thumb.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "",
+        "email": "estefania@lenerconstructora.com",
+        "id": 12863,
+        "name": "Estefanía Ruiz",
+        "phone": "5491164361021",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "property_condition": "Bueno",
+      "public_url": "https://ficha.info/p/eifAwddvDebcBa",
+      "publication_title": "Depto 2 ambientes en venta San Martín",
+      "quality_level": null,
+      "real_address": "Caseros 2371  1°A",
+      "reference_code": "DAP1927478",
+      "rich_description": "                <p>DEPARTAMENTO DE 2 AMBIENTES EN ALQUILER – SAN MARTÍN</p><div><br></div><div><span style=\"font-weight: bold;\">&nbsp;Ubicación: Caseros 2371, 1° A, San Martín.</span></div><div><br></div><div>Excelente oportunidad para quienes buscan comodidad y funcionalidad en una ubicación práctica.</div><div><br></div><div><span style=\"text-decoration-line: underline;\">&nbsp;Características:</span></div><div><br></div><div>* Departamento de 2 ambientes.</div><div>* 48 m² totales.</div><div>* Living comedor.</div><div>* Cocina.</div><div>* 1 dormitorio.</div><div>* Baño completo.</div><div><br></div><div><span style=\"text-decoration-line: underline;\">&nbsp;Condiciones de alquiler:</span></div><div><br></div><div>* Contrato por 2 años.</div><div>* Ajuste trimestral por IPC.</div><div>* Garantía propietaria o fianza.</div><div><br></div><div>&nbsp;¡Consultanos para más información y coordiná tu visita!</div><div><br></div><div>Encontrá tu próximo hogar con nosotros.&nbsp;</div><div><br></div>\r\n\r\n            ",
+      "roofed_surface": "44.00",
+      "room_amount": 2,
+      "semiroofed_surface": "4.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "Vacía ",
+      "status": 2,
+      "suite_amount": 1,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcón",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Cocina",
+          "type": 2
+        },
+        {
+          "id": 22,
+          "name": "Living comedor",
+          "type": 2
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "48.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [
+        {
+          "description": "",
+          "id": 45153,
+          "order": 1,
+          "player_url": "https://www.youtube.com/embed/jom5s-3cWoM",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "CASEROS 2371",
+          "url": "https://www.youtube.com/watch?v=jom5s-3cWoM",
+          "video_id": "jom5s-3cWoM"
+        }
+      ],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2019-04-26T19:10:40",
+      "enhanced_description": "<h3>Departamento de 2 ambientes en alquiler – San Martín</h3>\n\n<h3>Ubicación</h3>\n<p>Caseros 2371, 1° A, San Martín.</p>\n\n<h3>Descripción</h3>\n<p>Excelente oportunidad para quienes buscan comodidad y funcionalidad en una ubicación práctica.</p>\n\n<h3>Características</h3>\n<ul>\n<li>Departamento de 2 ambientes</li>\n<li>48 m² totales</li>\n<li>Living comedor</li>\n<li>Cocina</li>\n<li>1 dormitorio</li>\n<li>Baño completo</li>\n</ul>\n\n<h3>Condiciones de alquiler</h3>\n<ul>\n<li>Contrato por 2 años</li>\n<li>Ajuste trimestral por IPC</li>\n<li>Garantía propietaria o fianza</li>\n</ul>\n\n<p>Consultanos para más información y coordiná tu visita. Encontrá tu próximo hogar con nosotros.</p>"
     },
     {
       "address": "Riobamba al 2500",
