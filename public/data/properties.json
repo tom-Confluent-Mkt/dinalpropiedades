@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-11-06T13:30:59.075Z"
+    "lastSync": "2026-11-07T12:12:10.408Z"
   },
   "objects": [
     {
@@ -114115,6 +114115,421 @@
       "zonification": "",
       "_last_changed": "2026-10-28T11:54:17.498Z",
       "enhanced_description": ""
+    },
+    {
+      "address": "ALQUILER LOCAL - Av. Ricardo Balbin 1600 - San Martin",
+      "address_complement": "",
+      "age": 40,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 2,
+      "block_number": "",
+      "branch": {
+        "address": "Mitre 3400",
+        "alternative_phone": "77176007",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13 y de 14 a 18.30",
+        "created_date": "2018-11-15T19:39:03",
+        "deleted_at": null,
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.57456194412727",
+        "geo_long": "-58.535525085815436",
+        "gm_location_type": "BY_HAND",
+        "id": 7731,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/branch_logos/7731/px%20(1).jpg",
+        "name": "Dinal San Martin",
+        "pdf_footer_text": "",
+        "phone": "77176007",
+        "phone_area": "11",
+        "phone_country_code": "+54",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2026-11-06T19:22:57",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-11-06T19:47:51",
+      "depth_measure": "0.00",
+      "description": "LOCAL EN ALQUILER - SAN MARTIN \n\n\nAv. Ricardo Balbin 1600 - Zona Tribunales, San Martin.\n\n\nEl local cuenta con: \n*- Salón Principal \n*- Dos oficinas \n*- Entrepiso sobre el sector de oficinas\n*-Dos baños\n*-Vidriera al frente\n*- Persiana de malla abierta\n*- Servicios de luz y agua independiente\n*- Altura 4 m  \n\n\n\n\nCONDICIONES: \n- Contrato por dos años \n- Ajuste por IPC\n- Deposito en dólares (Equivalente a dos meses)\n- Garantía : Fianza\n- Seguro contra incendio (Obligatorio)\n- Prohibido productos INFLAMABLES.\n\n\nExcelente ubicación, en la zona de tribunales de San Martin  a pocas cuadra de CABA.\nUn espacio con muy buena distribución y múltiples posibilidades para desarrollar tu actividad comercial o profesional \n \n\n\nConsúltanos para mas información y coordinar una visita.\n\n\n",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": null,
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [],
+      "fake_address": "ALQUILER LOCAL - Av. Ricardo Balbin 1600 - San Martin",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5846882",
+      "geo_long": "-58.5374838",
+      "gm_location_type": "ROOFTOP",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 13731600,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 541164806385",
+            "created_at": "2026-11-06T19:20:50",
+            "document_number": "",
+            "email": "",
+            "id": 79043074,
+            "name": "Maria Del Carmen",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-11-06T19:22:57",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "lead_receiver_user": {
+        "cellphone": "5491124012673",
+        "email": "belenvitale89@gmail.com",
+        "id": 114098,
+        "name": "Belen Vitale",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "legally_checked": "Desconocido",
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25014,
+            "name": "San Martin",
+            "resource_uri": "/api/v1/location/25014/"
+          },
+          {
+            "id": 25030,
+            "name": "Jose León Suarez",
+            "resource_uri": "/api/v1/location/25030/"
+          },
+          {
+            "id": 25033,
+            "name": "San Andrés",
+            "resource_uri": "/api/v1/location/25033/"
+          },
+          {
+            "id": 25034,
+            "name": "Villa Ballester",
+            "resource_uri": "/api/v1/location/25034/"
+          },
+          {
+            "id": 25038,
+            "name": "Villa Lynch",
+            "resource_uri": "/api/v1/location/25038/"
+          },
+          {
+            "id": 51870,
+            "name": "Ciudad Jardín El Libertador",
+            "resource_uri": "/api/v1/location/51870/"
+          },
+          {
+            "id": 51871,
+            "name": "Villa Ayacucho",
+            "resource_uri": "/api/v1/location/51871/"
+          },
+          {
+            "id": 51872,
+            "name": "Villa Bernardo Monteagudo",
+            "resource_uri": "/api/v1/location/51872/"
+          },
+          {
+            "id": 51873,
+            "name": "Villa Chacabuco",
+            "resource_uri": "/api/v1/location/51873/"
+          },
+          {
+            "id": 51874,
+            "name": "Villa Coronel José M. Zapiola",
+            "resource_uri": "/api/v1/location/51874/"
+          },
+          {
+            "id": 51875,
+            "name": "Villa General Antonio J. de Sucre",
+            "resource_uri": "/api/v1/location/51875/"
+          },
+          {
+            "id": 51876,
+            "name": "Villa General Eugenio Necochea",
+            "resource_uri": "/api/v1/location/51876/"
+          },
+          {
+            "id": 51877,
+            "name": "Villa General José Tomás Guido",
+            "resource_uri": "/api/v1/location/51877/"
+          },
+          {
+            "id": 51878,
+            "name": "Villa General Juan G. Las Heras",
+            "resource_uri": "/api/v1/location/51878/"
+          },
+          {
+            "id": 51879,
+            "name": "Villa Godoy Cruz",
+            "resource_uri": "/api/v1/location/51879/"
+          },
+          {
+            "id": 51880,
+            "name": "Villa Granaderos de San Martín",
+            "resource_uri": "/api/v1/location/51880/"
+          },
+          {
+            "id": 51881,
+            "name": "Villa Gregoria Matorras",
+            "resource_uri": "/api/v1/location/51881/"
+          },
+          {
+            "id": 51882,
+            "name": "Villa Juan Martín de Pueyrredón",
+            "resource_uri": "/api/v1/location/51882/"
+          },
+          {
+            "id": 51883,
+            "name": "Villa Marqués Alejandro María de Aguado",
+            "resource_uri": "/api/v1/location/51883/"
+          },
+          {
+            "id": 51884,
+            "name": "Villa María Irene de los Remedios de Escalada",
+            "resource_uri": "/api/v1/location/51884/"
+          },
+          {
+            "id": 51885,
+            "name": "Villa Parque Presidente Figueroa Alcorta",
+            "resource_uri": "/api/v1/location/51885/"
+          },
+          {
+            "id": 51886,
+            "name": "Villa Parque San Lorenzo",
+            "resource_uri": "/api/v1/location/51886/"
+          },
+          {
+            "id": 51887,
+            "name": "Villa Yapeyú",
+            "resource_uri": "/api/v1/location/51887/"
+          },
+          {
+            "id": 254227,
+            "name": "Loma Hermosa",
+            "resource_uri": "/api/v1/location/254227/"
+          },
+          {
+            "id": 254580,
+            "name": "Villa Bonich",
+            "resource_uri": "/api/v1/location/254580/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
+        "id": 25013,
+        "name": "General San Martin",
+        "parent_division": null,
+        "short_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
+        "state": "/api/v1/state/147/",
+        "type": "Área",
+        "weight": 2250,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 2,
+          "operation_type": "Alquiler",
+          "prices": [
+            {
+              "currency": "ARS",
+              "is_promotional": false,
+              "period": 0,
+              "price": 1800000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/13731600_29742744461000826783243945052008222871189810587018684291126389965215834304617.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/13731600_297427444610008267832439450520082228711898105870186842911263899652158.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/13731600_29742744461000826783243945052008222871189810587018684291126389965215834304617_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/13731600_29742744461000826783243945052008222871189810587018684291126389965215834304617_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/13731600_35031182451085715736638998241191692143343145608228182451560380513092533642146.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/13731600_350311824510857157366389982411916921433431456082281824515603805130925.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/13731600_35031182451085715736638998241191692143343145608228182451560380513092533642146_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/13731600_35031182451085715736638998241191692143343145608228182451560380513092533642146_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/13731600_78713782343137887609374413811079496901067718894372373510676650172828210576037.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/13731600_787137823431378876093744138110794969010677188943723735106766501728282.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/13731600_78713782343137887609374413811079496901067718894372373510676650172828210576037_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/13731600_78713782343137887609374413811079496901067718894372373510676650172828210576037_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/13731600_101258970594305874575611229075102929401872186802770535717264631907242639128059.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/13731600_101258970594305874575611229075102929401872186802770535717264631907242.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/13731600_101258970594305874575611229075102929401872186802770535717264631907242639128059_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/13731600_101258970594305874575611229075102929401872186802770535717264631907242639128059_t.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/13731600_31638964820326565123337300003015167790567693785723853082131625903678053308710.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/13731600_316389648203265651233373000030151677905676937857238530821316259036780.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/13731600_31638964820326565123337300003015167790567693785723853082131625903678053308710_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/13731600_31638964820326565123337300003015167790567693785723853082131625903678053308710_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/13731600_31370927378369762387202764125989388026066224186425019699468655046608569959590.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/13731600_313709273783697623872027641259893880260662241864250196994686550466085.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/13731600_31370927378369762387202764125989388026066224186425019699468655046608569959590_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/13731600_31370927378369762387202764125989388026066224186425019699468655046608569959590_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/13731600_60889473083578574999208817103633380487113823255519629036076471897146472146582.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/13731600_608894730835785749992088171036333804871138232555196290360764718971464.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/13731600_60889473083578574999208817103633380487113823255519629036076471897146472146582_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/13731600_60889473083578574999208817103633380487113823255519629036076471897146472146582_th.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "5491124012673",
+        "email": "belenvitale89@gmail.com",
+        "id": 114098,
+        "name": "Belen Vitale",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "property_condition": "Muy bueno",
+      "public_url": "https://ficha.info/p/e5MnAdDQsCJqJa",
+      "publication_title": "Local en General San Martin",
+      "quality_level": null,
+      "real_address": "ALQUILER LOCAL - Av. Ricardo Balbin 1600 - San Martin",
+      "reference_code": "DLO13731600",
+      "rich_description": "<p><span style=\"font-weight: bold;\">LOCAL EN ALQUILER - SAN MARTIN&nbsp;</span></p><p><br></p><p>Av. Ricardo Balbin 1600 - Zona Tribunales, San Martin.</p><p><br></p><p><span style=\"font-weight: bold;\">El local cuenta con:&nbsp;</span></p><p>*- Salón Principal&nbsp;</p><p>*- Dos oficinas&nbsp;</p><p>*- Entrepiso sobre el sector de oficinas</p><p>*-Dos baños</p><p>*-Vidriera al frente</p><p>*- Persiana de malla abierta</p><p>*- Servicios de luz y agua independiente</p><p>*- Altura 4 m&nbsp;&nbsp;</p><p><br></p><p><br></p><p><span style=\"font-weight: bold;\">CONDICIONES:&nbsp;</span></p><p>- Contrato por dos años&nbsp;</p><p>- Ajuste por IPC</p><p>- Deposito en dólares (Equivalente a dos meses)</p><p>- Garantía : Fianza</p><p>- Seguro contra incendio (Obligatorio)</p><p>- Prohibido productos INFLAMABLES.</p><p><br></p><p><span style=\"font-weight: bold;\">Excelente ubicación, en la zona de tribunales de San Martin&nbsp; a pocas cuadra de CABA.</span></p><p>Un espacio con muy buena distribución y múltiples posibilidades para desarrollar tu actividad comercial o profesional&nbsp;</p><p>&nbsp;</p><p><br></p><p><span style=\"font-weight: bold;\">Consúltanos para mas información y coordinar una visita.</span></p><p><br></p>",
+      "roofed_surface": "110.00",
+      "room_amount": 0,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "Vacía ",
+      "status": 2,
+      "suite_amount": 0,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 17,
+          "name": "Oficina",
+          "type": 2
+        },
+        {
+          "id": 1443,
+          "name": "Agua Potable",
+          "type": 1
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "0.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "LO",
+        "id": 7,
+        "name": "Local"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2026-11-06T19:22:57",
+      "enhanced_description": "<h3>Local en Alquiler - San Martín</h3>\n\n<p>Av. Ricardo Balbin 1600 - Zona Tribunales, San Martín</p>\n\n<h3>Características del Local</h3>\n<ul>\n<li>Salón Principal</li>\n<li>Dos oficinas</li>\n<li>Entrepiso sobre el sector de oficinas</li>\n<li>Dos baños</li>\n<li>Vidriera al frente</li>\n<li>Persiana de malla abierta</li>\n<li>Servicios de luz y agua independiente</li>\n<li>Altura 4 m</li>\n</ul>\n\n<h3>Condiciones del Alquiler</h3>\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste por IPC</li>\n<li>Depósito en dólares (Equivalente a dos meses)</li>\n<li>Garantía: Fianza</li>\n<li>Seguro contra incendio (Obligatorio)</li>\n<li>Prohibido productos inflamables</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Excelente ubicación en la zona de tribunales de San Martín, a pocas cuadras de CABA. Un espacio con muy buena distribución y múltiples posibilidades para desarrollar tu actividad comercial o profesional.</p>\n\n<p>Consúltanos para más información y coordinar una visita.</p>"
     }
   ]
 }
