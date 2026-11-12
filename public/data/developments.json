@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-11-11T13:18:39.972Z"
+    "lastSync": "2026-11-12T14:23:18.460Z"
   },
   "objects": [
     {
@@ -45,6 +45,7 @@
       "geo_long": "-58.5349442",
       "id": 61696,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | General San Martin | S.Martin(Ctro)",
@@ -348,6 +349,7 @@
       "geo_long": "-58.5338146",
       "id": 61860,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -816,6 +818,7 @@
       "geo_long": "-58.5385519",
       "id": 61862,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -1249,6 +1252,7 @@
       "geo_long": "-58.5439443",
       "id": 61956,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -1703,6 +1707,7 @@
       "geo_long": "-58.5423069",
       "id": 62249,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -2029,6 +2034,7 @@
       "geo_long": "-58.5307138",
       "id": 62250,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -2310,6 +2316,7 @@
       "geo_long": "-58.5364134",
       "id": 62259,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -2585,6 +2592,7 @@
       "geo_long": "-58.5343414",
       "id": 62322,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | General San Martin | B.San Martin",
@@ -2855,6 +2863,7 @@
       "geo_long": "-58.4206742",
       "id": 62326,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -3281,6 +3290,7 @@
       "geo_long": "-58.5310102",
       "id": 62334,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -3637,6 +3647,7 @@
       "geo_long": "-58.5336942",
       "id": 62337,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -3963,6 +3974,7 @@
       "geo_long": "-58.5396217",
       "id": 63371,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -4359,6 +4371,7 @@
       "geo_long": "-58.5404342",
       "id": 93853,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | General San Martin | S.Martin(Ctro)",
@@ -4579,6 +4592,7 @@
       "geo_long": "-58.5367764",
       "id": 94196,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -5000,6 +5014,7 @@
       "geo_long": "-58.5355957",
       "id": 94198,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {
@@ -5426,6 +5441,7 @@
       "geo_long": "-58.53562420000001",
       "id": 188147,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [
           {

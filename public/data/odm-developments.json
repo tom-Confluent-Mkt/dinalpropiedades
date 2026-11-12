@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-11-11T13:18:59.592Z"
+    "lastSync": "2026-11-12T14:23:20.743Z"
   },
   "objects": [
     {
@@ -45,6 +45,7 @@
       "geo_long": "-57.544191",
       "id": 61242,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Constitución",
@@ -482,6 +483,7 @@
       "geo_long": "-57.5451225",
       "id": 62623,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Punta Mogotes",
@@ -838,10 +840,12 @@
       "fake_address": "",
       "files": [
         {
-          "file": "https://static.tokkobroker.com/development_files/907243943059997095801063806033992545328071292736728367384762/Video_Render_interior.mp4"
+          "file": "https://www.tokkobroker.com/_files/public/z4h6dkQp4oziEwu77ksTczYQ1qAHSHWpfmIhzy_Idts/Video_Render_interior.mp4",
+          "name": "Video_Render_interior.mp4"
         },
         {
-          "file": "https://static.tokkobroker.com/development_files/1524365902164696294178193703484577623214589760421806305035121/Video_Entre_Rios.mp4"
+          "file": "https://www.tokkobroker.com/_files/public/MMWtipOlYCR6khS0nUMuRiN6VJ9zHPD_R_DFoBoQt1I/Video_Entre_Rios.mp4",
+          "name": "Video_Entre_Rios.mp4"
         }
       ],
       "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
@@ -849,6 +853,7 @@
       "geo_long": "-57.5489258",
       "id": 69153,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Terminal Vieja",
@@ -1180,10 +1185,12 @@
       "fake_address": "",
       "files": [
         {
-          "file": "https://static.tokkobroker.com/development_files/206770989274145011965940329436413646797966275174643460260326/Video_Cafeteria.mp4"
+          "file": "https://www.tokkobroker.com/_files/public/vPpA5pA8dCm9MYiLWk2pzthnT88eNX4S0-U_Qnd-6as/Video_Cafeteria.mp4",
+          "name": "Video_Cafeteria.mp4"
         },
         {
-          "file": "https://static.tokkobroker.com/development_files/381865374222698197968713286424863371495039468301823618926619/Video_Project_3.mp4"
+          "file": "https://www.tokkobroker.com/_files/public/ySpsybWQ7-huNQkJxQsWLeBdK1ajULs4DxJo2nBrq6U/Video_Project_3.mp4",
+          "name": "Video_Project_3.mp4"
         }
       ],
       "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
@@ -1191,6 +1198,7 @@
       "geo_long": "-57.5372604",
       "id": 69155,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Guemes",
@@ -1546,6 +1554,7 @@
       "geo_long": "-57.5429014",
       "id": 94529,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Guemes",
@@ -1796,6 +1805,7 @@
       "geo_long": "-57.5607053",
       "id": 94530,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Macrocentro",
@@ -2056,6 +2066,7 @@
       "geo_long": "-57.5479417",
       "id": 94534,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | La Perla",
@@ -2347,7 +2358,8 @@
       "fake_address": "",
       "files": [
         {
-          "file": "https://static.tokkobroker.com/development_files/422641538578444255959398060715633924420340400164251237797158/copy_59E0580F-9F08-4545-9166-888165F3B769.mov"
+          "file": "https://www.tokkobroker.com/_files/public/cN8Wkz9KBCbijUqkW_EJ1KRr6o4xfCTxrvYQLP7CWJs/copy_59E0580F-9F08-4545-9166-888165F3B769.mov",
+          "name": "copy_59E0580F-9F08-4545-9166-888165F3B769.mov"
         }
       ],
       "financing_details": "",
@@ -2355,6 +2367,7 @@
       "geo_long": "-57.5520175",
       "id": 94537,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Centro",
@@ -2680,6 +2693,7 @@
       "geo_long": "-57.5503822",
       "id": 94557,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | La Perla",
@@ -2936,7 +2950,8 @@
       "fake_address": "",
       "files": [
         {
-          "file": "https://static.tokkobroker.com/development_files/155998577830886932833177905391977823063150842943841182852274/Video_PA_6_liviano_liviano.mp4"
+          "file": "https://www.tokkobroker.com/_files/public/fcqAZLqyeh4phEOamrcxFTGnsl3m3LYbcrKA_hXJK_8/Video_PA_6_liviano_liviano.mp4",
+          "name": "Video_PA_6_liviano_liviano.mp4"
         }
       ],
       "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
@@ -2944,6 +2959,7 @@
       "geo_long": "-57.559985",
       "id": 94558,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Macrocentro",
@@ -3220,10 +3236,12 @@
       "fake_address": "",
       "files": [
         {
-          "file": "https://static.tokkobroker.com/development_files/348653523869896328184735079337592679597875992790322942164419/Recorrido_Sarmiento.mp4"
+          "file": "https://www.tokkobroker.com/_files/public/-2qgEBnEb6gINxdMGbmunfq5Qq-83nMSIOmLFofH7aU/Recorrido_Sarmiento.mp4",
+          "name": "Recorrido_Sarmiento.mp4"
         },
         {
-          "file": "https://static.tokkobroker.com/development_files/1004726294949070051323322633483960132388147594600238799530707/rendair-image-to-video-24-08-2026-f4b8c629.mp4"
+          "file": "https://www.tokkobroker.com/_files/public/IlWLxZU-VEQBCQoliUwzdq9gwzu3coEYu5nM2WjDmKo/rendair-image-to-video-24-08-2026-f4b8c629.mp4",
+          "name": "rendair-image-to-video-24-08-2026-f4b8c629.mp4"
         }
       ],
       "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
@@ -3231,6 +3249,7 @@
       "geo_long": "-57.5429456",
       "id": 94559,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Terminal Vieja",
@@ -3486,6 +3505,7 @@
       "geo_long": "-57.5457272",
       "id": 94561,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | La Perla",
@@ -3767,7 +3787,8 @@
       "fake_address": "",
       "files": [
         {
-          "file": "https://static.tokkobroker.com/development_files/366117060232032233189303643265927997895043689757170646966103/PA_IX_VIDEO_INTERIOR.mp4"
+          "file": "https://www.tokkobroker.com/_files/public/YP27FdnKk3jYJn3w1VCz9gUEAh71diw9UdXF1lWitsk/PA_IX_VIDEO_INTERIOR.mp4",
+          "name": "PA_IX_VIDEO_INTERIOR.mp4"
         }
       ],
       "financing_details": "FINANCIACIÓN DIRECTA\n\nEn Dinal ofrecemos distintas alternativas para que puedas acceder a tu unidad según tu disponibilidad y el momento de la obra.\n\nAnticipo + financiación directa en 30, 60 o hasta 120 cuotas.\n\nTambién contamos con condiciones especiales para operaciones de contado, planes cortos y adelanto de cuotas.\n\nCada emprendimiento y cada unidad puede tener distintas alternativas de financiación.\n\nConsultanos y armamos juntos la opción que mejor se adapte a vos.",
@@ -3775,6 +3796,7 @@
       "geo_long": "-57.5441485",
       "id": 94567,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | La Perla Norte",
@@ -4055,6 +4077,7 @@
       "geo_long": "-57.5456077952",
       "id": 94568,
       "is_starred_on_web": false,
+      "links": [],
       "location": {
         "divisions": [],
         "full_location": "Argentina | Costa Atlantica | Mar Del Plata | Punta Mogotes",
