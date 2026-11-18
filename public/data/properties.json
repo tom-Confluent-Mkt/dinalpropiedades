@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-11-17T15:16:58.491Z"
+    "lastSync": "2026-11-18T14:52:50.402Z"
   },
   "objects": [
     {
@@ -9778,7 +9778,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-14T15:17:55",
+      "deleted_at": "2026-11-17T15:22:10",
       "depth_measure": "0.00",
       "description": "YAPEYÚ 1972 – MODERNO DEPARTAMENTO DE 3 AMBIENTES CON BALCÓN Y PARRILLA\nExcelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.\nA tan solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y el Metrobus, 2 cuadras de Av. 25 de Mayo y 4 cuadras de la estación de tren de la línea Mitre. Además, se encuentra próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales.\nCARACTERÍSTICAS DEL DEPARTAMENTO\nModerno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.\n* Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos.* Cocina: completamente equipada y funcional.* Dormitorio principal: en suite, con vestidor.* Segundo dormitorio: con placard.* Baños: 2 baños completos, incluido el de la suite.* Balcón: propio, equipado con parrilla.* Lavadero: independiente, para mayor comodidad.\nUna excelente opción para quienes buscan comodidad, diseño y una ubicación estratégica en San Martín.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n            \r\n\r\n            ",
       "development": {
@@ -10297,7 +10297,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 162000
+              "price": 159000
             }
           ]
         }
@@ -10326,16 +10326,6 @@
           "original": "https://static.tokkobroker.com/original_pictures/2435164_6398902787137452000802849665301626229714546590293015617552194210700559.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_22174284575661907257354743763511769284342453600404600374656821004035341687436_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/2435164_63989027871374520008028496653016262297145465902930156175521942107005596670426_thu.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/2435164_9621777073058750175461727608732412081367075393301406935784032593753598.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/2435164_96217770730587501754617276087324120813670753933014069357840325937535980811770_thu.jpg"
         },
         {
           "description": null,
@@ -10559,7 +10549,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Excelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.</p>\n<p>A tan solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y el Metrobus, 2 cuadras de Av. 25 de Mayo y 4 cuadras de la estación de tren de la línea Mitre. Además, se encuentra próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales.</p>\n\n<h3>Características del departamento</h3>\n<p>Moderno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.</p>\n<ul>\n<li>Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos</li>\n<li>Cocina: completamente equipada y funcional</li>\n<li>Dormitorio principal: en suite, con vestidor</li>\n<li>Segundo dormitorio: con placard</li>\n<li>Baños: 2 baños completos, incluido el de la suite</li>\n<li>Balcón: propio, equipado con parrilla</li>\n<li>Lavadero: independiente, para mayor comodidad</li>\n</ul>\n\n<p>Una excelente opción para quienes buscan comodidad, diseño y una ubicación estratégica en San Martín.</p>"
     },
     {
@@ -18329,10 +18319,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -18545,10 +18535,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "---",
       "public_url": "https://ficha.info/p/epAioddv1hQyla",
@@ -18655,7 +18645,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-13T13:42:42.830Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>El Proyecto</h3>\n<p>Presentamos un nuevo edificio en construcción sobre calle Tucumán 2366, ubicado en el corazón de San Martín, a 6 cuadras de Ayacucho, a 4 cuadras del centro comercial del mismo, a 4 cuadras de Av. Balbín (ex R8), salida directa a General Paz. Cercanía con la estación del Tren Mitre. Zona de Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>La Unidad</h3>\n<p>Moderno monoambiente con balcón y parrilla, muy luminoso. La unidad corresponde a un monoambiente al contrafrente, diseñado para ofrecer comodidad y estilo en un espacio funcional y bien distribuido. Ideal para quienes buscan un hogar práctico y acogedor.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Ubicación: Contrafrente, garantizando tranquilidad y privacidad</li>\n<li>Ambiente: Monoambiente amplio y luminoso</li>\n<li>Cocina: Hermosa cocina con muebles altos y bajos, perfecta para preparar comidas</li>\n<li>Living y Comedor: Integrado, creando un espacio abierto y cómodo</li>\n<li>Balcón: Con parrilla, ideal para disfrutar de momentos al aire libre</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Luminosidad: Grandes ventanales que permiten una excelente entrada de luz natural</li>\n<li>Diseño Funcional: Espacios diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente Ubicación: Cercano a transporte público, centros comerciales y otros puntos de interés</li>\n</ul>\n\n<h3>Detalles Constructivos del Edificio</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco con estructura hormigón armado</li>\n<li>Terminaciones exteriores revoque pintado y pintura plástica</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético)</li>\n<li>Pisos porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad, con zócalo perimetral</li>\n<li>Departamentos con parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa</li>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos serán cambiados por cocina a gas y termo a gas</li>\n<li>En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo enchapados en melamina</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV</li>\n<li>Instalación para la colocación de Aire Acondicionado en estar y dormitorio</li"
     },
     {
@@ -28091,10 +28081,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -28401,10 +28391,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/exoBgddv1lKHMa",
@@ -28533,7 +28523,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Imponente departamento tipo Dúplex de 5 ambientes muy luminoso, con 4 cocheras cubiertas incluidas en el precio. Acceso independiente al 4° Piso con 1 dormitorio, 1 baño, playroom y terraza, ideal para familia con hijos adolescentes.</p>\n\n<h3>Distribución</h3>\n<ul>\n<li>3 Dormitorios con placard de piso a techo</li>\n<li>2 Baños completos con mampara</li>\n<li>Living comedor con cocina integrada en L</li>\n<li>Playroom con placard de piso a techo</li>\n<li>Terraza con lavadero, espacio para lavarropas carga frontal, parrilla y Jacuzzi</li>\n</ul>\n\n<h3>Pisos</h3>\n<ul>\n<li>Porcellanato en living, cocina-comedor, baños y playroom</li>\n<li>Pisos flotantes en los 3 dormitorios</li>\n</ul>\n\n<h3>Baños</h3>\n<ul>\n<li>Griferías FV modelo Libby</li>\n<li>Bachas de porcelana marca Ferrum</li>\n<li>Muebles laqueados</li>\n</ul>\n\n<h3>Cocina</h3>\n<ul>\n<li>Horno empotrado marca Longvie a gas</li>\n<li>Anafe Eurodesign en acero inoxidable</li>\n<li>Campana marca Spar-vetro 90 cm en acero inoxidable y vidrio</li>\n<li>Mesada de granito negro Brasil</li>\n<li>Grifería FV modelo Temple</li>\n<li>Bacha simple acero inoxidable marca Johnson modelo Luxor con secaplatos</li>\n<li>Muebles alto y bajo mesada modernos en melamina con correderas telescópicas Ducasse cierre suave</li>\n<li>Espacio para lavavajilla</li>\n</ul>\n\n<h3>Detalles Constructivos</h3>\n<ul>\n<li>Escalera volada con estructura de hierro y escalones de madera</li>\n</ul>\n\n<h3>Lavadero</h3>\n<ul>\n<li>Bacha simple acero inoxidable marca Johnson modelo Luxor</li>\n<li>Termotanque 80 Lts marca Saiar</li>\n</ul>\n\n<h3>Incluido en el Precio</h3>\n<ul>\n<li>Luminaria led en todo el departamento</li>\n<li>Amoblamiento de dormitorio principal laqueado blanco con respaldo y mueble a medida (guarda calzado y estantes)</li>\n<li>Doble cortina roller (Black-out y Screen) con respaldo en los dos dormitorios restantes</li>\n<li>Cortina roller Screen en cocina comedor</li>\n<li>4 Aires acondicionado marca Surrey y 1 marca Midea</li>\n<li>Amoblamiento en Wengue en el playroom y cortina roller Black-out</li>\n<li>Sistema de alarma instalado</li>\n<li>4 Cocheras cubiertas</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Óptima ubicación cercano al Centro Comercial de San Martín. Varias líneas de colectivos en la zona. Cerca UNSAM. Clínicas y hospitales. Muy fácil acceso a Capital Federal y General Paz.</p>"
     },
     {
@@ -29859,7 +29849,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-11-05T18:57:13",
+      "deleted_at": "2026-11-17T18:23:45",
       "depth_measure": "0.00",
       "description": "EDIFICIO EN CONSTRUCCIÓN – RIVADAVIA 3880 ESQUINA TUCUMÁN, SAN MARTÍN\nExcelente oportunidad de inversión en un edificio en construcción, ubicado en una esquina estratégica de San Martín.\nUnidades de amplios 2 ambientes, diseñadas para brindar comodidad, funcionalidad y luminosidad en cada espacio.\nCaracterísticas de las unidades:\n* Cocina equipada con muebles bajo mesada y alacena.* Dormitorio con frente de placard.* Baño completo.* Balcón con parrilla individual, ideal para disfrutar al aire libre.* Ambientes amplios y excelente luminosidad natural.\nUna propuesta ideal tanto para vivienda propia como para inversión, combinando comodidad, diseño y una ubicación privilegiada.\nConsultanos para conocer más detalles y disponibilidad de unidades.\n\n\n\n\r\n\r\n            ",
       "development": {
@@ -30511,7 +30501,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 120000
+              "price": 118000
             }
           ]
         }
@@ -30769,11 +30759,11 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Edificio en Construcción</h3>\n<p>Excelente oportunidad de inversión en un edificio en construcción, ubicado en una esquina estratégica de San Martín.</p>\n\n<h3>Ubicación</h3>\n<p>Rivadavia 3880 esquina Tucumán, San Martín</p>\n\n<h3>Características de las Unidades</h3>\n<p>Unidades de amplios 2 ambientes, diseñadas para brindar comodidad, funcionalidad y luminosidad en cada espacio.</p>\n<ul>\n<li>Cocina equipada con muebles bajo mesada y alacena</li>\n<li>Dormitorio con frente de placard</li>\n<li>Baño completo</li>\n<li>Balcón con parrilla individual, ideal para disfrutar al aire libre</li>\n<li>Ambientes amplios y excelente luminosidad natural</li>\n</ul>\n\n<h3>Propuesta</h3>\n<p>Una propuesta ideal tanto para vivienda propia como para inversión, combinando comodidad, diseño y una ubicación privilegiada.</p>\n\n<p>Consultanos para conocer más detalles y disponibilidad de unidades.</p>"
     },
     {
-      "address": "Rivadavia al 3800 8°",
+      "address": "Rivadavia 3880  4°D- San Martín",
       "address_complement": "",
       "age": -1,
       "apartment_door": "",
@@ -30814,9 +30804,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-11-05T18:50:38",
+      "deleted_at": "2026-11-17T18:08:11",
       "depth_measure": "0.00",
-      "description": "                                                    EDIFICIO EN CONSTRUCCIÓN – RIVADAVIA 3880 ESQUINA TUCUMÁN, SAN MARTÍN\n\nExcelente oportunidad para invertir en un proyecto en desarrollo, ubicado en una esquina destacada de San Martín. El edificio contará con unidades de entre 55 y 90 m², con opciones ideales tanto para vivienda como para inversión.\nSe destaca esta unidad de 2 ambientes de 66 m², que ofrece espacios amplios, funcionales y una excelente entrada de luz natural.\nCuenta con cocina equipada con muebles bajo mesada y alacena, dormitorio con frente de placard y baño completo. Además, dispone de doble balcón, un diferencial que aporta mayor amplitud, ventilación y espacios para disfrutar al aire libre.\nUna propuesta que combina comodidad, luminosidad y potencial de valorización.\nConsultanos por disponibilidad, precios y formas de pago\n        \r\n\r\n            ",
+      "description": "                                                                    EDIFICIO PRÓXIMO A ENTREGARSE – RIVADAVIA 3880 ESQUINA TUCUMÁN, SAN MARTÍN\n\nExcelente oportunidad para invertir en un proyecto próximo a entregarse, ubicado en una esquina destacada de San Martín.\n\nEl edificio contará con unidades de entre 55 y 90 m², con opciones ideales tanto para vivienda como para inversión.\n\nSe destaca esta unidad de 2 ambientes de 66 m², que ofrece espacios amplios, funcionales y una excelente entrada de luz natural.\nCuenta con cocina equipada con muebles bajo mesada y alacena, dormitorio con frente de placard y baño completo. Además, dispone de doble balcón, un diferencial que aporta mayor amplitud, ventilación y espacios para disfrutar al aire libre.\n\nUna propuesta que combina comodidad, luminosidad y potencial de valorización.\n\nCOCHERA: Posibilidad de cochera por un valor adicional de USD 15.000.\n\nConsúltanos por disponibilidad, precios y formas de pago.\n        \n\n            \r\n\r\n            ",
       "development": {
         "address": "Rivadavia  3880",
         "branch": {
@@ -31249,7 +31239,7 @@
       "down_payment": "0.00",
       "expenses": 0,
       "extra_attributes": [],
-      "fake_address": "Rivadavia al 3800 8°",
+      "fake_address": "Rivadavia 3880  4°D- San Martín",
       "files": [],
       "fire_insurance_cost": "0.00",
       "floor": "",
@@ -31456,7 +31446,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 120000
+              "price": 109000
             }
           ]
         }
@@ -31574,7 +31564,7 @@
       "quality_level": null,
       "real_address": "Rivadavia 3880  4°D- San Martín",
       "reference_code": "DAP5775863",
-      "rich_description": "                                                    <p>EDIFICIO EN CONSTRUCCIÓN – RIVADAVIA 3880 ESQUINA TUCUMÁN, SAN MARTÍN</p><div><br></div><div>Excelente oportunidad para invertir en un proyecto en desarrollo, ubicado en una esquina destacada de San Martín. El edificio contará con unidades de entre 55 y 90 m², con opciones ideales tanto para vivienda como para inversión.</div><div><br></div><div>Se destaca esta unidad de 2 ambientes de 66 m², que ofrece espacios amplios, funcionales y una excelente entrada de luz natural.</div><div><br></div><div>Cuenta con cocina equipada con muebles bajo mesada y alacena, dormitorio con frente de placard y baño completo. Además, dispone de doble balcón, un diferencial que aporta mayor amplitud, ventilación y espacios para disfrutar al aire libre.</div><div><br></div><div>Una propuesta que combina comodidad, luminosidad y potencial de valorización.</div><div><br></div><div>Consultanos por disponibilidad, precios y formas de pago</div><div><br></div>        \r\n\r\n            ",
+      "rich_description": "                                                                    <p><span style=\"font-weight: bold;\">EDIFICIO PRÓXIMO A ENTREGARSE – RIVADAVIA 3880 ESQUINA TUCUMÁN, SAN MARTÍN</span></p><div><br></div><div>Excelente oportunidad para invertir en un proyecto próximo a entregarse, ubicado en una esquina destacada de San Martín.</div><div><br></div><div><br></div><div>El edificio contará con unidades de entre 55 y 90 m², con opciones ideales tanto para vivienda como para inversión.</div><div><br></div><div><br></div><div>Se destaca esta unidad de 2 ambientes de 66 m², que ofrece espacios amplios, funcionales y una excelente entrada de luz natural.</div><div><br></div><div>Cuenta con cocina equipada con muebles bajo mesada y alacena, dormitorio con frente de placard y baño completo. Además, dispone de doble balcón, un diferencial que aporta mayor amplitud, ventilación y espacios para disfrutar al aire libre.</div><div><br></div><div><br></div><div>Una propuesta que combina comodidad, luminosidad y potencial de valorización.</div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">COCHERA: Posibilidad de cochera por un valor adicional de USD 15.000.</span></div><div><br></div><div><br></div><div>Consúltanos por disponibilidad, precios y formas de pago.</div><div><br></div>        <br><br>            \r\n\r\n            ",
       "roofed_surface": "50.00",
       "room_amount": 2,
       "semiroofed_surface": "16.00",
@@ -31620,11 +31610,6 @@
         {
           "id": 203,
           "name": "Preinstalación de aire acondicionado",
-          "type": 3
-        },
-        {
-          "id": 1248,
-          "name": "En construcción",
           "type": 3
         }
       ],
@@ -31679,8 +31664,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
-      "enhanced_description": "<h3>Edificio en Construcción</h3>\n<p>Excelente oportunidad para invertir en un proyecto en desarrollo, ubicado en una esquina destacada de San Martín. El edificio contará con unidades de entre 55 y 90 m², con opciones ideales tanto para vivienda como para inversión.</p>\n\n<h3>Ubicación</h3>\n<p>Rivadavia 3880 esquina Tucumán, San Martín</p>\n\n<h3>Características de la Unidad</h3>\n<p>Se destaca esta unidad de 2 ambientes de 66 m², que ofrece espacios amplios, funcionales y una excelente entrada de luz natural.</p>\n<ul>\n<li>Cocina equipada con muebles bajo mesada y alacena</li>\n<li>Dormitorio con frente de placard</li>\n<li>Baño completo</li>\n<li>Doble balcón</li>\n</ul>\n\n<h3>Propuesta</h3>\n<p>Una propuesta que combina comodidad, luminosidad y potencial de valorización. El doble balcón aporta mayor amplitud, ventilación y espacios para disfrutar al aire libre.</p>\n\n<h3>Consultas</h3>\n<p>Consultanos por disponibilidad, precios y formas de pago</p>"
+      "_last_changed": "2026-11-18T14:52:50.402Z",
+      "enhanced_description": "<h3>Edificio Próximo a Entregarse</h3>\n<p>Excelente oportunidad para invertir en un proyecto próximo a entregarse, ubicado en una esquina destacada de San Martín.</p>\n\n<h3>Ubicación</h3>\n<p>Rivadavia 3880 esquina Tucumán, San Martín.</p>\n\n<h3>Características del Edificio</h3>\n<p>El edificio contará con unidades de entre 55 y 90 m², con opciones ideales tanto para vivienda como para inversión.</p>\n\n<h3>Unidad en Oferta</h3>\n<p>Se destaca esta unidad de 2 ambientes de 66 m², que ofrece espacios amplios, funcionales y una excelente entrada de luz natural.</p>\n\n<h3>Detalles de la Unidad</h3>\n<ul>\n<li>Cocina equipada con muebles bajo mesada y alacena</li>\n<li>Dormitorio con frente de placard</li>\n<li>Baño completo</li>\n<li>Doble balcón que aporta mayor amplitud, ventilación y espacios para disfrutar al aire libre</li>\n</ul>\n\n<h3>Cochera</h3>\n<p>Posibilidad de cochera por un valor adicional de USD 15.000.</p>\n\n<h3>Consultas</h3>\n<p>Consúltanos por disponibilidad, precios y formas de pago.</p>"
     },
     {
       "address": "Rivadavia al 3800 2°",
@@ -31724,7 +31709,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-11-05T18:58:24",
+      "deleted_at": "2026-11-17T17:34:36",
       "depth_measure": "0.00",
       "description": "                                                                                            INVERTÍ EN SAN MARTÍN!\n\n Rivadavia 3880 esquina Tucumán, San Martín.\nEdificio en construcción con departamentos de 2 ambientes de entre 55 y 90 m², ideales para vivienda propia o inversión.\n*- Unidad de 55 m², con ambientes amplios y excelente luminosidad.\nCuenta con cocina equipada con muebles bajo mesada y alacena, dormitorio con frente de placard, baño completo y balcón con parrilla individual, ideal para disfrutar al aire libre.\n Una excelente oportunidad para invertir en tu próxima propiedad.\n\n\n ¡Escribinos hoy y consultá precios y disponibilidad!\n            \r\n\r\n            ",
       "development": {
@@ -32257,7 +32242,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 98000
+              "price": 95000
             }
           ]
         }
@@ -32514,7 +32499,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Rivadavia 3880 esquina Tucumán, San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Edificio en construcción con departamentos de 2 ambientes de entre 55 y 90 m², ideales para vivienda propia o inversión.</p>\n\n<h3>Características de la Unidad</h3>\n<ul>\n<li>Superficie: 55 m²</li>\n<li>Ambientes amplios y excelente luminosidad</li>\n<li>Cocina equipada con muebles bajo mesada y alacena</li>\n<li>Dormitorio con frente de placard</li>\n<li>Baño completo</li>\n<li>Balcón con parrilla individual</li>\n</ul>\n\n<h3>Oportunidad de Inversión</h3>\n<p>Una excelente oportunidad para invertir en tu próxima propiedad. Escribinos hoy y consultá precios y disponibilidad.</p>"
     },
     {
@@ -34469,7 +34454,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-11-05T18:55:28",
+      "deleted_at": "2026-11-17T18:23:24",
       "depth_measure": "0.00",
       "description": "                                                                                                    OPORTUNIDAD DE INVERSIÓN EN SAN MARTÍN!\n\n Rivadavia 3880 esquina Tucumán – San Martín\nInvertí en tu próximo departamento y aprovechá la oportunidad de acceder a una propiedad en construcción, ideal para vivir o generar una excelente inversión a futuro.\n*- Unidades de 2 ambientes de 55 a 90 m².\n*-  Unidad destacada de 67 m² con doble balcón, ideal para quienes buscan amplitud, luminosidad y espacios al aire libre.\nUn proyecto que combina ubicación, comodidad y diseño, con opciones para diferentes necesidades.\n\n\n ¡Consultanos por precios, disponibilidad y formas de pago! Elegí tu unidad y asegurá tu lugar en este proyecto.\n        \r\n\r\n            ",
       "development": {
@@ -35121,7 +35106,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 122000
+              "price": 118000
             }
           ]
         }
@@ -35369,7 +35354,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Oportunidad de inversión en San Martín</h3>\n\n<p>Rivadavia 3880 esquina Tucumán – San Martín</p>\n\n<p>Invertí en tu próximo departamento y aprovechá la oportunidad de acceder a una propiedad en construcción, ideal para vivir o generar una excelente inversión a futuro.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>Unidades de 2 ambientes de 55 a 90 m²</li>\n<li>Unidad destacada de 67 m² con doble balcón, ideal para quienes buscan amplitud, luminosidad y espacios al aire libre</li>\n</ul>\n\n<h3>El Proyecto</h3>\n\n<p>Un proyecto que combina ubicación, comodidad y diseño, con opciones para diferentes necesidades.</p>\n\n<h3>Información de interés</h3>\n\n<p>Consultanos por precios, disponibilidad y formas de pago. Elegí tu unidad y asegurá tu lugar en este proyecto.</p>"
     },
     {
@@ -38381,10 +38366,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -38537,10 +38522,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "---",
       "public_url": "https://ficha.info/p/eyIb1ddv1mpvaa",
@@ -38629,7 +38614,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Características Principales</h3>\n<ul>\n<li>4 ambientes</li>\n<li>Cochera doble</li>\n<li>Planta baja al frente</li>\n</ul>\n\n<h3>Distribución Interior</h3>\n<ul>\n<li>Amplio living comedor</li>\n<li>Cocina semi integrada con muebles sobre y bajo mesada más barra desayunadora</li>\n<li>3 dormitorios con placard</li>\n<li>Baño completo</li>\n<li>Lavadero independiente</li>\n<li>Patio</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Excelente ubicación con cómodo acceso y cercanía a todos los servicios.</p>\n\n<h3>Condiciones de Compra</h3>\n<p>Acepta propiedad en parte de pago.</p>"
     },
     {
@@ -38742,10 +38727,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -39018,10 +39003,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/eyN9Vddv1mst7a",
@@ -39152,7 +39137,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-17T15:16:58.491Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Departamento de 2 ambientes en venta</h3>\n\n<p>Excelente departamento de 2 ambientes, con una superficie aproximada de 50 m², ubicado en el cuarto piso, departamento D, en la zona de San Martín.</p>\n\n<p>La propiedad se destaca por su distribución funcional y sus ambientes bien definidos, ofreciendo comodidad y practicidad tanto para vivir como para invertir.</p>\n\n<p>Cuenta con un living-comedor amplio y luminoso, cocina independiente que permite mantener separados los espacios, un dormitorio de buenas dimensiones, un baño completo y balcón, ideal para disfrutar de un espacio al aire libre.</p>\n\n<h3>Características principales</h3>\n\n<ul>\n<li>Superficie aproximada: 50 m²</li>\n<li>2 ambientes</li>\n<li>Living-comedor</li>\n<li>Cocina independiente</li>\n<li>1 dormitorio</li>\n<li>1 baño completo</li>\n<li>Balcón</li>\n</ul>\n\n<p>Una excelente oportunidad para quienes buscan comodidad, funcionalidad y una propiedad versátil en una ubicación urbana.</p>"
     },
     {
@@ -39265,10 +39250,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -39491,10 +39476,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/ezphUddv1mK26a",
@@ -39532,7 +39517,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Cochera Cubierta</h3>\n\n<ul>\n<li>Ubicada al frente del edificio</li>\n<li>Superficie cubierta de 11.75 metros cuadrados</li>\n<li>Unidad funcional independiente</li>\n<li>Control remoto de ingreso</li>\n</ul>\n\n<h3>Información Adicional</h3>\n\n<p>Posible venta conjunta de otra cochera descubierta en el mismo edificio. Consultar disponibilidad.</p>"
     },
     {
@@ -39645,10 +39630,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -39871,10 +39856,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/ezpizddv1mK3ra",
@@ -39912,7 +39897,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Características</h3>\n<ul>\n<li>Cochera cubierta ubicada al frente</li>\n<li>Superficie total de 11.75 metros cuadrados</li>\n<li>Unidad funcional independiente</li>\n<li>Control remoto de ingreso</li>\n<li>Posible venta conjunta de otra cochera cubierta en el mismo edificio</li>\n</ul>"
     },
     {
@@ -41809,6 +41794,522 @@
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Bienvenido a tu oasis privado en uno de los barrios más exclusivos de Luján. Esta impresionante casa de una sola planta está ubicada en el prestigioso barrio privado Santa Irene, dentro de las Comarcas de Luján.</p>\n<p>Construida sobre un lote de 2.000m² que ofrece una combinación perfecta de comodidad, estilo y espacio al aire libre.</p>\n\n<h3>Ambientes Interiores</h3>\n<ul>\n<li>Tres dormitorios, incluida una suite principal con baño privado</li>\n<li>Baño completo adicional</li>\n<li>Luminoso y amplio living comedor</li>\n<li>Cocina completa, ideal para los amantes de la gastronomía</li>\n<li>Lavadero funcional</li>\n<li>Depósito para almacenamiento adicional</li>\n</ul>\n\n<h3>Espacios Exteriores</h3>\n<ul>\n<li>Amplio quincho cubierto equipado con parrilla</li>\n<li>Baño en el quincho</li>\n<li>Piscina y parque</li>\n<li>Espacio para varios autos</li>\n<li>Entrada imperial</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Ubicada sobre la ruta 6, justo frente a la rotonda de la ruta 34, esta propiedad es fácilmente accesible desde diferentes puntos de la ciudad y las principales vías de comunicación. El acceso rápido te permite llegar rápidamente a tu destino sin sacrificar la privacidad y la serenidad que ofrece el barrio cerrado.</p>\n<ul>\n<li>A 15 minutos de Pilar</li>\n<li>A 10 minutos del centro de Luján</li>\n<li>A 2km del acceso oeste</li>\n</ul>\n\n<h3>Servicios Cercanos</h3>\n<p>Una importante área de servicios en desarrollo que contempla desde restaurantes y tiendas hasta la estación de servicio Shell y el colegio trilingüe New Zealand Pacific School, todo lo que necesitas está prácticamente en la entrada del barrio.</p>\n\n<h3>Amenidades del Barrio</h3>\n<p>Santa Irene en Comarcas de Luján ofrece una amplia gama de comodidades para que disfrutes al máximo de tu estilo de vida.</p>\n<ul>\n<li>Club house</li>\n<li>Pileta</li>\n<li>Gimnasio</li>\n<li>Canchas de tenis y fútbol</li>\n<li>Bosque para juegos</li>\n<li>Quincho</li>\n\n<li>Equipo coordinador de entretenimiento y entrenamiento para adultos y niños</li>\n</ul>\n\n<h3>Características Destacadas</h3>\n<p>Esta propiedad ofrece la combinación perfecta de comodidad, lujo y ubicación conveniente, junto con acceso a increíbles comodidades dentro del barrio. Disfruta de la tranquilidad y seguridad que ofrece este entorno, cerca de todas las comodidades y actividades que necesitas.</p>"
     },
     {
+      "address": "Rivadavia 3880 3°A - San Martin",
+      "address_complement": "",
+      "age": -1,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 1,
+      "block_number": "",
+      "branch": {
+        "address": "Mitre 3400",
+        "alternative_phone": "77176007",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13 y de 14 a 18.30",
+        "created_date": "2018-11-15T19:39:03",
+        "deleted_at": null,
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.57456194412727",
+        "geo_long": "-58.535525085815436",
+        "gm_location_type": "BY_HAND",
+        "id": 7731,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/branch_logos/7731/px%20(1).jpg",
+        "name": "Dinal San Martin",
+        "pdf_footer_text": "",
+        "phone": "77176007",
+        "phone_area": "11",
+        "phone_country_code": "+54",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2024-06-11T13:28:24",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-11-17T17:46:25",
+      "depth_measure": "0.00",
+      "description": "                                    Edificio  en construcción sobre la calle Rivadavia 3880 esquina Tucumán,  San Martín.\n\nDepartamentos de 55 hasta 90 m2\n\nOportunidad de inversión, Unidad de amplios 2 amb de 55 m2 con parrilla individual en el balcón. Cuenta con cocina con muebles bajo y alta mesada, dormitorio con frente de placard, baño completo . Muy luminoso\n\nConatará con Sum y terraza verde para uso común\n\nEste emprendimiento será “Edificio sustentable” con tecnologías amigables con el medio ambiente!\n\n-Balcones con Deck y parrillas exclusivas.\n\n-Terrazas verdes en áreas comunes.\n\n-Jardines exteriores verticales.\n\n-Estaciones de cargas para autos eléctricos.\n\n-Pantallas solares para espacios comunes.\n\n-Sistema de riego con agua de lluvia.\n\n-Cestos para reciclaje de basura.\n\n-Bombeo de agua con sistemas solares.\n\n-Todos los departamentos tendrán importante cocina, con muebles completos, amplio living comedor, baños completos.\n\nDetalles Generales del Proyecto:\n\n-Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGÓN ARMADO.\n\n-Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini.\n\n-Aberturas de aluminio DVH (Doble Vidrio Hermético).\n\n-Pisos porcelanato de primera calidad.\n\n-Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo.\n\n-Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral.\n\n-Cielorrasos en yeso armado o aplicado según corresponda.\n\n-Paredes interiores con terminación en yeso.\n\n-Puertas interiores placa.\n\n-Instalación de agua fría y caliente en termofusión.\n\n-Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.\n\n-En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo.\n\n-Equipamiento de cocina completo enchapados en melamina.\n\n-Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV.\n\n-Instalación para la colocación de Aire Acondicionado en estar y dormitorio.\n\n-Cañerías (vacías) para instalación cable y teléfono.\n\n-Portero eléctrico con cámara visor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n        \r\n        ",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": "Frente",
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [],
+      "fake_address": "Rivadavia 3880 3°A - San Martin",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 8,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5749856",
+      "geo_long": "-58.5422375",
+      "gm_location_type": "RANGE_INTERPOLATED",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 6180411,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [
+          {
+            "cellphone": "",
+            "email": "Daniel@dinalpropiedades.com",
+            "id": 12883,
+            "name": "Daniel Oubiña",
+            "phone": "",
+            "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+            "position": ""
+          }
+        ],
+        "internal_comments": "Es del Piloto ",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 541177170405",
+            "created_at": "2025-03-06T18:24:57",
+            "document_number": "",
+            "email": "",
+            "id": 51024623,
+            "name": "Dinal Ventas Ballester",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-11-17T17:45:13",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "lead_receiver_user": {
+        "cellphone": "",
+        "email": "estefaniaruiz009@hotmail.com",
+        "id": 66535,
+        "name": "Estefa Ruiz",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "legally_checked": "Desconocido",
+      "links": [],
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25014,
+            "name": "San Martin",
+            "resource_uri": "/api/v1/location/25014/"
+          },
+          {
+            "id": 25030,
+            "name": "Jose León Suarez",
+            "resource_uri": "/api/v1/location/25030/"
+          },
+          {
+            "id": 25033,
+            "name": "San Andrés",
+            "resource_uri": "/api/v1/location/25033/"
+          },
+          {
+            "id": 25034,
+            "name": "Villa Ballester",
+            "resource_uri": "/api/v1/location/25034/"
+          },
+          {
+            "id": 25038,
+            "name": "Villa Lynch",
+            "resource_uri": "/api/v1/location/25038/"
+          },
+          {
+            "id": 51870,
+            "name": "Ciudad Jardín El Libertador",
+            "resource_uri": "/api/v1/location/51870/"
+          },
+          {
+            "id": 51871,
+            "name": "Villa Ayacucho",
+            "resource_uri": "/api/v1/location/51871/"
+          },
+          {
+            "id": 51872,
+            "name": "Villa Bernardo Monteagudo",
+            "resource_uri": "/api/v1/location/51872/"
+          },
+          {
+            "id": 51873,
+            "name": "Villa Chacabuco",
+            "resource_uri": "/api/v1/location/51873/"
+          },
+          {
+            "id": 51874,
+            "name": "Villa Coronel José M. Zapiola",
+            "resource_uri": "/api/v1/location/51874/"
+          },
+          {
+            "id": 51875,
+            "name": "Villa General Antonio J. de Sucre",
+            "resource_uri": "/api/v1/location/51875/"
+          },
+          {
+            "id": 51876,
+            "name": "Villa General Eugenio Necochea",
+            "resource_uri": "/api/v1/location/51876/"
+          },
+          {
+            "id": 51877,
+            "name": "Villa General José Tomás Guido",
+            "resource_uri": "/api/v1/location/51877/"
+          },
+          {
+            "id": 51878,
+            "name": "Villa General Juan G. Las Heras",
+            "resource_uri": "/api/v1/location/51878/"
+          },
+          {
+            "id": 51879,
+            "name": "Villa Godoy Cruz",
+            "resource_uri": "/api/v1/location/51879/"
+          },
+          {
+            "id": 51880,
+            "name": "Villa Granaderos de San Martín",
+            "resource_uri": "/api/v1/location/51880/"
+          },
+          {
+            "id": 51881,
+            "name": "Villa Gregoria Matorras",
+            "resource_uri": "/api/v1/location/51881/"
+          },
+          {
+            "id": 51882,
+            "name": "Villa Juan Martín de Pueyrredón",
+            "resource_uri": "/api/v1/location/51882/"
+          },
+          {
+            "id": 51883,
+            "name": "Villa Marqués Alejandro María de Aguado",
+            "resource_uri": "/api/v1/location/51883/"
+          },
+          {
+            "id": 51884,
+            "name": "Villa María Irene de los Remedios de Escalada",
+            "resource_uri": "/api/v1/location/51884/"
+          },
+          {
+            "id": 51885,
+            "name": "Villa Parque Presidente Figueroa Alcorta",
+            "resource_uri": "/api/v1/location/51885/"
+          },
+          {
+            "id": 51886,
+            "name": "Villa Parque San Lorenzo",
+            "resource_uri": "/api/v1/location/51886/"
+          },
+          {
+            "id": 51887,
+            "name": "Villa Yapeyú",
+            "resource_uri": "/api/v1/location/51887/"
+          },
+          {
+            "id": 254227,
+            "name": "Loma Hermosa",
+            "resource_uri": "/api/v1/location/254227/"
+          },
+          {
+            "id": 254580,
+            "name": "Villa Bonich",
+            "resource_uri": "/api/v1/location/254580/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
+        "id": 25013,
+        "name": "General San Martin",
+        "parent_division": null,
+        "short_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
+        "state": "/api/v1/state/147/",
+        "type": "Área",
+        "weight": 2250,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Venta",
+          "prices": [
+            {
+              "currency": "USD",
+              "is_promotional": false,
+              "period": 0,
+              "price": 112000
+            }
+          ]
+        }
+      ],
+      "orientation": "Oeste",
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_90184877380348876171781057340580439904280347653952247610073754318381920499234.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_9018487738034887617178105734058043990428034765395224761007375431838192.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_61244871848839838611912158524107070748301488835138819905563221821007854008949_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_90184877380348876171781057340580439904280347653952247610073754318381920499234_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_31021501069887692170044688209386493676967659719102683688034703300595096085339.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_3102150106988769217004468820938649367696765971910268368803470330059509.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_31021501069887692170044688209386493676967659719102683688034703300595096085339_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_31021501069887692170044688209386493676967659719102683688034703300595096085339_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_32555857639300162170163447158719826263083561884362951379153844213742351446107.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_3255585763930016217016344715871982626308356188436295137915384421374235.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_32555857639300162170163447158719826263083561884362951379153844213742351446107_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_32555857639300162170163447158719826263083561884362951379153844213742351446107_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_61359823304930954397501417092955514794877874194765957786637215639236799404511.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_6135982330493095439750141709295551479487787419476595778663721563923679.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_61359823304930954397501417092955514794877874194765957786637215639236799404511_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_61359823304930954397501417092955514794877874194765957786637215639236799404511_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_14252558526825625124331854554541073306018960732057174405342223651297021278884.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_1425255852682562512433185455454107330601896073205717440534222365129702.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_14252558526825625124331854554541073306018960732057174405342223651297021278884_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_14252558526825625124331854554541073306018960732057174405342223651297021278884_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_30703933580641288432357720984800825296135889499640962705806730011565004756696.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_3070393358064128843235772098480082529613588949964096270580673001156500.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_30703933580641288432357720984800825296135889499640962705806730011565004756696_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_30703933580641288432357720984800825296135889499640962705806730011565004756696_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_94077837978042862592554117707120624080936492422161040911771845295768460360024.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_9407783797804286259255411770712062408093649242216104091177184529576846.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_94077837978042862592554117707120624080936492422161040911771845295768460360024_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_94077837978042862592554117707120624080936492422161040911771845295768460360024_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_84588199027938561534477064252965078271536207795998231272919588246461315543681.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_8458819902793856153447706425296507827153620779599823127291958824646131.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_84588199027938561534477064252965078271536207795998231272919588246461315543681_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_84588199027938561534477064252965078271536207795998231272919588246461315543681_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6180411_41155507947288274713534008163833835990706604691010252376273349867537280431495.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6180411_4115550794728827471353400816383383599070660469101025237627334986753728.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/6180411_41155507947288274713534008163833835990706604691010252376273349867537280431495_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6180411_41155507947288274713534008163833835990706604691010252376273349867537280431495_thu.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "",
+        "email": "estefaniaruiz009@hotmail.com",
+        "id": 66535,
+        "name": "Estefa Ruiz",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "property_condition": "Excelente",
+      "public_url": "https://ficha.info/p/ez5YddrtjmZpCa",
+      "publication_title": "Departamento de 2 ambientes en venta San Martín",
+      "quality_level": null,
+      "real_address": "Rivadavia 3880 3°A - San Martin",
+      "reference_code": "DAP6180411",
+      "rich_description": "                                    <p>Edificio  en construcción sobre la calle Rivadavia 3880 esquina Tucumán,  San Martín.<br></p><p>Departamentos de 55 hasta 90 m2<br></p><p>Oportunidad de inversión, Unidad de amplios 2 amb de 55 m2 con parrilla individual en el balcón. Cuenta con cocina con muebles bajo y alta mesada, dormitorio con frente de placard, baño completo . Muy luminoso<br></p><p>Conatará con Sum y terraza verde para uso común<br></p><p>Este emprendimiento será “Edificio sustentable” con tecnologías amigables con el medio ambiente!<br></p><p>-Balcones con Deck y parrillas exclusivas.<br></p><p>-Terrazas verdes en áreas comunes.<br></p><p>-Jardines exteriores verticales.<br></p><p>-Estaciones de cargas para autos eléctricos.<br></p><p>-Pantallas solares para espacios comunes.<br></p><p>-Sistema de riego con agua de lluvia.<br></p><p>-Cestos para reciclaje de basura.<br></p><p>-Bombeo de agua con sistemas solares.<br></p><p>-Todos los departamentos tendrán importante cocina, con muebles completos, amplio living comedor, baños completos.<br></p><p>Detalles Generales del Proyecto:<br></p><p>-Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGÓN ARMADO.<br></p><p>-Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini.<br></p><p>-Aberturas de aluminio DVH (Doble Vidrio Hermético).<br></p><p>-Pisos porcelanato de primera calidad.<br></p><p>-Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo.<br></p><p>-Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral.<br></p><p>-Cielorrasos en yeso armado o aplicado según corresponda.<br></p><p>-Paredes interiores con terminación en yeso.<br></p><p>-Puertas interiores placa.<br></p><p>-Instalación de agua fría y caliente en termofusión.<br></p><p>-Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.<br></p><p>-En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo.<br></p><p>-Equipamiento de cocina completo enchapados en melamina.<br></p><p>-Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV.<br></p><p>-Instalación para la colocación de Aire Acondicionado en estar y dormitorio.<br></p><p>-Cañerías (vacías) para instalación cable y teléfono.<br></p><p>-Portero eléctrico con cámara visor<br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><br>        <br>        \r\n        ",
+      "roofed_surface": "0.00",
+      "room_amount": 2,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 1,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcón",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Cocina",
+          "type": 2
+        },
+        {
+          "id": 22,
+          "name": "Living comedor",
+          "type": 2
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "67.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [
+        {
+          "description": "",
+          "id": 1055780,
+          "order": 9,
+          "player_url": "https://www.youtube.com/embed/mxilQdrtUNM",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "Video Recorrido 360 virtual",
+          "url": "https://www.youtube.com/watch?v=mxilQdrtUNM",
+          "video_id": "mxilQdrtUNM"
+        },
+        {
+          "description": "",
+          "id": 1055781,
+          "order": 9,
+          "player_url": "https://kuula.co/share/collection/7PNGb",
+          "provider": "kuula Share Collection",
+          "provider_id": 22,
+          "title": "Recorrido Virtual",
+          "url": "https://kuula.co/share/collection/7PNGb",
+          "video_id": "7PNGb"
+        },
+        {
+          "description": "",
+          "id": 1055782,
+          "order": 9,
+          "player_url": "https://www.youtube.com/embed/zlEZkwo6n98",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "Avances de Obra Febrero 2024",
+          "url": "https://www.youtube.com/watch?v=zlEZkwo6n98",
+          "video_id": "zlEZkwo6n98"
+        },
+        {
+          "description": "",
+          "id": 1142847,
+          "order": 10,
+          "player_url": "https://www.youtube.com/embed/fnGHVY4mOss",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "Avance de Obra Agosto 2024",
+          "url": "https://www.youtube.com/watch?v=fnGHVY4mOss",
+          "video_id": "fnGHVY4mOss"
+        }
+      ],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2024-06-11T13:28:24",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio en construcción sobre la calle Rivadavia 3880 esquina Tucumán, San Martín.</p>\n\n<h3>Unidades</h3>\n<p>Departamentos de 55 hasta 90 m2</p>\n\n<h3>Descripción de la Unidad</h3>\n<p>Oportunidad de inversión. Unidad de amplios 2 ambientes de 55 m2 con parrilla individual en el balcón. Cuenta con cocina con muebles bajo y alta mesada, dormitorio con frente de placard, baño completo. Muy luminoso.</p>\n\n<h3>Amenities y Espacios Comunes</h3>\n<ul>\n<li>Sum y terraza verde para uso común</li>\n<li>Terrazas verdes en áreas comunes</li>\n<li>Jardines exteriores verticales</li>\n</ul>\n\n<h3>Características Sustentables</h3>\n<p>Este emprendimiento será un Edificio sustentable con tecnologías amigables con el medio ambiente.</p>\n<ul>\n<li>Balcones con Deck y parrillas exclusivas</li>\n<li>Estaciones de cargas para autos eléctricos</li>\n<li>Pantallas solares para espacios comunes</li>\n<li>Sistema de riego con agua de lluvia</li>\n<li>Cestos para reciclaje de basura</li>\n<li>Bombeo de agua con sistemas solares</li>\n</ul>\n\n<h3>Características de los Departamentos</h3>\n<ul>\n<li>Importante cocina con muebles completos</li>\n<li>Amplio living comedor</li>\n<li>Baños completos</li>\n</ul>\n\n<h3>Detalles Constructivos</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco</li>\n<li>Exteriores con doble muro de ladrillo hueco</li>\n<li>Estructura de hormigón armado</li>\n<li>Terminaciones exteriores con revoque pintado y/o pintura plástica tipo Tarquini</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad con zócalo perimetral</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores de placa</li>\n</ul>\n\n<h3>Instalaciones</h3>\n<ul>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente</li>\n<li>Cocina eléctrica (cambiable a gas si la empresa distribuidora provee suministro)</li>\n<li>Termo a gas (si corresponde según disponibilidad)</li>\n<li>Instalación para colocación de Aire Acondicionado en estar y dormitorio</li>\n<li>Cañerías (vacías) para instalación de cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<h3>Baño</h3>\n<ul>\n<li>Mampara de vidrio</li>\n<li>Vanitory y accesorios</li>\n<li>Griferías de primera marca</li>\n<li>Cerámica de piso a techo</li"
+    },
+    {
       "address": "Pueyrredon  al 3800 11° - San Martin",
       "address_complement": "",
       "age": 30,
@@ -42318,10 +42819,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -42464,10 +42965,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "---",
       "public_url": "https://ficha.info/p/eAkyWddv1ndGCa",
@@ -42531,7 +43032,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Cochera Techada en Venta en Edificio con Excelente Ubicación</h3>\n\n<h3>Ubicación</h3>\n<p>Almirante Brown 3600, cercano al centro de Villa Ballester</p>\n\n<h3>Ideal para</h3>\n<ul>\n<li>Residentes del edificio y alrededores que buscan un lugar seguro y accesible para su vehículo</li>\n<li>Inversionistas que desean adquirir una cochera en una zona de alta demanda</li>\n</ul>\n\n<p>No pierdas esta oportunidad única. Para más información y visitas, contáctanos.</p>"
     },
     {
@@ -44221,10 +44722,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -44431,10 +44932,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/eALKCddv1nrhsa",
@@ -44493,7 +44994,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Monoambiente a Estrenar en Caseros</h3>\n\n<p>Ubicado en el 5º piso \"C\" del edificio en la calle Wenseslao del Tata Nº 4551, este departamento es ideal para quienes buscan un espacio moderno y funcional.</p>\n\n<h3>Características del Departamento</h3>\n\n<ul>\n<li>Cocina equipada con muebles altos y bajos, anafe y termo eléctrico</li>\n<li>Baño completo con diseño moderno y detalles de calidad</li>\n<li>Placard con espacio de guardado eficiente</li>\n<li>Balcón al contrafrente con instalación para lavarropas</li>\n<li>Impecable estado, ideal para entrar a vivir</li>\n<li>Apto crédito con facilidades para su adquisición</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Este monoambiente es una excelente oportunidad para quienes buscan invertir o vivir en una zona estratégica de Caseros, Partido de Tres de Febrero.</p>\n\n<p>Contáctanos para más información y coordina una visita.</p>"
     },
     {
@@ -45142,10 +45643,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -45378,10 +45879,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/eAVDEddv1nwdYa",
@@ -45435,7 +45936,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Cochera Descubierta en San Martín</h3>\n\n<p>Venta de cochera descubierta en excelente ubicación, centro de San Martín. Buscas un lugar seguro y conveniente para estacionar tu auto? Tenemos la solución perfecta para ti!</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>Ubicación: San Martín en una zona céntrica, de fácil acceso y cerca de todos los servicios</li>\n<li>Seguridad: Acceso con control remoto para un rápido acceso y tranquilidad</li>\n<li>Espacio amplio: Perfecta para autos de tipología mediana</li>\n</ul>\n\n<h3>Beneficios Adicionales</h3>\n\n<ul>\n<li>Se venden 2 juntas o separadas, la unidad publicada corresponde a una cochera descubierta</li>\n<li>Inversión segura: Excelente oportunidad de inversión en una zona de alta demanda</li>\n<li>Bajos costos de mantenimiento: Ideal para quienes buscan una solución práctica y económica</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Para más información o para coordinar una visita, contáctanos hoy mismo.</p>"
     },
     {
@@ -45538,10 +46039,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -46134,10 +46635,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/eA9rIddv1nC70a",
@@ -46321,7 +46822,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Ubicada en un entorno tranquilo y con detalles de calidad, esta propiedad de 5 ambientes es ideal para quienes buscan confort y espacio.</p>\n\n<h3>Planta Baja</h3>\n<ul>\n<li>Amplio living comedor integrado, perfecto para reuniones y disfrutar en familia</li>\n<li>Toilette de cortesía</li>\n<li>Fondo libre con verde para disfrutar al aire libre</li>\n<li>Quincho equipado para reuniones sociales</li>\n</ul>\n\n<h3>Planta Alta</h3>\n<ul>\n<li>3 habitaciones con balcón al frente, luminosas y amplias</li>\n<li>Baño completo con ducha</li>\n<li>Suite principal con vestidor y baño privado</li>\n<li>Playroom ideal para espacio de recreación o lugar de trabajo</li>\n</ul>\n\n<h3>Observaciones</h3>\n<p>Acepta propiedad de menor valor (departamento 2 o 3 ambientes en CABA) como parte de pago.</p>"
     },
     {
@@ -49106,7 +49607,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-14T15:35:13",
+      "deleted_at": "2026-11-17T15:23:11",
       "depth_measure": "0.00",
       "description": "Yapeyú 1972, Ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren linea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n¡Descubre tu nuevo hogar!\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\n\n\n\n\nCaracterísticas Principales:\n\n* Dormitorios: 1 dormitorio con placard.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Terraza Propio.* Baño:  moderno y funcional.\n\nVentajas Adicionales:\n* Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad.\n* Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés.* Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado.\n\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n        \n        \n        \r\n\r\n            ",
       "development": {
@@ -49635,7 +50136,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 124000
+              "price": 119000
             }
           ]
         }
@@ -49982,7 +50483,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren línea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorios: 1 dormitorio con placard</li>\n<li>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Terraza propia</li>\n<li>Baño: moderno y funcional</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n<li>Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Contáctanos para más información y coordinar una visita.</p>"
     },
     {
@@ -58484,10 +58985,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -58569,10 +59070,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -58775,10 +59276,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/eCCAgddv1omHha",
@@ -58914,7 +59415,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Nuevo edificio en San Martín, calle Félix Ballester 2395 entre Lincoln y Juárez</p>\n\n<h3>El Proyecto</h3>\n<p>Solo 8 unidades, pisos exclusivos</p>\n\n<h3>Descripción de la Unidad</h3>\n<p>Exclusivo Departamento de 3 Ambientes – 7° Piso A. Luminoso y espacioso departamento de 3 ambientes ubicado en el 7° piso de un edificio de alto nivel. Con 72,5 m² de superficie, este hogar se distribuye inteligentemente para ofrecer doble circulación, permitiendo una transición fluida entre ambientes.</p>\n\n<p>La propiedad destaca por sus amplios balcones, tanto al frente como al contrafrente, que inundan cada rincón de luz natural y ofrecen vistas privilegiadas. Cada departamento contará con parrillas propias, perfectas para disfrutar de asados y reuniones al aire libre en un entorno moderno y confortable.</p>\n\n<h3>Características de Construcción</h3>\n<ul>\n<li>Doble muro de ladrillo con cámara de aire logrando doble aislamiento hidrófugo que permite conservar la temperatura del ambiente, reduciendo el consumo eléctrico</li>\n<li>Aberturas de doble vidrio (DVH) con ahorro en climatización por su cámara hermética</li>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco</li>\n<li>Estructura de hormigón armado</li>\n<li>Terminaciones exteriores con revoque pintado y/o pintura plástica Tipo Tarquini</li>\n<li>Pisos porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas, piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad y zócalo perimetral</li>\n<li>Parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa</li>\n<li>Instalación de agua fría y caliente en termo fusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica (convertible a gas si la empresa distribuidora lo provee)</li>\n<li>Baño con mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo enchapados en melamina</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV</li>\n<li>Instalación para la colocación de Aire Acondicionado en estar y dormitorio</li>\n<li>Cañerías (vacías) para instalación de cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<h3>Facilidades de Pago</h3>\n<p>Confacilidades de pago y una calidad premium</p>"
     },
     {
@@ -59385,10 +59886,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -59470,10 +59971,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "legally_checked": "Desconocido",
       "links": [],
@@ -59666,10 +60167,10 @@
         "cellphone": "1549801590",
         "email": "romina@lenerconstructora.com",
         "id": 12887,
-        "name": "Tom",
+        "name": "Jorge",
         "phone": "",
         "picture": "https://static.tokkobroker.com/static/img/user.png",
-        "position": ""
+        "position": "Marketing"
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/eCCCfddv1omIha",
@@ -59820,7 +60321,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Nuevo edificio en San Martín</h3>\n<p>Ubicación: Calle Félix Ballester 2395 entre Lincoln y Juárez</p>\n<p>Solo 8 unidades, pisos exclusivos</p>\n\n<h3>Departamento de 3 Ambientes</h3>\n<p>Descubre este luminoso y espacioso departamento de 3 ambientes, ubicado en el 6° piso A de un edificio de alto nivel. Con 72,5 m² de superficie, este hogar se distribuye inteligentemente para ofrecer doble circulación, permitiendo una transición fluida entre ambientes.</p>\n<p>La propiedad destaca por sus amplios balcones, tanto al frente como al contrafrente, que inundan cada rincón de luz natural y ofrecen vistas privilegiadas. Ideal para quienes buscan un espacio exclusivo y bien iluminado.</p>\n<p>Además, cada departamento contará con parrillas propias, perfectas para disfrutar de asados y reuniones al aire libre en un entorno moderno y confortable.</p>\n<p>Si buscas calidad, confort y exclusividad, este es el lugar ideal para transformar tus sueños en realidad.</p>\n\n<h3>Características de construcción</h3>\n<ul>\n<li>Doble muro de ladrillo con cámara de aire logrando doble aislamiento hidrófugo que permite conservar la temperatura del ambiente, reduciendo el consumo eléctrico</li>\n<li>Aberturas de doble vidrio (DVH) con ahorro en climatización por su cámara hermética</li>\n<li>Mamposterías divisorias de ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco con estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado y pintura plástica tipo Tarquini</li>\n<li>Pisos en porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y placard 2 puertas piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad y zócalo perimetral</li>\n<li>Departamentos con parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores de placa</li>\n<li>Instalación de agua fría y caliente en termo fusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos serán cambiados por cocina a gas y termo a gas</li>\n<li>Baño con mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo enchapados en melamina</li>\n<li>Mesada de cocina en granito, pileta de acero inoxidable y grifería monocomando FV</li>\n<li>Instalación para colocación de aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para instalación de cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n<li>Cochera incluida</li>\n</ul>\n\n<h3>Contáctanos y agenda tu visita</h3>"
     },
     {
@@ -81405,9 +81906,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-09T15:00:45",
+      "deleted_at": "2026-11-17T15:44:43",
       "depth_measure": "0.00",
-      "description": "                                                                        Edificio próximo a entregarse sobre calle 25 de Mayo 1761, Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\n\nCaracterísticas Principales:\n* Dormitorios: 1 dormitorios con placard. \n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla.\n* Baños: 1 moderno y funcional.\n\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\nEste Proyecto consta de Departamentos desde 48 m2 hasta 97 m2, Todos los departamentos tendrán importante cocina, con muebles completos, amplio living comedor, baños completos, balcón con piso de deck y parrilla exclusiva. Construidos con materiales PREMIUM.\n\n\n¡Descubre tu nuevo hogar!\n\n\n\n\n\n\nDetalles generales del edificio:\n\n• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO\n• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini\n• Aberturas de aluminio DVH (Doble Vidrio Hermético)\n• Pisos porcelanato de primera calidad\n• Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo\n• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral\n• Departamentos con parrilla exclusiva en balcón\n• Cielorrasos en yeso armado o aplicado según corresponda\n• Paredes interiores con terminación en yeso\n• Puertas interiores placa\n• Instalación de agua fría y caliente en termofusión\n• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.\n• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo\n• Equipamiento de cocina completo enchapados en melamina\n• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV\n• Instalación para la colocación de Aire Acondicionado en estar y dormitorio\n• Cañerías (vacías) para instalación cable y teléfono\n• Portero eléctrico con cámara visor\n\n\n\n\n        \n        \n            \n            \r\n\r\n            ",
+      "description": "                                                                                        Edificio próximo a entregarse sobre calle 25 de Mayo 1761, Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\nEste departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.\n\n\nCaracterísticas Principales:\n* 1 Dormitorio con placard. \n* Cocina: Completamente equipada.\n* Living Comedor: Integrado, amplio y luminoso\n* Balcón Propio: Con parrilla.\n* 1 Baño moderno y funcional.\n\n\n\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n¡Descubrí tu nuevo hogar!\n\n\n\n\n\n\n\n\n        \n        \n            \n            \n\n            \r\n\r\n            ",
       "development": {
         "address": "25 de mayo 1761",
         "branch": {
@@ -81994,7 +82495,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 80000
+              "price": 79000
             }
           ]
         }
@@ -82112,7 +82613,7 @@
       "quality_level": null,
       "real_address": "25 de Mayo 1761  7°B- San Martín",
       "reference_code": "DBU62334 AP7448120",
-      "rich_description": "                                                                        <p>Edificio próximo a entregarse sobre calle 25 de Mayo 1761, Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p><p><br></p><p><span style=\"font-size: 14px;\">Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</span></p><p><br></p><p><span style=\"font-weight: bold; text-decoration-line: underline;\">Características Principales:</span></p><p>* Dormitorios: 1 dormitorios con placard.&nbsp;</p><p>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.</p><p>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.</p><p>* Balcón Propio: Con parrilla.</p><p>* Baños: 1 moderno y funcional.</p><p><br></p><p>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.</p><p><br>Este Proyecto consta de Departamentos desde 48 m2 hasta 97 m2, Todos los departamentos tendrán importante cocina, con muebles completos, amplio living comedor, baños completos, balcón con piso de deck y parrilla exclusiva. Construidos con materiales PREMIUM.</p><p><br></p><p><span style=\"font-weight: bold;\">¡Descubre tu nuevo hogar!</span></p><p><span style=\"font-weight: bold;\"><br></span></p><p><span style=\"font-weight: bold;\"><br></span><br><br><span style=\"font-weight: bold; text-decoration-line: underline;\"><br>Detalles generales del edificio:</span><br><br>• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO<br>• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini<br>• Aberturas de aluminio DVH (Doble Vidrio Hermético)<br>• Pisos porcelanato de primera calidad<br>• Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo<br>• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral<br>• Departamentos con parrilla exclusiva en balcón<br>• Cielorrasos en yeso armado o aplicado según corresponda<br>• Paredes interiores con terminación en yeso<br>• Puertas interiores placa<br>• Instalación de agua fría y caliente en termofusión<br>• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.<br>• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo<br>• Equipamiento de cocina completo enchapados en melamina<br>• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV<br>• Instalación para la colocación de Aire Acondicionado en estar y dormitorio<br>• Cañerías (vacías) para instalación cable y teléfono<br>• Portero eléctrico con cámara visor<br><br><br></p><br>        <br>        <br>            <br>            \r\n\r\n            ",
+      "rich_description": "                                                                                        <p>Edificio próximo a entregarse sobre calle 25 de Mayo 1761, Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p><p><br></p><p><span style=\"font-size: 14px;\">Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</span></p><p><br></p><p><span style=\"font-weight: bold; text-decoration-line: underline;\">Características Principales:</span></p><p>* 1 Dormitorio con placard.&nbsp;</p><p>* Cocina: Completamente equipada.</p><p>* Living Comedor: Integrado, amplio y luminoso</p><p>* Balcón Propio: Con parrilla.</p><p>* 1 Baño moderno y funcional.</p><p><br></p><p><br></p><p>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.</p><p><span style=\"font-weight: bold;\">¡Descubrí tu nuevo hogar!</span></p><p><span style=\"font-weight: bold;\"><br></span></p><p><span style=\"font-weight: bold;\"><br></span><br><br><br></p><br>        <br>        <br>            <br>            <br><br>            \r\n\r\n            ",
       "roofed_surface": "0.00",
       "room_amount": 2,
       "semiroofed_surface": "0.00",
@@ -82220,8 +82721,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio próximo a entregarse sobre calle 25 de Mayo 1761, ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Estación de Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción del Departamento</h3>\n<p>Departamento de 2 ambientes que ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorio: 1 dormitorio con placard</li>\n<li>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón Propio: Con parrilla</li>\n<li>Baño: 1 moderno y funcional</li>\n</ul>\n\n<h3>El Proyecto</h3>\n<p>Este proyecto consta de departamentos desde 48 m2 hasta 97 m2. Todos los departamentos tendrán importante cocina con muebles completos, amplio living comedor, baños completos, balcón con piso de deck y parrilla exclusiva. Construidos con materiales premium.</p>\n\n<h3>Detalles Constructivos</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco con estructura de hormigón armado</li>\n<li>Terminaciones exteriores revoque pintado y/o pintura plástica tipo Tarquini</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético)</li>\n<li>Pisos porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad con zócalo perimetral</li>\n<li>Departamentos con parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores de placa</li>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas</li>\n<li>En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo enchapados en melamina</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV</li>\n<li>Instalación para la colocación de Aire Acondicionado en estar y dormitorio</li>\n<li>Cañerías (vacías) para instalación cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>"
+      "_last_changed": "2026-11-18T14:52:50.402Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio próximo a entregarse sobre calle 25 de Mayo 1761, ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Estación de Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 Dormitorio con placard</li>\n<li>Cocina completamente equipada</li>\n<li>Living Comedor integrado, amplio y luminoso</li>\n<li>Balcón propio con parrilla</li>\n<li>1 Baño moderno y funcional</li>\n</ul>\n\n<p>Contactanos para más información y coordinar una visita. Descubrí tu nuevo hogar.</p>"
     },
     {
       "address": "Yapeyú 1972 2°B - San Martin",
@@ -86517,6 +87018,537 @@
       "enhanced_description": "<h3>Casa en venta – Villa Ballester, Gral. San Martín - Neuquén</h3>\n\n<p>Excelente oportunidad en zona residencial con gran potencial constructivo.</p>\n\n<h3>Características del inmueble</h3>\n\n<ul>\n<li>Lote: 7,53 x 30 m (aprox.)</li>\n<li>Superficie de terreno: 226 m²</li>\n<li>Superficie cubierta: 103 m²</li>\n<li>Jardín al frente</li>\n<li>Cochera descubierta</li>\n<li>Ingreso a living</li>\n<li>3 dormitorios</li>\n<li>Cocina comedor</li>\n<li>Baño completo</li>\n<li>Lavadero</li>\n<li>Fondo libre con galpón de guardado</li>\n<li>Segunda entrada lateral</li>\n<li>Terraza</li>\n</ul>\n\n<h3>Descripción</h3>\n\n<p>La propiedad se encuentra perfectamente habitable, ideal tanto para vivienda como para proyecto de renta o desarrollo.</p>\n\n<h3>Información adicional</h3>\n\n<ul>\n<li>Zonificación RM</li>\n<li>Planta baja + 3 pisos</li>\n<li>Ideal para inversores y desarrolladores</li>\n</ul>\n\n<h3>Valor</h3>\n\n<p>USD 88.000</p>\n\n<p>Consultanos para más información o para coordinar una visita.</p>"
     },
     {
+      "address": "25 de mayo 1761  2 °C - San Martin",
+      "address_complement": "",
+      "age": -1,
+      "apartment_door": "C",
+      "appartments_per_floor": 3,
+      "bathroom_amount": 1,
+      "block_number": "",
+      "branch": {
+        "address": "B1650 San Martín",
+        "alternative_phone": "",
+        "alternative_phone_area": "",
+        "alternative_phone_country_code": "",
+        "alternative_phone_extension": "",
+        "branch_type": null,
+        "contact_time": "-",
+        "created_date": "2025-10-20T16:06:07",
+        "deleted_at": null,
+        "display_name": "Inactiva",
+        "email": "inactivo@dinalpropiedades.com",
+        "geo_lat": "-34.5757521",
+        "geo_long": "-58.53709649999999",
+        "gm_location_type": "APPROXIMATE",
+        "id": 97881,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/logos/3790/px%20(1).jpg",
+        "name": "Inactiva",
+        "pdf_footer_text": "",
+        "phone": "-",
+        "phone_area": "",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2025-12-30T13:37:53",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-11-17T15:42:26",
+      "depth_measure": "0.00",
+      "description": "                25 de Mayo 1761 , Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz . A pocas cuadras de la estación del tren Mitre. \nMuy cerca de Centro Comercial, Colegios, Sanatorio, hospitales, UNSAM y tribunales de San Martín.\n\nOportunidad departamento al contrafrente de 2 ambientes\n\n\nCaracterísticas Principales:\n* 1 Dormitorio con placard. \n* Cocina: Completamente equipada.\n* Living Comedor: Integrado, amplio y luminoso.\n* Balcón Propio: Con parrilla.\n* 1 Baño moderno y funcional.\n\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n\n\n\n\n            \n\n            \r\n\r\n            \n",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": "Contrafrente",
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [],
+      "fake_address": "25 de mayo 1761  2 °C - San Martin",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "1",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5764702",
+      "geo_long": "-58.5310102",
+      "gm_location_type": "ROOFTOP",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 7643419,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "Es de Rosales (Cliente Lucho)",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 541177170405",
+            "created_at": "2025-03-06T18:25:40",
+            "document_number": "",
+            "email": "",
+            "id": 51024652,
+            "name": "Dinal",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-10-06T19:41:10",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": true,
+      "lead_receiver_user": {
+        "cellphone": "5491124012673",
+        "email": "belenvitale89@gmail.com",
+        "id": 114098,
+        "name": "Belen Vitale",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "legally_checked": "Desconocido",
+      "links": [],
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25014,
+            "name": "San Martin",
+            "resource_uri": "/api/v1/location/25014/"
+          },
+          {
+            "id": 25030,
+            "name": "Jose León Suarez",
+            "resource_uri": "/api/v1/location/25030/"
+          },
+          {
+            "id": 25033,
+            "name": "San Andrés",
+            "resource_uri": "/api/v1/location/25033/"
+          },
+          {
+            "id": 25034,
+            "name": "Villa Ballester",
+            "resource_uri": "/api/v1/location/25034/"
+          },
+          {
+            "id": 25038,
+            "name": "Villa Lynch",
+            "resource_uri": "/api/v1/location/25038/"
+          },
+          {
+            "id": 51870,
+            "name": "Ciudad Jardín El Libertador",
+            "resource_uri": "/api/v1/location/51870/"
+          },
+          {
+            "id": 51871,
+            "name": "Villa Ayacucho",
+            "resource_uri": "/api/v1/location/51871/"
+          },
+          {
+            "id": 51872,
+            "name": "Villa Bernardo Monteagudo",
+            "resource_uri": "/api/v1/location/51872/"
+          },
+          {
+            "id": 51873,
+            "name": "Villa Chacabuco",
+            "resource_uri": "/api/v1/location/51873/"
+          },
+          {
+            "id": 51874,
+            "name": "Villa Coronel José M. Zapiola",
+            "resource_uri": "/api/v1/location/51874/"
+          },
+          {
+            "id": 51875,
+            "name": "Villa General Antonio J. de Sucre",
+            "resource_uri": "/api/v1/location/51875/"
+          },
+          {
+            "id": 51876,
+            "name": "Villa General Eugenio Necochea",
+            "resource_uri": "/api/v1/location/51876/"
+          },
+          {
+            "id": 51877,
+            "name": "Villa General José Tomás Guido",
+            "resource_uri": "/api/v1/location/51877/"
+          },
+          {
+            "id": 51878,
+            "name": "Villa General Juan G. Las Heras",
+            "resource_uri": "/api/v1/location/51878/"
+          },
+          {
+            "id": 51879,
+            "name": "Villa Godoy Cruz",
+            "resource_uri": "/api/v1/location/51879/"
+          },
+          {
+            "id": 51880,
+            "name": "Villa Granaderos de San Martín",
+            "resource_uri": "/api/v1/location/51880/"
+          },
+          {
+            "id": 51881,
+            "name": "Villa Gregoria Matorras",
+            "resource_uri": "/api/v1/location/51881/"
+          },
+          {
+            "id": 51882,
+            "name": "Villa Juan Martín de Pueyrredón",
+            "resource_uri": "/api/v1/location/51882/"
+          },
+          {
+            "id": 51883,
+            "name": "Villa Marqués Alejandro María de Aguado",
+            "resource_uri": "/api/v1/location/51883/"
+          },
+          {
+            "id": 51884,
+            "name": "Villa María Irene de los Remedios de Escalada",
+            "resource_uri": "/api/v1/location/51884/"
+          },
+          {
+            "id": 51885,
+            "name": "Villa Parque Presidente Figueroa Alcorta",
+            "resource_uri": "/api/v1/location/51885/"
+          },
+          {
+            "id": 51886,
+            "name": "Villa Parque San Lorenzo",
+            "resource_uri": "/api/v1/location/51886/"
+          },
+          {
+            "id": 51887,
+            "name": "Villa Yapeyú",
+            "resource_uri": "/api/v1/location/51887/"
+          },
+          {
+            "id": 254227,
+            "name": "Loma Hermosa",
+            "resource_uri": "/api/v1/location/254227/"
+          },
+          {
+            "id": 254580,
+            "name": "Villa Bonich",
+            "resource_uri": "/api/v1/location/254580/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
+        "id": 25013,
+        "name": "General San Martin",
+        "parent_division": null,
+        "short_location": "Argentina | G.B.A. Zona Norte | General San Martin ",
+        "state": "/api/v1/state/147/",
+        "type": "Área",
+        "weight": 2250,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Venta",
+          "prices": [
+            {
+              "currency": "USD",
+              "is_promotional": false,
+              "period": 0,
+              "price": 85000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_54792921554832541389872127677096775361252196705539315118568657392400098100621.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_5479292155483254138987212767709677536125219670553931511856865739240009.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_54792921554832541389872127677096775361252196705539315118568657392400098100621_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_54792921554832541389872127677096775361252196705539315118568657392400098100621_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_84393293611931219109410747238221986293641063474122183949105424411007323789865.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_8439329361193121910941074723822198629364106347412218394910542441100732.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_84393293611931219109410747238221986293641063474122183949105424411007323789865_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_84393293611931219109410747238221986293641063474122183949105424411007323789865_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_74659340821806776038144516817753039772099869037620914540984502807912992193693.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_7465934082180677603814451681775303977209986903762091454098450280791299.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_74659340821806776038144516817753039772099869037620914540984502807912992193693_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_74659340821806776038144516817753039772099869037620914540984502807912992193693_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_34277261934143123904719567511649828967498047794819649523339250346722967172308.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_3427726193414312390471956751164982896749804779481964952333925034672296.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_34277261934143123904719567511649828967498047794819649523339250346722967172308_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_34277261934143123904719567511649828967498047794819649523339250346722967172308_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_1006497622803513969675410111158025916653091348964892956957446245224586845857.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_1006497622803513969675410111158025916653091348964892956957446245224586.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_1006497622803513969675410111158025916653091348964892956957446245224586845857_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_1006497622803513969675410111158025916653091348964892956957446245224586845857_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_50404466955660299043394589709220357237220806148141026678542996137847367811603.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_5040446695566029904339458970922035723722080614814102667854299613784736.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_50404466955660299043394589709220357237220806148141026678542996137847367811603_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_50404466955660299043394589709220357237220806148141026678542996137847367811603_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_87627808905804700997821712611453053767418159275882234312988342847932159817250.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_8762780890580470099782171261145305376741815927588223431298834284793215.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_87627808905804700997821712611453053767418159275882234312988342847932159817250_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_87627808905804700997821712611453053767418159275882234312988342847932159817250_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_61434797827839178435679506304696370349680811163701459783651558846501219172840.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_6143479782783917843567950630469637034968081116370145978365155884650121.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_61434797827839178435679506304696370349680811163701459783651558846501219172840_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_61434797827839178435679506304696370349680811163701459783651558846501219172840_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_32823626935728694056116350524787175498725190627618080967406095830393760942151.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_3282362693572869405611635052478717549872519062761808096740609583039376.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_32823626935728694056116350524787175498725190627618080967406095830393760942151_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_32823626935728694056116350524787175498725190627618080967406095830393760942151_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_98205651151392344368420584204861861932554161486899817374972235217522040795970.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_9820565115139234436842058420486186193255416148689981737497223521752204.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_98205651151392344368420584204861861932554161486899817374972235217522040795970_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_98205651151392344368420584204861861932554161486899817374972235217522040795970_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_88132515864002762709725517802603515795774342981532936437973591434934622272117.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_8813251586400276270972551780260351579577434298153293643797359143493462.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_88132515864002762709725517802603515795774342981532936437973591434934622272117_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_88132515864002762709725517802603515795774342981532936437973591434934622272117_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_28797307916905176323762532260490138149968914037638699771086793088453850595346.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_2879730791690517632376253226049013814996891403763869977108679308845385.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_28797307916905176323762532260490138149968914037638699771086793088453850595346_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_28797307916905176323762532260490138149968914037638699771086793088453850595346_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_113471566198444373607891171429222291342144832818476696125927946353709000987169.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 13,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_1134715661984443736078911714292222913421448328184766961259279463537090.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7643419_113471566198444373607891171429222291342144832818476696125927946353709000987169_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_113471566198444373607891171429222291342144832818476696125927946353709000987169_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_112620741491216457328156756228212062061620599071402897679543231384069129106163.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 14,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_112620741491216457328156756228212062061620599071402897679543231384069129106163.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_112620741491216457328156756228212062061620599071402897679543231384069129106163_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7643419_83205287260163494243614972691080618219676793547564108887914592618794074564014.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 15,
+          "original": "https://static.tokkobroker.com/original_pictures/7643419_83205287260163494243614972691080618219676793547564108887914592618794074564014.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/7643419_83205287260163494243614972691080618219676793547564108887914592618794074564014_thumb.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "5491124012673",
+        "email": "belenvitale89@gmail.com",
+        "id": 114098,
+        "name": "Belen Vitale",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "property_condition": "---",
+      "public_url": "https://ficha.info/p/eGey7dDQspXwua",
+      "publication_title": "Departamento en General San Martin",
+      "quality_level": null,
+      "real_address": "25 de mayo 1761  2 °C - San Martin",
+      "reference_code": "DAP7643419",
+      "rich_description": "<p><span style=\"font-weight: bold;\">                25 de Mayo 1761 ,</span> Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz . A pocas cuadras de la estación del tren Mitre. </p><p>Muy cerca de Centro Comercial, Colegios, Sanatorio, hospitales, UNSAM y tribunales de San Martín.<div><br></div><div><br></div><div><span style=\"font-size: 14px; font-weight: bold;\">Oportunidad departamento al contrafrente de 2 ambientes</span></div><div><br></div><div><br></div><div><br></div><div><span style=\"text-decoration-line: underline;\">Características Principales:</span></div><div><br></div><div>* 1 Dormitorio con placard. </div><div><br></div><div>* Cocina: Completamente equipada.</div><div><br></div><div>* Living Comedor: Integrado, amplio y luminoso.</div><div><br></div><div>* Balcón Propio: Con parrilla.</div><div><br></div><div>* 1 Baño moderno y funcional.</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.</span></div><div><br></div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><br></div>            <br><br>            \r\n\r\n            </p>",
+      "roofed_surface": "0.00",
+      "room_amount": 2,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 1,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcón",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Cocina",
+          "type": 2
+        },
+        {
+          "id": 25,
+          "name": "Terraza",
+          "type": 2
+        },
+        {
+          "id": 28,
+          "name": "Aire Acondicionado individual",
+          "type": 3
+        },
+        {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
+        },
+        {
+          "id": 1443,
+          "name": "Agua Potable",
+          "type": 1
+        },
+        {
+          "id": 1523,
+          "name": "Palier",
+          "type": 2
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
+        },
+        {
+          "id": 1583,
+          "name": "Termotanque Individual",
+          "type": 3
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "42.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2025-12-30T13:37:53",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>25 de Mayo 1761, ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz. A pocas cuadras de la estación del tren Mitre.</p>\n<p>Muy cerca de Centro Comercial, Colegios, Sanatorio, hospitales, UNSAM y tribunales de San Martín.</p>\n\n<h3>Descripción</h3>\n<p>Oportunidad departamento al contrafrente de 2 ambientes.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 Dormitorio con placard</li>\n<li>Cocina completamente equipada</li>\n<li>Living Comedor integrado, amplio y luminoso</li>\n<li>Balcón propio con parrilla</li>\n<li>1 Baño moderno y funcional</li>\n</ul>"
+    },
+    {
       "address": "COCHERA - Cochabamba al 2100",
       "address_complement": "",
       "age": 0,
@@ -88585,7 +89617,7 @@
       "enhanced_description": "<h3>Nuevo lanzamiento en San Martín</h3>\n\n<p>Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín</p>\n\n<p>Presentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.</p>\n\n<h3>Tipologías disponibles</h3>\n\n<ul>\n<li>3 ambientes – 76 m²</li>\n<li>2 ambientes – 45 m²</li>\n</ul>\n\n<h3>Características de las unidades</h3>\n\n<ul>\n<li>Dormitorios luminosos con placard de piso a techo</li>\n<li>Living-comedor amplo, ideal para el confort diario</li>\n<li>Cocina equipada, moderna y funcional</li>\n<li>Balcón con parrilla privada, para disfrutar al aire libre</li>\n</ul>\n\n<h3>Cercanías destacadas</h3>\n\n<ul>\n<li>UNSAM</li>\n<li>Estación San Martín – Tren Mitre</li>\n<li>Sanatorio Anchorena</li>\n<li>Municipalidad, bancos y zona comercial</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas)</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Consúltanos y armamos un plan de pago a medida de tus necesidades. Una excelente oportunidad para vivir o invertir en pleno San Martín.</p>"
     },
     {
-      "address": "25 de mayo al 1700 8°",
+      "address": "25 de Mayo 1761  8°A- San Martín",
       "address_complement": "",
       "age": -1,
       "apartment_door": "",
@@ -88626,9 +89658,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-20T14:38:50",
+      "deleted_at": "2026-11-17T18:01:11",
       "depth_measure": "0.00",
-      "description": "                                                                                    Presentamos este edificio en construcción sobre calle 25 de Mayo 1761, Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.\n\n\n\nCon la financiación de siempre y una calidad PREMIUM.-\n\n\nOportunidad departamento al frente de 3 ambientes 77m2 .- Moderno Departamento de 3 Ambientes con Balcón y Parrilla.-\n\n\nCaracterísticas Principales:\n* Dormitorios: 2 dormitorios con placard. El dormitorio principal en suite con vestidor.\n* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.\n* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.\n* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.\n* Baños: 2 modernos y funcionales.\n\n\n\n\n¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.\n\n\n\nEste Proyecto consta de Departamentos desde 48 m2 hasta 97 m2, Todos los departamentos tendrán importante cocina, con muebles completos, amplio living comedor, baños completos, balcón con piso de deck y parrilla exclusiva. Construidos con materiales PREMIUM.\n\n\nDetalles generales del edificio:\n\n• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO\n• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini\n• Aberturas de aluminio DVH (Doble Vidrio Hermético)\n• Pisos porcelanato de primera calidad\n• Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo\n• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral\n• Departamentos con parrilla exclusiva en balcón\n• Cielorrasos en yeso armado o aplicado según corresponda\n• Paredes interiores con terminación en yeso\n• Puertas interiores placa\n• Instalación de agua fría y caliente en termofusión\n• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.\n• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo\n• Equipamiento de cocina completo enchapados en melamina\n• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV\n• Instalación para la colocación de Aire Acondicionado en estar y dormitorio\n• Cañerías (vacías) para instalación cable y teléfono\n• Portero eléctrico con cámara visor\n\n\n\n\n        \n        \n            \n\n            \r\n\r\n            ",
+      "description": "                                                                                         25 de Mayo 1761, Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz .\n A pocas cuadras de la estación del tren Mitre . Muy cerca de centro comercial, colegios, sanatorios, hospitales, UNSAM y Tribunales de San Martín.\n\n\n\nOportunidad departamento al frente de 3 ambientes 77m2 .- Moderno Departamento de 3 Ambientes con Balcón y Parrilla.-\n\n\nCaracterísticas Principales:\n* 2 dormitorios con placard. El dormitorio principal en suite con vestidor.\n* Cocina: Completamente equipada.\n* Living Comedor: Integrado, amplio y luminoso.\n* Balcón Propio: Con parrilla.\n* 2 baños modernos y funcionales.\n\n\nCochera: Posibilidad de adquirir cochera doble por fuera del valor de publicación. Consultar precio. \n\n\nDescubrí tu próximo hogar \n            \r\n\r\n            ",
       "development": {
         "address": "25 de mayo 1761",
         "branch": {
@@ -88998,7 +90030,7 @@
           "value": ""
         }
       ],
-      "fake_address": "25 de mayo al 1700 8°",
+      "fake_address": "25 de Mayo 1761  8°A- San Martín",
       "files": [],
       "fire_insurance_cost": "0.00",
       "floor": "",
@@ -89042,7 +90074,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-08-04T17:15:36",
+            "updated_at": "2026-11-17T17:45:13",
             "work_email": ""
           }
         ],
@@ -89237,10 +90269,20 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7749443_69305600762127335390188472363975650961221651356332486864445440771877800981389.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7749443_71489367814068492322261071916736327068303526722373442996322296126104182754838.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/7749443_7148936781406849232226107191673632706830352672237344299632229612610418.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_71489367814068492322261071916736327068303526722373442996322296126104182754838_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7749443_71489367814068492322261071916736327068303526722373442996322296126104182754838_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7749443_69305600762127335390188472363975650961221651356332486864445440771877800981389.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_6930560076212733539018847236397565096122165135633248686444544077187780.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_69305600762127335390188472363975650961221651356332486864445440771877800981389_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_69305600762127335390188472363975650961221651356332486864445440771877800981389_thu.jpg"
@@ -89250,7 +90292,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_41724138873106178595116500727097733731827121520188535984794523223070108571601.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
+          "order": 3,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_4172413887310617859511650072709773373182712152018853598479452322307010.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_41724138873106178595116500727097733731827121520188535984794523223070108571601_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_41724138873106178595116500727097733731827121520188535984794523223070108571601_thu.jpg"
@@ -89260,7 +90302,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_3030080230818412007595381964469584623152034968314837719083702065255804704956.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_3030080230818412007595381964469584623152034968314837719083702065255804.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_3030080230818412007595381964469584623152034968314837719083702065255804704956_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_3030080230818412007595381964469584623152034968314837719083702065255804704956_thum.jpg"
@@ -89270,7 +90312,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_23164213394706544684907192755293816030564359885274948889066467786157560326724.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_2316421339470654468490719275529381603056435988527494888906646778615756.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_23164213394706544684907192755293816030564359885274948889066467786157560326724_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_23164213394706544684907192755293816030564359885274948889066467786157560326724_thu.jpg"
@@ -89280,7 +90322,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_47456049150335052706946131827400616711493041552128549098999112987512487839935.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_4745604915033505270694613182740061671149304155212854909899911298751248.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_47456049150335052706946131827400616711493041552128549098999112987512487839935_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_47456049150335052706946131827400616711493041552128549098999112987512487839935_thu.jpg"
@@ -89290,7 +90332,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_39270282762156329777400984730453591094920877904665148162956862051797499592509.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_3927028276215632977740098473045359109492087790466514816295686205179749.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_39270282762156329777400984730453591094920877904665148162956862051797499592509_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_39270282762156329777400984730453591094920877904665148162956862051797499592509_thu.jpg"
@@ -89300,7 +90342,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_94609602193416857651730023984830192968695194479742133839500119180002994213457.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 7,
+          "order": 8,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_9460960219341685765173002398483019296869519447974213383950011918000299.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_94609602193416857651730023984830192968695194479742133839500119180002994213457_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_94609602193416857651730023984830192968695194479742133839500119180002994213457_thu.jpg"
@@ -89310,7 +90352,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_102266180060743075789613990963484067559877994581010073147052752892987990021462.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 8,
+          "order": 9,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_1022661800607430757896139909634840675598779945810100731470527528929879.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_102266180060743075789613990963484067559877994581010073147052752892987990021462_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_102266180060743075789613990963484067559877994581010073147052752892987990021462_th.jpg"
@@ -89320,7 +90362,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_50720952361959970107369747362521664801283293354059552697598189410239550296901.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 9,
+          "order": 10,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_5072095236195997010736974736252166480128329335405955269759818941023955.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_50720952361959970107369747362521664801283293354059552697598189410239550296901_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_50720952361959970107369747362521664801283293354059552697598189410239550296901_thu.jpg"
@@ -89330,7 +90372,7 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_105216917754054182774707448137577867414138883783381316330017661933233669044843.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 10,
+          "order": 11,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_1052169177540541827747074481375778674141388837833813163300176619332336.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_105216917754054182774707448137577867414138883783381316330017661933233669044843_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_105216917754054182774707448137577867414138883783381316330017661933233669044843_th.jpg"
@@ -89340,20 +90382,10 @@
           "image": "https://static.tokkobroker.com/pictures/7749443_20003769586883637627715997904335423078487262747841522461670529018563291085268.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 11,
+          "order": 12,
           "original": "https://static.tokkobroker.com/original_pictures/7749443_2000376958688363762771599790433542307848726274784152246167052901856329.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_20003769586883637627715997904335423078487262747841522461670529018563291085268_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7749443_20003769586883637627715997904335423078487262747841522461670529018563291085268_thu.jpg"
-        },
-        {
-          "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7749443_71489367814068492322261071916736327068303526722373442996322296126104182754838.jpg",
-          "is_blueprint": false,
-          "is_front_cover": false,
-          "order": 12,
-          "original": "https://static.tokkobroker.com/original_pictures/7749443_7148936781406849232226107191673632706830352672237344299632229612610418.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/7749443_71489367814068492322261071916736327068303526722373442996322296126104182754838_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7749443_71489367814068492322261071916736327068303526722373442996322296126104182754838_thu.jpg"
         },
         {
           "description": null,
@@ -89399,11 +90431,11 @@
       },
       "property_condition": "Excelente",
       "public_url": "https://ficha.info/p/eGF9bddvTqotOa",
-      "publication_title": "Edificio a construirse en San Martín",
+      "publication_title": "25 de Mayo 1761 - San Martín",
       "quality_level": null,
-      "real_address": "25 de mayo 1761  8°A- San Martín",
+      "real_address": "25 de Mayo 1761  8°A- San Martín",
       "reference_code": "DBU62334 AP7749443",
-      "rich_description": "                                                                        <p>            Presentamos este edificio en construcción sobre calle 25 de Mayo 1761, Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.<br><br><br><br><span style=\"font-weight: bold; text-decoration-line: underline;\">Con la financiación de siempre y una calidad PREMIUM.-</span></p><p><br></p><p>Oportunidad departamento al frente de 3 ambientes 77m2 .-&nbsp;<span style=\"font-size: 14px;\">Moderno Departamento de 3 Ambientes con Balcón y Parrilla.-</span></p><p><br></p><p><span style=\"font-weight: bold; text-decoration-line: underline;\">Características Principales:</span></p><p>* Dormitorios: 2 dormitorios con placard. El dormitorio principal en suite con vestidor.</p><p>* Cocina: Completamente equipada, ideal para preparar deliciosas comidas.</p><p>* Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos.</p><p>* Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre.</p><p>* Baños: 2 modernos y funcionales.</p><p><br></p><p><br></p><p>¡No dejes pasar esta oportunidad! Contáctanos para más información y coordinar una visita.</p><p><br></p><p><br>Este Proyecto consta de Departamentos desde 48 m2 hasta 97 m2, Todos los departamentos tendrán importante cocina, con muebles completos, amplio living comedor, baños completos, balcón con piso de deck y parrilla exclusiva. Construidos con materiales PREMIUM.<br><br><span style=\"font-weight: bold; text-decoration-line: underline;\"><br>Detalles generales del edificio:</span><br><br>• Mamposterías divisorias unidades en ladrillo cerámico hueco y exteriores con DOBLE muro de ladrillo hueco con estructura HORMIGON ARMADO<br>• Terminaciones exteriores revoque pintado y/o pintura plástica Tipo Tarquini<br>• Aberturas de aluminio DVH (Doble Vidrio Hermético)<br>• Pisos porcelanato de primera calidad<br>• Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo<br>• Balcón interno con pisos cerámicos, primera calidad, con zócalo perimetral<br>• Departamentos con parrilla exclusiva en balcón<br>• Cielorrasos en yeso armado o aplicado según corresponda<br>• Paredes interiores con terminación en yeso<br>• Puertas interiores placa<br>• Instalación de agua fría y caliente en termofusión<br>• Termo eléctrico para distribución de agua caliente, cocina eléctrica. En caso de que la empresa distribuidora de gas natural provea el suministro al edificio, estos mismos serán cambiados por cocina a gas y termo a gas.<br>• En baño: mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo<br>• Equipamiento de cocina completo enchapados en melamina<br>• Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV<br>• Instalación para la colocación de Aire Acondicionado en estar y dormitorio<br>• Cañerías (vacías) para instalación cable y teléfono<br>• Portero eléctrico con cámara visor<br><br><br></p><br>        <br>        <br>            <br><br>            \r\n\r\n            ",
+      "rich_description": "                                                                                        <p><span style=\"font-weight: bold;\">&nbsp;25 de Mayo 1761</span>, Ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz .</p><p> A pocas cuadras de la estación del tren Mitre . Muy cerca de centro comercial, colegios, sanatorios, hospitales, UNSAM y Tribunales de San Martín.<br><br><br></p><p>Oportunidad departamento al frente de 3 ambientes 77m2 .-&nbsp;<span style=\"font-size: 14px;\">Moderno Departamento de 3 Ambientes con Balcón y Parrilla.-</span></p><p><br></p><p><span style=\"font-weight: bold; text-decoration-line: underline;\">Características Principales:</span></p><p>* 2 dormitorios con placard. El dormitorio principal en suite con vestidor.</p><p>* Cocina: Completamente equipada.</p><p>* Living Comedor: Integrado, amplio y luminoso.</p><p>* Balcón Propio: Con parrilla.</p><p>* 2 baños modernos y funcionales.</p><p><br></p><p><span style=\"font-weight: bold;\">Cochera: Posibilidad de adquirir cochera doble por fuera del valor de publicación. Consultar precio.&nbsp;</span></p><p><br></p><p><span style=\"font-weight: bold;\">Descubrí tu próximo hogar&nbsp;</span></p>            \r\n\r\n            ",
       "roofed_surface": "66.00",
       "room_amount": 3,
       "semiroofed_surface": "11.00",
@@ -89536,8 +90568,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
-      "enhanced_description": "<h3>Ubicación</h3>\n<p>Edificio en construcción sobre calle 25 de Mayo 1761, ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz y 25 de Mayo. A pocas cuadras de Estación de Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Departamento Destacado</h3>\n<p>Oportunidad departamento al frente de 3 ambientes de 77 m2. Moderno departamento con balcón y parrilla.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorios: 2 dormitorios con placard. Dormitorio principal en suite con vestidor</li>\n<li>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón Propio: Con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Baños: 2 modernos y funcionales</li>\n</ul>\n\n<h3>El Proyecto</h3>\n<p>Este proyecto consta de departamentos desde 48 m2 hasta 97 m2. Todos los departamentos tendrán importante cocina con muebles completos, amplio living comedor, baños completos, balcón con piso de deck y parrilla exclusiva. Construidos con materiales premium. Financiación disponible.</p>\n\n<h3>Detalles Constructivos</h3>\n<ul>\n<li>Mamposterías divisorias en ladrillo cerámico hueco y exteriores con doble muro de ladrillo hueco con estructura hormigón armado</li>\n<li>Terminaciones exteriores revoque pintado y/o pintura plástica tipo Tarquini</li>\n<li>Aberturas de aluminio DVH (Doble Vidrio Hermético)</li>\n<li>Pisos porcelanato de primera calidad</li>\n<li>Dormitorio con piso porcelanato símil madera y frente placard 2 puertas piso a techo</li>\n<li>Balcón interno con pisos cerámicos de primera calidad con zócalo perimetral</li>\n<li>Departamentos con parrilla exclusiva en balcón</li>\n<li>Cielorrasos en yeso armado o aplicado según corresponda</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa</li>\n<li>Instalación de agua fría y caliente en termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente, cocina eléctrica (será cambiada por cocina a gas y termo a gas si la empresa distribuidora de gas natural provee el suministro)</li>\n<li>Baño con mampara de vidrio, vanitory y accesorios, griferías primera marca, cerámica de piso a techo</li>\n<li>Equipamiento de cocina completo enchapados en melamina</li>\n<li>Mesada cocina en granito, pileta acero inoxidable y grifería monocomando FV</li>\n<li>Instalación para colocación de aire acondicionado en estar y dormitorio</li>\n<li>Cañerías (vacías) para instalación cable y teléfono</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>"
+      "_last_changed": "2026-11-18T14:52:50.402Z",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>25 de Mayo 1761, ubicado en el corazón de San Martín. Zona de fácil acceso, salida directa a General Paz. A pocas cuadras de la estación del tren Mitre. Muy cerca de centro comercial, colegios, sanatorios, hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Oportunidad departamento al frente de 3 ambientes 77 m2. Moderno departamento de 3 ambientes con balcón y parrilla.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>2 dormitorios con placard. El dormitorio principal en suite con vestidor.</li>\n<li>Cocina completamente equipada.</li>\n<li>Living comedor integrado, amplio y luminoso.</li>\n<li>Balcón propio con parrilla.</li>\n<li>2 baños modernos y funcionales.</li>\n</ul>\n\n<h3>Cochera</h3>\n<p>Posibilidad de adquirir cochera doble por fuera del valor de publicación. Consultar precio.</p>"
     },
     {
       "address": "18 de Diciembre 1696 2 F ° -",
@@ -96193,7 +97225,7 @@
             "other_email": "",
             "other_phone": "",
             "phone": "",
-            "updated_at": "2026-08-04T17:15:36",
+            "updated_at": "2026-11-17T17:45:13",
             "work_email": ""
           }
         ],
@@ -97125,7 +98157,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-18T14:52:50.402Z",
       "enhanced_description": "<h3>Departamento 3 ambientes a estrenar</h3>\n\n<p>Ubicado en Lincoln 3967, San Martín. Moderno edificio en zona estratégica con excelente conectividad y acceso a servicios.</p>\n\n<h3>Ubicación</h3>\n\n<ul>\n<li>A 2 cuadras de Perdriel</li>\n<li>A 4 cuadras del centro comercial</li>\n<li>A 2 cuadras de Av. Balbín (ex Ruta 8) con rápida salida a General Paz</li>\n<li>Cercano a estación del Tren Mitre</li>\n<li>Próximo a colegios, clínicas, hospitales, UNSAM y Tribunales</li>\n</ul>\n\n<h3>La unidad</h3>\n\n<p>Amplio, luminoso y con una distribución ideal para disfrutar cada espacio.</p>\n\n<ul>\n<li>Piso 7° al frente</li>\n<li>3 ambientes</li>\n<li>Balcón aterrazado</li>\n</ul>\n\n<h3>Distribución</h3>\n\n<ul>\n<li>Living-comedor con cocina integrada</li>\n<li>Cocina con muebles bajo mesada y alacena de excelente calidad</li>\n<li>2 dormitorios con placard</li>\n<li>2 baños completos, modernos y funcionales</li>\n</ul>\n\n<h3>Superficies</h3>\n\n<ul>\n<li>Cubiertos: 77,70 m²</li>\n<li>Semicubiertos: 13,65 m²</li>\n<li>Descubiertos: 12,20 m²</li>\n<li>Total: 103,65 m²</li>\n</ul>\n\n<h3>Destacados</h3>\n\n<ul>\n<li>Excelente luminosidad natural</li>\n<li>Ambientes amplios y funcionales</li>\n<li>Diseño moderno</li>\n<li>Ubicación estratégica con múltiples accesos</li>\n<li>Ideal vivienda o inversión</li>\n</ul>\n\n<p>Una opción perfecta para quienes buscan confort, ubicación y calidad en un entorno urbano con todo al alcance.</p>"
     },
     {
