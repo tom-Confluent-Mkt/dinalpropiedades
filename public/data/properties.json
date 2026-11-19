@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-11-18T14:52:50.402Z"
+    "lastSync": "2026-11-19T14:58:51.754Z"
   },
   "objects": [
     {
@@ -4973,10 +4973,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "network_information": "",
         "producer_comision": "0.00",
@@ -5393,7 +5393,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Ubicación Estratégica</h3>\n<p>A solo 2 cuadras de Av. San Martín y 6 cuadras de la Estación Caseros (Tren San Martín). Muy cerca del centro comercial y de la Universidad de Tres de Febrero. Con múltiples opciones de transporte: varias líneas de colectivo y tren San Martín.</p>\n\n<h3>Características del Departamento</h3>\n<ul>\n<li>44 m² totales al contrafrente</li>\n<li>Posibilidad de división para dormitorio</li>\n<li>Cocina integrada con espacio para lavarropas</li>\n<li>Salida a balcón</li>\n<li>Baño con ducha</li>\n<li>Super luminoso</li>\n<li>A estrenar</li>\n<li>Pisos de porcelanato</li>\n<li>Portero eléctrico</li>\n<li>Instalación para aire acondicionado</li>\n</ul>\n\n<h3>Opcionales</h3>\n<p>Cochera descubierta con financiación total.</p>\n\n<h3>Detalles de la Operación</h3>\n<p>Ideal para vivir o como inversión. Posesión inmediata y posibilidad de personalizarlo a tu gusto.</p>"
     },
     {
@@ -10053,10 +10053,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -10549,7 +10549,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-18T14:52:50.402Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Excelente ubicación en el corazón de San Martín, en una zona de fácil acceso y con cercanía a los principales medios de transporte, centros comerciales, instituciones educativas y centros de salud.</p>\n<p>A tan solo 6 cuadras de Av. Perón, 8 cuadras de Av. Balbín y el Metrobus, 2 cuadras de Av. 25 de Mayo y 4 cuadras de la estación de tren de la línea Mitre. Además, se encuentra próximo a la UNSAM, los Tribunales de San Martín, colegios, clínicas y hospitales.</p>\n\n<h3>Características del departamento</h3>\n<p>Moderno departamento de 3 ambientes, diseñado para ofrecer confort, funcionalidad y luminosidad.</p>\n<ul>\n<li>Living comedor: amplio, luminoso e integrado, ideal para disfrutar en familia o con amigos</li>\n<li>Cocina: completamente equipada y funcional</li>\n<li>Dormitorio principal: en suite, con vestidor</li>\n<li>Segundo dormitorio: con placard</li>\n<li>Baños: 2 baños completos, incluido el de la suite</li>\n<li>Balcón: propio, equipado con parrilla</li>\n<li>Lavadero: independiente, para mayor comodidad</li>\n</ul>\n\n<p>Una excelente opción para quienes buscan comodidad, diseño y una ubicación estratégica en San Martín.</p>"
     },
     {
@@ -23090,7 +23090,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-30T15:11:18",
+      "deleted_at": "2026-11-19T14:48:22",
       "depth_measure": "0.00",
       "description": "                                Departamento de 1 ambiente con balcón en alquiler  – Excelente ubicación\n\nUbicado a pocas cuadras del centro de San Martín y de la estación del Ferrocarril Mitre (Ramal Suárez), este moderno departamento ofrece una excelente combinación de comodidad, luminosidad y conectividad.\nLa unidad cuenta con un amplio ambiente, muy luminoso gracias a su orientación al contra frente, con salida a un balcón que aporta mayor ventilación y tranquilidad.\nIncluye: Aire acondicionado y cortinas Black Out \nEl edificio dispone de una terraza de uso común con espacios verdes y parrilla, un lugar ideal para disfrutar.\n\nConsultanos para coordinar una visita.\n\n\nREQUISITOS:\n*- Contrato por dos años*- Ajuste trimestral por ICL *-Garantía: Fianza *- Mascotas: No \n\n\n\n            \r\n\r\n            ",
       "development": null,
@@ -23098,7 +23098,7 @@
       "dining_room": 0,
       "disposition": "Contrafrente",
       "down_payment": "0.00",
-      "expenses": 84000,
+      "expenses": 85000,
       "extra_attributes": [],
       "fake_address": "ALQUILER - Pueyrredon 3445 Piso 5 \"C\"",
       "files": [],
@@ -23267,7 +23267,7 @@
               "currency": "ARS",
               "is_promotional": false,
               "period": 0,
-              "price": 650000
+              "price": 600000
             }
           ]
         }
@@ -23496,7 +23496,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Descripción General</h3>\n<p>Ubicado a pocas cuadras del centro de San Martín y de la estación del Ferrocarril Mitre (Ramal Suárez), este moderno departamento ofrece una excelente combinación de comodidad, luminosidad y conectividad.</p>\n\n<h3>Características del Departamento</h3>\n<p>La unidad cuenta con un amplio ambiente, muy luminoso gracias a su orientación al contra frente, con salida a un balcón que aporta mayor ventilación y tranquilidad.</p>\n<ul>\n<li>Aire acondicionado</li>\n<li>Cortinas Black Out</li>\n<li>Balcón</li>\n</ul>\n\n<h3>Amenities del Edificio</h3>\n<p>El edificio dispone de una terraza de uso común con espacios verdes y parrilla, un lugar ideal para disfrutar.</p>\n\n<h3>Requisitos de Alquiler</h3>\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Garantía: Fianza</li>\n<li>Mascotas: No permitidas</li>\n</ul>\n\n<p>Consultanos para coordinar una visita.</p>"
     },
     {
@@ -39942,9 +39942,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-28T20:28:55",
+      "deleted_at": "2026-11-19T14:20:55",
       "depth_measure": "0.00",
-      "description": "                                                                    Excelente monoambiente al contrafrente, súper luminoso\n\nModerna y funcional unidad de 1 ambiente, ubicada al contrafrente, con muy buena entrada de luz natural y una distribución cómoda para aprovechar cada espacio.\nCuenta con:*- Cocina-comedor integrada.*- Baño completo con ducha y mampara.*- Ambiente amplio y luminoso.\nEl edificio ofrece una agradable terraza verde de uso común con solárium y parrilla, ideal para disfrutar momentos al aire libre.\n\n¡Consultanos para coordinar una visita!\n        \n\n            \r\n\r\n            ",
+      "description": "                                                                                    Excelente monoambiente al contrafrente, súper luminoso\n\nModerna y funcional unidad de 1 ambiente, ubicada al contrafrente, con muy buena entrada de luz natural y una distribución cómoda para aprovechar cada espacio.\nCuenta con:*- Cocina-comedor integrada.*- Baño completo con ducha y mampara.*- Ambiente amplio y luminoso.\nEl edificio ofrece una agradable terraza verde de uso común con solárium y parrilla, ideal para disfrutar momentos al aire libre.\n\nActualmente se encuentra alquilado\n¡Consultanos para coordinar una visita!\n        \n\n            \n\n            \r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -40225,7 +40225,7 @@
       "quality_level": null,
       "real_address": "Pueyrredón 3445 4° B - San Martin",
       "reference_code": "DAP6025046",
-      "rich_description": "                                                                    <p><span style=\"font-weight: bold;\">Excelente monoambiente al contrafrente, súper luminoso</span></p><div><br></div><div>Moderna y funcional unidad de 1 ambiente, ubicada al contrafrente, con muy buena entrada de luz natural y una distribución cómoda para aprovechar cada espacio.</div><div><br></div><div>Cuenta con:</div><div>*- Cocina-comedor integrada.</div><div>*- Baño completo con ducha y mampara.</div><div>*- Ambiente amplio y luminoso.</div><div><br></div><div>El edificio ofrece una agradable terraza verde de uso común con solárium y parrilla, ideal para disfrutar momentos al aire libre.</div><div><br></div><div><br></div><div>¡Consultanos para coordinar una visita!</div><div><br></div>        <br><br>            \r\n\r\n            ",
+      "rich_description": "                                                                                    <p><span style=\"font-weight: bold;\">Excelente monoambiente al contrafrente, súper luminoso</span></p><div><br></div><div>Moderna y funcional unidad de 1 ambiente, ubicada al contrafrente, con muy buena entrada de luz natural y una distribución cómoda para aprovechar cada espacio.</div><div><br></div><div>Cuenta con:</div><div>*- Cocina-comedor integrada.</div><div>*- Baño completo con ducha y mampara.</div><div>*- Ambiente amplio y luminoso.</div><div><br></div><div>El edificio ofrece una agradable terraza verde de uso común con solárium y parrilla, ideal para disfrutar momentos al aire libre.</div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">Actualmente se encuentra alquilado</span></div><div><br></div><div>¡Consultanos para coordinar una visita!</div><div><br></div>        <br><br>            <br><br>            \r\n\r\n            ",
       "roofed_surface": "46.30",
       "room_amount": 1,
       "semiroofed_surface": "0.00",
@@ -40359,8 +40359,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
-      "enhanced_description": "<h3>Descripción</h3>\n<p>Moderna y funcional unidad de 1 ambiente, ubicada al contrafrente, con muy buena entrada de luz natural y una distribución cómoda para aprovechar cada espacio.</p>\n\n<h3>Características</h3>\n<ul>\n<li>Cocina-comedor integrada</li>\n<li>Baño completo con ducha y mampara</li>\n<li>Ambiente amplo y luminoso</li>\n</ul>\n\n<h3>Amenities del edificio</h3>\n"
+      "_last_changed": "2026-11-19T14:58:51.754Z",
+      "enhanced_description": "<h3>Descripción</h3>\n<p>Excelente monoambiente al contrafrente, súper luminoso. Moderna y funcional unidad de 1 ambiente, ubicada al contrafrente, con muy buena entrada de luz natural y una distribución cómoda para aprovechar cada espacio.</p>\n\n<h3>Características</h3>\n<ul>\n<li>Cocina-comedor integrada</li>\n<li>Baño completo con ducha y mampara</li>\n<li>Ambiente amplio y luminoso</li>\n</ul>\n\n<h3>Amenidades del Edificio</h3>\n<p>El edificio ofrece una agradable terraza verde de uso común con solárium y parrilla, ideal para disfrutar momentos al aire libre.</p>\n\n<h3>Estado</h3>\n<p>Actualmente se encuentra alquilado. Consultanos para coordinar una visita.</p>"
     },
     {
       "address": "Tucumán al 2300 2°",
@@ -48959,10 +48959,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -49562,7 +49562,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Ubicado en el corazón de San Martín. Zona de fácil acceso, a 6 cuadras de Av. Perón, a 8 cuadras de Av. Balbín y Metrobus, 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de Est. De Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción</h3>\n<p>Moderno Departamento de 2 Ambientes con Balcón y Parrilla</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 dormitorio con placard</li>\n<li>Cocina completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón propio con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Baño moderno y funcional</li>\n</ul>"
     },
     {
@@ -49882,10 +49882,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -50483,7 +50483,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-18T14:52:50.402Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso, a 2 cuadras de Av. 25 de Mayo (salida directa a General Paz y 25 de Mayo). A 4 cuadras de estación del tren línea Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>Dormitorios: 1 dormitorio con placard</li>\n<li>Cocina: Completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor: Integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Terraza propia</li>\n<li>Baño: moderno y funcional</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios Modernos y Funcionales: Diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente Ubicación: Cercano a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n<li>Este departamento es ideal para familias que buscan un hogar cómodo y bien ubicado</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Contáctanos para más información y coordinar una visita.</p>"
     },
     {
@@ -53622,10 +53622,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -54138,7 +54138,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Ubicación</h3>\n<p>Yapeyú 1972, ubicado en el corazón de San Martín. Zona de fácil acceso. A 4 cuadras de Estación de Tren Mitre. Muy cerca de Centro Comercial, Colegios, Clínicas y Hospitales, UNSAM y Tribunales de San Martín.</p>\n\n<h3>Descripción General</h3>\n<p>Este departamento de 2 ambientes ofrece una combinación perfecta de confort, estilo y funcionalidad en una ubicación inmejorable.</p>\n\n<h3>Características Principales</h3>\n<ul>\n<li>1 dormitorio con placard</li>\n<li>Cocina completamente equipada, ideal para preparar deliciosas comidas</li>\n<li>Living Comedor integrado, amplio y luminoso, perfecto para disfrutar en familia o con amigos</li>\n<li>Balcón propio con parrilla, ideal para asados y momentos al aire libre</li>\n<li>Baño moderno y funcional</li>\n</ul>\n\n<h3>Ventajas Adicionales</h3>\n<ul>\n<li>Espacios modernos y funcionales diseñados para maximizar el confort y la practicidad</li>\n<li>Excelente ubicación cercana a transporte público, centros comerciales, colegios y otros puntos de interés</li>\n<li>Disfruta de las comodidades de la terraza verde sin salir de casa</li>\n<li>Ideal para familias que buscan un hogar cómodo</li>\n</ul>\n\n<p>No dejes pasar esta oportunidad. Contáctanos para más información y coordinar una visita.</p>"
     },
     {
@@ -56283,10 +56283,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -56742,7 +56742,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Tu nuevo hogar te espera en San Martín</h3>\n\n<p>Disfrutá de la comodidad y el diseño que merecés. Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.</p>\n\n<h3>Características destacadas</h3>\n<ul>\n<li>Dormitorio luminoso con placard de piso a techo</li>\n<li>Living-comedor amplio, perfecto para relajarte o recibir visitas</li>\n<li>Cocina equipada con muebles modernos y funcionales</li>\n<li>Balcón con parrilla privada, para disfrutar de momentos únicos al aire libre</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica (en caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas)</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Contactanos hoy mismo y vení a conocerlo. Tu futuro hogar te está esperando.</p>"
     },
     {
@@ -57203,10 +57203,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -57627,7 +57627,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Amplio Departamento de 2 Ambientes con Balcón</h3>\n\n<p>Disfrutá de la comodidad y el diseño que merecés. Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.</p>\n\n<h3>Características destacadas</h3>\n\n<ul>\n<li>Dormitorio luminoso con placard de piso a techo</li>\n<li>Living-comedor amplio, perfecto para relajarte o recibir visitas</li>\n<li>Cocina equipada con muebles modernos y funcionales</li>\n</ul>\n\n<h3>Amenidades</h3>\n\n<ul>\n<li>Pisos de porcelanato de primera calidad</li>\n<li>Baño completo con cerámicos de piso a techo</li>\n<li>Preparación para aire acondicionado</li>\n<li>Ventanas de aluminio que garantizan luz natural todo el día</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Ubicado en San Martín, con acceso rápido a la Capital Federal y rodeado de servicios, plazas y una oferta educativa de calidad.</p>\n\n<p>Contáctanos hoy mismo y vení a conocerlo. Tu futuro hogar te está esperando.</p>"
     },
     {
@@ -58088,10 +58088,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -58514,7 +58514,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Tu nuevo hogar te espera en San Martín</h3>\n\n<p>Disfrutá de la comodidad y el diseño que merecés. Este departamento de 3 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.</p>\n\n<h3>Características destacadas</h3>\n<ul>\n<li>2 Dormitorios luminosos con placard de piso a techo</li>\n<li>Living-comedor amplio, perfecto para relajarte o recibir visitas</li>\n<li>Cocina equipada con muebles modernos y funcionales</li>\n<li>Balcón con parrilla privada, para disfrutar de momentos únicos al aire libre</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Contactanos hoy mismo y vení a conocerlo. Tu futuro hogar te está esperando.</p>"
     },
     {
@@ -66043,9 +66043,9 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-06-01T15:21:03",
+      "deleted_at": "2026-11-19T14:20:29",
       "depth_measure": "0.00",
-      "description": "Monoambiente en Venta – Pueyrredón 3445, 6°C – San Martín\n\n\nExcelente oportunidad para quienes buscan su primera vivienda o desean invertir con renta asegurada.\nUbicado en un 6° piso al contrafrente, este monoambiente se destaca por su luminosidad, tranquilidad y funcionalidad.\n\n\nDetalles del inmueble:\n •\tAmbiente amplio con distribución eficiente\n •\tCocina integrada, con mobiliario contemporáneo\n •\tBaño completo, en excelente estado\n •\tGran ventanal con salida al balcón, que brinda luz natural durante todo el día\n •\tOrientación contrafrente, ideal para quienes valoran el silencio y la privacidad\n\n\nEl edificio ofrece amenities de calidad, incluyendo:\n •\tTerraza verde con espacios de descanso\n •\tParrilla de uso común\n\n\nUbicación privilegiada, sobre la calle Pueyrredón al 3400, con acceso inmediato a medios de transporte, centros comerciales, instituciones educativas y servicios esenciales.\n\n\nNo dejes pasar esta oportunidad.\nPara más información o coordinar una visita, contactanos hoy mismo.\n\r\n\r\n\r\n\r\n\r\n\n",
+      "description": "                Monoambiente en Venta – Pueyrredón 3445, 6°C – San Martín\n\n\nExcelente oportunidad para quienes buscan su primera vivienda o desean invertir con renta asegurada.\nUbicado en un 6° piso al contrafrente, este monoambiente se destaca por su luminosidad, tranquilidad y funcionalidad.\n\n\nDetalles del inmueble:\n •\tAmbiente amplio con distribución eficiente\n •\tCocina integrada, con mobiliario contemporáneo\n •\tBaño completo, en excelente estado\n •\tGran ventanal con salida al balcón, que brinda luz natural durante todo el día\n •\tOrientación contrafrente, ideal para quienes valoran el silencio y la privacidad\n\n\nEl edificio ofrece amenities de calidad, incluyendo:\n •\tTerraza verde con espacios de descanso\n •\tParrilla de uso común\n\n\nUbicación privilegiada, sobre la calle Pueyrredón al 3400, con acceso inmediato a medios de transporte, centros comerciales, instituciones educativas y servicios esenciales.\n\n\n\n\nActualmente se encuentra alquilado\n\n\nNo dejes pasar esta oportunidad.\nPara más información o coordinar una visita, contactanos hoy mismo.\n\n\n\n\n\n\n\n\r\n\r\n            ",
       "development": null,
       "development_excel_extra_data": "[]",
       "dining_room": 0,
@@ -66378,7 +66378,7 @@
       "quality_level": null,
       "real_address": "Pueyrredon  3445 6°C",
       "reference_code": "DAP6956666",
-      "rich_description": "<p>Monoambiente en Venta – Pueyrredón 3445, 6°C – San Martín</p><p><span style=\"font-size: 14px;\"><br></span></p><p><span style=\"font-size: 14px;\">Excelente oportunidad para quienes buscan su primera vivienda o desean invertir con renta asegurada.</span></p><p>Ubicado en un 6° piso al contrafrente, este monoambiente se destaca por su luminosidad, tranquilidad y funcionalidad.</p><p><br></p><p>Detalles del inmueble:</p><p>&nbsp;•\tAmbiente amplio con distribución eficiente</p><p>&nbsp;•\tCocina integrada, con mobiliario contemporáneo</p><p>&nbsp;•\tBaño completo, en excelente estado</p><p>&nbsp;•\tGran ventanal con salida al balcón, que brinda luz natural durante todo el día</p><p>&nbsp;•\tOrientación contrafrente, ideal para quienes valoran el silencio y la privacidad</p><p><br></p><p>El edificio ofrece amenities de calidad, incluyendo:</p><p>&nbsp;•\tTerraza verde con espacios de descanso</p><p>&nbsp;•\tParrilla de uso común</p><p><br></p><p><span style=\"font-size: 14px;\">Ubicación privilegiada, sobre la calle Pueyrredón al 3400, con acceso inmediato a medios de transporte, centros comerciales, instituciones educativas y servicios esenciales.</span></p><p><br></p><p>No dejes pasar esta oportunidad.</p><p>Para más información o coordinar una visita, contactanos hoy mismo.</p><p><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div><div>\r\n</div></p>",
+      "rich_description": "                <p>Monoambiente en Venta – Pueyrredón 3445, 6°C – San Martín</p><p><span style=\"font-size: 14px;\"><br></span></p><p><span style=\"font-size: 14px;\">Excelente oportunidad para quienes buscan su primera vivienda o desean invertir con renta asegurada.</span></p><p>Ubicado en un 6° piso al contrafrente, este monoambiente se destaca por su luminosidad, tranquilidad y funcionalidad.</p><p><br></p><p>Detalles del inmueble:</p><p>&nbsp;•\tAmbiente amplio con distribución eficiente</p><p>&nbsp;•\tCocina integrada, con mobiliario contemporáneo</p><p>&nbsp;•\tBaño completo, en excelente estado</p><p>&nbsp;•\tGran ventanal con salida al balcón, que brinda luz natural durante todo el día</p><p>&nbsp;•\tOrientación contrafrente, ideal para quienes valoran el silencio y la privacidad</p><p><br></p><p>El edificio ofrece amenities de calidad, incluyendo:</p><p>&nbsp;•\tTerraza verde con espacios de descanso</p><p>&nbsp;•\tParrilla de uso común</p><p><br></p><p><span style=\"font-size: 14px;\">Ubicación privilegiada, sobre la calle Pueyrredón al 3400, con acceso inmediato a medios de transporte, centros comerciales, instituciones educativas y servicios esenciales.</span></p><p><br></p><p><br></p><p><span style=\"font-weight: bold;\">Actualmente se encuentra alquilado</span></p><p><br></p><p>No dejes pasar esta oportunidad.</p><p>Para más información o coordinar una visita, contactanos hoy mismo.</p><p></p><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><p></p>\r\n\r\n            ",
       "roofed_surface": "46.30",
       "room_amount": 1,
       "semiroofed_surface": "0.00",
@@ -66434,8 +66434,8 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
-      "enhanced_description": "<h3>Monoambiente en Venta – Pueyrredón 3445, 6°C – San Martín</h3>\n\n<p>Excelente oportunidad para quienes buscan su primera vivienda o desean invertir con renta asegurada. Ubicado en un 6° piso al contrafrente, este monoambiente se destaca por su luminosidad, tranquilidad y funcionalidad.</p>\n\n<h3>Detalles del inmueble</h3>\n<ul>\n<li>Ambiente amplio con distribución eficiente</li>\n<li>Cocina integrada, con mobiliario contemporáneo</li>\n<li>Baño completo, en excelente estado</li>\n<li>Gran ventanal con salida al balcón, que brinda luz natural durante todo el día</li>\n<li>Orientación contrafrente, ideal para quienes valoran el silencio y la privacidad</li>\n</ul>\n\n<h3>Amenities del edificio</h3>\n<ul>\n<li>Terraza verde con espacios de descanso</li>\n\n</ul>\n\n<h3>Ubicación</h3>\n<p>Ubicado sobre la calle Pueyrredón al 3400, con acceso inmediato a medios de transporte, centros comerciales, instituciones educativas y servicios esenciales.</p>\n\n<p>Para más información o coordinar una visita, contactanos hoy mismo.</p>"
+      "_last_changed": "2026-11-19T14:58:51.754Z",
+      "enhanced_description": "<h3>Monoambiente en Venta</h3>\n\n<p>Excelente oportunidad para quienes buscan su primera vivienda o desean invertir con renta asegurada. Ubicado en un 6° piso al contrafrente, este monoambiente se destaca por su luminosidad, tranquilidad y funcionalidad.</p>\n\n<h3>Detalles del inmueble</h3>\n\n<ul>\n<li>Ambiente amplio con distribución eficiente</li>\n<li>Cocina integrada, con mobiliario contemporáneo</li>\n<li>Baño completo, en excelente estado</li>\n<li>Gran ventanal con salida al balcón, que brinda luz natural durante todo el día</li>\n<li>Orientación contrafrente, ideal para quienes valoran el silencio y la privacidad</li>\n</ul>\n\n<h3>Amenities del edificio</h3>\n\n<ul>\n<li>Terraza verde con espacios de descanso</li>\n<li>Parrilla de uso común</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Ubicación privilegiada sobre la calle Pueyrredón al 3400, San Martín, con acceso inmediato a medios de transporte, centros comerciales, instituciones educativas y servicios esenciales.</p>\n\n<h3>Estado actual</h3>\n\n<p>Actualmente se encuentra alquilado.</p>"
     },
     {
       "address": "Cochabamba  al 2100",
@@ -83041,10 +83041,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -83574,7 +83574,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2025-11-10T14:43:27",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Moderno Departamento de 3 Ambientes con Balcón y Parrilla</h3>\n\n<p>Excelente departamento de 3 ambientes, que combina comodidad, diseño y funcionalidad, ideal para quienes buscan espacios modernos y confortables.</p>\n\n<h3>Características principales</h3>\n\n<ul>\n<li>Living-comedor: amplio, integrado y muy luminoso.</li>\n<li>Cocina independiente: totalmente equipada, con muebles de guardado.</li>\n<li>Dos dormitorios: uno con placard empotrado y el segundo en suite.</li>\n<li>Dos baños: modernos y funcionales.</li>\n<li>Balcón privado: con parrilla, ideal para disfrutar y compartir momentos al aire libre.</li>\n</ul>\n\n<p>Una excelente propuesta que reúne comodidad, distribución y espacios pensados para disfrutar.</p>\n\n<p>Contactanos para recibir más información y coordinar una visita.</p>"
     },
     {
@@ -87976,7 +87976,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-04T17:51:25",
+      "deleted_at": "2026-11-19T13:35:26",
       "depth_measure": "0.00",
       "description": "Nuevo lanzamiento en San Martín   Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín\nPresentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.\n Tipologías disponibles : \n\t•\t3 ambientes – 76 m²\t•\t2 ambientes – 45 m²\n\n Características de las unidades\n\t•\tDormitorios luminosos con placard de piso a techo\t•\tLiving-comedor amplio, ideal para el confort diario\t•\tCocina equipada, moderna y funcional\t•\tBalcón con parrilla privada, para disfrutar al aire libre\n\n\n Cercanías destacadas\n* UNSAM* Estación San Martín – Tren Mitre* Sanatorio Anchorena* Municipalidad, bancos y zona comercial\n\n\n Detalles generales del proyecto\n\t•\tMamposterías divisorias entre unidades en ladrillo cerámico hueco\t•\tMuros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado\t•\tTerminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad\t•\tAberturas de aluminio con DVH (Doble Vidrio Hermético)\t•\tPisos de porcelanato rectificado de primera calidad\t•\tDormitorios con porcelanato y frente de placard de 2 puertas\t•\tCielorrasos en yeso armado o aplicado\t•\tParedes interiores con terminación en yeso\t•\tPuertas interiores placa MDF\t•\tInstalaciones de agua fría y caliente por termofusión\t• Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).\t•\tBaños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo\t•\tCocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave\t•\tMesada de granito, pileta de acero inoxidable y grifería monocomando\t•\tPreinstalación para aire acondicionado en estar y dormitorio\t•\tCañerías vacías para TV por cable\t•\tPortero eléctrico con cámara visor\n\n Consultanos y armamos un plan de pago a medida de tus necesidades.Una excelente oportunidad para vivir o invertir en pleno San Martín.\n                \r\n            ",
       "development": {
@@ -88625,33 +88625,43 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7714915_104735120530621368464323374132937302106801406583255802720637124728500538984423.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7714915_51500068451791295623853508889469130464889216727793505635047988591850532352470.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 0,
-          "original": "https://static.tokkobroker.com/original_pictures/7714915_104735120530621368464323374132937302106801406583255802720637124728500538984423.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/115966728_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7714915_104735120530621368464323374132937302106801406583255802720637124728500538984423_thumb.jpg"
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/7714915_5150006845179129562385350888946913046488921672779350563504798859185053.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7714915_51500068451791295623853508889469130464889216727793505635047988591850532352470_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7714915_51500068451791295623853508889469130464889216727793505635047988591850532352470_thu.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/7714915_11484429900072675031507228197028957937844653823747838841571188840237935242896.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7714915_11484429900072675031507228197028957937844653823747838841571188840237935242896.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7714915_11484429900072675031507228197028957937844653823747838841571188840237935242896_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7714915_28931420753929951468317591110517451290319544905949644126048914744384712397897.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7714915_104735120530621368464323374132937302106801406583255802720637124728500538984423.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/7714915_104735120530621368464323374132937302106801406583255802720637124728500538984423.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/115966728_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7714915_104735120530621368464323374132937302106801406583255802720637124728500538984423_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7714915_40872423232721215769408115951525101191265809245438955661587730051667296757714.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/7714915_28931420753929951468317591110517451290319544905949644126048914744384712397897.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7714915_28931420753929951468317591110517451290319544905949644126048914744384712397897_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7714915_4087242323272121576940811595152510119126580924543895566158773005166729.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7714915_40872423232721215769408115951525101191265809245438955661587730051667296757714_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7714915_40872423232721215769408115951525101191265809245438955661587730051667296757714_thu.jpg"
         }
       ],
       "portal_footer": "",
@@ -88782,7 +88792,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Nuevo lanzamiento en San Martín</h3>\n\n<p>Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín</p>\n\n<p>Presentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.</p>\n\n<h3>Tipologías disponibles</h3>\n\n<ul>\n<li>3 ambientes – 76 m²</li>\n<li>2 ambientes – 45 m²</li>\n</ul>\n\n<h3>Características de las unidades</h3>\n\n<ul>\n<li>Dormitorios luminosos con placard de piso a techo</li>\n<li>Living-comedor amplio, ideal para el confort diario</li>\n<li>Cocina equipada, moderna y funcional</li>\n<li>Balcón con parrilla privada, para disfrutar al aire libre</li>\n</ul>\n\n<h3>Cercanías destacadas</h3>\n\n<ul>\n<li>UNSAM</li>\n<li>Estación San Martín – Tren Mitre</li>\n<li>Sanatorio Anchorena</li>\n<li>Municipalidad, bancos y zona comercial</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Consultanos y armamos un plan de pago a medida de tus necesidades. Una excelente oportunidad para vivir o invertir en pleno San Martín.</p>"
     },
     {
@@ -88827,7 +88837,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-09-21T18:24:25",
+      "deleted_at": "2026-11-19T13:34:12",
       "depth_measure": "0.00",
       "description": "Nuevo lanzamiento en San Martín  Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín\nPresentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.\n Tipologías disponibles\t•\t3 ambientes – 76 m²\t•\t2 ambientes – 45 m²\n\n Características de las unidades\n\t•\tDormitorios luminosos con placard de piso a techo\t•\tLiving-comedor amplio, ideal para el confort diario\t•\tCocina equipada, moderna y funcional\t•\tBalcón con parrilla privada, para disfrutar al aire libre\n\n\n Cercanías destacadas\n* UNSAM* Estación San Martín – Tren Mitre* Sanatorio Anchorena* Municipalidad, bancos y zona comercial\n\n\n Detalles generales del proyecto\n\t•\tMamposterías divisorias entre unidades en ladrillo cerámico hueco\t•\tMuros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado\t•\tTerminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad\t•\tAberturas de aluminio con DVH (Doble Vidrio Hermético)\t•\tPisos de porcelanato rectificado de primera calidad\t•\tDormitorios con porcelanato símil madera y frente de placard de 2 puertas\t•\tCielorrasos en yeso armado o aplicado\t•\tParedes interiores con terminación en yeso\t•\tPuertas interiores placa MDF\t•\tInstalaciones de agua fría y caliente por termofusión\t•Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).•\tBaños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo\t•\tCocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave\t•\tMesada de granito, pileta de acero inoxidable y grifería monocomando\t•\tPreinstalación para aire acondicionado en estar y dormitorio\t•\tCañerías vacías para TV por cable\t•\tPortero eléctrico con cámara visor\n\n\n Consúltanos y armamos un plan de pago a medida de tus necesidades.Una excelente oportunidad para vivir o invertir en pleno San Martín.\n                \r\n            ",
       "development": {
@@ -89476,13 +89486,13 @@
       "photos": [
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7715299_67336149848784777908750636059146881939505695787860769991451733275485881518252.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7715299_93269288670196877486605768877915410105331285769208302346211912915635078434434.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 1,
-          "original": "https://static.tokkobroker.com/original_pictures/7715299_67336149848784777908750636059146881939505695787860769991451733275485881518252.jpg",
-          "social_media_url": "https://static.tokkobroker.com/sm_pics/115975591_og.jpg",
-          "thumb": "https://static.tokkobroker.com/thumbs/7715299_67336149848784777908750636059146881939505695787860769991451733275485881518252_thumb.jpg"
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/7715299_9326928867019687748660576887791541010533128576920830234621191291563507.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7715299_93269288670196877486605768877915410105331285769208302346211912915635078434434_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7715299_93269288670196877486605768877915410105331285769208302346211912915635078434434_thu.jpg"
         },
         {
           "description": null,
@@ -89496,13 +89506,23 @@
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7715299_990473719011077388647069247585608911285032606276400154121566610091893714916.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7715299_67336149848784777908750636059146881939505695787860769991451733275485881518252.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/7715299_990473719011077388647069247585608911285032606276400154121566610091893714916.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7715299_990473719011077388647069247585608911285032606276400154121566610091893714916_thumb.jpg"
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/7715299_67336149848784777908750636059146881939505695787860769991451733275485881518252.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/115975591_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7715299_67336149848784777908750636059146881939505695787860769991451733275485881518252_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7715299_79965844309498311873128283704795067857640608798934032463455315023163015907984.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/7715299_7996584430949831187312828370479506785764060879893403246345531502316301.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7715299_79965844309498311873128283704795067857640608798934032463455315023163015907984_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7715299_79965844309498311873128283704795067857640608798934032463455315023163015907984_thu.jpg"
         }
       ],
       "portal_footer": "",
@@ -89613,7 +89633,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Nuevo lanzamiento en San Martín</h3>\n\n<p>Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín</p>\n\n<p>Presentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.</p>\n\n<h3>Tipologías disponibles</h3>\n\n<ul>\n<li>3 ambientes – 76 m²</li>\n<li>2 ambientes – 45 m²</li>\n</ul>\n\n<h3>Características de las unidades</h3>\n\n<ul>\n<li>Dormitorios luminosos con placard de piso a techo</li>\n<li>Living-comedor amplo, ideal para el confort diario</li>\n<li>Cocina equipada, moderna y funcional</li>\n<li>Balcón con parrilla privada, para disfrutar al aire libre</li>\n</ul>\n\n<h3>Cercanías destacadas</h3>\n\n<ul>\n<li>UNSAM</li>\n<li>Estación San Martín – Tren Mitre</li>\n<li>Sanatorio Anchorena</li>\n<li>Municipalidad, bancos y zona comercial</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas)</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Consúltanos y armamos un plan de pago a medida de tus necesidades. Una excelente oportunidad para vivir o invertir en pleno San Martín.</p>"
     },
     {
@@ -99183,7 +99203,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-08-04T17:51:25",
+      "deleted_at": "2026-11-19T13:35:54",
       "depth_measure": "0.00",
       "description": "Nuevo lanzamiento en San Martín  Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín\nPresentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.\n Tipologías disponibles• 3 ambientes – 76 m²• 2 ambientes – 45 m²\n\n Características de las unidades\n• Dormitorios luminosos con placard de piso a techo• Living-comedor amplio, ideal para el confort diario• Cocina equipada, moderna y funcional• Balcón con parrilla privada, para disfrutar al aire libre\n\n\n Cercanías destacadas\n* UNSAM* Estación San Martín – Tren Mitre* Sanatorio Anchorena* Municipalidad, bancos y zona comercial\n\n\n Detalles generales del proyecto\n• Mamposterías divisorias entre unidades en ladrillo cerámico hueco• Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado• Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad• Aberturas de aluminio con DVH (Doble Vidrio Hermético)• Pisos de porcelanato rectificado de primera calidad• Dormitorios con porcelanato símil madera y frente de placard de 2 puertas• Cielorrasos en yeso armado o aplicado• Paredes interiores con terminación en yeso• Puertas interiores placa MDF• Instalaciones de agua fría y caliente por termofusión•Termo eléctrico para distribución de agua caliente y cocina eléctrica. (En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas).• Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo• Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave• Mesada de granito, pileta de acero inoxidable y grifería monocomando• Preinstalación para aire acondicionado en estar y dormitorio• Cañerías vacías para TV por cable• Portero eléctrico con cámara visor\n\n\n Consúltanos y armamos un plan de pago a medida de tus necesidades.Una excelente oportunidad para vivir o invertir en pleno San Martín.\n                \r\n            ",
       "development": {
@@ -99709,7 +99729,7 @@
           "image": "https://static.tokkobroker.com/pictures/7951672_61328363009796518186935588864243767764057296118378885319829813329827358825012.jpg",
           "is_blueprint": false,
           "is_front_cover": true,
-          "order": 0,
+          "order": 1,
           "original": "https://static.tokkobroker.com/original_pictures/7951672_61328363009796518186935588864243767764057296118378885319829813329827358825012.jpg",
           "social_media_url": "https://static.tokkobroker.com/sm_pics/121358268_og.jpg",
           "thumb": "https://static.tokkobroker.com/thumbs/7951672_61328363009796518186935588864243767764057296118378885319829813329827358825012_thumb.jpg"
@@ -99719,27 +99739,37 @@
           "image": "https://static.tokkobroker.com/pictures/7951672_10257150576125207196661252505054954643977141490247965177673448613583060809168.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 1,
+          "order": 0,
           "original": "https://static.tokkobroker.com/original_pictures/7951672_10257150576125207196661252505054954643977141490247965177673448613583060809168.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7951672_10257150576125207196661252505054954643977141490247965177673448613583060809168_thumb.jpg"
         },
         {
           "description": null,
-          "image": "https://static.tokkobroker.com/pictures/7951672_75012434108247595715687181011835302800856700590110770813086992454964867505836.jpg",
+          "image": "https://static.tokkobroker.com/pictures/7951672_33775133416700517391240100837299895540132948861302220762272243184966421844526.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
           "order": 2,
-          "original": "https://static.tokkobroker.com/original_pictures/7951672_75012434108247595715687181011835302800856700590110770813086992454964867505836.jpg",
-          "social_media_url": null,
-          "thumb": "https://static.tokkobroker.com/thumbs/7951672_75012434108247595715687181011835302800856700590110770813086992454964867505836_thumb.jpg"
+          "original": "https://static.tokkobroker.com/original_pictures/7951672_3377513341670051739124010083729989554013294886130222076227224318496642.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7951672_33775133416700517391240100837299895540132948861302220762272243184966421844526_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7951672_33775133416700517391240100837299895540132948861302220762272243184966421844526_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/7951672_96342326009433703064650691785298662769077903457086934202294615915384616553004.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/7951672_9634232600943370306465069178529866276907790345708693420229461591538461.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/7951672_96342326009433703064650691785298662769077903457086934202294615915384616553004_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/7951672_96342326009433703064650691785298662769077903457086934202294615915384616553004_thu.jpg"
         },
         {
           "description": null,
           "image": "https://static.tokkobroker.com/pictures/7951672_105638088497026493997494159180299016557716388473731548399797994129861510257977.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 3,
+          "order": 4,
           "original": "https://static.tokkobroker.com/original_pictures/7951672_105638088497026493997494159180299016557716388473731548399797994129861510257977.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7951672_105638088497026493997494159180299016557716388473731548399797994129861510257977_thumb.jpg"
@@ -99749,7 +99779,7 @@
           "image": "https://static.tokkobroker.com/pictures/7951672_100849084954044275404855661506053225544674106779695453873960517146525125241444.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 4,
+          "order": 5,
           "original": "https://static.tokkobroker.com/original_pictures/7951672_100849084954044275404855661506053225544674106779695453873960517146525125241444.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7951672_100849084954044275404855661506053225544674106779695453873960517146525125241444_thumb.jpg"
@@ -99759,7 +99789,7 @@
           "image": "https://static.tokkobroker.com/pictures/7951672_106741211894410967065570233403221045074941223968180993717191104851062212222910.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 5,
+          "order": 6,
           "original": "https://static.tokkobroker.com/original_pictures/7951672_106741211894410967065570233403221045074941223968180993717191104851062212222910.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7951672_106741211894410967065570233403221045074941223968180993717191104851062212222910_thumb.jpg"
@@ -99769,7 +99799,7 @@
           "image": "https://static.tokkobroker.com/pictures/7951672_89179674515491779509022876719440483714157883268332764558293582437317367002316.jpg",
           "is_blueprint": false,
           "is_front_cover": false,
-          "order": 6,
+          "order": 7,
           "original": "https://static.tokkobroker.com/original_pictures/7951672_89179674515491779509022876719440483714157883268332764558293582437317367002316.jpg",
           "social_media_url": null,
           "thumb": "https://static.tokkobroker.com/thumbs/7951672_89179674515491779509022876719440483714157883268332764558293582437317367002316_thumb.jpg"
@@ -99908,7 +99938,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Nuevo lanzamiento en San Martín</h3>\n<p>Cerrito 2278, entre Pueyrredón y Matheu – Centro de San Martín</p>\n<p>Presentamos un moderno edificio torre de 9 pisos, con unidades de excelente calidad constructiva y diseño contemporáneo, ubicado en una zona estratégica de la ciudad.</p>\n\n<h3>Tipologías disponibles</h3>\n<ul>\n<li>3 ambientes – 76 m²</li>\n<li>2 ambientes – 45 m²</li>\n</ul>\n\n<h3>Características de las unidades</h3>\n<ul>\n<li>Dormitorios luminosos con placard de piso a techo</li>\n<li>Living-comedor amplio, ideal para el confort diario</li>\n<li>Cocina equipada, moderna y funcional</li>\n<li>Balcón con parrilla privada, para disfrutar al aire libre</li>\n</ul>\n\n<h3>Cercanías destacadas</h3>\n<ul>\n<li>UNSAM</li>\n<li>Estación San Martín – Tren Mitre</li>\n<li>Sanatorio Anchorena</li>\n<li>Municipalidad, bancos y zona comercial</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Consúltanos y armamos un plan de pago a medida de tus necesidades.</p>\n<p>Una excelente oportunidad para vivir o invertir en pleno San Martín.</p>"
     },
     {
@@ -101295,10 +101325,10 @@
           "cellphone": "1549801590",
           "email": "romina@lenerconstructora.com",
           "id": 12887,
-          "name": "Tom",
+          "name": "Jorge",
           "phone": "",
           "picture": "https://static.tokkobroker.com/static/img/user.png",
-          "position": ""
+          "position": "Marketing"
         },
         "videos": [
           {
@@ -101827,7 +101857,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-19T14:58:51.754Z",
       "enhanced_description": "<h3>Tu nuevo hogar te espera en San Martín</h3>\n\n<p>Disfrutá de la comodidad y el diseño que merecés. Este departamento de 2 ambientes es la opción ideal para quienes buscan un espacio moderno, funcional y acogedor.</p>\n\n<h3>Características destacadas</h3>\n\n<ul>\n<li>Dormitorio luminoso con placard de piso a techo</li>\n<li>Living-comedor amplio, perfecto para relajarte o recibir visitas</li>\n<li>Cocina equipada con muebles modernos y funcionales</li>\n<li>Balcón con parrilla privada, para disfrutar de momentos únicos al aire libre</li>\n</ul>\n\n<h3>Detalles generales del proyecto</h3>\n\n<ul>\n<li>Mamposterías divisorias entre unidades en ladrillo cerámico hueco</li>\n<li>Muros exteriores con doble pared de ladrillo hueco y estructura de hormigón armado</li>\n<li>Terminaciones exteriores en revoque pintado con recubrimiento acrílico de primera calidad</li>\n<li>Aberturas de aluminio con DVH (Doble Vidrio Hermético)</li>\n<li>Pisos de porcelanato rectificado de primera calidad</li>\n<li>Dormitorios con porcelanato símil madera y frente de placard de 2 puertas</li>\n<li>Cielorrasos en yeso armado o aplicado</li>\n<li>Paredes interiores con terminación en yeso</li>\n<li>Puertas interiores placa MDF</li>\n<li>Instalaciones de agua fría y caliente por termofusión</li>\n<li>Termo eléctrico para distribución de agua caliente y cocina eléctrica. En caso de suministro de gas natural, se cambiará por cocina a gas y termo a gas</li>\n<li>Baños equipados con mampara de vidrio, vanitory, accesorios y griferías de primera marca, revestidos de piso a techo</li>\n<li>Cocina con muebles en melamina de primera marca, guardacantos PVC y herrajes con cierre suave</li>\n<li>Mesada de granito, pileta de acero inoxidable y grifería monocomando</li>\n<li>Preinstalación para aire acondicionado en estar y dormitorio</li>\n<li>Cañerías vacías para TV por cable</li>\n<li>Portero eléctrico con cámara visor</li>\n</ul>\n\n<p>Contactanos hoy mismo y vení a conocerlo. Tu futuro hogar te está esperando.</p>"
     },
     {

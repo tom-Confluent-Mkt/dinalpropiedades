@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-11-18T14:53:07.972Z"
+    "lastSync": "2026-11-19T14:58:57.611Z"
   },
   "objects": [
     {
@@ -3059,7 +3059,7 @@
         "construction_date": null,
         "construction_status": 4,
         "custom_tags": [],
-        "deleted_at": "2026-11-04T17:06:32",
+        "deleted_at": "2026-11-19T14:43:48",
         "description": "PUNTA DE ARENAS VIII – DISEÑO Y FUNCIONALIDAD EN EL BARRIO LA PERLA\n\nPunta de Arenas VIII es un edificio en construcción ubicado en Catamarca 1457, en el tradicional barrio La Perla de Mar del Plata, a pocos metros del mar y con excelente conexión con el centro de la ciudad.\n\nEL PROYECTO\n\nEl desarrollo cuenta con plantas residenciales versátiles y un nivel superior destinado a espacios comunes. Ofrece distintas tipologías que van desde departamentos de 2 y 3 ambientes hasta unidades en dúplex, con superficies totales desde 42 m² hasta más de 90 m².\n\nCada unidad fue diseñada para aprovechar al máximo la luz natural, priorizando la comodidad, la funcionalidad y el aprovechamiento de cada espacio.\n\nTodos los departamentos cuentan con balcón e instalación para parrilla individual, incorporando un espacio exterior propio para disfrutar durante todo el año.\n\nCARACTERÍSTICAS Y TERMINACIONES\n\n* ESTRUCTURA Y CERRAMIENTOS\n\nEstructura de hormigón armado y cerramientos exteriores con aislación hidrófuga. Terminaciones exteriores con pintura plástica y látex en paredes y cielorrasos.\n\n* ABERTURAS\n\nAberturas exteriores con Doble Vidrio Hermético (DVH). Puertas de ingreso de primera calidad, reforzadas con mirilla y cerradura de seguridad.\n\n* CLIMATIZACIÓN E INSTALACIONES\n\nInstalación prevista para la colocación de aire acondicionado en estar y dormitorio, con previsión de drenajes. Cañerías para cable e internet e instalación de agua fría y caliente mediante sistema de termofusión.\n\n* PISOS Y REVESTIMIENTOS\n\nPisos de porcelanato en estar-comedor, baño y cocina. En los dormitorios, porcelanatos de primera calidad símil madera. Balcones revestidos con pisos cerámicos.\n\n* COCINAS\n\nEquipamiento completo con muebles altos y bajos, horno y anafe de primera calidad, mesada de cuarzo, bacha doble de acero inoxidable y grifería monocomando.\n\n* BAÑOS\n\nBaños equipados con ducha y mampara, vanitory, accesorios completos, griferías, espejos y revestimientos en porcelanato. Los dormitorios cuentan además con frentes de placard de piso a techo e interiores.\n\n* CONFORT ADICIONAL\n\nPortero eléctrico visor con cámara y parrillas individuales a gas en los balcones.\n\n* ACCESIBILIDAD Y ESPACIOS COMUNES\n\nEl edificio cuenta con cocheras en planta baja y subsuelo, ascensores de última generación y un quincho de uso común con amplia terraza en el último piso, pensado para disfrutar de reuniones y encuentros.\n\nUBICACIÓN Y PROPUESTA\n\nPunta de Arenas VIII combina ubicación, diseño y funcionalidad en un desarrollo actualmente en construcción, ofreciendo alternativas tanto para quienes buscan una vivienda permanente como para quienes desean invertir en una propiedad en una de las zonas tradicionales de Mar del Plata.\n\nUBICACIÓN\n\nCatamarca 1457 – La Perla, Mar del Plata.",
         "display_on_web": true,
         "excel_extra_headers": "[]",
@@ -31114,6 +31114,288 @@
       "zip_code": null,
       "zonification": "",
       "enhanced_description": "<h3>Departamento con Balcón en Contrafrente</h3>\n\n<p>Una propiedad funcional, ubicada en una zona estratégica de Mar del Plata, frente al Paseo Aldrey.</p>\n\n<h3>Características del Inmueble</h3>\n\n<ul>\n<li>Segundo piso, unidad D de Punta de Arenas VII</li>\n<li>Dirección: Sarmiento 2640</li>\n<li>Disposición al contrafrente</li>\n<li>49 m² cubiertos</li>\n<li>5 m² descubiertos</li>\n<li>Superficie total: 54 m²</li>\n<li>Balcón con vistas al exterior</li>\n</ul>\n\n<h3>Amenities del Edificio</h3>\n\n<ul>\n<li>Dos ascensores de última generación</li>\n<li>SUM con terraza de uso común</li>\n<li>Cocheras en planta baja y subsuelo</li>\n</ul>\n\n<h3>Ubicación</h3>\n\n<p>Ubicado frente al Paseo Aldrey, permite acceder fácilmente a comercios, propuestas gastronómicas, el corredor comercial de Güemes y las playas de Mar del Plata.</p>\n\n<h3>Propuesta</h3>\n\n<p>Una oportunidad de reventa para quienes buscan invertir en una ubicación consolidada de la ciudad.</p>"
+    },
+    {
+      "address": "Geronimo Rejon al 3600",
+      "address_complement": "",
+      "age": 0,
+      "apartment_door": "C",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 0,
+      "block_number": "",
+      "branch": {
+        "address": "Guemes 2305",
+        "alternative_phone": "3424988",
+        "alternative_phone_area": "223",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "9 am a 18 pm",
+        "created_date": "2024-11-25T18:36:01",
+        "deleted_at": null,
+        "display_name": "obras de mar",
+        "email": "ventas@obrasdemar.com",
+        "geo_lat": "-38.0109258",
+        "geo_long": "-57.53803889999999",
+        "gm_location_type": "ROOFTOP",
+        "id": 79172,
+        "is_default": true,
+        "logo": "https://static.tokkobroker.com/logos/49206/49206_29002193834799897160660037110338092315464097890775023546780372633133923535421.jpg",
+        "name": "Guemes 2305",
+        "pdf_footer_text": "",
+        "phone": "3424988",
+        "phone_area": "223",
+        "phone_country_code": "+54",
+        "phone_extension": null,
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2026-11-19T14:23:13",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-11-19T14:31:13",
+      "depth_measure": "0.00",
+      "description": "DESCRIPCIÓNPUNTA DE ARENAS IX – VIVIR CERCA DEL MAR EN LA PERLA NORTE\nPunta de Arenas IX es un edificio en construcción ubicado en Gerónimo Rejón 3656, en el barrio La Perla Norte de Mar del Plata, a tan solo 40 metros del mar. Su ubicación combina la tranquilidad de un entorno residencial con la cercanía a la costa y una excelente conexión con el centro y los principales puntos de la ciudad.\nEL PROYECTO\nEl edificio se desarrolla en 9 pisos y ofrece departamentos de 2 y 3 ambientes, con superficies que van desde los 54 m² hasta los 110 m², incluyendo distintas tipologías en dúplex.\nLas unidades fueron diseñadas para aprovechar al máximo la luz natural, con ambientes cómodos y funcionales, y una conexión fluida con los espacios exteriores.\nTodos los departamentos cuentan con balcón e instalación prevista para parrilla individual, incorporando un espacio propio para disfrutar al aire libre durante todo el año.\nEl proyecto contempla además cocheras en planta baja, dos ascensores de última generación y un Salón de Usos Múltiples (SUM) ubicado en el último piso.\nCARACTERÍSTICAS Y TERMINACIONES\nESTRUCTURA Y CERRAMIENTOS\nEstructura de hormigón armado y cerramientos exteriores con aislación hidrófuga. Terminaciones exteriores con pintura plástica y látex en paredes y cielorrasos.\nABERTURAS\nAberturas exteriores con Doble Vidriado Hermético (DVH), que contribuyen al aislamiento térmico y acústico. Puertas de ingreso de primera calidad, reforzadas, con mirilla y cerradura de seguridad.\nCLIMATIZACIÓN E INSTALACIONES\nInstalación prevista para aire acondicionado en estar y dormitorio, con previsión de drenajes. Cañerías para cable e internet e instalación de agua fría y caliente mediante sistema de termofusión.\nPISOS Y REVESTIMIENTOS\nPisos de porcelanato en estar-comedor, cocina y baño. En los dormitorios, porcelanatos de primera calidad símil madera. Los balcones cuentan con pisos cerámicos.\nCOCINAS\nCocinas equipadas con muebles bajo mesada y alacenas, horno y anafe de primera calidad, mesada de cuarzo, bacha doble de acero inoxidable y grifería monocomando.\nBAÑOS Y DORMITORIOS\nBaños equipados con ducha y mampara, vanitory, accesorios, griferías, espejos y revestimientos de porcelanato.\nLos dormitorios cuentan con frentes de placard de piso a techo e interiores.\nCONFORT Y ESPACIOS COMUNES\n- Portero eléctrico visor con cámara.- Parrillas individuales a gas en los balcones.- Cocheras en planta baja.- Dos ascensores de última generación.- Amplio SUM en el último nivel.\nUNA UBICACIÓN PARA DISFRUTAR MAR DEL PLATA\nA tan solo 40 metros de la costa, Punta de Arenas IX ofrece la posibilidad de disfrutar del mar y de un entorno residencial tranquilo, sin alejarse de los principales servicios y atractivos de la ciudad.\nPor su ubicación, propuesta arquitectónica y calidad de terminaciones, representa una alternativa atractiva tanto para quienes buscan una vivienda cerca del mar como para quienes desean invertir en una zona consolidada de Mar del Plata.\nUBICACIÓN\nGerónimo Rejón 3656 – La Perla Norte, Mar del Plata.\nCONTACTOEstoy interesado en este emprendimiento..ENVIAR\n                \r\n\r\n            ",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": null,
+      "down_payment": "0.00",
+      "expenses": 0,
+      "extra_attributes": [
+        {
+          "is_expenditure": false,
+          "is_measure": true,
+          "name": "Ambientes",
+          "value": ""
+        },
+        {
+          "is_expenditure": true,
+          "is_measure": false,
+          "name": "Piso",
+          "value": ""
+        },
+        {
+          "is_expenditure": true,
+          "is_measure": false,
+          "name": "Unidad",
+          "value": ""
+        }
+      ],
+      "fake_address": "Geronimo Rejon al 3600",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "4",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-37.9781664",
+      "geo_long": "-57.5447709",
+      "gm_location_type": "RANGE_INTERPOLATED",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 14414793,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 54 9 2233 42-4988",
+            "created_at": "2026-09-16T11:37:44",
+            "document_number": "",
+            "email": "obrasdemar@gmail.com",
+            "id": 70610239,
+            "name": "Dinal - Obras De Mar",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-11-19T14:23:16",
+            "work_email": "obrasdemar@gmail.com"
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "lead_receiver_user": {
+        "cellphone": "",
+        "email": "marketing@obrasdemar.com",
+        "id": 123159,
+        "name": "MARKETING",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "legally_checked": "Desconocido",
+      "links": [],
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [],
+        "full_location": "Argentina | Costa Atlantica | Mar Del Plata | La Perla Norte",
+        "id": 26665,
+        "name": "La Perla Norte",
+        "parent_division": "/api/v1/location/26624/",
+        "short_location": "Costa Atlantica | Mar Del Plata | La Perla Norte",
+        "state": null,
+        "type": "Barrio",
+        "weight": 363,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Venta",
+          "prices": [
+            {
+              "currency": "USD",
+              "is_promotional": false,
+              "period": 0,
+              "price": 124600
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/14414793_95150925796002165152578819732976967760438784009012976575726851041413820162504.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/14414793_951509257960021651525788197329769677604387840090129765757268510414138.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/14414793_95150925796002165152578819732976967760438784009012976575726851041413820162504_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/14414793_95150925796002165152578819732976967760438784009012976575726851041413820162504_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/14414793_89828332952458437760234915317944317550189099093874621113157980361992945443224.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/14414793_898283329524584377602349153179443175501890990938746211131579803619929.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/14414793_89828332952458437760234915317944317550189099093874621113157980361992945443224_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/14414793_89828332952458437760234915317944317550189099093874621113157980361992945443224_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/14414793_17768585193807937508464437249999303011848687052272047102399396089545380786731.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/14414793_177685851938079375084644372499993030118486870522720471023993960895453.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/14414793_17768585193807937508464437249999303011848687052272047102399396089545380786731_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/14414793_17768585193807937508464437249999303011848687052272047102399396089545380786731_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/14414793_28593027466895146728789379428939781041302928442214606782947006501800780855481.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/14414793_285930274668951467287893794289397810413029284422146067829470065018007.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/14414793_28593027466895146728789379428939781041302928442214606782947006501800780855481_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/14414793_28593027466895146728789379428939781041302928442214606782947006501800780855481_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/14414793_75044220027349920602262871990176280582630382914648846911789536016045851253786.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/14414793_750442200273499206022628719901762805826303829146488469117895360160458.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/14414793_75044220027349920602262871990176280582630382914648846911789536016045851253786_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/14414793_75044220027349920602262871990176280582630382914648846911789536016045851253786_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/14414793_73817702232932620586675841800005801114963499507474832826852505890335895251445.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/14414793_738177022329326205866758418000058011149634995074748328268525058903358.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/14414793_73817702232932620586675841800005801114963499507474832826852505890335895251445_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/14414793_73817702232932620586675841800005801114963499507474832826852505890335895251445_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/14414793_39242330255572904239980079169316212352043011270606011994687052838855692540794.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/14414793_392423302555729042399800791693162123520430112706060119946870528388556.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/14414793_39242330255572904239980079169316212352043011270606011994687052838855692540794_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/14414793_39242330255572904239980079169316212352043011270606011994687052838855692540794_th.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "",
+        "email": "marketing@obrasdemar.com",
+        "id": 123159,
+        "name": "MARKETING",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "property_condition": "---",
+      "public_url": "https://ficha.info/p/e8D6PdGcBD87ha",
+      "publication_title": "Departamento en La Perla Norte",
+      "quality_level": null,
+      "real_address": "Geronimo Rejon 3600 Piso 4 Departamento C",
+      "reference_code": "OAP14414793",
+      "rich_description": "DESCRIPCIÓN<div>PUNTA DE ARENAS IX – VIVIR CERCA DEL MAR EN LA PERLA NORTE</div><div><br></div><div>Punta de Arenas IX es un edificio en construcción ubicado en Gerónimo Rejón 3656, en el barrio La Perla Norte de Mar del Plata, a tan solo 40 metros del mar. Su ubicación combina la tranquilidad de un entorno residencial con la cercanía a la costa y una excelente conexión con el centro y los principales puntos de la ciudad.</div><div><br></div><div>EL PROYECTO</div><div><br></div><div>El edificio se desarrolla en 9 pisos y ofrece departamentos de 2 y 3 ambientes, con superficies que van desde los 54 m² hasta los 110 m², incluyendo distintas tipologías en dúplex.</div><div><br></div><div>Las unidades fueron diseñadas para aprovechar al máximo la luz natural, con ambientes cómodos y funcionales, y una conexión fluida con los espacios exteriores.</div><div><br></div><div>Todos los departamentos cuentan con balcón e instalación prevista para parrilla individual, incorporando un espacio propio para disfrutar al aire libre durante todo el año.</div><div><br></div><div>El proyecto contempla además cocheras en planta baja, dos ascensores de última generación y un Salón de Usos Múltiples (SUM) ubicado en el último piso.</div><div><br></div><div>CARACTERÍSTICAS Y TERMINACIONES</div><div><br></div><div>ESTRUCTURA Y CERRAMIENTOS</div><div><br></div><div>Estructura de hormigón armado y cerramientos exteriores con aislación hidrófuga. Terminaciones exteriores con pintura plástica y látex en paredes y cielorrasos.</div><div><br></div><div>ABERTURAS</div><div><br></div><div>Aberturas exteriores con Doble Vidriado Hermético (DVH), que contribuyen al aislamiento térmico y acústico. Puertas de ingreso de primera calidad, reforzadas, con mirilla y cerradura de seguridad.</div><div><br></div><div>CLIMATIZACIÓN E INSTALACIONES</div><div><br></div><div>Instalación prevista para aire acondicionado en estar y dormitorio, con previsión de drenajes. Cañerías para cable e internet e instalación de agua fría y caliente mediante sistema de termofusión.</div><div><br></div><div>PISOS Y REVESTIMIENTOS</div><div><br></div><div>Pisos de porcelanato en estar-comedor, cocina y baño. En los dormitorios, porcelanatos de primera calidad símil madera. Los balcones cuentan con pisos cerámicos.</div><div><br></div><div>COCINAS</div><div><br></div><div>Cocinas equipadas con muebles bajo mesada y alacenas, horno y anafe de primera calidad, mesada de cuarzo, bacha doble de acero inoxidable y grifería monocomando.</div><div><br></div><div>BAÑOS Y DORMITORIOS</div><div><br></div><div>Baños equipados con ducha y mampara, vanitory, accesorios, griferías, espejos y revestimientos de porcelanato.</div><div><br></div><div>Los dormitorios cuentan con frentes de placard de piso a techo e interiores.</div><div><br></div><div>CONFORT Y ESPACIOS COMUNES</div><div><br></div><div>- Portero eléctrico visor con cámara.</div><div>- Parrillas individuales a gas en los balcones.</div><div>- Cocheras en planta baja.</div><div>- Dos ascensores de última generación.</div><div>- Amplio SUM en el último nivel.</div><div><br></div><div>UNA UBICACIÓN PARA DISFRUTAR MAR DEL PLATA</div><div><br></div><div>A tan solo 40 metros de la costa, Punta de Arenas IX ofrece la posibilidad de disfrutar del mar y de un entorno residencial tranquilo, sin alejarse de los principales servicios y atractivos de la ciudad.</div><div><br></div><div>Por su ubicación, propuesta arquitectónica y calidad de terminaciones, representa una alternativa atractiva tanto para quienes buscan una vivienda cerca del mar como para quienes desean invertir en una zona consolidada de Mar del Plata.</div><div><br></div><div>UBICACIÓN</div><div><br></div><div>Gerónimo Rejón 3656 – La Perla Norte, Mar del Plata.</div><div><br></div><div>CONTACTO</div><div>Estoy interesado en este emprendimiento..</div><div>ENVIAR</div><div><br></div>                \r\n\r\n            ",
+      "roofed_surface": "54.00",
+      "room_amount": 0,
+      "semiroofed_surface": "0.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 0,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "0.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "enhanced_description": "```html\n<h3>Punta de Arenas IX – Vivir cerca del mar en la Perla Norte</h3>\n\n<p>Punta de Arenas IX es un edificio en construcción ubicado en Gerónimo Rejón 3656, en el barrio La Perla Norte de Mar del Plata, a tan solo 40 metros del mar. Su ubicación combina la tranquilidad de un entorno residencial con la cercanía a la costa y una excelente conexión con el centro y los principales puntos de la ciudad.</p>\n\n<h3>El Proyecto</h3>\n\n<p>El edificio se desarrolla en 9 pisos y ofrece departamentos de 2 y 3 ambientes, con superficies que van desde los 54 m² hasta los 110 m², incluyendo distintas tipologías en dúplex.</p>\n\n<p>Las unidades fueron diseñadas para aprovechar al máximo la luz natural, con ambientes cómodos y funcionales, y una conexión fluida con los espacios exteriores.</p>\n\n<p>Todos los departamentos cuentan con balcón e instalación prevista para parrilla individual, incorporando un espacio propio para disfrutar al aire libre durante todo el año.</p>\n\n<p>El proyecto contempla además cocheras en planta baja, dos ascensores de última generación y un Salón de Usos Múltiples (SUM) ubicado en el último piso.</p>\n\n<h3>Características y Terminaciones</h3>\n\n<h3>Estructura y Cerramientos</h3>\n\n<p>Estructura de hormigón armado y cerramientos exteriores con aislación hidrófuga. Terminaciones exteriores con pintura plástica y látex en paredes y cielorrasos.</p>\n\n<h3>Aberturas</h3>\n\n<p>Aberturas exteriores con Doble Vidriado Hermético (DVH), que contribuyen al aislamiento térmico y acústico. Puertas de ingreso de primera calidad, reforzadas, con mirilla y cerradura de seguridad.</p>\n\n<h3>Climatización e Instalaciones</h3>\n\n<p>Instalación prevista para aire acondicionado en estar y dormitorio, con previsión de drenajes. Cañerías para cable e internet e instalación de agua fría y caliente mediante sistema de termofusión.</p>\n\n<h3>Pisos y Revestimientos</h3>\n\n<p>Pisos de porcelanato en estar-comedor, cocina y baño. En los dormitorios, porcelanatos de primera calidad símil madera. Los balcones cuentan con pisos cerámicos.</p>\n\n<h3>Cocinas</h3>\n\n<p>Cocinas equipadas con muebles bajo mesada y alacenas, horno y anafe de primera calidad, mesada de cuarzo, bacha doble de acero inoxidable y grifería monocomando.</p>\n\n<h3>Baños y Dormitorios</h3>\n\n<p>Baños equipados con ducha y mampara, vanitory, accesorios, griferías, espejos y revestimientos de porcelanato.</p>\n\n<p>Los dormitorios cuentan con frentes de placard de piso a techo e interiores.</p>\n\n<h3>Confort y Espacios Comunes</h3>\n\n<ul>\n<li>Portero eléctrico visor con cámara</li>\n<li>Parrillas individuales a gas en los balcones</li>\n<li>Cocheras en planta baja</li>\n<li>Dos ascensores de última generación</li>\n<li>Amplio SUM en el último nivel</li>\n</ul>\n\n<h3>Una Ubicación para Disfrutar Mar del Plata</h3>\n\n<p>A tan solo 40 metros de la costa, Punta de Arenas IX ofrece la posibilidad de disfrutar"
     }
   ]
 }
