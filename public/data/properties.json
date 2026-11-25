@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastSync": "2026-11-24T16:46:58.497Z"
+    "lastSync": "2026-11-25T16:34:23.424Z"
   },
   "objects": [
     {
@@ -20236,6 +20236,464 @@
       "enhanced_description": "<h3>Local en Alquiler – Villa Ballester</h3>\n\n<p>Ideal para tu próximo emprendimiento. Local de 27 m², ubicado a solo 2 cuadras de la estación de tren de la Línea Mitre, en una zona de gran circulación y excelente conectividad.</p>\n\n<h3>Características</h3>\n\n<ul>\n<li>27 m²</li>\n<li>Toilette</li>\n<li>Zona de mucho movimiento</li>\n<li>Gran variedad de líneas de colectivos</li>\n<li>A pocas cuadras del centro comercial de Villa Ballester</li>\n<li>Excelente ubicación y accesibilidad</li>\n</ul>\n\n<p>Una oportunidad ideal para instalar tu negocio o emprendimiento en una zona estratégica.</p>\n\n<h3>Requisitos</h3>\n\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste trimestral por IPC</li>\n<li>Garantía: Propietaria</li>\n</ul>"
     },
     {
+      "address": "ALQUILER Cerrito 2285 - 7B - San Martin",
+      "address_complement": "",
+      "age": 15,
+      "apartment_door": "",
+      "appartments_per_floor": 0,
+      "bathroom_amount": 1,
+      "block_number": "",
+      "branch": {
+        "address": "Alte Brown 3295",
+        "alternative_phone": "77170405",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13  y de 14 a 18.30",
+        "created_date": "2018-11-23T15:14:30",
+        "deleted_at": null,
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.554152901810376",
+        "geo_long": "-58.56033015478516",
+        "gm_location_type": "BY_HAND",
+        "id": 7883,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/branch_logos/7883/px%20(1).jpg",
+        "name": "Villa Ballester",
+        "pdf_footer_text": "",
+        "phone": "77170405",
+        "phone_area": "011",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2021-11-01T18:03:12",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [
+        {
+          "group_name": null,
+          "id": 18472,
+          "name": "Usados",
+          "public_name": ""
+        }
+      ],
+      "deleted_at": "2026-11-24T18:20:29",
+      "depth_measure": "0.00",
+      "description": "                                                        Alquiler - Departamento 2 Ambientes en Excelente Ubicación\n\n\n\n*Ubicación: A 3 cuadras del centro comercial, 6 cuadras de la estación San Martín (línea Mitre), 2 cuadras de Av. 25 de Mayo, con acceso rápido a Gral. Paz. Varias líneas de colectivo en la zona.\n\n* Características principales:\nUbicación: Séptimo pisoLiving comedor: Amplio, con salida al balcónCocina integrada: Con muebles alto y bajo mesada.Baño completo: Con bañeraDormitorio: Con placard de piso a techo, también con salida al balcón\n\n\nREQUISITOS:Ajuste Trimestral por IPCGarantía: FianzaMascotas: No se permite Contrato por dos añosDisponibilidad: Ingreso el 1° Diciembre\n\n\n ¡Consultanos y agenda tu visita!\n\n\n\n        \n        \n\n            \r\n\r\n            ",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": "Frente",
+      "down_payment": "0.00",
+      "expenses": 95000,
+      "extra_attributes": [],
+      "fake_address": "ALQUILER Cerrito 2285 - 7B - San Martin",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 0,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5735042",
+      "geo_long": "-58.5381014",
+      "gm_location_type": "ROOFTOP",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 4048617,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [
+          {
+            "cellphone": "",
+            "email": "Hernan@dinalpropiedades.com",
+            "id": 12882,
+            "name": "Hernán",
+            "phone": "",
+            "picture": "https://static.tokkobroker.com/static/img/user.png",
+            "position": ""
+          }
+        ],
+        "internal_comments": "Cerrito 2285 2 amb con 2 balcones .. ( es igual al A pero no tiene barra la cocina )\nLa inquina lo entrega el 15/ 12 porque lo va a pintar .. y recién ahí se puede mostrar .. yo quería ir antes pero no \nValor $450.000 ajuste trimestral índice Ipc \nGarantía \nApto mascota chica y bien educada",
+        "key_location": "At Property",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 54 9 11 4053-9028",
+            "created_at": "2024-12-06T12:17:37",
+            "document_number": "",
+            "email": "",
+            "id": 48624105,
+            "name": "Fernando",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2024-12-06T12:17:38",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "lead_receiver_user": {
+        "cellphone": "",
+        "email": "Hernan@dinalpropiedades.com",
+        "id": 12882,
+        "name": "Hernán",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "legally_checked": "Desconocido",
+      "links": [],
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25015,
+            "name": "B.San Martin",
+            "resource_uri": "/api/v1/location/25015/"
+          },
+          {
+            "id": 25016,
+            "name": "Billinghurst",
+            "resource_uri": "/api/v1/location/25016/"
+          },
+          {
+            "id": 25017,
+            "name": "L.Hermosa",
+            "resource_uri": "/api/v1/location/25017/"
+          },
+          {
+            "id": 25018,
+            "name": "Lourdes",
+            "resource_uri": "/api/v1/location/25018/"
+          },
+          {
+            "id": 25019,
+            "name": "Migueletes",
+            "resource_uri": "/api/v1/location/25019/"
+          },
+          {
+            "id": 25020,
+            "name": "P.Suhr Horeis",
+            "resource_uri": "/api/v1/location/25020/"
+          },
+          {
+            "id": 25021,
+            "name": "S.Andres",
+            "resource_uri": "/api/v1/location/25021/"
+          },
+          {
+            "id": 25022,
+            "name": "S.Martin(Ctro)",
+            "resource_uri": "/api/v1/location/25022/"
+          },
+          {
+            "id": 25023,
+            "name": "Tropezon",
+            "resource_uri": "/api/v1/location/25023/"
+          },
+          {
+            "id": 25024,
+            "name": "V.Bonich",
+            "resource_uri": "/api/v1/location/25024/"
+          },
+          {
+            "id": 25025,
+            "name": "Villa Libertad",
+            "resource_uri": "/api/v1/location/25025/"
+          },
+          {
+            "id": 25026,
+            "name": "V.Lynch",
+            "resource_uri": "/api/v1/location/25026/"
+          },
+          {
+            "id": 25027,
+            "name": "V.Maipu",
+            "resource_uri": "/api/v1/location/25027/"
+          },
+          {
+            "id": 25028,
+            "name": "V.Piaggio",
+            "resource_uri": "/api/v1/location/25028/"
+          },
+          {
+            "id": 25029,
+            "name": "V.Progreso",
+            "resource_uri": "/api/v1/location/25029/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | San Martin",
+        "id": 25014,
+        "name": "San Martin",
+        "parent_division": "/api/v1/location/25013/",
+        "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
+        "state": null,
+        "type": "Localidad",
+        "weight": 1624,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 2,
+          "operation_type": "Alquiler",
+          "prices": [
+            {
+              "currency": "ARS",
+              "is_promotional": false,
+              "period": 0,
+              "price": 750000
+            }
+          ]
+        }
+      ],
+      "orientation": null,
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/42901635936742372653802112338088939277891933494297514351851861327231738655822.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/42901635936742372653802112338088939277891933494297514351851861327231738655822.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/44624095_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/42901635936742372653802112338088939277891933494297514351851861327231738655822_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_4277906293575751669372858169121534180079409226889247728737115808700791274500.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_4277906293575751669372858169121534180079409226889247728737115808700791.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_4277906293575751669372858169121534180079409226889247728737115808700791274500_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_4277906293575751669372858169121534180079409226889247728737115808700791274500_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_69064560694423113494933832855063992366778235735789187386181573309758025083448.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_6906456069442311349493383285506399236677823573578918738618157330975802.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_69064560694423113494933832855063992366778235735789187386181573309758025083448_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_69064560694423113494933832855063992366778235735789187386181573309758025083448_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_83563545771610527327873014731002836040664133232396190276549862043918882203881.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_8356354577161052732787301473100283604066413323239619027654986204391888.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_83563545771610527327873014731002836040664133232396190276549862043918882203881_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_83563545771610527327873014731002836040664133232396190276549862043918882203881_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_83769922670172498645630906429147877509056976573002440017882053126998502334974.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_8376992267017249864563090642914787750905697657300244001788205312699850.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_83769922670172498645630906429147877509056976573002440017882053126998502334974_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_83769922670172498645630906429147877509056976573002440017882053126998502334974_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_18180494422884469020918128134482038440961685033195318647980004539196171565411.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_1818049442288446902091812813448203844096168503319531864798000453919617.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_18180494422884469020918128134482038440961685033195318647980004539196171565411_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_18180494422884469020918128134482038440961685033195318647980004539196171565411_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_112298453122764229288039659059042631630449273406435083557748113421424113669529.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_1122984531227642292880396590590426316304492734064350835577481134214241.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_112298453122764229288039659059042631630449273406435083557748113421424113669529_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_112298453122764229288039659059042631630449273406435083557748113421424113669529_th.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_9854941771950183059560547274184450989518676227026537418377916141653755975192.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_9854941771950183059560547274184450989518676227026537418377916141653755.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_9854941771950183059560547274184450989518676227026537418377916141653755975192_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_9854941771950183059560547274184450989518676227026537418377916141653755975192_thum.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_12119993406161986382290958971467821209415716419882998832476319465605122067358.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_1211999340616198638229095897146782120941571641988299883247631946560512.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_12119993406161986382290958971467821209415716419882998832476319465605122067358_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_12119993406161986382290958971467821209415716419882998832476319465605122067358_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_30969883203853287507165748910977837492180941580955494418165081951636756992501.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_3096988320385328750716574891097783749218094158095549441816508195163675.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_30969883203853287507165748910977837492180941580955494418165081951636756992501_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_30969883203853287507165748910977837492180941580955494418165081951636756992501_thu.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/4048617_28368106568723565438332690494019146652480129151886299925930972927829851681274.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/4048617_2836810656872356543833269049401914665248012915188629992593097292782985.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/4048617_28368106568723565438332690494019146652480129151886299925930972927829851681274_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/4048617_28368106568723565438332690494019146652480129151886299925930972927829851681274_thu.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "",
+        "email": "Hernan@dinalpropiedades.com",
+        "id": 12882,
+        "name": "Hernán",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/static/img/user.png",
+        "position": ""
+      },
+      "property_condition": "Excelente",
+      "public_url": "https://ficha.info/p/eq9orddvWiC6pa",
+      "publication_title": "Departamento 2 ambientes en alquiler - San Martín",
+      "quality_level": null,
+      "real_address": "ALQUILER Cerrito 2285 - 7B - San Martin",
+      "reference_code": "DAP4048617",
+      "rich_description": "                                                        <p><span style=\"font-weight: bold;\">Alquiler - Departamento 2 Ambientes en Excelente Ubicación</span></p><p><span style=\"font-weight: bold;\"><br></span></p><p></p><div>*Ubicación: A 3 cuadras del centro comercial, 6 cuadras de la estación San Martín (línea Mitre), 2 cuadras de Av. 25 de Mayo, con acceso rápido a Gral. Paz. Varias líneas de colectivo en la zona.</div><div><br></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px; font-weight: bold; text-decoration-line: underline;\">* Características principales:</span></div><div><br></div><div>Ubicación: Séptimo piso</div><div>Living comedor: Amplio, con salida al balcón</div><div>Cocina integrada: Con muebles alto y bajo mesada.</div><div>Baño completo: Con bañera</div><div>Dormitorio: Con placard de piso a techo, también con salida al balcón</div><div><br></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">REQUISITOS:</span></div><div>Ajuste Trimestral por IPC</div><div>Garantía: Fianza</div><div>Mascotas: No se permite&nbsp;</div><div>Contrato por dos años</div><div><div>Disponibilidad: Ingreso el 1° Diciembre</div><div><br></div></div><div><br></div><div><br></div><div> ¡Consultanos y agenda tu visita!</div><div><br></div><div><br></div><p></p><br>        <br>        <br><br>            \r\n\r\n            ",
+      "roofed_surface": "45.00",
+      "room_amount": 2,
+      "semiroofed_surface": "7.00",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 1,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcón",
+          "type": 2
+        },
+        {
+          "id": 11,
+          "name": "Baulera",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Cocina",
+          "type": 2
+        },
+        {
+          "id": 20,
+          "name": "Lavadero",
+          "type": 2
+        },
+        {
+          "id": 22,
+          "name": "Living comedor",
+          "type": 2
+        },
+        {
+          "id": 46,
+          "name": "Apto mascotas",
+          "type": 3
+        },
+        {
+          "id": 1390,
+          "name": "Luminoso",
+          "type": 3
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "52.00",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2021-11-01T18:03:12",
+      "enhanced_description": "<h3>Ubicación</h3>\n<p>A 3 cuadras del centro comercial, 6 cuadras de la estación San Martín (línea Mitre), 2 cuadras de Av. 25 de Mayo, con acceso rápido a Gral. Paz. Varias líneas de colectivo en la zona.</p>\n\n<h3>Características principales</h3>\n<ul>\n<li>Séptimo piso</li>\n<li>Living comedor amplio con salida al balcón</li>\n<li>Cocina integrada con muebles alto y bajo y mesada</li>\n<li>Baño completo con bañera</li>\n<li>Dormitorio con placard de piso a techo y salida al balcón</li>\n</ul>\n\n<h3>Requisitos</h3>\n<ul>\n<li>Ajuste trimestral por IPC</li>\n<li>Garantía: Fianza</li>\n<li>Mascotas: No se permite</li>\n<li>Contrato por dos años</li>\n<li>Disponibilidad: Ingreso el 1 de diciembre</li>\n</ul>"
+    },
+    {
       "address": "25 de mayo al 2000",
       "address_complement": "",
       "age": 25,
@@ -21348,7 +21806,7 @@
       "enhanced_description": "<h3>Casa 3 Ambientes – Villa Ballester</h3>\n\n<h3>Ubicación estratégica</h3>\n<ul>\n<li>Aristóbulo del Valle, entre Caseros y Ensenada</li>\n<li>Zona residencial cercana a comercios y transporte</li>\n</ul>\n\n<h3>Características de la propiedad – Planta baja</h3>\n<ul>\n<li>Estar y comedor diario</li>\n<li>Cocina con muebles bajos, alacenas y barra desayunadora</li>\n<li>2 amplios dormitorios con placard</li>\n<li>Baño completo</li>\n<li>Lavadero cubierto</li>\n<li>Patio con parrilla</li>\n</ul>\n\n<p>Casa en muy buen estado, funcional y lista para habitar, ideal para familia.</p>"
     },
     {
-      "address": "ALQUILER - San Lorenzo 2550 9°C  - San Martin",
+      "address": "ALQUILER - Mitre 3565 9°C - San Martin",
       "address_complement": "",
       "age": 3,
       "apartment_door": "",
@@ -21389,7 +21847,7 @@
       "credit_eligible": "No especificado",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-11-13T14:54:23",
+      "deleted_at": "2026-11-24T19:05:25",
       "depth_measure": "0.00",
       "description": "                ALQUILER - DEPARTAMENTO DE 2 AMBIENTES CON DOBLE BALCÓN Y PARRILLA\n\nExcelente departamento de 2 ambientes al contrafrente, ubicado en un importante edificio de San Martín.\nLa propiedad cuenta con un amplio y luminoso living comedor con salida a balcón corrido con parrilla. Cocina integrada, equipada con muebles bajo mesada y alacenas, y espacio destinado para lavarropas.Dispone de un cómodo dormitorio con placard de frente integral y salida a un segundo balcón privado. Además, cuenta con baño completo con ducha.\n\nUbicación: Mitre 3565, entre Cerrito y Salguero, San Martín.\nExcelente ubicación, a pocos metros de la plaza y cercano a comercios, medios de transporte y principales puntos de interés de la zona.\n\n\n\nRequisitos Alquiler :\n*- Contrato por dos años*- Ajuste Trimestral por IPC *- Mascotas: Pequeña*- Garantía : Fianza         \n\n\r\n\r\n            ",
       "development": null,
@@ -21399,7 +21857,7 @@
       "down_payment": "0.00",
       "expenses": 140000,
       "extra_attributes": [],
-      "fake_address": "ALQUILER - San Lorenzo 2550 9°C  - San Martin",
+      "fake_address": "ALQUILER - Mitre 3565 9°C - San Martin",
       "files": [],
       "fire_insurance_cost": "0.00",
       "floor": "",
@@ -21796,7 +22254,7 @@
       "public_url": "https://ficha.info/p/erOm2ddvWiXAIa",
       "publication_title": "Departamento en venta de 2 ambientes a ESTRENAR San Martín",
       "quality_level": null,
-      "real_address": "ALQUILER - San Lorenzo 2550 9°C - San Martin",
+      "real_address": "ALQUILER - Mitre 3565 9°C - San Martin",
       "reference_code": "DAP4206134",
       "rich_description": "                <p><span style=\"font-size: 14px; font-weight: bold;\">ALQUILER - DEPARTAMENTO DE 2 AMBIENTES CON DOBLE BALCÓN Y PARRILLA</span></p><div><br></div><div>Excelente departamento de 2 ambientes al contrafrente, ubicado en un importante edificio de San Martín.</div><div><br></div><div>La propiedad cuenta con un amplio y luminoso living comedor con salida a balcón corrido con parrilla. Cocina integrada, equipada con muebles bajo mesada y alacenas, y espacio destinado para lavarropas.</div><div><span style=\"font-size: 14px;\">Dispone de un cómodo dormitorio con placard de frente integral y salida a un segundo balcón privado. Además, cuenta con baño completo con ducha.</span></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Ubicación: Mitre 3565, entre Cerrito y Salguero, San Martín.</span></div><div><br></div><div>Excelente ubicación, a pocos metros de la plaza y cercano a comercios, medios de transporte y principales puntos de interés de la zona.</div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\"><br></span></div><div><span style=\"font-weight: bold;\">Requisitos Alquiler :</span></div><div><br></div><div>*- Contrato por dos años</div><div>*- Ajuste Trimestral por IPC&nbsp;</div><div>*- Mascotas: Pequeña</div><div>*- Garantía : Fianza&nbsp;</div><p>        </p><div><br></div>\r\n\r\n            ",
       "roofed_surface": "42.30",
@@ -21881,7 +22339,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2022-02-09T17:46:41",
+      "_last_changed": "2026-11-25T16:34:23.424Z",
       "enhanced_description": "<h3>Descripción de la Propiedad</h3>\n<p>Excelente departamento de 2 ambientes al contrafrente, ubicado en un importante edificio de San Martín.</p>\n\n<h3>Ambientes</h3>\n<ul>\n<li>Amplio y luminoso living comedor con salida a balcón corrido con parrilla</li>\n<li>Cocina integrada equipada con muebles bajo mesada y alacenas</li>\n<li>Espacio destinado para lavarropas</li>\n<li>Cómodo dormitorio con placard de frente integral y salida a segundo balcón privado</li>\n<li>Baño completo con ducha</li>\n</ul>\n\n<h3>Ubicación</h3>\n<p>Mitre 3565, entre Cerrito y Salguero, San Martín.</p>\n<p>Excelente ubicación, a pocos metros de la plaza y cercano a comercios, medios de transporte y principales puntos de interés de la zona.</p>\n\n<h3>Requisitos de Alquiler</h3>\n<ul>\n<li>Contrato por dos años</li>\n<li>Ajuste trimestral por IPC</li>\n<li>Mascotas: pequeña</li>\n<li>Garantía: fianza</li>\n</ul>"
     },
     {
@@ -48641,6 +49099,588 @@
       "zonification": "",
       "_last_changed": "2026-11-12T14:23:18.460Z",
       "enhanced_description": "<h3>Departamento de 2 Ambientes en Alquiler</h3>\n\n<p>Moderno y funcional departamento de 2 ambientes, ideal para quienes buscan comodidad, practicidad y un espacio bien distribuido para disfrutar todos los días.</p>\n\n<h3>Características Principales</h3>\n\n<ul>\n<li>Cocina independiente, equipada con muebles bajo mesada y alacenas</li>\n<li>Amplio living comedor, luminoso y confortable, ideal para relajarse y compartir momentos</li>\n<li>Dormitorio con placard, con práctico espacio de guardado</li>\n<li>Baño completo, funcional y cómodo</li>\n<li>Balcón</li>\n<li>Lavadero integrado, que aporta practicidad al día a día</li>\n</ul>\n\n<h3>Requisitos</h3>\n\n<ul>\n<li>Ajuste trimestral por ICL</li>\n<li>Contrato por 2 años</li>\n<li>No se permiten mascotas</li>\n<li>Garantía: Propietaria o Fianza</li>\n</ul>\n\n<p>Una excelente opción para quienes buscan un departamento cómodo, moderno y funcional. No dejes pasar esta oportunidad. Contactanos para recibir más información y coordinar una visita.</p>"
+    },
+    {
+      "address": "Rivadavia  al 3869 4°",
+      "address_complement": "",
+      "age": 3,
+      "apartment_door": "",
+      "appartments_per_floor": 4,
+      "bathroom_amount": 1,
+      "block_number": "",
+      "branch": {
+        "address": "Alte Brown 3295",
+        "alternative_phone": "77170405",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De Lun a Vie de 10 a 13  y de 14 a 18.30",
+        "created_date": "2018-11-23T15:14:30",
+        "deleted_at": null,
+        "display_name": "Dinal",
+        "email": "info@dinalpropiedades.com",
+        "geo_lat": "-34.554152901810376",
+        "geo_long": "-58.56033015478516",
+        "gm_location_type": "BY_HAND",
+        "id": 7883,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/branch_logos/7883/px%20(1).jpg",
+        "name": "Villa Ballester",
+        "pdf_footer_text": "",
+        "phone": "77170405",
+        "phone_area": "011",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "building": "",
+      "cleaning_tax": "0.00",
+      "common_area": "0.00",
+      "covered_parking_lot": 0,
+      "created_at": "2024-10-29T14:22:59",
+      "credit_eligible": "No especificado",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2026-11-24T18:40:31",
+      "depth_measure": "0.00",
+      "description": "                Departamento de 2 ambientes con parrilla en alquiler\nDescubrí este cómodo y luminoso departamento de 2 ambientes, ideal para quienes buscan confort, funcionalidad.-\nCaracterísticas:\n* Cocina equipada con muebles bajo mesada y alacenas.* Baño completo de diseño moderno.* Living-comedor integrado, cómodo y luminoso.* Dormitorio con amplio placard. * Balcón corrido con parrilla propia, ideal para reuniones y momentos de relax.\nUna excelente opción para quienes buscan un hogar práctico, moderno y bien ubicado.\n\n\nCondiciones:\n* Contrato por 2 años.* Ajuste trimestral por ICL.* Garantía: fianza.* No se aceptan mascotas.\n\nDisponible a partir del 1 de Enero. \n¡Consúltanos para recibir más información y coordinar una visita!\n        \n\n            \r\n\r\n            ",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "dining_room": 0,
+      "disposition": "Contrafrente",
+      "down_payment": "0.00",
+      "expenses": 110000,
+      "extra_attributes": [],
+      "fake_address": "Rivadavia  al 3869 4°",
+      "files": [],
+      "fire_insurance_cost": "0.00",
+      "floor": "",
+      "floors_amount": 8,
+      "front_measure": "0.00",
+      "geo_lat": "-34.5748721192",
+      "geo_long": "-58.5422369856",
+      "gm_location_type": "BY_HAND",
+      "guests_amount": 0,
+      "has_temporary_rent": false,
+      "id": 6529258,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [
+          {
+            "cellphone": "5491164806385",
+            "email": "Carmen@dinalpropiedades.com",
+            "id": 12880,
+            "name": "María Del Carmen Turlá",
+            "phone": "",
+            "picture": "https://static.tokkobroker.com/userprofile/pictures/profile_picture-12880-253cba9c7d493433e8af1b720df66db9.jpeg",
+            "position": ""
+          }
+        ],
+        "internal_comments": "DISPONIBLE A PARTIR DEL 1 DE SEPTIEMBRE",
+        "key_location": "Owner",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "0.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": " 54 9 11 6189-4978",
+            "created_at": "2018-12-10T20:07:11",
+            "document_number": "",
+            "email": "",
+            "id": 7567308,
+            "name": "Prote",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2024-11-22T14:22:54",
+            "work_email": ""
+          },
+          {
+            "birthdate": null,
+            "cellphone": " 541141667603",
+            "created_at": "2026-07-07T14:21:53",
+            "document_number": "",
+            "email": "",
+            "id": 65385914,
+            "name": "Karina Trentini",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2026-07-07T14:21:53",
+            "work_email": ""
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "iptu": 0,
+      "iptu_type": "No informado",
+      "is_denounced": false,
+      "is_starred_on_web": false,
+      "lead_receiver_user": {
+        "cellphone": "",
+        "email": "sabrina@dinalpropiedades.com",
+        "id": 69093,
+        "name": "Sabrina Campagna",
+        "phone": "1140225101",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "legally_checked": "Desconocido",
+      "links": [],
+      "livable_area": "0.00",
+      "living_amount": 0,
+      "location": {
+        "divisions": [
+          {
+            "id": 25015,
+            "name": "B.San Martin",
+            "resource_uri": "/api/v1/location/25015/"
+          },
+          {
+            "id": 25016,
+            "name": "Billinghurst",
+            "resource_uri": "/api/v1/location/25016/"
+          },
+          {
+            "id": 25017,
+            "name": "L.Hermosa",
+            "resource_uri": "/api/v1/location/25017/"
+          },
+          {
+            "id": 25018,
+            "name": "Lourdes",
+            "resource_uri": "/api/v1/location/25018/"
+          },
+          {
+            "id": 25019,
+            "name": "Migueletes",
+            "resource_uri": "/api/v1/location/25019/"
+          },
+          {
+            "id": 25020,
+            "name": "P.Suhr Horeis",
+            "resource_uri": "/api/v1/location/25020/"
+          },
+          {
+            "id": 25021,
+            "name": "S.Andres",
+            "resource_uri": "/api/v1/location/25021/"
+          },
+          {
+            "id": 25022,
+            "name": "S.Martin(Ctro)",
+            "resource_uri": "/api/v1/location/25022/"
+          },
+          {
+            "id": 25023,
+            "name": "Tropezon",
+            "resource_uri": "/api/v1/location/25023/"
+          },
+          {
+            "id": 25024,
+            "name": "V.Bonich",
+            "resource_uri": "/api/v1/location/25024/"
+          },
+          {
+            "id": 25025,
+            "name": "Villa Libertad",
+            "resource_uri": "/api/v1/location/25025/"
+          },
+          {
+            "id": 25026,
+            "name": "V.Lynch",
+            "resource_uri": "/api/v1/location/25026/"
+          },
+          {
+            "id": 25027,
+            "name": "V.Maipu",
+            "resource_uri": "/api/v1/location/25027/"
+          },
+          {
+            "id": 25028,
+            "name": "V.Piaggio",
+            "resource_uri": "/api/v1/location/25028/"
+          },
+          {
+            "id": 25029,
+            "name": "V.Progreso",
+            "resource_uri": "/api/v1/location/25029/"
+          }
+        ],
+        "full_location": "Argentina | G.B.A. Zona Norte | General San Martin | San Martin",
+        "id": 25014,
+        "name": "San Martin",
+        "parent_division": "/api/v1/location/25013/",
+        "short_location": "G.B.A. Zona Norte | General San Martin | San Martin",
+        "state": null,
+        "type": "Localidad",
+        "weight": 1624,
+        "zip_code": null
+      },
+      "location_level": null,
+      "lot_number": "",
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 2,
+          "operation_type": "Alquiler",
+          "prices": [
+            {
+              "currency": "ARS",
+              "is_promotional": false,
+              "period": 0,
+              "price": 850000
+            }
+          ]
+        }
+      ],
+      "orientation": "Noreste",
+      "parking_lot_amount": 0,
+      "parking_lot_condition": null,
+      "parking_lot_type": null,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_12297564960756410652485526872649525795441280593987508214154376515550930064739.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_12297564960756410652485526872649525795441280593987508214154376515550930064739.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/89813761_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_12297564960756410652485526872649525795441280593987508214154376515550930064739_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_95394390493604076270966106106584277850038781725693256724468904192569219885228.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_95394390493604076270966106106584277850038781725693256724468904192569219885228.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/89813770_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_95394390493604076270966106106584277850038781725693256724468904192569219885228_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_21003790276778910927153109790983645474597755275291309883208225822258616423906.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_21003790276778910927153109790983645474597755275291309883208225822258616423906.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/89813799_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_21003790276778910927153109790983645474597755275291309883208225822258616423906_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_38097100368294747304655863289181154603538212148687258456851332497602072981122.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_38097100368294747304655863289181154603538212148687258456851332497602072981122.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_38097100368294747304655863289181154603538212148687258456851332497602072981122_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_75523748592723822311946448733464903528281424310654372556158353890744828243966.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_75523748592723822311946448733464903528281424310654372556158353890744828243966.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_75523748592723822311946448733464903528281424310654372556158353890744828243966_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_33846788992812439565572675309457530214299892205391446254723627923003286562647.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_33846788992812439565572675309457530214299892205391446254723627923003286562647.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_33846788992812439565572675309457530214299892205391446254723627923003286562647_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_105871852055806929916375764302945492767189533889949500728373807467114777167420.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_105871852055806929916375764302945492767189533889949500728373807467114777167420.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_105871852055806929916375764302945492767189533889949500728373807467114777167420_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_81004268155981430857575395826477635133908998450334157716652483296097190967796.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_81004268155981430857575395826477635133908998450334157716652483296097190967796.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_81004268155981430857575395826477635133908998450334157716652483296097190967796_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_72746795175207767375371859509447968789474986832222338516364337542605782130729.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_72746795175207767375371859509447968789474986832222338516364337542605782130729.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_72746795175207767375371859509447968789474986832222338516364337542605782130729_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_101134651499253650140375607051182996992520215722933341353185267688212389625580.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_101134651499253650140375607051182996992520215722933341353185267688212389625580.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_101134651499253650140375607051182996992520215722933341353185267688212389625580_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_100050883094796094117786159313847059492803097895242848837528970998463062483690.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_100050883094796094117786159313847059492803097895242848837528970998463062483690.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_100050883094796094117786159313847059492803097895242848837528970998463062483690_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_66574015656321668775751359582461961752565096825505658172990275669919590255546.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_66574015656321668775751359582461961752565096825505658172990275669919590255546.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_66574015656321668775751359582461961752565096825505658172990275669919590255546_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_96011987171117109531299045208202265350981224974509433719920559380705774990679.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 12,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_96011987171117109531299045208202265350981224974509433719920559380705774990679.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_96011987171117109531299045208202265350981224974509433719920559380705774990679_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_48987828415561382999937253395235532434594254984558644897215557612960165029558.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 13,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_48987828415561382999937253395235532434594254984558644897215557612960165029558.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_48987828415561382999937253395235532434594254984558644897215557612960165029558_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_50266588667592221918528638393767683928563564147978374700265816078953936768022.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 14,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_50266588667592221918528638393767683928563564147978374700265816078953936768022.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_50266588667592221918528638393767683928563564147978374700265816078953936768022_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_24501570249920615463125415580238502048746531750680080993752855339012891381853.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 15,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_24501570249920615463125415580238502048746531750680080993752855339012891381853.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_24501570249920615463125415580238502048746531750680080993752855339012891381853_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_66404345409779773961081513418422527774066709687549006674071295082004252171507.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 16,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_66404345409779773961081513418422527774066709687549006674071295082004252171507.jpg",
+          "social_media_url": "https://static.tokkobroker.com/sm_pics/89813729_og.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_66404345409779773961081513418422527774066709687549006674071295082004252171507_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_36648209820442244586546006721918832416077973086369164820528281432907937361070.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 17,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_36648209820442244586546006721918832416077973086369164820528281432907937361070.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_36648209820442244586546006721918832416077973086369164820528281432907937361070_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_26795042787729010946471436319821123963961329999900091911858906575386578363753.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 18,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_26795042787729010946471436319821123963961329999900091911858906575386578363753.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_26795042787729010946471436319821123963961329999900091911858906575386578363753_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/pictures/6529258_23709696907668676397607370501303557180104641091260261091581085440285650915150.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 19,
+          "original": "https://static.tokkobroker.com/original_pictures/6529258_23709696907668676397607370501303557180104641091260261091581085440285650915150.jpg",
+          "social_media_url": null,
+          "thumb": "https://static.tokkobroker.com/thumbs/6529258_23709696907668676397607370501303557180104641091260261091581085440285650915150_thumb.jpg"
+        }
+      ],
+      "portal_footer": "",
+      "private_area": "0.00",
+      "producer": {
+        "cellphone": "",
+        "email": "sabrina@dinalpropiedades.com",
+        "id": 69093,
+        "name": "Sabrina Campagna",
+        "phone": "1140225101",
+        "picture": "https://static.tokkobroker.com/static/img/user_disabled.png",
+        "position": ""
+      },
+      "property_condition": "Excelente",
+      "public_url": "https://ficha.info/p/eByIMdr8znIsga",
+      "publication_title": "Departamento en alquiler de 2 ambientes en San Martín",
+      "quality_level": null,
+      "real_address": "ALQUILER - Rivadavia  3869 4°D - San Martin",
+      "reference_code": "DAP6529258",
+      "rich_description": "<span style=\"font-weight: bold;\">                Departamento de 2 ambientes con parrilla en alquiler</span><div><br></div><div>Descubrí este cómodo y luminoso departamento de 2 ambientes, ideal para quienes buscan confort, funcionalidad.-</div><div><br></div><div><span style=\"font-weight: bold;\">Características:</span></div><div><br></div><div>* Cocina equipada con muebles bajo mesada y alacenas.</div><div>* Baño completo de diseño moderno.</div><div>* Living-comedor integrado, cómodo y luminoso.</div><div>* Dormitorio con amplio placard.&nbsp;</div><div>* Balcón corrido con parrilla propia, ideal para reuniones y momentos de relax.</div><div><br></div><div><span style=\"font-weight: bold;\">Una excelente opción para quienes buscan un hogar práctico, moderno y bien ubicado.</span><br><br class=\"Apple-interchange-newline\"></div><div><br></div><div><br></div><div><span style=\"font-weight: bold;\">Condiciones:</span></div><div><br></div><div>* Contrato por 2 años.</div><div>* Ajuste trimestral por ICL.</div><div>* Garantía: fianza.</div><div>* No se aceptan mascotas.</div><div><br></div><div><br></div><div>Disponible a partir del 1 de Enero.&nbsp;</div><div><br></div><div>¡Consúltanos para recibir más información y coordinar una visita!</div><div><br></div>        <br><br>            \r\n\r\n            ",
+      "roofed_surface": "42.00",
+      "room_amount": 2,
+      "semiroofed_surface": "8.50",
+      "seo_description": "",
+      "seo_keywords": "",
+      "situation": "---",
+      "status": 2,
+      "suite_amount": 1,
+      "suites_with_closets": 0,
+      "surface": "0.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Agua Corriente",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Cloaca",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Gas Natural",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricidad",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavimento",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcón",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Cocina",
+          "type": 2
+        },
+        {
+          "id": 22,
+          "name": "Living comedor",
+          "type": 2
+        },
+        {
+          "id": 25,
+          "name": "Terraza",
+          "type": 2
+        },
+        {
+          "id": 35,
+          "name": "Parrilla",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Preinstalación de aire acondicionado",
+          "type": 3
+        },
+        {
+          "id": 931,
+          "name": "Potencial alto para alquilar",
+          "type": 9
+        },
+        {
+          "id": 1390,
+          "name": "Luminoso",
+          "type": 3
+        },
+        {
+          "id": 1443,
+          "name": "Agua Potable",
+          "type": 1
+        },
+        {
+          "id": 1573,
+          "name": "Alumbrado público",
+          "type": 1
+        }
+      ],
+      "toilet_amount": 0,
+      "total_area": "0.00",
+      "total_suites": 0,
+      "total_surface": "50.50",
+      "transaction_requirements": "",
+      "tv_rooms": 0,
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Departamento"
+      },
+      "uncovered_parking_lot": 0,
+      "unroofed_surface": "0.00",
+      "videos": [
+        {
+          "description": "",
+          "id": 1178256,
+          "order": 1,
+          "player_url": "https://www.youtube.com/embed/pZcbeRbmdP4",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "Obra Finalizada",
+          "url": "https://www.youtube.com/watch?v=pZcbeRbmdP4",
+          "video_id": "pZcbeRbmdP4"
+        }
+      ],
+      "web_price": true,
+      "zip_code": null,
+      "zonification": "",
+      "_last_changed": "2024-10-29T14:22:59",
+      "enhanced_description": "<h3>Departamento de 2 ambientes con parrilla</h3>\n\n<p>Descubrí este cómodo y luminoso departamento de 2 ambientes, ideal para quienes buscan confort y funcionalidad.</p>\n\n<h3>Características</h3>\n<ul>\n<li>Cocina equipada con muebles bajo mesada y alacenas</li>\n<li>Baño completo de diseño moderno</li>\n<li>Living-comedor integrado, cómodo y luminoso</li>\n<li>Dormitorio con amplio placard</li>\n<li>Balcón corrido con parrilla propia, ideal para reuniones y momentos de relax</li>\n</ul>\n\n<p>Una excelente opción para quienes buscan un hogar práctico, moderno y bien ubicado.</p>\n\n<h3>Condiciones</h3>\n<ul>\n<li>Contrato por 2 años</li>\n<li>Ajuste trimestral por ICL</li>\n<li>Garantía: fianza</li>\n<li>No se aceptan mascotas</li>\n</ul>\n\n<p>Disponible a partir del 1 de Enero.</p>\n\n<p>Consúltanos para recibir más información y coordinar una visita.</p>"
     },
     {
       "address": "Yapeyú al 1900 1°",
@@ -115334,7 +116374,7 @@
       "credit_eligible": "Apto crédito",
       "custom1": "0.00",
       "custom_tags": [],
-      "deleted_at": "2026-10-27T13:57:39",
+      "deleted_at": "2026-11-24T21:10:11",
       "depth_measure": "34.64",
       "description": "",
       "development": null,
@@ -115561,7 +116601,7 @@
               "currency": "USD",
               "is_promotional": false,
               "period": 0,
-              "price": 110000
+              "price": 105000
             }
           ]
         }
@@ -115725,7 +116765,7 @@
       "web_price": true,
       "zip_code": null,
       "zonification": "",
-      "_last_changed": "2026-11-12T14:23:18.460Z",
+      "_last_changed": "2026-11-25T16:34:23.424Z",
       "enhanced_description": ""
     },
     {
